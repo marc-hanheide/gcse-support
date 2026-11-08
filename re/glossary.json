@@ -1,0 +1,872 @@
+[
+{
+"group": "Christianity",
+"term": "Ascension",
+"def": "Going or being taken up; the event forty days after the resurrection when Jesus returned to glory in heaven."
+},
+{
+"group": "Christianity",
+"term": "Atonement",
+"def": "Making amends or payment for a wrong. The belief that reconciliation between God and humanity that was brought about by the death of Jesus as a sacrifice."
+},
+{
+"group": "Christianity",
+"term": "Baptism",
+"def": "The sacrament through which people become members of the Church. It involves the use of water as a symbol of the washing away of sin."
+},
+{
+"group": "Christianity",
+"term": "Believers' baptism",
+"def": "Initiation into the Church, by immersion in water, of people old enough to understand the ceremony/rite and who have made the decision to live a Christian life."
+},
+{
+"group": "Christianity",
+"term": "Bible",
+"def": "Source of wisdom and authority; a holy book containing both the Old and New Testaments."
+},
+{
+"group": "Christianity",
+"term": "Catholic",
+"def": "The tradition within the Christian Church which is led by the Pope; also called the Roman Catholic Church. (Note: The term 'catholic' refers to the communion of all Christians, the universal Church, although it is not a term included on this specification)."
+},
+{
+"group": "Christianity",
+"term": "Catholic Agency for Overseas Development (CAFOD)",
+"def": "A Christian charity that provides emergency and long-term aid to the developing world."
+},
+{
+"group": "Christianity",
+"term": "Christ",
+"def": "Literally means 'Anointed One' in Greek; the Hebrew equivalent is Messiah. The leader promised by God to the Jews; Christians believe Jesus to be the Christ."
+},
+{
+"group": "Christianity",
+"term": "Christian Aid",
+"def": "A Christian charity that provides emergency and long-term aid to the developing world."
+},
+{
+"group": "Christianity",
+"term": "Christmas",
+"def": "The festival/celebration to remember the birth of Jesus."
+},
+{
+"group": "Christianity",
+"term": "Church",
+"def": "The People of God/Body of Christ, among whom Christ is beloved to be present and active. Members of a particular Christian denomination/tradition, eg Roman Catholic, Methodist. A building in which Christians worship."
+},
+{
+"group": "Christianity",
+"term": "Creation",
+"def": "Bringing the world into existence; the belief that the world is God's loving creation."
+},
+{
+"group": "Christianity",
+"term": "Crucifixion",
+"def": "The death of Jesus; a form of the death penalty used by the Romans."
+},
+{
+"group": "Christianity",
+"term": "Easter",
+"def": "Festival/celebration of the resurrection of Jesus; the Easter season ends with Pentecost (50 days after Easter Sunday) which remembers the coming of the Holy Spirit to earth following the ascension."
+},
+{
+"group": "Christianity",
+"term": "Eucharist/Holy Communion",
+"def": "Literally 'thanksgiving'; a sacrament in which the death and resurrection of Jesus are celebrated, using bread and wine."
+},
+{
+"group": "Christianity",
+"term": "Evangelism",
+"def": "Preaching the gospel (the good news about God) to convert people to the Christian faith."
+},
+{
+"group": "Christianity",
+"term": "Evil",
+"def": "The opposite of good; a cause of suffering and against the will of God."
+},
+{
+"group": "Christianity",
+"term": "The Father",
+"def": "The first Person of the Trinity, the belief in God as creator and sustainer of the universe."
+},
+{
+"group": "Christianity",
+"term": "Food banks",
+"def": "Places in local communities where people in need can go to collect food; often run/supported by local churches and religious charities."
+},
+{
+"group": "Christianity",
+"term": "Grace",
+"def": "The unconditional and generous love that God shows to people who do not deserve it."
+},
+{
+"group": "Christianity",
+"term": "Heaven",
+"def": "Belief that after death Christians can enter a state of being with God for eternity."
+},
+{
+"group": "Christianity",
+"term": "Hell",
+"def": "Belief in a place of eternal suffering, or a state after death of being in separation from God."
+},
+{
+"group": "Christianity",
+"term": "Holy Spirit",
+"def": "The third Person of the Trinity; believed to be present with believers since Pentecost and active on earth."
+},
+{
+"group": "Christianity",
+"term": "Incarnation",
+"def": "Literally 'in flesh', or 'enfleshed;' belief that God took on human form in the person of Jesus."
+},
+{
+"group": "Christianity",
+"term": "Infant baptism",
+"def": "Sacrament of initiation of babies and young children into the Church."
+},
+{
+"group": "Christianity",
+"term": "Informal prayer",
+"def": "Spontaneous prayers spoken from the heart which are personal and unique to the person/people at the time."
+},
+{
+"group": "Christianity",
+"term": "Iona",
+"def": "Place of pilgrimage founded by St Columba in the fourth century."
+},
+{
+"group": "Christianity",
+"term": "Jesus",
+"def": "Believed by Christians to be the Son of God, he was a first century Jewish teacher living and travelling in Palestine/Israel."
+},
+{
+"group": "Christianity",
+"term": "Judgement",
+"def": "The belief that God will decides whether each person should receive eternal life or eternal punishment based on their earthly life."
+},
+{
+"group": "Christianity",
+"term": "Just",
+"def": "Fair or equal treatment, a state of justice. Belief about the nature of God as treating all people justly."
+},
+{
+"group": "Christianity",
+"term": "Liturgical worship",
+"def": "A church service which follows a set structure or ritual."
+},
+{
+"group": "Christianity",
+"term": "Law",
+"def": "Rules or commands which must be followed; the law of God is revealed in the Bible."
+},
+{
+"group": "Christianity",
+"term": "Lourdes",
+"def": "Place of pilgrimage where the Virgin Mary appeared to St Bernadette in a series of visions and it is claimed that miraculous healings have taken place."
+},
+{
+"group": "Christianity",
+"term": "Lord's Prayer",
+"def": "The prayer taught to the disciples by Jesus; also known as the 'Our Father' and widely said by Christians in both church services and privately."
+},
+{
+"group": "Christianity",
+"term": "Mission",
+"def": "Literally 'sent out'; the duty of Christians to spread the gospel (the good news about Jesus)."
+},
+{
+"group": "Christianity",
+"term": "Non-liturgical worship/informal worship",
+"def": "Service that does not follow a set text or ritual; sometimes spontaneous or charismatic."
+},
+{
+"group": "Christianity",
+"term": "Omnipotent",
+"def": "The belief that God is 'all powerful'."
+},
+{
+"group": "Christianity",
+"term": "The Oneness of God",
+"def": "The belief that God is one singular divine being (who can be manifest in the Three Persons of the Trinity)."
+},
+{
+"group": "Christianity",
+"term": "Original sin",
+"def": "Belief human nature is flawed, and that we all have the tendency to sin; traditional belief held by some Christians that this came from Adam & Eve's eating of the forbidden fruit as recorded in Genesis 3."
+},
+{
+"group": "Christianity",
+"term": "Orthodox",
+"def": "A denomination/tradition of the Church popular in some parts of Eastern Europe. There are two main Orthodox Churches - Greek and Russian."
+},
+{
+"group": "Christianity",
+"term": "Persecution",
+"def": "Facing hostility and ill-treatment; some Christians face punishment and death for practising their faith."
+},
+{
+"group": "Christianity",
+"term": "Pilgrimage",
+"def": "A religious journey to a holy site/sacred place, it is an act of worship and devotion."
+},
+{
+"group": "Christianity",
+"term": "Prayer",
+"def": "Communicating with God through words of praise, thanksgiving or confession, or requests for his help or guidance; listening to and speaking to God."
+},
+{
+"group": "Christianity",
+"term": "Private worship",
+"def": "A believer giving God praise and worship on their own."
+},
+{
+"group": "Christianity",
+"term": "Protestant",
+"def": "Christian denominations in which authority is generally based on the Bible, rather than Church tradition/teaching. (eg Anglican, Methodist, Baptist)."
+},
+{
+"group": "Christianity",
+"term": "Reconciliation",
+"def": "Making up and rebuilding relationships between two groups/sides after disagreement."
+},
+{
+"group": "Christianity",
+"term": "Resurrection",
+"def": "Being raised from the dead; the event three days after the crucifixion when it is believed that God raised Jesus from the dead. e the afterlife will take, referring to either physical or spiritual bodies."
+},
+{
+"group": "Christianity",
+"term": "Sacrament",
+"def": "The outward and visible sign of an invisible and spiritual grace. (eg Baptism and the Eucharist are recognised as sacraments by most Christians)."
+},
+{
+"group": "Christianity",
+"term": "Salvation",
+"def": "Being saved; belief that through God's grace, Jesus' death and resurrection brought about salvation for humanity. Saving of the soul and being able to enter eternal life in heaven."
+},
+{
+"group": "Christianity",
+"term": "Set prayers",
+"def": "These are prayers written throughout the centuries which many Christians worldwide use (eg The Lord's Prayer)."
+},
+{
+"group": "Christianity",
+"term": "Sin",
+"def": "Behaviour which is against God's laws and wishes/against Christian principles of morality."
+},
+{
+"group": "Christianity",
+"term": "The Son",
+"def": "The second Person of the Trinity; Jesus believed to be God incarnate."
+},
+{
+"group": "Christianity",
+"term": "Son of God",
+"def": "A title used for Jesus; the second Person of the Trinity. Shows the special relationship between Jesus and God."
+},
+{
+"group": "Christianity",
+"term": "Street pastors",
+"def": "A Christian organisation involving people working, mainly at night, on city streets giving care to those who need it."
+},
+{
+"group": "Christianity",
+"term": "Suffering",
+"def": "An effect of evil; undergoing pain and hardship."
+},
+{
+"group": "Christianity",
+"term": "Tearfund",
+"def": "A Christian charity that provides emergency and long-term aid to the developing world."
+},
+{
+"group": "Christianity",
+"term": "Trinity",
+"def": "The belief that God as One includes God also being manifest in three Persons: the Father, Son and Holy Spirit."
+},
+{
+"group": "Christianity",
+"term": "Word",
+"def": "In the Bible, John 1 describes God creating the world through his eternal Word. This links the eternal Word to Jesus in the statement: '”The Word was made flesh and dwelt among us” (John 1:14)."
+},
+{
+"group": "Christianity",
+"term": "Worship",
+"def": "Showing adoration and reverence; offering praise to God."
+},
+{
+"group": "Judaism",
+"term": "Abraham",
+"def": "Known as the father of the Jewish people. God made a covenant with him, promising him land and descendants."
+},
+{
+"group": "Judaism",
+"term": "The Amidah",
+"def": "The 'standing prayer'. Recited as part of public acts of worship in the synagogue."
+},
+{
+"group": "Judaism",
+"term": "Aron hakodesh (ark)",
+"def": "The holiest part of the synagogue containing the Torah scrolls."
+},
+{
+"group": "Judaism",
+"term": "Bar Mitzvah",
+"def": "Coming of age ceremony of boys aged 13. Literally \"Son of the Commandment\"."
+},
+{
+"group": "Judaism",
+"term": "Bat Mitzvah",
+"def": "Coming of age ceremony for girls aged 12. Literally \"Daughter of Commandment\"."
+},
+{
+"group": "Judaism",
+"term": "Bimah (reading platform)",
+"def": "The reading platform in a synagogue from which the Torah is read."
+},
+{
+"group": "Judaism",
+"term": "Brit Milah",
+"def": "Religious rite of circumcision, usually performed eight days after a boy's birth."
+},
+{
+"group": "Judaism",
+"term": "Charity",
+"def": "Key moral principle; giving to those in need. Hebrew term 'tzedakah' literally means 'justice' but used to refer to charity (because giving to those in need is part of promoting justice)."
+},
+{
+"group": "Judaism",
+"term": "The Covenant",
+"def": "A binding promise/agreement; God's agreement to look after his chosen people."
+},
+{
+"group": "Judaism",
+"term": "Creator",
+"def": "Part of the understanding of the nature of God; the belief that God created the world from nothing."
+},
+{
+"group": "Judaism",
+"term": "Dietary laws",
+"def": "The food laws that were given by God, found in the Torah. These rules relate to what may/may not be eaten, combinations of foods, and the preparation of food."
+},
+{
+"group": "Judaism",
+"term": "Divine presence (Shekhinah)",
+"def": "Belief that God is beyond human understanding but his presence may be experienced/known."
+},
+{
+"group": "Judaism",
+"term": "Free will",
+"def": "Humans are free to choose to do right or to do wrong, this freedom is a gift from God but comes with responsibility."
+},
+{
+"group": "Judaism",
+"term": "God as one",
+"def": "Part of the understanding of the nature of God; belief that there is only one God, monotheism. Reflected in the 1st Commandment “You shall have no other Gods before me.” (Exodus 20:3)"
+},
+{
+"group": "Judaism",
+"term": "Healing the world",
+"def": "Key moral principle related to making the world a better place (Hebrew 'tikkun olam')."
+},
+{
+"group": "Judaism",
+"term": "Judge",
+"def": "Part of the understanding of the nature of God; the belief that God is fair. God's justice incorporates both forgiveness and mercy."
+},
+{
+"group": "Judaism",
+"term": "Judgement",
+"def": "Part of beliefs about life after death; a Day of Judgement when God will judge the living and the dead."
+},
+{
+"group": "Judaism",
+"term": "Justice",
+"def": "Key moral principle; fairness in the way people are treated."
+},
+{
+"group": "Judaism",
+"term": "Kosher",
+"def": "Food that is 'clean' and that meets the requirements of the dietary laws."
+},
+{
+"group": "Judaism",
+"term": "Law-Giver",
+"def": "Part of the understanding of the nature of God; refers to God's giving of the Law to Moses on Mount Sinai."
+},
+{
+"group": "Judaism",
+"term": "Liberal Judaism",
+"def": "This is a form of progressive Judaism which seems to combine traditional beliefs and practices with modern interpretations."
+},
+{
+"group": "Judaism",
+"term": "Merciful",
+"def": "Part of the understanding of the nature of God; God as compassionate."
+},
+{
+"group": "Judaism",
+"term": "The Messiah",
+"def": "Literally 'the anointed one'. Orthodox Jews believe that the Messiah will be a human person sent by God to establish justice and peace on the earth. For Reform Jews, the Messiah is a symbolic figure."
+},
+{
+"group": "Judaism",
+"term": "Mitzvot",
+"def": "Mitzvot (singular is 'mitzvah') are the 613 Jewish commandments/rules found in the Tenakh."
+},
+{
+"group": "Judaism",
+"term": "Moses",
+"def": "The person through whom God set the Israelites free from slavery in Egypt, gave the Ten Commandments and made a covenant with Israel."
+},
+{
+"group": "Judaism",
+"term": "Mourning rituals",
+"def": "Refers to set practices that are carried out by Jews as a way of grieving for loved ones who have died."
+},
+{
+"group": "Judaism",
+"term": "Ner tamid (ever-burning light)",
+"def": "A feature of the synagogue; a light that is above and in front of the aron hakodesh, which burns constantly as a symbol of God's presence."
+},
+{
+"group": "Judaism",
+"term": "Orthodox Judaism",
+"def": "Jews who believe God gave the complete Torah to Moses and therefore live according to Jewish laws and traditions."
+},
+{
+"group": "Judaism",
+"term": "Pesach",
+"def": "Festival that celebrates the Jewish Exodus from Egypt, often called Passover."
+},
+{
+"group": "Judaism",
+"term": "Prayer",
+"def": "Communicating with God; listening to and speaking to God."
+},
+{
+"group": "Judaism",
+"term": "Reform Judaism",
+"def": "Jews who believe the Torah was inspired by God and was developed through their history - therefore laws may be changed or adapted as modern life changes."
+},
+{
+"group": "Judaism",
+"term": "Resurrection",
+"def": "Being raised from the dead; part of beliefs about life after death that in a future age the dead will rise and live again."
+},
+{
+"group": "Judaism",
+"term": "Rosh Hashanah",
+"def": "Festival celebrating the Jewish New Year. It is the start of the ten day period of High Holy Days that culminates in Yom Kippur."
+},
+{
+"group": "Judaism",
+"term": "Sanctity of human life",
+"def": "Belief that human life is a sacred/special because it is a precious gift from God."
+},
+{
+"group": "Judaism",
+"term": "'Saving a life' (Pikuach Nefesh)",
+"def": "This principle overrides all other religious laws because saving a human life should be of upmost importance in any situation."
+},
+{
+"group": "Judaism",
+"term": "Shabbat",
+"def": "The Sabbath/holy day of the week; beginning at sunset on Friday until sunset on Saturday."
+},
+{
+"group": "Judaism",
+"term": "Sinai",
+"def": "The mountain where Moses received the Law and where the covenant between God and Israel was made."
+},
+{
+"group": "Judaism",
+"term": "Synagogue",
+"def": "The place of public worship, also used for study and gathering. Literally means 'coming together'."
+},
+{
+"group": "Judaism",
+"term": "Talmud (oral law)",
+"def": "Source of authority; the law believed by Orthodox Jews to have been given to Moses but was not written down for many centuries, it was then expanded with rabbinic explanation/commentaries."
+},
+{
+"group": "Judaism",
+"term": "Tenakh (written law)",
+"def": "Holy book/source of authority; the Jewish scriptures. Includes into three parts: Torah (Law), Nevi'im (prophets) and Ketuvim (writings)."
+},
+{
+"group": "Judaism",
+"term": "The Ten Commandments",
+"def": "Source of authority; religious and moral rules that were given by God to Moses on Mount Sinai."
+},
+{
+"group": "Judaism",
+"term": "Trefah",
+"def": "Forbidden food - literally means 'torn'. It does not fulfil the Jewish dietary laws/is not kosher."
+},
+{
+"group": "Judaism",
+"term": "Yom Kippur",
+"def": "The Day of Atonement - a day of repentance and fasting on the tenth day after Rosh Hashanah. The holiest day of the Jewish year."
+},
+{
+"group": "Theme A",
+"term": "Compassion",
+"def": "Sympathy and concern for the suffering of others."
+},
+{
+"group": "Theme A",
+"term": "Contraception",
+"def": "Precautions taken to prevent pregnancy and to protect against contracting or transmitting STIs (sexually transmitted infections)."
+},
+{
+"group": "Theme A",
+"term": "Divorce",
+"def": "Legal ending of a marriage."
+},
+{
+"group": "Theme A",
+"term": "Extended family",
+"def": "Family unit comprising two parents and their children, but also grandparents, cousins etc."
+},
+{
+"group": "Theme A",
+"term": "Family planning",
+"def": "Planning when to have a family and how big a family to have by use of birth control practices and/or contraception."
+},
+{
+"group": "Theme A",
+"term": "Gender discrimination",
+"def": "Acting on prejudices against someone because of their gender."
+},
+{
+"group": "Theme A",
+"term": "Gender equality",
+"def": "Belief that all genders have equal status and value, so discrimination against any is wrong."
+},
+{
+"group": "Theme A",
+"term": "Gender prejudice",
+"def": "Negative thoughts, feelings or beliefs about a person or group based on their gender."
+},
+{
+"group": "Theme A",
+"term": "Heterosexuality",
+"def": "Being physically/sexually attracted to persons of the opposite gender."
+},
+{
+"group": "Theme A",
+"term": "Homosexuality",
+"def": "Being physically/sexually attracted to persons of the same gender."
+},
+{
+"group": "Theme A",
+"term": "Nuclear family",
+"def": "Family unit made up of two parents and their child(ren)."
+},
+{
+"group": "Theme A",
+"term": "Polygamy",
+"def": "The practice of having multiple spouses (wives and/or husbands)."
+},
+{
+"group": "Theme A",
+"term": "Procreation",
+"def": "Having a child; seen as a duty in many religions."
+},
+{
+"group": "Theme A",
+"term": "Remarriage",
+"def": "Marriage for the second time, after divorce ending an earlier marriage."
+},
+{
+"group": "Theme A",
+"term": "Vows",
+"def": "Promises made during a marriage ceremony."
+},
+{
+"group": "Theme B",
+"term": "Abortion",
+"def": "The deliberate ending of a pregnancy."
+},
+{
+"group": "Theme B",
+"term": "Afterlife",
+"def": "Beliefs about what happens to 'us' after our body has died; in many religions this relates to life after death or immortality in some form."
+},
+{
+"group": "Theme B",
+"term": "Animal experimentation",
+"def": "The use of animals for medical research and product testing."
+},
+{
+"group": "Theme B",
+"term": "Awe and Wonder",
+"def": "Sense of wonderment at nature; often linked to the feeling that God is involved/revealed through it."
+},
+{
+"group": "Theme B",
+"term": "Big Bang Theory",
+"def": "Scientific theory about the origins of the universe; belief that the universe began almost 14 billion years ago with a reaction of particles from a singularity followed by a process of inflation and expansion."
+},
+{
+"group": "Theme B",
+"term": "Death",
+"def": "The end of the physical, bodily life."
+},
+{
+"group": "Theme B",
+"term": "Dominion",
+"def": "Belief that humans have been given control/charge of the world."
+},
+{
+"group": "Theme B",
+"term": "Environment",
+"def": "The world around us; this can be made up natural or artificial surroundings."
+},
+{
+"group": "Theme B",
+"term": "Euthanasia",
+"def": "Assisting with the ending of life for a person who is terminally ill or has degenerative illness; often known as assisted suicide."
+},
+{
+"group": "Theme B",
+"term": "Evolution",
+"def": "Scientific theory of the development of species which involves a process of natural selection and survival of the fittest."
+},
+{
+"group": "Theme B",
+"term": "Natural resources",
+"def": "Resources which are found in nature - fossil fuels (eg coal, oil, natural gas), plants etc."
+},
+{
+"group": "Theme B",
+"term": "Pollution",
+"def": "Contamination of an environment with harmful substances."
+},
+{
+"group": "Theme B",
+"term": "Quality of life",
+"def": "The standard of health, comfort and happiness/fulfillment experienced by a person or group."
+},
+{
+"group": "Theme B",
+"term": "Responsibility",
+"def": "Having a duty or obligation to act in a certain way."
+},
+{
+"group": "Theme B",
+"term": "Sanctity of life",
+"def": "Belief that life is sacred/special because it was created by God, or because we are each unique individuals."
+},
+{
+"group": "Theme B",
+"term": "Scientific",
+"def": "Knowledge based on what can be observed (eg regularities in nature) and experimentation."
+},
+{
+"group": "Theme B",
+"term": "Stewardship",
+"def": "Duty given by God to humankind to look after the created world, and all life within it."
+},
+{
+"group": "Theme D",
+"term": "Conflict",
+"def": "Dispute between sides, can be between individuals, groups or nations."
+},
+{
+"group": "Theme D",
+"term": "Forgiveness",
+"def": "Letting go of blame against a person for wrongs they have done; moving on."
+},
+{
+"group": "Theme D",
+"term": "Holy War",
+"def": "War that is believed to be sanctioned by God."
+},
+{
+"group": "Theme D",
+"term": "Justice",
+"def": "Bringing fairness back to a situation."
+},
+{
+"group": "Theme D",
+"term": "Just War",
+"def": "Set of rules for fighting a war in a way believed to be justified and acceptable to God."
+},
+{
+"group": "Theme D",
+"term": "Nuclear deterrence",
+"def": "Having nuclear weapons with the aim of deterring/preventing other states attacking for fear of retaliation and nuclear war (possibly leading to Mutually Assured Destruction)."
+},
+{
+"group": "Theme D",
+"term": "Nuclear weapons/war",
+"def": "A weapon of mass destruction which causes widespread damage and loss of life. Nuclear war would be a war fought using these weapons."
+},
+{
+"group": "Theme D",
+"term": "Pacifism",
+"def": "Belief that all violence is wrong, which then affects all behaviours."
+},
+{
+"group": "Theme D",
+"term": "Peace",
+"def": "The opposite of war; harmony between all in society."
+},
+{
+"group": "Theme D",
+"term": "Peace-making",
+"def": "Working to bring about peace and reconciliation."
+},
+{
+"group": "Theme D",
+"term": "Protest",
+"def": "A statement or action to express disagreement; can be an organised event to demonstrate disagreement with a policy or political action."
+},
+{
+"group": "Theme D",
+"term": "Reconciliation",
+"def": "Making up and rebuilding relationships between two groups/sides after disagreement."
+},
+{
+"group": "Theme D",
+"term": "Retaliation",
+"def": "To pay someone back for their harmful actions."
+},
+{
+"group": "Theme D",
+"term": "Terrorism",
+"def": "Use of violence and threats to intimidate others; used for political purposes to build fear in the ordinary population and to secure demands from Government."
+},
+{
+"group": "Theme D",
+"term": "Victims of war",
+"def": "Those who are harmed during a war, for example those killed, injured or left homeless."
+},
+{
+"group": "Theme D",
+"term": "Violence",
+"def": "Behaviour involving physical force which intends to hurt, kill or cause damage."
+},
+{
+"group": "Theme D",
+"term": "War",
+"def": "Armed conflict between two or more sides."
+},
+{
+"group": "Theme D",
+"term": "Weapons of Mass Destruction",
+"def": "Weapons which cause widespread, indiscriminate damage (eg nuclear, chemical, biological)."
+},
+{
+"group": "Theme E",
+"term": "Addiction",
+"def": "Being addicted to/dependent on a particular substance; can be a cause of crime (eg stealing money to pay for illegal drugs)."
+},
+{
+"group": "Theme E",
+"term": "Community service",
+"def": "Punishment involving the criminal doing a set number of hours of physical labour/work in their local community."
+},
+{
+"group": "Theme E",
+"term": "Corporal punishment",
+"def": "Punishment in which physical pain is inflicted on the criminal."
+},
+{
+"group": "Theme E",
+"term": "Crime",
+"def": "Action which breaks the law; can be against the person (eg murder), against property (eg vandalism), or against the state (eg treason)."
+},
+{
+"group": "Theme E",
+"term": "Death penalty",
+"def": "Capital punishment; the execution of a criminal which is sanctioned by the state."
+},
+{
+"group": "Theme E",
+"term": "Deterrence",
+"def": "Aim of punishment; the threat of punishment as a way to put a person off committing crime (eg knowing they could go to prison if they steal)."
+},
+{
+"group": "Theme E",
+"term": "Evil intentions",
+"def": "Having the desire to deliberately cause suffering or harm to another."
+},
+{
+"group": "Theme E",
+"term": "Forgiveness",
+"def": "Letting go of blame against a person for wrongs they have done; moving on."
+},
+{
+"group": "Theme E",
+"term": "Greed",
+"def": "Reason for committing crime - wanting or desiring something or more of something."
+},
+{
+"group": "Theme E",
+"term": "Hate crime",
+"def": "A crime committed because of prejudice views about a person or group."
+},
+{
+"group": "Theme E",
+"term": "Prison",
+"def": "Imprisonment is a form of punishment where a criminal is locked in a secure guarded building (prison) for a period of time."
+},
+{
+"group": "Theme E",
+"term": "Law",
+"def": "The rules a country demands its citizens follow, the breaking of which leads to punishment."
+},
+{
+"group": "Theme E",
+"term": "Mental illness",
+"def": "A medical condition that can cause changes to a person's behaviour; can be a cause of crime."
+},
+{
+"group": "Theme E",
+"term": "Murder",
+"def": "Unlawfully killing another person."
+},
+{
+"group": "Theme E",
+"term": "Poverty",
+"def": "The state of being without the things needed for a reasonable quality of life; can be a cause of crime."
+},
+{
+"group": "Theme E",
+"term": "Principle of utility",
+"def": "The concept of acting out of the greater good for the most people. (eg removing a dangerous criminal from society in order to protect others)."
+},
+{
+"group": "Theme E",
+"term": "Reformation",
+"def": "Aim of punishment; helping the criminal see how and why their behaviour was wrong, so that their mindset changes for the better."
+},
+{
+"group": "Theme E",
+"term": "Retribution",
+"def": "Aim of punishment; getting the criminal back for their crimes."
+},
+{
+"group": "Theme E",
+"term": "Sanctity of life",
+"def": "Belief that life is sacred/special because it was created by God, or because we are each unique individuals."
+},
+{
+"group": "Theme E",
+"term": "Theft",
+"def": "Taking something without the owner's consent."
+},
+{
+"group": "Theme E",
+"term": "Unjust law",
+"def": "A legal requirement within a society that is believed to be unfair; a cause of crime if a person believes they cannot follow (or must act against) a law they believe is unjust."
+},
+{
+"group": "Theme E",
+"term": "Upbringing",
+"def": "The environment a child lives in, and the instructions they receive, while they are growing up; can be a cause of crime."
+}
+]

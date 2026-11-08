@@ -1,0 +1,71 @@
+{
+  "title": "RE GCSE revision",
+  "short": "RE Revision",
+  "pageTitle": "RE GCSE Revision (AQA 8062)",
+  "subtitle": "AQA 8062: Christianity, Judaism, Themes A, B, D and E",
+  "storageKey": "lsst-re-revision-v1",
+  "glossaryLabel": "AQA key terms",
+  "papers": {
+    "1": "Paper 1: Study of religions",
+    "2": "Paper 2: Thematic studies"
+  },
+  "sectionOrder": [
+    "christian-beliefs",
+    "christian-practices",
+    "jewish-beliefs",
+    "jewish-practices",
+    "theme-a",
+    "theme-b",
+    "theme-d",
+    "theme-e"
+  ],
+  "colors": {
+    "christian-beliefs": "#6d28d9",
+    "christian-practices": "#be185d",
+    "jewish-beliefs": "#0369a1",
+    "jewish-practices": "#0f766e",
+    "theme-a": "#b45309",
+    "theme-b": "#15803d",
+    "theme-d": "#b42318",
+    "theme-e": "#475569"
+  },
+  "structures": {
+    "influence": [
+      "Point: state the belief",
+      "Development: say how it influences believers today (thinks, feels, acts)",
+      "Repeat for a second, different belief"
+    ],
+    "different": [
+      "Point: one belief or practice",
+      "Development: explain it",
+      "Second point must clearly differ (other tradition, or agrees versus disagrees)"
+    ],
+    "similar": [
+      "Point: one belief",
+      "Development: explain it",
+      "Second point argues the same way, in new words and with new reasoning"
+    ],
+    "explain-two-source": [
+      "Point",
+      "Development",
+      "Source of wisdom and authority (name it)",
+      "Application: how the source supports your point. Do this twice."
+    ],
+    "evaluate": [
+      "Argument for, with religious teaching",
+      "Argument against, with religious teaching",
+      "Evaluate: how convincing is each side?",
+      "Conclusion: which is stronger, and why?"
+    ]
+  },
+  "evaluateChecklist": [
+    "Argued one side with a developed point",
+    "Included religious teaching or a source for that side",
+    "Argued a different point of view with a developed point",
+    "Included religious teaching or a source for the other side",
+    "Evaluated the arguments (how strong or weak each is)",
+    "Reached a justified conclusion",
+    "Spelled key terms correctly and wrote in clear paragraphs (SPaG)"
+  ],
+  "about": "<p>Built from the school’s revision pack for Year 10 RE (The Priory Academy LSST) and checked against the AQA GCSE Religious Studies A (8062) specification and the 2026 exam format. Questions and model answers were written for revision, they are not real past-paper questions.</p><p>Always check anything you are unsure about with your teacher. The official specification is at <a href=\"https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-a-8062\" target=\"_blank\" rel=\"noopener\">aqa.org.uk</a>. AQA’s own glossary definitions are used in the Glossary.</p>"
+}

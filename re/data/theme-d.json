@@ -1,0 +1,1757 @@
+{
+ "section": {
+  "id": "theme-d",
+  "title": "Theme D: Religion, peace and conflict",
+  "short": "Theme D",
+  "paper": 2,
+  "religion": "Themes",
+  "blurb": "Violence, terrorism, reasons for war, just war, holy war, pacifism, nuclear weapons, peacemaking and how religious people respond to victims of war."
+ },
+ "topics": [
+  {
+   "id": "td-01",
+   "code": "War.1",
+   "title": "Introduction to religion, peace and conflict",
+   "overview": "The exam can ask you to define peace, justice, forgiveness and reconciliation, so you need exact meanings and a religious link for each.",
+   "notes": [
+    {
+     "h": "Key ideas",
+     "bullets": [
+      "**Conflict** is a serious disagreement between individuals, groups or nations. It can grow into **war**, which is armed conflict between states.",
+      "**Peace** is more than the absence of fighting. It means harmony, fairness and safety. In Judaism the word is **shalom**, which also means wholeness and well-being.",
+      "**Justice** means putting things right fairly. Many believers say real peace is impossible without justice.",
+      "**Forgiveness** means letting go of anger and blame. **Reconciliation** means rebuilding a broken relationship after a conflict."
+     ]
+    },
+    {
+     "h": "Why religion cares",
+     "bullets": [
+      "Christians and Jews believe humans are made in God's image (Genesis 1:27), so every life is sacred. This is the **sanctity of life**.",
+      "Christians follow Jesus, called the Prince of Peace, who taught forgiveness and love of enemies.",
+      "Jews pray for shalom, and the prophets describe a future when nations stop training for war.",
+      "Religion has both encouraged peace and been used to justify war. The rest of this theme looks at both sides."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Christian",
+     "text": "Christians see peace, justice, forgiveness and reconciliation as part of God's plan. Jesus said peacemakers will be called children of God, and he taught people to forgive again and again."
+    },
+    {
+     "label": "Jewish",
+     "text": "Jews value shalom as a gift from God and a duty for people. Justice (tzedek) is a key moral principle, and forgiveness and repentance are central to Yom Kippur."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Humanists value peace because war harms human happiness. They do not need a command from God, and many support international law and talks to settle disputes."
+    }
+   ],
+   "terms": [
+    {
+     "term": "conflict",
+     "def": "a serious disagreement between individuals, groups or nations"
+    },
+    {
+     "term": "peace",
+     "def": "harmony and the absence of war; in Judaism, shalom"
+    },
+    {
+     "term": "justice",
+     "def": "bringing fairness back to a situation"
+    },
+    {
+     "term": "forgiveness",
+     "def": "letting go of blame and anger towards someone who has wronged you"
+    },
+    {
+     "term": "reconciliation",
+     "def": "making up and rebuilding a relationship after a conflict"
+    },
+    {
+     "term": "sanctity of life",
+     "def": "the belief that life is holy because it is created by God"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Blessed are the peacemakers, for they will be called children of God.'",
+     "ref": "Matthew 5:9",
+     "use": "Use for any question on peace, peacemaking or why Christians avoid war."
+    },
+    {
+     "text": "'Turn from evil and do good; seek peace and pursue it.'",
+     "ref": "Psalm 34:14",
+     "use": "A short Jewish and Christian source showing peace is something you must actively work for."
+    },
+    {
+     "text": "'They will beat their swords into ploughshares... Nation will not take up sword against nation.'",
+     "ref": "Isaiah 2:4",
+     "use": "Use for the hope of a world without war, in Jewish and Christian answers."
+    },
+    {
+     "text": "God made humans in his own image.",
+     "ref": "Genesis 1:27",
+     "use": "Use to explain the sanctity of life as a reason to avoid violence."
+    }
+   ],
+   "tip": "Definitions are often 1-mark questions. Give a clear definition and, if the question allows, a religious example in your 4 and 6-mark answers."
+  },
+  {
+   "id": "td-02",
+   "code": "War.2",
+   "title": "Violence, violent protest and terrorism",
+   "overview": "AQA names violence as one of its three issues for Theme D, so you must be able to explain contrasting views about violence, protest and terrorism.",
+   "notes": [
+    {
+     "h": "Violence and protest",
+     "bullets": [
+      "**Violence** is behaviour that uses physical force to hurt, kill or damage. **Protest** is a public way of showing disagreement.",
+      "Peaceful protest is part of democracy. Examples are marches, petitions and vigils. Martin Luther King, a Baptist minister, led non-violent protest against racism in the USA.",
+      "Violent protest includes riots and damage to property. Some people say it is justified when peaceful methods are ignored, but most argue it makes things worse and harms innocent people."
+     ]
+    },
+    {
+     "h": "Terrorism",
+     "bullets": [
+      "**Terrorism** is the use of violence and threats, usually against civilians, to spread fear and force a government or society to meet political demands.",
+      "Examples include the 7 July 2005 London bombings and the Manchester Arena attack in 2017.",
+      "Terrorists sometimes claim a religious cause, but the main religions condemn attacks on innocent people.",
+      "Christians and Jews reject terrorism because it breaks the commandment against murder, ignores the sanctity of life and cannot be fought with love of neighbour."
+     ]
+    },
+    {
+     "h": "Religious views on violence",
+     "bullets": [
+      "Most Christians say violence should be a last resort. Jesus taught love of enemies and told Peter to put away his sword.",
+      "Some Christians accept limited force to protect the innocent, for example under just war thinking. Pacifists reject all violence.",
+      "Jews allow force in self-defence (Exodus 22:2) but value saving life (**pikuach nefesh**) above almost everything, so violence must not be used for revenge."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Christian",
+     "text": "Christians stress love, forgiveness and peaceful protest. Many support non-violent protest against injustice. Most reject terrorism and violent protest, though a few say force can be the lesser evil against a cruel regime."
+    },
+    {
+     "label": "Jewish",
+     "text": "Jews support peaceful protest for justice and reject terrorism because it targets the innocent. Violence is acceptable only to defend life, and even then the aim is to protect, not to punish."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Many non-religious people support the right to protest but say violence is wrong when it harms innocents. Some argue violent protest can be the lesser evil if peaceful protest is ignored."
+    }
+   ],
+   "terms": [
+    {
+     "term": "violence",
+     "def": "using physical force to hurt, kill or damage"
+    },
+    {
+     "term": "protest",
+     "def": "a public statement or action showing disagreement"
+    },
+    {
+     "term": "terrorism",
+     "def": "violence and threats against civilians to create fear and gain political aims"
+    },
+    {
+     "term": "civil disobedience",
+     "def": "deliberately breaking a law peacefully as a protest"
+    },
+    {
+     "term": "pikuach nefesh",
+     "def": "the Jewish duty to save life"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Love your enemies and pray for those who persecute you.'",
+     "ref": "Matthew 5:44",
+     "use": "Use to explain why Christians reject violent protest and terrorism."
+    },
+    {
+     "text": "'Put your sword back in its place, for all who draw the sword will die by the sword.'",
+     "ref": "Matthew 26:52",
+     "use": "Use to show Jesus rejected violence even when he was arrested."
+    },
+    {
+     "text": "'You shall not murder.'",
+     "ref": "Exodus 20:13",
+     "use": "Use for Jewish and Christian opposition to terrorism and killing the innocent."
+    },
+    {
+     "text": "'Do not do anything that endangers your neighbour's life.'",
+     "ref": "Leviticus 19:16",
+     "use": "A Jewish source about protecting life, useful for views on terrorism."
+    }
+   ],
+   "tip": "Do not say all religious people reject all violence. Show the range: pacifists, just war supporters, and those who accept force only as a last resort."
+  },
+  {
+   "id": "td-03",
+   "code": "War.3",
+   "title": "Reasons for war",
+   "overview": "AQA lists greed, self-defence and retaliation as reasons for war, and expects you to say how religious people judge each.",
+   "notes": [
+    {
+     "h": "Reasons for war",
+     "bullets": [
+      "**Greed**: going to war to gain land, oil, gold or power. Almost all religious people see this as unjust.",
+      "**Self-defence**: fighting to protect your country or others from attack. This is the most widely accepted reason.",
+      "**Retaliation**: hitting back after an attack. It is often condemned because it leads to a cycle of revenge.",
+      "Other causes include ideology, religion, and **civil war**, which is fighting between groups inside one country."
+     ]
+    },
+    {
+     "h": "Religious views",
+     "bullets": [
+      "Christians condemn greed (the Bible warns against coveting) and retaliation (Jesus taught not to repay evil for evil). Self-defence can be accepted under just war ideas.",
+      "Jews accept defensive war because of pikuach nefesh. A war of choice needs strong justification and proper authority.",
+      "Both traditions say that the harm of war must be weighed carefully, because war kills innocent people and damages God's creation."
+     ]
+    },
+    {
+     "h": "Non-religious views",
+     "bullets": [
+      "International law, such as Article 51 of the UN Charter, recognises self-defence as a right, but not aggression or revenge.",
+      "Humanists judge war by its consequences: does it reduce suffering overall?"
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Christian",
+     "text": "Self-defence may be a just reason if other options have failed. Greed and revenge are wrong because Jesus taught love of neighbour and forgiveness. Pacifist Christians reject even defensive war."
+    },
+    {
+     "label": "Jewish",
+     "text": "Defending the community is a duty because saving life is vital. Greed and revenge are not valid reasons, and the Torah sets rules to limit harm even in war."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Many accept self-defence as a legitimate reason for war but see greed and retaliation as unjustifiable because they cause needless suffering."
+    }
+   ],
+   "terms": [
+    {
+     "term": "greed",
+     "def": "wanting more than you need, such as land or resources"
+    },
+    {
+     "term": "self-defence",
+     "def": "protecting yourself or others from attack"
+    },
+    {
+     "term": "retaliation",
+     "def": "hitting back at someone for harming you"
+    },
+    {
+     "term": "civil war",
+     "def": "armed conflict between groups inside one country"
+    },
+    {
+     "term": "war",
+     "def": "organised armed conflict between states or groups"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Do not repay anyone evil for evil.'",
+     "ref": "Romans 12:17",
+     "use": "Use to argue against retaliation as a reason for war."
+    },
+    {
+     "text": "'You shall not covet... anything that belongs to your neighbour.'",
+     "ref": "Exodus 20:17",
+     "use": "Use to condemn greed as a cause of war."
+    },
+    {
+     "text": "'Rescue the weak and needy; deliver them from the hand of the wicked.'",
+     "ref": "Psalm 82:4",
+     "use": "Use to support fighting in defence of others."
+    },
+    {
+     "text": "'If anyone slaps you on the right cheek, turn to them the other cheek also.'",
+     "ref": "Matthew 5:39",
+     "use": "Use for the Christian argument against retaliation."
+    }
+   ],
+   "tip": "In a 4-mark question give two clear reasons, then say what a Christian or Jew would think of each. Do not just list greed, self-defence and retaliation."
+  },
+  {
+   "id": "td-04",
+   "code": "War.4",
+   "title": "Nuclear weapons and weapons of mass destruction",
+   "overview": "Weapons of mass destruction is one of AQA's three key issues, so know the arguments about deterrence, just war and the sanctity of life.",
+   "notes": [
+    {
+     "h": "Facts",
+     "bullets": [
+      "**Weapons of mass destruction (WMD)** cause widespread, indiscriminate harm. They include nuclear, chemical and biological weapons.",
+      "Nuclear bombs were used in war only in August 1945, on Hiroshima and Nagasaki in Japan. Around 140,000 people died in Hiroshima by the end of that year.",
+      "**Nuclear deterrence** is the idea that having nuclear weapons stops other countries attacking because of the threat of devastating retaliation. The UK keeps its Trident system for this reason."
+     ]
+    },
+    {
+     "h": "Arguments for keeping them",
+     "bullets": [
+      "Deterrence has helped to prevent a world war since 1945.",
+      "They protect the country and its allies, so some Christians and Jews see possession as a lesser evil."
+     ]
+    },
+    {
+     "h": "Arguments against",
+     "bullets": [
+      "They kill civilians and cannot meet the just war rules of proportionality and discrimination (protecting non-combatants).",
+      "They damage God's creation and breach the sanctity of life.",
+      "They cost billions each year that could fund health, education or help for the poor.",
+      "Accidents, hacking or terrorists getting hold of them are real risks."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Catholic",
+     "text": "Catholic teaching condemns using nuclear weapons. Pope Francis said in 2017 that even possessing them should be firmly condemned. Catholics support disarmament and Pax Christi works for it."
+    },
+    {
+     "label": "Quaker",
+     "text": "Quakers are strongly opposed to all nuclear weapons and campaign for disarmament, linked to their Peace Testimony."
+    },
+    {
+     "label": "Other Christian",
+     "text": "Some Christians, including some Anglicans, have accepted deterrence as the lesser evil, while stressing that actual use could not be justified."
+    },
+    {
+     "label": "Jewish",
+     "text": "Most Jews say WMD cannot be justified because they destroy innocent life, though some argue that deterrence protects the Jewish people after the Holocaust."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Some support deterrence for security. Others argue the cost and danger outweigh any benefit and campaign for disarmament, for example through CND."
+    }
+   ],
+   "terms": [
+    {
+     "term": "nuclear weapon",
+     "def": "a weapon using a nuclear reaction to cause huge damage and loss of life"
+    },
+    {
+     "term": "weapons of mass destruction",
+     "def": "weapons that cause widespread, indiscriminate damage, such as nuclear, chemical and biological weapons"
+    },
+    {
+     "term": "nuclear deterrence",
+     "def": "having nuclear weapons to put off attackers"
+    },
+    {
+     "term": "proportionality",
+     "def": "a just war rule that force used must not be excessive"
+    },
+    {
+     "term": "disarmament",
+     "def": "reducing or getting rid of weapons"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'You shall not murder.'",
+     "ref": "Exodus 20:13",
+     "use": "Use to argue that WMD, which kill huge numbers of innocents, break God's law."
+    },
+    {
+     "text": "'They will beat their swords into ploughshares.'",
+     "ref": "Isaiah 2:4",
+     "use": "Use for the call for disarmament and a world without war."
+    },
+    {
+     "text": "'Blessed are the peacemakers.'",
+     "ref": "Matthew 5:9",
+     "use": "Use for religious campaigns against nuclear weapons."
+    },
+    {
+     "text": "'Love your neighbour as yourself.'",
+     "ref": "Matthew 22:39",
+     "use": "Use to argue WMD cannot fit with loving everyone, including civilians."
+    }
+   ],
+   "tip": "For 'similar beliefs' questions, pair WMD with just war ideas or the sanctity of life, then make a second, different point such as cost or campaigning."
+  },
+  {
+   "id": "td-05",
+   "code": "War.5",
+   "title": "The just war theory",
+   "overview": "Just war theory is the main Christian way of deciding whether a war can be right. You need the criteria, who developed them, and how to evaluate them.",
+   "notes": [
+    {
+     "h": "Origins and criteria",
+     "bullets": [
+      "The **just war theory** is a set of rules for deciding when going to war is justified and how it should be fought.",
+      "St Augustine (4th to 5th century) was an early Christian thinker on this. St Thomas Aquinas (13th century) set out the criteria in more detail.",
+      "**Just cause**: for example self-defence or protecting the innocent. **Legitimate authority**: declared by a proper government or ruler, not by individuals.",
+      "**Right intention**: aim to restore peace and justice, not revenge or greed. **Last resort**: all peaceful options tried first.",
+      "**Reasonable chance of success**: no point causing deaths if the war cannot be won. **Proportionality**: no more force than needed.",
+      "**Discrimination**: civilians must not be targeted. AQA mark schemes list this as well, so learn it."
+     ]
+    },
+    {
+     "h": "Using the theory",
+     "bullets": [
+      "Christians use the theory to judge wars such as the Second World War, the Falklands War, and wars involving modern weapons.",
+      "Weakness: people disagree about whether each rule has been met, and modern weapons make proportionality and discrimination hard.",
+      "Jewish teaching separates an obligatory war (milchemet mitzvah), such as defence, from an optional war (milchemet reshut), which needs strong authority. The Torah also limits harm to the enemy (Deuteronomy 20)."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Catholic",
+     "text": "The Catholic Church teaches that force may be used only as a last resort in defence and with just war limits. Catholics must still work for peace."
+    },
+    {
+     "label": "Other Christian",
+     "text": "Many Protestants, such as Anglicans, accept just war thinking as a realistic guide while hoping for peace."
+    },
+    {
+     "label": "Pacifist Christian",
+     "text": "Quakers and others say no war can be just because it always kills and harms the innocent."
+    },
+    {
+     "label": "Jewish",
+     "text": "Defensive war is a duty and may be required to save life. Optional wars need proper authority, and the Torah demands that peace is offered first (Deuteronomy 20:10)."
+    },
+    {
+     "label": "Non-religious",
+     "text": "International law uses similar ideas, such as self-defence, proportionality and protecting civilians."
+    }
+   ],
+   "terms": [
+    {
+     "term": "just war",
+     "def": "a war that meets agreed rules for fairness, set out by Christian thinkers"
+    },
+    {
+     "term": "just cause",
+     "def": "a good reason for war, such as defence"
+    },
+    {
+     "term": "legitimate authority",
+     "def": "the right of a proper government or ruler to declare war"
+    },
+    {
+     "term": "last resort",
+     "def": "trying all peaceful options before fighting"
+    },
+    {
+     "term": "proportionality",
+     "def": "using only as much force as necessary"
+    },
+    {
+     "term": "discrimination",
+     "def": "not deliberately attacking civilians"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'There is a time for war and a time for peace.'",
+     "ref": "Ecclesiastes 3:8",
+     "use": "Use to show the Bible accepts that war can sometimes happen."
+    },
+    {
+     "text": "'Rescue the weak and needy; deliver them from the hand of the wicked.'",
+     "ref": "Psalm 82:4",
+     "use": "Use for just cause: defending the innocent."
+    },
+    {
+     "text": "'When you march up to attack a city, make its people an offer of peace.'",
+     "ref": "Deuteronomy 20:10",
+     "use": "Use for last resort in a Jewish answer."
+    },
+    {
+     "text": "'Do not repay anyone evil for evil.'",
+     "ref": "Romans 12:17",
+     "use": "Use as a counter-argument that war should be avoided."
+    }
+   ],
+   "tip": "Name at least four criteria and apply them. A top answer says whether a war could meet them, not just lists them."
+  },
+  {
+   "id": "td-06",
+   "code": "War.6",
+   "title": "Holy war and religion as a cause of war and violence",
+   "overview": "AQA asks about holy war and about religion and belief as a cause of war in the modern world. Be ready to explain both and to give a balanced view.",
+   "notes": [
+    {
+     "h": "Holy war",
+     "bullets": [
+      "A **holy war** is fought for a religious cause, believed to be supported by God and usually authorised by a religious leader.",
+      "A war is not holy just because soldiers are religious. The religion must be the reason for the war.",
+      "The **Crusades** were a series of Christian holy wars from 1095 onwards to take control of the Holy Land, called by Popes. Knights were promised forgiveness of sins.",
+      "In the Old Testament, wars such as the conquest of Canaan are described as commanded by God."
+     ]
+    },
+    {
+     "h": "Modern views",
+     "bullets": [
+      "Many Christians today reject holy war. They say it breaks Jesus' call to love enemies and to seek peace.",
+      "Most Jews do not support holy war today. Jews accept war mainly for defence, not to spread the faith.",
+      "Some extremist groups claim holy war to justify terrorism, but religious leaders in the main faiths condemn this."
+     ]
+    },
+    {
+     "h": "Religion as a cause of conflict",
+     "bullets": [
+      "Religion can be a cause when beliefs, holy places or religious freedom are threatened. Examples include the Troubles in Northern Ireland and conflict in Israel and Palestine.",
+      "Many conflicts mix religion with politics, land and identity, so it is hard to say religion is the only cause.",
+      "Religion also drives peacemaking, such as Corrymeela and Pax Christi.",
+      "Non-religious people often point out that religion has caused violence, while religious people point out that most believers reject violence."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Christian",
+     "text": "Most Christians today reject holy war. They say the Crusades went against Jesus' teaching, though some say a war could be just if it protects people from attack, including religious freedom."
+    },
+    {
+     "label": "Jewish",
+     "text": "Holy war is rare in modern Judaism. Defensive wars are accepted. Old Testament wars are read as belonging to a different time, and most Jews today focus on peace."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Some argue that religion often causes conflict by dividing people. Others argue that politics, land and power are the real causes and that religion is used as an excuse."
+    }
+   ],
+   "terms": [
+    {
+     "term": "holy war",
+     "def": "a war fought for a religious cause and believed to have God's approval"
+    },
+    {
+     "term": "Crusades",
+     "def": "Christian holy wars from 1095 to reclaim the Holy Land"
+    },
+    {
+     "term": "Holy Land",
+     "def": "Jerusalem and nearby areas, sacred to Jews, Christians and Muslims"
+    },
+    {
+     "term": "extremism",
+     "def": "holding very strong views and being willing to use violence"
+    },
+    {
+     "term": "religious freedom",
+     "def": "the right to practise your faith without being attacked"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Love your enemies and pray for those who persecute you.'",
+     "ref": "Matthew 5:44",
+     "use": "Use to argue holy war goes against Jesus' teaching."
+    },
+    {
+     "text": "'The Lord is a warrior; the Lord is his name.'",
+     "ref": "Exodus 15:3",
+     "use": "Use to show that the Old Testament sometimes presents God as supporting war."
+    },
+    {
+     "text": "'Blessed are the peacemakers.'",
+     "ref": "Matthew 5:9",
+     "use": "Use to show that religion also encourages peace."
+    },
+    {
+     "text": "'You shall not murder.'",
+     "ref": "Exodus 20:13",
+     "use": "Use to argue that killing in the name of religion is wrong."
+    }
+   ],
+   "tip": "In a 12-mark answer, avoid saying 'religion causes all wars'. Use examples and show that religion is often one factor among others."
+  },
+  {
+   "id": "td-07",
+   "code": "War.7",
+   "title": "Pacifism and peacemaking",
+   "overview": "Pacifism is one of AQA's three key issues. Also learn named examples of religious peacemaking, because questions ask about the work of individuals and groups.",
+   "notes": [
+    {
+     "h": "Pacifism",
+     "bullets": [
+      "**Pacifism** is the belief that war and violence are always wrong. Some pacifists will not fight at all, while others will serve as medics.",
+      "Christian pacifists point to Jesus' teaching in the Sermon on the Mount, his arrest without resistance, and the commandment not to murder.",
+      "The **Quakers** have a Peace Testimony: they refuse to fight and work for peace. Mennonites also hold pacifist beliefs.",
+      "Desmond Doss, a Seventh-day Adventist, refused to carry a weapon but served as a medic in the Second World War and saved many lives.",
+      "Arguments against pacifism: it may leave innocent people undefended, and some evil may only be stopped by force."
+     ]
+    },
+    {
+     "h": "Peacemaking",
+     "bullets": [
+      "**Peacemaking** means working to end conflict and build reconciliation.",
+      "Martin Luther King used non-violent protest to campaign against racism. Archbishop Desmond Tutu led South Africa's Truth and Reconciliation Commission to bring forgiveness after apartheid.",
+      "**Corrymeela** is a Christian community in Northern Ireland, founded in 1965, which brings people from different sides together. **Pax Christi** is a Catholic peace movement.",
+      "Pope Francis speaks out for peace and has called for prayer and dialogue in conflict zones.",
+      "Jews work for peace through prayer for shalom, interfaith dialogue and by supporting justice."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Quaker",
+     "text": "Quakers believe every person has some of God in them, so killing is wrong. They refuse to fight and work for peace and justice."
+    },
+    {
+     "label": "Catholic",
+     "text": "The Catholic Church accepts just war but places huge emphasis on peace. Pax Christi works for peace and disarmament, and Pope Francis speaks for peace."
+    },
+    {
+     "label": "Other Christian",
+     "text": "Many Christians say they should be peacemakers while accepting that force may sometimes be needed to stop greater evil."
+    },
+    {
+     "label": "Jewish",
+     "text": "Jews value peace highly but Judaism is not pacifist. Defensive force is allowed, yet Jews are taught to pursue peace."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Some non-religious people are pacifists on moral grounds, while others accept fighting if it prevents greater harm."
+    }
+   ],
+   "terms": [
+    {
+     "term": "pacifism",
+     "def": "the belief that all war and violence is wrong"
+    },
+    {
+     "term": "peacemaking",
+     "def": "working to bring peace and reconciliation"
+    },
+    {
+     "term": "Peace Testimony",
+     "def": "the Quaker commitment to peace and refusing to fight"
+    },
+    {
+     "term": "conscientious objector",
+     "def": "someone who refuses to fight because of their conscience"
+    },
+    {
+     "term": "non-violent protest",
+     "def": "campaigning for change without using force"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Blessed are the peacemakers, for they will be called children of God.'",
+     "ref": "Matthew 5:9",
+     "use": "Use as the main Christian source for peacemaking and pacifism."
+    },
+    {
+     "text": "'If anyone slaps you on the right cheek, turn to them the other cheek also.'",
+     "ref": "Matthew 5:39",
+     "use": "Use to explain Christian non-violence."
+    },
+    {
+     "text": "'If it is possible, as far as it depends on you, live at peace with everyone.'",
+     "ref": "Romans 12:18",
+     "use": "Use to show that Christians should actively seek peace."
+    },
+    {
+     "text": "'Nation will not take up sword against nation.'",
+     "ref": "Isaiah 2:4",
+     "use": "Use for the Jewish and Christian hope for a peaceful world."
+    }
+   ],
+   "tip": "For peacemaking, name an individual or group and say exactly what they did. 'Corrymeela brings Catholics and Protestants together' beats 'religions help peace'."
+  },
+  {
+   "id": "td-08",
+   "code": "War.8",
+   "title": "Religious responses to the victims of war",
+   "overview": "AQA asks about religious responses to victims of war, including the work of one present-day religious organisation. Learn Christian Aid or Caritas in detail.",
+   "notes": [
+    {
+     "h": "Who the victims are",
+     "bullets": [
+      "Victims of war include people killed or injured, refugees forced to flee, families who lose homes, and child soldiers.",
+      "War also causes hunger, disease and trauma long after the fighting stops."
+     ]
+    },
+    {
+     "h": "How believers respond",
+     "bullets": [
+      "Christians help because of Jesus' teaching to love your neighbour and care for the needy. The parable of the Good Samaritan and the Sheep and Goats are key sources.",
+      "**Christian Aid** was set up in 1945 by British and Irish churches to help refugees. Today it supports people affected by conflict, for example by providing food, water, shelter and help to rebuild lives.",
+      "**Caritas** is a worldwide Catholic network. In England and Wales, **CAFOD** is part of it. They offer emergency aid, support for refugees and help to rebuild communities.",
+      "Jews help through the duty of saving life (pikuach nefesh), tikkun olam (repairing the world) and charity (tzedakah). Examples include World Jewish Relief and Magen David Adom UK.",
+      "Many Christians also pray, campaign, give money and welcome refugees."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Christian",
+     "text": "Christians say helping victims is a duty of love. Jesus said that helping the needy is like helping him. Christian Aid and Caritas help victims regardless of religion or side."
+    },
+    {
+     "label": "Jewish",
+     "text": "Jews have a duty to save life and heal the world. They help victims through charities and by giving tzedakah."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Many non-religious people help victims through charities such as the Red Cross, motivated by compassion and human rights rather than belief in God."
+    }
+   ],
+   "terms": [
+    {
+     "term": "victims of war",
+     "def": "people harmed by war, such as those killed, injured or made homeless"
+    },
+    {
+     "term": "refugee",
+     "def": "a person forced to leave their country because of war or persecution"
+    },
+    {
+     "term": "Christian Aid",
+     "def": "a Christian charity helping people in need and war victims worldwide"
+    },
+    {
+     "term": "Caritas",
+     "def": "a worldwide network of Catholic charities"
+    },
+    {
+     "term": "tzedakah",
+     "def": "Jewish duty of charity and justice"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Whatever you did for one of the least of these brothers and sisters of mine, you did for me.'",
+     "ref": "Matthew 25:40",
+     "use": "Use from the Sheep and Goats to explain why Christians help victims of war."
+    },
+    {
+     "text": "'Love your neighbour as yourself.'",
+     "ref": "Matthew 22:39",
+     "use": "Use as the basic reason Christians help anyone in need."
+    },
+    {
+     "text": "'Defend the weak and the fatherless; uphold the cause of the poor and the oppressed.'",
+     "ref": "Psalm 82:3",
+     "use": "Use for Jewish and Christian duties to protect the vulnerable."
+    },
+    {
+     "text": "'If your enemy is hungry, give him food to eat.'",
+     "ref": "Proverbs 25:21",
+     "use": "Use for helping victims on any side of a conflict."
+    }
+   ],
+   "tip": "Name one organisation and give a specific example of its work. Link its work to a Bible teaching for full marks."
+  }
+ ],
+ "flashcards": [
+  {
+   "topic": "td-01",
+   "q": "What is conflict?",
+   "a": "A serious disagreement between individuals, groups or nations. It can grow into war."
+  },
+  {
+   "topic": "td-01",
+   "q": "What is peace, beyond 'no war'?",
+   "a": "Harmony, fairness and safety. In Judaism the word is shalom, which also means wholeness and well-being."
+  },
+  {
+   "topic": "td-01",
+   "q": "Define justice.",
+   "a": "Bringing fairness back to a situation, putting wrongs right."
+  },
+  {
+   "topic": "td-01",
+   "q": "Define forgiveness.",
+   "a": "Letting go of anger and blame towards someone who has wronged you."
+  },
+  {
+   "topic": "td-01",
+   "q": "Define reconciliation.",
+   "a": "Making up and rebuilding a relationship after a conflict."
+  },
+  {
+   "topic": "td-01",
+   "q": "Why do Christians and Jews value peace?",
+   "a": "Humans are made in God's image (Genesis 1:27), so life is sacred. Jesus taught love of enemies, and Jewish teaching values shalom."
+  },
+  {
+   "topic": "td-01",
+   "q": "Which Bible quote links peacemakers to God?",
+   "a": "'Blessed are the peacemakers, for they will be called children of God' (Matthew 5:9)."
+  },
+  {
+   "topic": "td-01",
+   "q": "What is the sanctity of life?",
+   "a": "The belief that life is holy because it is created by God."
+  },
+  {
+   "topic": "td-02",
+   "q": "Define violence.",
+   "a": "Behaviour using physical force to hurt, kill or damage."
+  },
+  {
+   "topic": "td-02",
+   "q": "Define terrorism.",
+   "a": "The use of violence and threats, usually against civilians, to spread fear and force political demands."
+  },
+  {
+   "topic": "td-02",
+   "q": "Give two examples of non-violent protest.",
+   "a": "Marches, petitions, vigils, boycotts. Martin Luther King led non-violent protest against racism."
+  },
+  {
+   "topic": "td-02",
+   "q": "Why do most Christians reject terrorism?",
+   "a": "It kills innocent people, breaks 'You shall not murder' and goes against Jesus' call to love enemies."
+  },
+  {
+   "topic": "td-02",
+   "q": "What Jewish value limits violence?",
+   "a": "Pikuach nefesh, the duty to save life. Force is allowed only to defend life."
+  },
+  {
+   "topic": "td-02",
+   "q": "Which verse shows Jesus rejecting violence at his arrest?",
+   "a": "'Put your sword back in its place, for all who draw the sword will die by the sword' (Matthew 26:52)."
+  },
+  {
+   "topic": "td-02",
+   "q": "Give a non-religious view on violent protest.",
+   "a": "Some say it can be the lesser evil if peaceful protest is ignored. Many say it harms innocents and makes things worse."
+  },
+  {
+   "topic": "td-02",
+   "q": "Name one terrorist attack in the UK that might be used as an example.",
+   "a": "The London bombings of 7 July 2005, or the Manchester Arena attack in 2017."
+  },
+  {
+   "topic": "td-03",
+   "q": "Name three reasons for war in the AQA spec.",
+   "a": "Greed, self-defence and retaliation."
+  },
+  {
+   "topic": "td-03",
+   "q": "What is greed as a cause of war?",
+   "a": "Fighting to gain land, resources or power. Most religious people see this as wrong."
+  },
+  {
+   "topic": "td-03",
+   "q": "Why is self-defence the most accepted reason?",
+   "a": "It protects people from attack. Just war thinking and Jewish teaching on saving life both allow it."
+  },
+  {
+   "topic": "td-03",
+   "q": "What is retaliation?",
+   "a": "Hitting back at someone for harming you. It is often condemned because it causes cycles of revenge."
+  },
+  {
+   "topic": "td-03",
+   "q": "What is civil war?",
+   "a": "Armed conflict between groups inside one country."
+  },
+  {
+   "topic": "td-03",
+   "q": "Which teaching of Jesus argues against retaliation?",
+   "a": "'Do not repay anyone evil for evil' (Romans 12:17) and turning the other cheek (Matthew 5:39)."
+  },
+  {
+   "topic": "td-03",
+   "q": "What does international law say about self-defence?",
+   "a": "Article 51 of the UN Charter recognises a state's right to self-defence."
+  },
+  {
+   "topic": "td-03",
+   "q": "Give a Jewish view on war for self-defence.",
+   "a": "It is a duty, because saving life (pikuach nefesh) is vital. War of choice needs strong justification."
+  },
+  {
+   "topic": "td-04",
+   "q": "What are weapons of mass destruction?",
+   "a": "Weapons causing widespread, indiscriminate damage: nuclear, chemical and biological weapons."
+  },
+  {
+   "topic": "td-04",
+   "q": "What is nuclear deterrence?",
+   "a": "Keeping nuclear weapons to put off attackers because of the threat of devastating retaliation."
+  },
+  {
+   "topic": "td-04",
+   "q": "When were nuclear weapons used in war?",
+   "a": "August 1945, when the USA bombed Hiroshima and Nagasaki, Japan."
+  },
+  {
+   "topic": "td-04",
+   "q": "Give two religious arguments against WMD.",
+   "a": "They kill civilians and break the sanctity of life, and they cannot meet just war rules of proportionality and discrimination."
+  },
+  {
+   "topic": "td-04",
+   "q": "Give an argument for keeping nuclear weapons.",
+   "a": "Deterrence: it may prevent attacks and has helped avoid world war since 1945."
+  },
+  {
+   "topic": "td-04",
+   "q": "What did Pope Francis say about nuclear weapons in 2017?",
+   "a": "That using nuclear weapons, and even possessing them, should be firmly condemned."
+  },
+  {
+   "topic": "td-04",
+   "q": "Which Christian group is strongly opposed to nuclear weapons?",
+   "a": "The Quakers, because of their Peace Testimony."
+  },
+  {
+   "topic": "td-04",
+   "q": "Give a non-religious argument against nuclear weapons.",
+   "a": "They cost billions each year, risk accidents and could kill huge numbers of innocents."
+  },
+  {
+   "topic": "td-05",
+   "q": "Who first set out Christian ideas on just war, and who developed the criteria?",
+   "a": "St Augustine started the ideas. St Thomas Aquinas developed them in the 13th century."
+  },
+  {
+   "topic": "td-05",
+   "q": "List the just war criteria.",
+   "a": "Just cause, legitimate authority, right intention, last resort, reasonable chance of success, proportionality, discrimination."
+  },
+  {
+   "topic": "td-05",
+   "q": "What does proportionality mean?",
+   "a": "Using only as much force as needed, with no excessive harm."
+  },
+  {
+   "topic": "td-05",
+   "q": "What does legitimate authority mean?",
+   "a": "The war must be declared by a proper government or ruler."
+  },
+  {
+   "topic": "td-05",
+   "q": "What does discrimination mean in just war?",
+   "a": "Civilians must not be deliberately attacked."
+  },
+  {
+   "topic": "td-05",
+   "q": "What does last resort mean?",
+   "a": "All peaceful ways, such as talks and sanctions, must be tried first."
+  },
+  {
+   "topic": "td-05",
+   "q": "What are milchemet mitzvah and milchemet reshut?",
+   "a": "Jewish terms for obligatory war (such as defence) and optional war, which needs stronger authority."
+  },
+  {
+   "topic": "td-05",
+   "q": "Give one weakness of the just war theory.",
+   "a": "People disagree about whether the rules are met, and modern weapons make proportionality and discrimination hard."
+  },
+  {
+   "topic": "td-06",
+   "q": "What is a holy war?",
+   "a": "A war fought for a religious cause, believed to have God's approval and usually authorised by a religious leader."
+  },
+  {
+   "topic": "td-06",
+   "q": "What were the Crusades?",
+   "a": "Christian holy wars from 1095 onwards to take control of the Holy Land, called by the Pope."
+  },
+  {
+   "topic": "td-06",
+   "q": "What is the Holy Land?",
+   "a": "Jerusalem and nearby areas, sacred to Jews, Christians and Muslims."
+  },
+  {
+   "topic": "td-06",
+   "q": "Why do many modern Christians reject holy war?",
+   "a": "It conflicts with Jesus' teaching to love enemies and seek peace."
+  },
+  {
+   "topic": "td-06",
+   "q": "Is holy war a main idea in modern Judaism?",
+   "a": "No. Jews accept war mainly for defence, and most focus on peace today."
+  },
+  {
+   "topic": "td-06",
+   "q": "Give two examples of conflicts where religion has been a factor.",
+   "a": "The Troubles in Northern Ireland and the Israel-Palestine conflict."
+  },
+  {
+   "topic": "td-06",
+   "q": "Why is it hard to say religion is the only cause of a war?",
+   "a": "Most conflicts also involve politics, land, power and identity."
+  },
+  {
+   "topic": "td-06",
+   "q": "Give a non-religious view on religion and war.",
+   "a": "Some say religion divides people and causes violence. Others say politics and power are the real causes."
+  },
+  {
+   "topic": "td-07",
+   "q": "Define pacifism.",
+   "a": "The belief that war and violence are always wrong."
+  },
+  {
+   "topic": "td-07",
+   "q": "What is the Quaker Peace Testimony?",
+   "a": "The Quaker commitment to refuse to fight and to work for peace and justice."
+  },
+  {
+   "topic": "td-07",
+   "q": "Who was Desmond Doss?",
+   "a": "A Seventh-day Adventist pacifist who served as an unarmed medic in the Second World War and saved many lives."
+  },
+  {
+   "topic": "td-07",
+   "q": "What is Corrymeela?",
+   "a": "A Christian reconciliation community in Northern Ireland founded in 1965 that brings people from different sides together."
+  },
+  {
+   "topic": "td-07",
+   "q": "What is Pax Christi?",
+   "a": "A Catholic peace movement that works for peace, justice and disarmament."
+  },
+  {
+   "topic": "td-07",
+   "q": "What did Martin Luther King use to campaign against racism?",
+   "a": "Non-violent protest, such as marches and boycotts."
+  },
+  {
+   "topic": "td-07",
+   "q": "What did Desmond Tutu do after apartheid?",
+   "a": "Led the South African Truth and Reconciliation Commission to encourage forgiveness and healing."
+  },
+  {
+   "topic": "td-07",
+   "q": "Give one argument against pacifism.",
+   "a": "It might leave innocent people undefended against a greater evil."
+  },
+  {
+   "topic": "td-08",
+   "q": "Name two Christian organisations that help victims of war.",
+   "a": "Christian Aid and Caritas, including its English and Welsh arm CAFOD."
+  },
+  {
+   "topic": "td-08",
+   "q": "When was Christian Aid started and why?",
+   "a": "In 1945, by British and Irish churches, to help refugees."
+  },
+  {
+   "topic": "td-08",
+   "q": "Which parables inspire Christians to help victims?",
+   "a": "The Good Samaritan and the Sheep and Goats."
+  },
+  {
+   "topic": "td-08",
+   "q": "Give two ways charities help victims of war.",
+   "a": "Emergency food, water and shelter for refugees, and help rebuilding lives and communities."
+  },
+  {
+   "topic": "td-08",
+   "q": "Which Jewish duties encourage helping victims?",
+   "a": "Pikuach nefesh (saving life), tikkun olam (repairing the world) and tzedakah (charity)."
+  },
+  {
+   "topic": "td-08",
+   "q": "Which verse says helping the needy is like helping Jesus?",
+   "a": "'Whatever you did for one of the least of these... you did for me' (Matthew 25:40)."
+  },
+  {
+   "topic": "td-08",
+   "q": "Why might a non-religious person help war victims?",
+   "a": "Compassion and human rights, for example through the Red Cross."
+  },
+  {
+   "topic": "td-08",
+   "q": "What is a refugee?",
+   "a": "A person forced to leave their country because of war or persecution."
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "td-01",
+   "q": "Which term means making up and rebuilding a relationship after conflict?",
+   "options": [
+    "Retaliation",
+    "Deterrence",
+    "Reconciliation",
+    "Pacifism"
+   ],
+   "answer": 2,
+   "why": "Reconciliation means restoring friendly relations after a conflict."
+  },
+  {
+   "topic": "td-01",
+   "q": "In Judaism, what is the word for peace and wholeness?",
+   "options": [
+    "Shalom",
+    "Mitzvah",
+    "Tzedakah",
+    "Teshuvah"
+   ],
+   "answer": 0,
+   "why": "Shalom means peace, wholeness and well-being."
+  },
+  {
+   "topic": "td-01",
+   "q": "Which Bible quote does a Christian most likely use to show peace is a duty?",
+   "options": [
+    "Eye for eye",
+    "Honour your father",
+    "Be fruitful and multiply",
+    "Blessed are the peacemakers"
+   ],
+   "answer": 3,
+   "why": "Matthew 5:9 links peacemaking directly with being a child of God."
+  },
+  {
+   "topic": "td-01",
+   "q": "Why do Christians say life is sacred?",
+   "options": [
+    "Because it is long",
+    "Because humans are made in God's image",
+    "Because law says so",
+    "Because wealth matters"
+   ],
+   "answer": 1,
+   "why": "Genesis 1:27 teaches that humans are made in God's image."
+  },
+  {
+   "topic": "td-02",
+   "q": "Which best defines terrorism?",
+   "options": [
+    "Any protest",
+    "Defending a country",
+    "Violence against civilians to cause fear and win political aims",
+    "Peaceful marching"
+   ],
+   "answer": 2,
+   "why": "Terrorism uses violence and threats, usually against civilians, for political aims."
+  },
+  {
+   "topic": "td-02",
+   "q": "What did Jesus say to Peter at his arrest?",
+   "options": [
+    "Put your sword back",
+    "Run away",
+    "Fight on",
+    "Call the guards"
+   ],
+   "answer": 0,
+   "why": "Matthew 26:52 shows Jesus rejecting violence."
+  },
+  {
+   "topic": "td-02",
+   "q": "Which Jewish duty puts saving life first?",
+   "options": [
+    "Kashrut",
+    "Tikkun olam",
+    "Tzedakah",
+    "Pikuach nefesh"
+   ],
+   "answer": 3,
+   "why": "Pikuach nefesh means saving a life takes priority over almost everything."
+  },
+  {
+   "topic": "td-02",
+   "q": "Martin Luther King is an example of which approach?",
+   "options": [
+    "Terrorism",
+    "Non-violent protest",
+    "Holy war",
+    "Retaliation"
+   ],
+   "answer": 1,
+   "why": "King led peaceful campaigns against racism."
+  },
+  {
+   "topic": "td-03",
+   "q": "Which is NOT a reason for war listed by AQA?",
+   "options": [
+    "Greed",
+    "Self-defence",
+    "Fashion",
+    "Retaliation"
+   ],
+   "answer": 2,
+   "why": "AQA lists greed, self-defence and retaliation, among others."
+  },
+  {
+   "topic": "td-03",
+   "q": "Fighting to protect your country from attack is called:",
+   "options": [
+    "Self-defence",
+    "Greed",
+    "Retaliation",
+    "Terrorism"
+   ],
+   "answer": 0,
+   "why": "Self-defence is the most widely accepted reason for war."
+  },
+  {
+   "topic": "td-03",
+   "q": "Which teaching best opposes retaliation?",
+   "options": [
+    "Rule over the earth",
+    "Eye for an eye only",
+    "Take what you need",
+    "Do not repay evil for evil"
+   ],
+   "answer": 3,
+   "why": "Romans 12:17 tells Christians not to repay evil for evil."
+  },
+  {
+   "topic": "td-03",
+   "q": "War between groups inside one country is:",
+   "options": [
+    "Cold war",
+    "Civil war",
+    "Holy war",
+    "World war"
+   ],
+   "answer": 1,
+   "why": "A civil war is internal armed conflict."
+  },
+  {
+   "topic": "td-04",
+   "q": "What is nuclear deterrence?",
+   "options": [
+    "Using bombs first",
+    "Banning all weapons",
+    "Having weapons to put off attackers",
+    "Selling weapons"
+   ],
+   "answer": 2,
+   "why": "Deterrence relies on the threat of retaliation to stop attack."
+  },
+  {
+   "topic": "td-04",
+   "q": "In which year were nuclear weapons used in war?",
+   "options": [
+    "1945",
+    "1939",
+    "1914",
+    "1962"
+   ],
+   "answer": 0,
+   "why": "Hiroshima and Nagasaki were bombed in August 1945."
+  },
+  {
+   "topic": "td-04",
+   "q": "A key just war problem with nuclear weapons is that they:",
+   "options": [
+    "Are cheap",
+    "Are not strong",
+    "Are always legal",
+    "Cannot protect civilians or be proportionate"
+   ],
+   "answer": 3,
+   "why": "They cause indiscriminate harm to civilians, which breaks just war rules."
+  },
+  {
+   "topic": "td-04",
+   "q": "Which Christian group is firmly opposed to nuclear weapons?",
+   "options": [
+    "Crusaders",
+    "Quakers",
+    "Zealots",
+    "Sadducees"
+   ],
+   "answer": 1,
+   "why": "Quakers are opposed because of their Peace Testimony."
+  },
+  {
+   "topic": "td-05",
+   "q": "Who developed the just war criteria in the 13th century?",
+   "options": [
+    "Augustine",
+    "Luther",
+    "Aquinas",
+    "Calvin"
+   ],
+   "answer": 2,
+   "why": "Aquinas built on Augustine and set out the criteria."
+  },
+  {
+   "topic": "td-05",
+   "q": "Which criterion means all peaceful options have been tried?",
+   "options": [
+    "Last resort",
+    "Proportionality",
+    "Right intention",
+    "Discrimination"
+   ],
+   "answer": 0,
+   "why": "Last resort means war only after other methods fail."
+  },
+  {
+   "topic": "td-05",
+   "q": "A war that targets civilians breaks which criterion?",
+   "options": [
+    "Just cause",
+    "Last resort",
+    "Legitimate authority",
+    "Discrimination"
+   ],
+   "answer": 3,
+   "why": "Discrimination protects civilians."
+  },
+  {
+   "topic": "td-05",
+   "q": "What is milchemet mitzvah?",
+   "options": [
+    "Optional war",
+    "Obligatory war such as defence",
+    "Holy pilgrimage",
+    "War protest"
+   ],
+   "answer": 1,
+   "why": "It is a war Jews are required to fight, such as self-defence."
+  },
+  {
+   "topic": "td-06",
+   "q": "A war fought for a religious cause and approved by God is a:",
+   "options": [
+    "Civil war",
+    "Cold war",
+    "Holy war",
+    "Just war"
+   ],
+   "answer": 2,
+   "why": "This is the definition of holy war."
+  },
+  {
+   "topic": "td-06",
+   "q": "The Crusades were mainly fought to:",
+   "options": [
+    "Control the Holy Land",
+    "Gain trade",
+    "Spread the telephone",
+    "Stop pacifism"
+   ],
+   "answer": 0,
+   "why": "They aimed to take control of the Holy Land, called by the Pope."
+  },
+  {
+   "topic": "td-06",
+   "q": "Which conflict is often used as an example of religion linked to violence?",
+   "options": [
+    "The Falklands",
+    "The Cod War",
+    "The Suez crisis",
+    "The Troubles"
+   ],
+   "answer": 3,
+   "why": "The Troubles in Northern Ireland involved religious and political identities."
+  },
+  {
+   "topic": "td-06",
+   "q": "Why do many Christians reject holy war?",
+   "options": [
+    "It is cheap",
+    "It goes against Jesus' call to love enemies",
+    "It is illegal everywhere",
+    "It is boring"
+   ],
+   "answer": 1,
+   "why": "Matthew 5:44 calls Christians to love enemies."
+  },
+  {
+   "topic": "td-07",
+   "q": "The Quakers' commitment to peace is called the:",
+   "options": [
+    "Covenant",
+    "Sermon",
+    "Peace Testimony",
+    "Creed"
+   ],
+   "answer": 2,
+   "why": "The Peace Testimony is the Quaker commitment to peace."
+  },
+  {
+   "topic": "td-07",
+   "q": "Which Christian founded the Corrymeela community in 1965?",
+   "options": [
+    "Ray Davey",
+    "Martin Luther",
+    "Pope Urban",
+    "Billy Graham"
+   ],
+   "answer": 0,
+   "why": "Ray Davey and others founded Corrymeela in Northern Ireland."
+  },
+  {
+   "topic": "td-07",
+   "q": "Desmond Doss, a pacifist, served in the Second World War as:",
+   "options": [
+    "A sniper",
+    "A pilot",
+    "A general",
+    "An unarmed medic"
+   ],
+   "answer": 3,
+   "why": "Doss refused weapons but treated the wounded."
+  },
+  {
+   "topic": "td-07",
+   "q": "Which is an argument against pacifism?",
+   "options": [
+    "It follows Jesus",
+    "It may leave innocents undefended",
+    "It avoids deaths",
+    "It is non-violent"
+   ],
+   "answer": 1,
+   "why": "Critics say force may be needed to protect the innocent."
+  },
+  {
+   "topic": "td-08",
+   "q": "Christian Aid was founded in 1945 to help:",
+   "options": [
+    "Athletes",
+    "Soldiers only",
+    "Refugees",
+    "Bankers"
+   ],
+   "answer": 2,
+   "why": "It began as help for refugees after the Second World War."
+  },
+  {
+   "topic": "td-08",
+   "q": "Which parable inspires care for victims of war?",
+   "options": [
+    "Good Samaritan",
+    "Mustard Seed",
+    "Sower",
+    "Lost Coin"
+   ],
+   "answer": 0,
+   "why": "The Good Samaritan shows love for a stranger in need."
+  },
+  {
+   "topic": "td-08",
+   "q": "The Jewish duty of charity is:",
+   "options": [
+    "Brit milah",
+    "Shabbat",
+    "Kippah",
+    "Tzedakah"
+   ],
+   "answer": 3,
+   "why": "Tzedakah means charity and justice."
+  },
+  {
+   "topic": "td-08",
+   "q": "Caritas is:",
+   "options": [
+    "A Jewish festival",
+    "A Catholic charity network",
+    "A weapon",
+    "A prayer"
+   ],
+   "answer": 1,
+   "why": "Caritas is a worldwide network of Catholic charities."
+  }
+ ],
+ "exam": [
+  {
+   "topic": "td-04",
+   "marks": 4,
+   "type": "similar",
+   "q": "Explain two similar religious beliefs about a country using weapons of mass destruction. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "model": "One belief is that Christians say weapons of mass destruction are wrong because they kill huge numbers of innocent people. This breaks the commandment 'You shall not murder' and the Christian belief that life is sacred.\nAnother similar belief, from Judaism, is that saving life (pikuach nefesh) is a very high duty, so Jews say WMD cannot be justified because they destroy life without distinction between soldiers and civilians.",
+   "points": [
+    "Christian: WMD kill indiscriminately and break 'You shall not murder' / sanctity of life",
+    "Christian: do not meet just war rules of proportionality and discrimination",
+    "Jewish: pikuach nefesh, protecting life, so WMD are wrong",
+    "Jewish: Exodus 20:13; harm to civilians and God's creation",
+    "Other valid: Pope Francis condemning possession; Quaker disarmament campaigns; cost and risk of accidents"
+   ]
+  },
+  {
+   "topic": "td-05",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different religious beliefs about the use of force in war. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "model": "One belief is that some Christians accept just war theory. They believe force is allowed if it is a last resort and fought for a just cause, such as defending the innocent, so war can sometimes be the lesser evil.\nA different belief is that Quakers are pacifists. They believe all violence is wrong because every person has some of God in them, so they refuse to fight and try to solve conflict peacefully.",
+   "points": [
+    "Christian just war: force allowed as last resort, just cause, proportionality",
+    "Christian pacifism (Quakers): all violence wrong, Peace Testimony, Matthew 5:9",
+    "Jewish: defensive war is a duty but optional wars need strong authority",
+    "Different views must differ in some clear way, such as just war versus pacifism"
+   ]
+  },
+  {
+   "topic": "td-06",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different religious views about holy war. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "model": "One view is that some Christians in the past believed holy war was acceptable. The Crusades were called by the Pope to take back the Holy Land, and those who fought believed God supported them.\nA different view is that most Christians and Jews today reject holy war. Christians point to Jesus' teaching to love your enemies, and most Jews accept war only for defence, not to spread the faith.",
+   "points": [
+    "Historical Christian: Crusades, Pope's call, forgiveness of sins promised",
+    "Old Testament war commanded by God, for example conquest of Canaan",
+    "Modern Christian: Matthew 5:44, love of enemies; peace over holy war",
+    "Jewish: war mainly defensive; milchemet mitzvah; holy war rare today"
+   ]
+  },
+  {
+   "topic": "td-07",
+   "marks": 4,
+   "type": "similar",
+   "q": "Explain two similar religious beliefs about pacifism. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "model": "One belief is that Quakers say pacifism is right because Jesus taught people to love their enemies. They refuse to fight and work for peace.\nAnother similar belief is that some other Christians, such as Mennonites, are also pacifists because they believe the commandment 'You shall not murder' means all killing is wrong. Both groups believe violence is never the answer.",
+   "points": [
+    "Quakers: Peace Testimony, God in everyone, love of enemies",
+    "Mennonites/Amish: reject war, follow Sermon on the Mount",
+    "Matthew 5:9, 5:39, Exodus 20:13 as sources",
+    "Jewish similar view: some Reform Jews work for peace but Judaism is not pacifist overall"
+   ]
+  },
+  {
+   "topic": "td-02",
+   "marks": 4,
+   "type": "similar",
+   "q": "Explain two similar religious beliefs about terrorism. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "model": "One belief is that Christians reject terrorism because it targets innocent people, which goes against Jesus' teaching to love your neighbour and to love your enemies.\nAnother similar belief is that Jews also reject terrorism because it breaks the commandment against murder and ignores the importance of saving life (pikuach nefesh).",
+   "points": [
+    "Christian: terrorism harms innocents, against love of neighbour and enemy",
+    "Christian: sanctity of life; Exodus 20:13",
+    "Jewish: murder forbidden, pikuach nefesh",
+    "Jewish and Christian: terrorism cannot be justified by religion"
+   ]
+  },
+  {
+   "topic": "td-03",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different religious beliefs about reasons for going to war. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "model": "One belief is that some Christians accept self-defence as a reason for war. If a country is attacked, defending people can be a just cause because Christians should protect the innocent.\nA different belief is that Christian pacifists say no reason justifies war, not even self-defence. They follow Jesus' teaching to turn the other cheek and to love enemies.",
+   "points": [
+    "Self-defence as just cause; protecting innocents; Psalm 82:4",
+    "Pacifist Christians: Matthew 5:39, no war even in self-defence",
+    "Greed and retaliation condemned by most believers",
+    "Jewish view: defensive war a duty because of pikuach nefesh"
+   ]
+  },
+  {
+   "topic": "td-07",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why some Christians work for peace. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that Jesus taught Christians to be peacemakers. This means Christians should actively try to end conflict, not just avoid it. In the Sermon on the Mount, Jesus said 'Blessed are the peacemakers, for they will be called children of God.' This means Christians who work for peace are following God and will be seen as his children, so they might join groups such as Pax Christi.\nAnother reason is that Christians believe all humans are made in God's image, so every life is sacred. This means war and violence destroy something God made. In Genesis 1:27, God made humans in his image, so Christians believe they should protect life by helping people to settle disputes peacefully, as Corrymeela does in Northern Ireland.",
+   "points": [
+    "Reason 1: Jesus taught peacemaking",
+    "Source: Matthew 5:9",
+    "Application: join peace groups, mediate, work for reconciliation",
+    "Reason 2: sanctity of life",
+    "Source: Genesis 1:27",
+    "Application: protect life, support peace organisations"
+   ]
+  },
+  {
+   "topic": "td-08",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why some Christians help victims of war. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that Jesus taught Christians to love their neighbour. This means they should care for anyone in need, even strangers or enemies. In the parable of the Good Samaritan, a Samaritan helps an injured stranger when others ignore him. This shows that Christians should help war victims, for example by giving to Christian Aid or volunteering.\nAnother reason is that Jesus said helping people in need is like helping him. In the parable of the Sheep and Goats Jesus says, 'Whatever you did for one of the least of these brothers and sisters of mine, you did for me.' This means Christians believe they serve Jesus when they feed and shelter refugees, so many support charities such as Caritas.",
+   "points": [
+    "Reason 1: love your neighbour",
+    "Source: Good Samaritan or Matthew 22:39",
+    "Application: donate, volunteer, support Christian Aid",
+    "Reason 2: serving Jesus through the needy",
+    "Source: Matthew 25:40, Sheep and Goats",
+    "Application: food, shelter and aid for refugees"
+   ]
+  },
+  {
+   "topic": "td-02",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why many Christians oppose terrorism. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that terrorism kills innocent people, and Christians believe life is sacred. The commandment 'You shall not murder' in Exodus 20:13 forbids unlawful killing. This means Christians believe terrorists break God's law because attacks on civilians are murder, so Christians would condemn any attack, even if the cause is religious.\nAnother reason is that Jesus taught love of enemies and rejected violence. He said, 'Love your enemies and pray for those who persecute you.' This means Christians should respond to wrongdoing with love and forgiveness, not violence, so they usually support peaceful protest and dialogue instead of terrorism.",
+   "points": [
+    "Reason 1: terrorism is murder of innocents; sanctity of life",
+    "Source: Exodus 20:13",
+    "Application: condemn all attacks on civilians",
+    "Reason 2: Jesus' teaching on love and non-violence",
+    "Source: Matthew 5:44 or Matthew 26:52",
+    "Application: support peaceful protest and dialogue"
+   ]
+  },
+  {
+   "topic": "td-04",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why many religious people oppose nuclear weapons. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that nuclear weapons cause huge loss of innocent life, which goes against the sanctity of life. The Ten Commandments say 'You shall not murder' (Exodus 20:13). This means a nuclear attack, which cannot avoid killing civilians, would break God's law, so many Christians and Jews support disarmament.\nAnother reason is that nuclear weapons cannot meet the just war rules. Just war theory says a war must be proportionate and protect civilians. Nuclear weapons are so destructive that they cannot be used in this way. Jesus said 'Blessed are the peacemakers', so many Christians feel they should campaign for peace by joining groups such as Pax Christi or supporting disarmament.",
+   "points": [
+    "Reason 1: sanctity of life and murder",
+    "Source: Exodus 20:13",
+    "Application: support disarmament",
+    "Reason 2: just war criteria cannot be met",
+    "Source: Matthew 5:9 or Isaiah 2:4",
+    "Application: campaign with Pax Christi or Quakers"
+   ]
+  },
+  {
+   "topic": "td-05",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why some Christians support the just war theory. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that Christians believe the innocent should be protected. Sometimes force is the only way to stop great evil. Psalm 82:4 says, 'Rescue the weak and the needy; deliver them from the hand of the wicked.' This means Christians can accept fighting if it is a just cause, such as defending people from attack.\nAnother reason is that just war theory sets limits that make war less harmful. Augustine and Aquinas said war should be a last resort and proportionate. Ecclesiastes 3:8 says there is 'a time for war and a time for peace', so Christians can accept that war may sometimes happen, but only when strict rules are followed.",
+   "points": [
+    "Reason 1: duty to protect the innocent",
+    "Source: Psalm 82:4",
+    "Application: just cause, defence of others",
+    "Reason 2: theory limits war",
+    "Source: Ecclesiastes 3:8 or Augustine and Aquinas",
+    "Application: last resort, proportionality, discrimination"
+   ]
+  },
+  {
+   "topic": "td-06",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why many Christians today reject holy war. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that Jesus taught Christians to love their enemies. Holy war aims to defeat people because of their faith, which does not fit with this. Jesus said, 'Love your enemies and pray for those who persecute you.' This means Christians should respond with love and prayer, so many today say the Crusades were wrong.\nAnother reason is that Christians believe all human life is sacred, whatever someone's faith. The commandment 'You shall not murder' in Exodus 20:13 applies to everyone. This means killing in the name of religion is murder, so many Christians prefer to work for reconciliation between faiths, for example through dialogue and community projects.",
+   "points": [
+    "Reason 1: love of enemies",
+    "Source: Matthew 5:44",
+    "Application: reject Crusades, choose prayer and dialogue",
+    "Reason 2: sanctity of all life",
+    "Source: Exodus 20:13 or Genesis 1:27",
+    "Application: interfaith work and reconciliation"
+   ]
+  },
+  {
+   "topic": "td-03",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why many religious people reject greed or retaliation as reasons for war. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that greed puts wealth and power above people. The Ten Commandments say 'You shall not covet' (Exodus 20:17). This means that going to war to take another country's land or resources is wrong because it breaks God's law and harms innocent people, so religious believers would call it unjust.\nAnother reason is that retaliation keeps violence going. Jesus taught, 'If anyone slaps you on the right cheek, turn to them the other cheek also' (Matthew 5:39). This means Christians should break the cycle of revenge with forgiveness. In practice, many Christians would call for talks instead of revenge attacks.",
+   "points": [
+    "Reason 1: greed breaks the commandment against coveting",
+    "Source: Exodus 20:17",
+    "Application: war for resources is unjust",
+    "Reason 2: retaliation continues violence",
+    "Source: Matthew 5:39 or Romans 12:17",
+    "Application: forgiveness, talks, peace-making"
+   ]
+  },
+  {
+   "topic": "td-04",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Nuclear weapons can never be justified.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Many Christians agree with this statement. Nuclear weapons kill huge numbers of innocent people, so they appear to break the commandment 'You shall not murder' (Exodus 20:13). Christians believe life is sacred because humans are made in God's image, so a weapon that can destroy whole cities treats life as worthless. Nuclear weapons also fail the just war rules of proportionality and discrimination because they cannot avoid harming civilians. Pope Francis said in 2017 that even possessing them should be condemned, and Quakers campaign for disarmament. This is a strong argument because Hiroshima shows the scale of suffering and the damage lasts for generations.\n\nHowever, others disagree. Some Christians and Jews argue that nuclear deterrence has helped keep the peace since 1945, because no country wants to risk being destroyed. Judaism teaches that saving life (pikuach nefesh) is vital, and some Jews argue that after the Holocaust a country must be able to defend its people. Some Christians accept possession as the lesser evil while hoping for disarmament, since the Bible accepts that there is 'a time for war and a time for peace' (Ecclesiastes 3:8). This argument is weaker, because deterrence only works if a country is willing to use the weapons, which most religious leaders say is wrong, and accidents or terrorists could still cause a disaster. A non-religious person might add that the billions spent on Trident could fund health and education.\n\nOverall, I think the statement is mostly convincing. The sanctity of life and just war rules make actual use almost impossible to justify. But the word 'never' is strong, because possession as a deterrent can be seen as a lesser evil even if it is not ideal. So believers have strong reasons to say use cannot be justified, but they disagree about whether keeping the weapons is acceptable.",
+   "for": [
+    "Nuclear weapons kill innocents and break 'You shall not murder' (Exodus 20:13); sanctity of life, made in God's image",
+    "Fail just war rules of proportionality and discrimination; Pope Francis 2017; Quakers and Pax Christi back disarmament; cost and risk of accidents"
+   ],
+   "against": [
+    "Deterrence has helped keep peace since 1945; some Christians accept possession as a lesser evil",
+    "Jewish pikuach nefesh and Holocaust memory: defending the people; a time for war (Ecclesiastes 3:8); countries need protection"
+   ],
+   "conclusion": "The sanctity of life and just war rules make use very hard to justify, but possession as deterrence can be seen as a lesser evil, so 'never' is too strong a word for possession.",
+   "points": [
+    "Developed arguments on both sides with religious teachings",
+    "Evaluation of strength of each argument",
+    "Justified conclusion",
+    "Non-religious views may be credited if relevant"
+   ]
+  },
+  {
+   "topic": "td-05",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'It is impossible to fight a just war today.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some people agree that a just war is impossible today. Just war theory, developed by Augustine and Aquinas, says that war must be a last resort, proportionate, and must protect civilians. Modern weapons such as missiles and bombs make this very hard, because they often kill civilians. Christian pacifists such as Quakers argue that war never meets these rules, quoting Jesus' command to 'love your enemies' (Matthew 5:44). This is a strong argument because many modern wars have caused huge civilian suffering and refugee crises.\n\nOn the other hand, many Christians believe a just war is still possible. The theory is a guide to judge each case, not a promise that war is good. For example, a defensive war to stop a brutal invader could have a just cause and right intention. Psalm 82:4 tells believers to 'rescue the weak and the needy', which supports using force to protect others. Jews also teach that defensive war can be an obligation, because saving life (pikuach nefesh) matters most. International law also allows self-defence, so non-religious people may agree that some wars can be justified. This argument is persuasive because it accepts that doing nothing against great evil may also be wrong, though it depends on leaders honestly following the rules.\n\nIn my view, a just war is difficult but not impossible. Modern conflict often fails the tests of proportionality and discrimination, but a limited defensive war could still meet all the criteria. The theory remains useful because it forces leaders to justify their actions. So the statement is too strong, although it is right that few modern wars meet every condition.",
+   "for": [
+    "Modern weapons make proportionality and discrimination hard; civilians suffer",
+    "Pacifist Christians: Jesus' teaching, Matthew 5:44; Quakers; Exodus 20:13",
+    "Just war theory is a guide to judge each war; defence of the innocent (Psalm 82:4)",
+    "Jewish teaching: defensive war obligatory; pikuach nefesh; self-defence in international law"
+   ],
+   "against": [
+    "Modern weapons make proportionality and discrimination hard; civilians suffer",
+    "Pacifist Christians: Jesus' teaching, Matthew 5:44; Quakers; Exodus 20:13"
+   ],
+   "conclusion": [
+    "Just war theory is a guide to judge each war; defence of the innocent (Psalm 82:4)",
+    "Jewish teaching: defensive war obligatory; pikuach nefesh; self-defence in international law"
+   ],
+   "points": "A just war is difficult but not impossible: a limited defensive war could meet the criteria, so the statement is too strong, though few modern wars satisfy every condition."
+  },
+  {
+   "topic": "td-06",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Religion causes more war than peace.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some people agree that religion causes more war than peace. History shows religious wars, such as the Crusades, which were called by the Pope to take control of the Holy Land. Religion also forms part of conflicts today, such as the Troubles in Northern Ireland and the conflict in Israel and Palestine, where religious identity divides people. Some extremists even claim holy war to justify terrorism. Non-religious people, such as many Humanists, argue that when people believe God is on their side, they may find it easier to justify violence. This is a fair argument, but it can be exaggerated because most conflicts also involve land, power and politics.\n\nOn the other hand, many believers argue that religion promotes peace more than it causes war. Jesus taught 'Blessed are the peacemakers' (Matthew 5:9) and 'Love your enemies' (Matthew 5:44), and Jewish teaching values shalom and says that saving life is a duty. Religious groups have worked hard for peace, such as Corrymeela, which brings people from different sides in Northern Ireland together, and Pax Christi, and Martin Luther King and Desmond Tutu were driven by Christian beliefs. Most Christians today reject holy war. This argument is strong because it describes what the main teachings actually say and what religious people do every day, not just what extremists claim.\n\nOverall, I think the statement is not convincing. Religion has been linked to violence at times, but usually alongside politics and identity, whereas teachings and actions for peace are central and widespread. It is more accurate to say religion can be used to support either war or peace, depending on how people interpret it.",
+   "for": [
+    "Crusades, Troubles, Israel-Palestine; religious extremism; claims of holy war",
+    "Non-religious view that belief in God can justify violence; religion divides identities"
+   ],
+   "against": [
+    "Jesus' teaching on peace (Matthew 5:9, 5:44); Jewish shalom and pikuach nefesh",
+    "Peacemaking: Corrymeela, Pax Christi, King, Tutu; most believers reject holy war; many wars are political"
+   ],
+   "conclusion": "Religion has been linked to violence, but teachings and actions for peace are widespread, and many conflicts involve politics and identity, so the statement is not convincing.",
+   "points": [
+    "Both sides with developed religious teachings",
+    "Evaluation: weigh religion against political causes",
+    "Conclusion that follows the argument",
+    "Non-religious views allowed"
+   ]
+  },
+  {
+   "topic": "td-07",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Christians should always be pacifists.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some Christians strongly agree. Jesus taught 'Blessed are the peacemakers' (Matthew 5:9) and told his followers to 'love your enemies' (Matthew 5:44). When he was arrested he told Peter to put his sword away. The commandment 'You shall not murder' (Exodus 20:13) is also used to argue that all killing is wrong. Quakers, for instance, follow a Peace Testimony and believe there is something of God in everyone, so they could never kill. This is a powerful argument because it follows Jesus' own example, and the early Church often refused to fight.\n\nOther Christians disagree. They argue that sometimes force is needed to stop great evil, so pacifism could leave innocent people unprotected. Just war theory, set out by Augustine and Aquinas, says war can be justified if it is a last resort, has a just cause and is proportionate. Psalm 82:4 tells believers to 'rescue the weak and the needy', and Dietrich Bonhoeffer joined resistance to Hitler because he believed doing nothing would be worse. The Bible also says there is 'a time for war and a time for peace' (Ecclesiastes 3:8). This argument is also strong because it tackles the problem of protecting others, but it depends on leaders following the criteria honestly, which is difficult.\n\nIn my view, the statement is not convincing as a rule for all Christians. Pacifism is a powerful moral witness and fits Jesus' teaching, but Christians disagree about how to apply love in a world where aggression exists. A better conclusion is that all Christians should work for peace and avoid violence wherever possible, while accepting that some, with a clear conscience, may support limited force as a last resort.",
+   "for": [
+    "Jesus' teaching on peace and enemies; refusing to fight at arrest; Exodus 20:13",
+    "Quakers and Peace Testimony; early Church example; non-violent protest of King"
+   ],
+   "against": [
+    "Force may be needed to protect innocents; just war theory; Psalm 82:4",
+    "Bonhoeffer; Ecclesiastes 3:8; evil must sometimes be resisted"
+   ],
+   "conclusion": "Pacifism is a powerful witness and fits Jesus' teaching, but Christians disagree on how to apply love, so 'always' is too strong. All Christians should work for peace, but some accept force as a last resort.",
+   "points": [
+    "Both sides with religious teachings",
+    "Evaluate each argument",
+    "Justified conclusion",
+    "Non-religious views may be credited"
+   ]
+  },
+  {
+   "topic": "td-02",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Violent protest is sometimes the only way to bring change.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some people agree with the statement. When people are denied rights and peaceful protest is ignored, some argue violence may be the only way to be heard. Malcolm X argued that Black Americans might need to defend themselves, and some of the Suffragettes damaged property because votes for women were ignored. A few Christians say violence can be the lesser evil against a cruel regime, and Jews accept force to defend life (Exodus 22:2). Non-religious people may add that some governments only respond to pressure. This argument has some strength because history shows peaceful protest sometimes fails at first, but it is weakened because violence often leads to deaths and riots and can lose public support.\n\nOthers disagree strongly. Christians believe in love and forgiveness. Jesus said 'Put your sword back in its place, for all who draw the sword will die by the sword' (Matthew 26:52) and 'Love your enemies' (Matthew 5:44). Martin Luther King, a Baptist minister, achieved major change in civil rights in the USA by using marches and boycotts. Jews also believe in the sanctity of life, and violence puts innocent people at risk. This argument is very strong because peaceful protest has produced lasting change, and violence often damages the cause it supports.\n\nOverall, I find the statement unconvincing. Violence might sometimes force attention, but religious teachings and examples such as King show peaceful methods can also work and avoid harming innocents. 'Only way' is too strong, because other options usually exist, so most believers would say violent protest should not be the answer.",
+   "for": [
+    "Peaceful protest ignored; Malcolm X; Suffragettes; lesser evil against injustice",
+    "Jewish self-defence (Exodus 22:2); non-religious view that pressure can force change"
+   ],
+   "against": [
+    "Jesus: Matthew 26:52, 5:44; love and forgiveness; Romans 12:21",
+    "Martin Luther King's success; sanctity of life; violence risks harm and loses support"
+   ],
+   "conclusion": "Violence may gain attention but peaceful protest can succeed and avoids harming innocents, so 'the only way' is too strong.",
+   "points": [
+    "Both sides with religious teachings",
+    "Evaluate strengths and weaknesses",
+    "Conclusion",
+    "Non-religious views allowed"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1896 @@
+{
+ "section": {
+  "id": "jewish-beliefs",
+  "title": "Judaism: Beliefs",
+  "short": "Jewish Beliefs",
+  "paper": 1,
+  "religion": "Judaism",
+  "blurb": "Jewish beliefs and teachings about God, the afterlife, the Messiah, the covenants, moral principles, sanctity of life, and free will and the mitzvot."
+ },
+ "topics": [
+  {
+   "id": "jb-01",
+   "code": "Jew Bel.1 and 1.2",
+   "title": "The nature of God: God as One and creator",
+   "overview": "Belief in one God who created everything is the foundation of Judaism, and it shapes how Jews worship, pray and see the purpose of life.",
+   "notes": [
+    {
+     "h": "God as One",
+     "bullets": [
+      "Jews are **monotheists**: they believe in one God only, who is eternal, all-powerful and has no body or physical form.",
+      "God is **indivisible**: not made of parts, so Jews reject the Christian idea of the Trinity.",
+      "The **Shema** (Deuteronomy 6:4) is the Jewish declaration of faith, said morning and evening. It begins 'Hear, O Israel, the Lord is our God, the Lord is One'.",
+      "The first commandment forbids worshipping any other god or idol (Exodus 20:3).",
+      "Maimonides' 13 Principles of Faith start with belief that God exists, is the creator and is One."
+     ]
+    },
+    {
+     "h": "God as creator",
+     "bullets": [
+      "Genesis 1 says God created the heavens and earth in six days and rested on the seventh (Shabbat). God said creation was 'very good'.",
+      "Most Jews believe God created from nothing (**ex nihilo**), which shows God's unlimited power.",
+      "Jews believe God did not just create once: God also **sustains** creation every day (Isaiah 45:7).",
+      "Humans are made in God's image (Genesis 1:27), so every person has value and purpose.",
+      "Humans are given **stewardship**: a duty to look after God's world (Psalm 24:1, 'The earth is the Lord's')."
+     ]
+    },
+    {
+     "h": "Different views on creation",
+     "bullets": [
+      "Many Orthodox Jews read Genesis 1 as a true account of how God created.",
+      "Many Reform Jews accept science (such as the Big Bang and evolution) and see Genesis as teaching that God is behind creation and that it has purpose, not as a science textbook."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "Many take Genesis literally or as a divinely revealed account. Belief in God as One and Creator is a fixed, non-negotiable principle of faith."
+    },
+    {
+     "label": "Reform",
+     "text": "Accept scientific explanations of how the universe developed, while still believing God is the creator who gave it meaning and purpose. Genesis is read as teaching, not science."
+    }
+   ],
+   "terms": [
+    {
+     "term": "Shema",
+     "def": "the Jewish declaration of faith that God is One (Deuteronomy 6:4)"
+    },
+    {
+     "term": "monotheism",
+     "def": "belief in only one God"
+    },
+    {
+     "term": "ex nihilo",
+     "def": "Latin for 'from nothing': God made the universe out of nothing"
+    },
+    {
+     "term": "Tenakh",
+     "def": "the Jewish Bible: Torah, Nevi'im (Prophets) and Ketuvim (Writings)"
+    },
+    {
+     "term": "stewardship",
+     "def": "the duty to look after the world on God's behalf"
+    },
+    {
+     "term": "Shabbat",
+     "def": "the Jewish day of rest, from Friday sunset to Saturday night, remembering God resting after creation"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Hear, O Israel: the Lord is our God, the Lord is One.'",
+     "ref": "Deuteronomy 6:4 (the Shema)",
+     "use": "Use for God as One: only God is worshipped, so Jews pray the Shema daily and reject other gods."
+    },
+    {
+     "text": "'In the beginning God created the heavens and the earth.'",
+     "ref": "Genesis 1:1",
+     "use": "Use for God as creator: the world has a purpose, so Jews give thanks and look after it."
+    },
+    {
+     "text": "'I form light and create darkness... I the Lord do all these things.'",
+     "ref": "Isaiah 45:7",
+     "use": "Use to show God creates and sustains everything, not just at the start."
+    },
+    {
+     "text": "'The heavens declare the glory of God.'",
+     "ref": "Psalm 19:1",
+     "use": "Use to show creation points to God's power, so Jews praise God when they see the natural world."
+    },
+    {
+     "text": "God alone has made, makes and will make all things (Maimonides' 13 Principles of Faith).",
+     "ref": "Maimonides, Principles of Faith",
+     "use": "A non-biblical source of belief and teaching: good for an extra mark in a 6-mark answer."
+    }
+   ],
+   "tip": "For an influence answer, link the belief to a daily action: for example, because God is One, Jews say the Shema twice a day and refuse to worship anything else."
+  },
+  {
+   "id": "jb-02",
+   "code": "Jew Bel.3 (Law-Giver and Judge)",
+   "title": "The nature of God: Law-Giver, Judge, loving and merciful",
+   "overview": "Jews believe God gave the Law, judges how people live, and is both just and merciful. This explains why Jews keep the mitzvot and take repentance seriously.",
+   "notes": [
+    {
+     "h": "God as Law-Giver",
+     "bullets": [
+      "God gave laws from the beginning: to Adam, to Noah (7 Noahide laws) and most importantly to Moses at Mount Sinai.",
+      "The **Torah** contains the **613 mitzvot** (commandments), including the Ten Commandments.",
+      "Jews believe the laws are for their good (Deuteronomy 10:12-13) and show how to live a holy life.",
+      "Keeping the mitzvot is a way of keeping the covenant with God."
+     ]
+    },
+    {
+     "h": "God as Judge",
+     "bullets": [
+      "God is a just judge who knows everything a person has done (Genesis 18:25, 'Shall not the Judge of all the earth do justice?').",
+      "Jews believe God judges people on **Rosh Hashanah** (New Year) and **Yom Kippur**, and also after death.",
+      "God judges by how well people followed the mitzvot and treated others."
+     ]
+    },
+    {
+     "h": "Loving and merciful",
+     "bullets": [
+      "God is not only strict: Exodus 34:6 describes God as 'compassionate and gracious, slow to anger, rich in kindness'.",
+      "God forgives those who sincerely repent (**teshuvah**, meaning 'returning' to God).",
+      "Justice and mercy work together: Jews believe God judges fairly but wants people to change, not to be punished."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "The 613 mitzvot are God's binding commands, given at Sinai, and must be followed as written. God's judgement is based on obedience to the Law."
+    },
+    {
+     "label": "Reform",
+     "text": "The mitzvot are important guidance, but each Jew uses informed free will to decide which to follow. God's role as loving and merciful is often stressed alongside judgement."
+    }
+   ],
+   "terms": [
+    {
+     "term": "mitzvot",
+     "def": "the 613 commandments in the Torah (singular: mitzvah)"
+    },
+    {
+     "term": "Torah",
+     "def": "the first five books of the Tenakh, containing the laws given to Moses"
+    },
+    {
+     "term": "teshuvah",
+     "def": "repentance, 'returning' to God"
+    },
+    {
+     "term": "Rosh Hashanah",
+     "def": "Jewish New Year, a day of judgement"
+    },
+    {
+     "term": "Noahide laws",
+     "def": "seven basic laws God gave to Noah for all humanity"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'For the Lord is our judge, the Lord is our lawgiver, the Lord is our king; He will save us.'",
+     "ref": "Isaiah 33:22",
+     "use": "The classic quote for God as Law-Giver and Judge: use it in any question on God's nature."
+    },
+    {
+     "text": "'What does the Lord your God require of you? ... to keep the Lord's commandments and statutes, for your own good.'",
+     "ref": "Deuteronomy 10:12-13",
+     "use": "Use for why Jews keep the mitzvot: God gave them for human good."
+    },
+    {
+     "text": "'Shall not the Judge of all the earth do justice?'",
+     "ref": "Genesis 18:25",
+     "use": "Use for God as a just judge."
+    },
+    {
+     "text": "'The Lord, the Lord, a God compassionate and gracious, slow to anger, abounding in kindness.'",
+     "ref": "Exodus 34:6",
+     "use": "Use for God as loving and merciful, and to balance justice in a 12-mark answer."
+    },
+    {
+     "text": "'I am placing before you both a blessing and a curse.'",
+     "ref": "Deuteronomy 11:26",
+     "use": "Use to show keeping the law has consequences, so Jews take it seriously."
+    }
+   ],
+   "tip": "AQA lists God as 'Law-Giver and Judge, loving and merciful'. Mention mercy as well as justice to show a full understanding."
+  },
+  {
+   "id": "jb-03",
+   "code": "Jew Bel.3 (the divine presence)",
+   "title": "The divine presence: the Shekhinah",
+   "overview": "The Shekhinah is the idea that although God cannot be seen, God's presence can be felt among people. It gives Jews comfort and a sense that God is close.",
+   "notes": [
+    {
+     "h": "What is the Shekhinah?",
+     "bullets": [
+      "**Shekhinah** means 'the dwelling' or 'divine presence': God's presence felt in the world.",
+      "The word is not in the Tenakh itself but is used by the rabbis in the Talmud and Midrash.",
+      "In Hebrew it is a feminine word, so the Shekhinah is often described in a motherly way: caring, comforting and sharing in suffering."
+     ]
+    },
+    {
+     "h": "Examples in the Tenakh",
+     "bullets": [
+      "The burning bush that spoke to Moses (Exodus 3).",
+      "The pillar of cloud by day and pillar of fire by night that guided the Israelites out of Egypt (Exodus 13:21).",
+      "God's presence on Mount Sinai.",
+      "God's glory filling the Tabernacle and then Solomon's Temple.",
+      "Ezekiel 43:2 says 'the earth shone with His glory'."
+     ]
+    },
+    {
+     "h": "Why it matters today",
+     "bullets": [
+      "The rabbis taught the Shekhinah went into exile with the Jews, so God never abandons them.",
+      "Jews believe the Shekhinah is present when ten people (a **minyan**) pray or when people study Torah together (Pirkei Avot 3:6).",
+      "It gives comfort in hard times, for example in the Holocaust or in personal suffering."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "Stress that the Shekhinah is specially present in synagogue prayer with a minyan and in Torah study, and look forward to it fully returning when the Temple is rebuilt."
+    },
+    {
+     "label": "Reform",
+     "text": "Tend to see the Shekhinah as a symbol of God's closeness to everyone, felt in worship, nature, community and moral action, rather than in a rebuilt Temple."
+    }
+   ],
+   "terms": [
+    {
+     "term": "Shekhinah",
+     "def": "the divine presence of God, felt in the world"
+    },
+    {
+     "term": "minyan",
+     "def": "a group of ten adults needed for communal prayer; Orthodox count only men, Reform count men and women"
+    },
+    {
+     "term": "Talmud",
+     "def": "the Oral Law: the Mishnah and Gemara, recording rabbis' discussions of the Torah"
+    },
+    {
+     "term": "Tabernacle",
+     "def": "the portable tent-sanctuary the Israelites carried in the wilderness"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'The Lord went before them in a pillar of cloud by day to guide them and in a pillar of fire by night.'",
+     "ref": "Exodus 13:21",
+     "use": "Use as an example of the Shekhinah guiding the Israelites."
+    },
+    {
+     "text": "'The earth shone with His glory.'",
+     "ref": "Ezekiel 43:2",
+     "use": "Use to show God's glory is seen in the world."
+    },
+    {
+     "text": "'When ten sit together and occupy themselves with Torah, the Shekhinah abides among them.'",
+     "ref": "Pirkei Avot 3:6",
+     "use": "Use to explain why a minyan and Torah study matter."
+    },
+    {
+     "text": "God spoke to Moses from a burning bush that was not burnt up.",
+     "ref": "Exodus 3:2-4",
+     "use": "Use as a specific story of God's presence."
+    }
+   ],
+   "tip": "Spell it 'Shekhinah' as AQA does. A strong answer gives an example (burning bush or pillar of fire) and then says how it comforts Jews today."
+  },
+  {
+   "id": "jb-04",
+   "code": "Jew Bel.4",
+   "title": "Life after death, judgement and resurrection",
+   "overview": "Jewish teaching about the afterlife is varied and not fixed, so Jews tend to focus on living well now. Know the main views and the Orthodox and Reform differences.",
+   "notes": [
+    {
+     "h": "Key ideas",
+     "bullets": [
+      "Judaism teaches that this life (**Olam Ha-Zeh**) matters most. The Tenakh says little about what happens after death.",
+      "**Olam Ha-Ba** ('the world to come') is the afterlife or future age where the righteous are with God.",
+      "**Sheol** (in the Tenakh) is a dark, shadowy place of the dead. **Gan Eden** is paradise. **Gehinnom** is a place of purification, not usually eternal punishment.",
+      "Many Jews believe each person is judged by God for how they kept the mitzvot and treated others, some at death and some on a final Day of Judgement.",
+      "The soul is believed to come from God, so it is eternal."
+     ]
+    },
+    {
+     "h": "Resurrection (techiyat ha-metim)",
+     "bullets": [
+      "Maimonides' 13th principle says God will bring the dead back to life.",
+      "Many Orthodox Jews believe in **bodily resurrection** at the end of time, which is why they bury the dead and do not cremate.",
+      "Many Reform Jews believe in the **immortality of the soul**, not a physical resurrection, so some accept cremation.",
+      "Some Jews (especially Kabbalists and Hasidic Jews) believe in **gilgul**: souls are reborn to complete unfinished mitzvot and help heal the world."
+     ]
+    },
+    {
+     "h": "Influence today",
+     "bullets": [
+      "Belief in judgement encourages Jews to keep the mitzvot and do good deeds.",
+      "Because the afterlife is uncertain, Jews put effort into **Tikkun Olam** (healing the world) now.",
+      "Belief in resurrection or the eternal soul shapes funeral practice and gives comfort to the bereaved."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "Affirm bodily resurrection when the Messiah comes, and judgement of every soul. Burial is required."
+    },
+    {
+     "label": "Reform",
+     "text": "Stress the soul's immortality and judgement, but reject a physical resurrection. Many leave the details open and focus on life now."
+    }
+   ],
+   "terms": [
+    {
+     "term": "Olam Ha-Ba",
+     "def": "'the world to come', the afterlife or future age"
+    },
+    {
+     "term": "Gan Eden",
+     "def": "the Garden of Eden, paradise"
+    },
+    {
+     "term": "Gehinnom",
+     "def": "a place of purification after death"
+    },
+    {
+     "term": "Sheol",
+     "def": "the shadowy place of the dead in the Tenakh"
+    },
+    {
+     "term": "resurrection",
+     "def": "the dead being raised back to life"
+    },
+    {
+     "term": "gilgul",
+     "def": "reincarnation of the soul"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Many of those who sleep in the dust of the earth will awake, some to everlasting life, others to shame.'",
+     "ref": "Daniel 12:2",
+     "use": "Use for judgement and resurrection: the dead rise and are judged."
+    },
+    {
+     "text": "'Your dead shall live; their bodies shall rise.'",
+     "ref": "Isaiah 26:19",
+     "use": "Use for belief in resurrection of the dead."
+    },
+    {
+     "text": "'I will open your graves and bring you up from your graves.'",
+     "ref": "Ezekiel 37:12",
+     "use": "Use for physical resurrection, which Orthodox Jews support."
+    },
+    {
+     "text": "When a person dies, neither silver nor gold goes with them, only Torah and good deeds.",
+     "ref": "Pirkei Avot (Ethics of the Fathers)",
+     "use": "Use to show judgement is based on how you lived, so belief influences behaviour."
+    },
+    {
+     "text": "God will resurrect the dead (Maimonides' 13th Principle).",
+     "ref": "Maimonides, 13 Principles of Faith",
+     "use": "Use as a non-biblical source for resurrection."
+    }
+   ],
+   "tip": "Always say 'some Jews believe...' and give two different views. AQA mark schemes reward range: bodily resurrection, soul's immortality, Gan Eden and Gehinnom."
+  },
+  {
+   "id": "jb-05",
+   "code": "Jew Bel.5",
+   "title": "The nature and role of the Messiah",
+   "overview": "The Messiah is a future leader who will bring peace and justice. Jews hold different views on whether this is a person or a time, and this shapes how they act now.",
+   "notes": [
+    {
+     "h": "The Messiah (Mashiach)",
+     "bullets": [
+      "**Mashiach** means 'anointed one': kings were anointed with oil.",
+      "Traditional belief: a human leader, descended from **King David**, sent by God (Jeremiah 23:5).",
+      "He will gather Jews back to Israel, rebuild the Temple in Jerusalem, bring justice and bring the world to know God.",
+      "Belief that the Messiah will come is one of Maimonides' 13 Principles of Faith.",
+      "Jews pray for the Messiah in the daily Amidah prayer."
+     ]
+    },
+    {
+     "h": "The Messianic Age",
+     "bullets": [
+      "A future time of world peace: 'nation will not lift up sword against nation' (Isaiah 2:4).",
+      "No war, hunger or hatred, and everyone will worship the One God.",
+      "Some Jews believe the dead will be resurrected at this time."
+     ]
+    },
+    {
+     "h": "Different views",
+     "bullets": [
+      "Most **Orthodox** Jews expect a literal, personal Messiah and a rebuilt Temple.",
+      "**Reform** Jews usually do not expect a personal Messiah. They believe the Messianic Age will come through humans working together for justice and peace.",
+      "Jews do not believe Jesus was the Messiah, because the Messianic Age of peace has not happened."
+     ]
+    },
+    {
+     "h": "Influence today",
+     "bullets": [
+      "Hope that things will improve helps Jews through persecution and hardship.",
+      "Orthodox Jews keep the mitzvot closely, believing this brings the Messiah closer.",
+      "Reform Jews are influenced to work for justice, peace and **Tikkun Olam** to help bring the Messianic Age."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "A personal Messiah from David's line will come, rebuild the Temple and gather the exiles. Keeping the mitzvot and praying prepare the world for this."
+    },
+    {
+     "label": "Reform",
+     "text": "No personal Messiah. The Messianic Age is a hope for a better world that humans must work to create through justice, peace and care for creation."
+    }
+   ],
+   "terms": [
+    {
+     "term": "Messiah (Mashiach)",
+     "def": "'anointed one': the future leader who will bring peace"
+    },
+    {
+     "term": "Messianic Age",
+     "def": "the future time of peace and justice for all"
+    },
+    {
+     "term": "Temple",
+     "def": "the holy building in Jerusalem, destroyed by the Romans in 70 CE"
+    },
+    {
+     "term": "Tikkun Olam",
+     "def": "healing or repairing the world"
+    },
+    {
+     "term": "Amidah",
+     "def": "the central standing prayer, which includes requests for the Messiah"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'The days are coming,' declares the Lord, 'when I will raise up for David a righteous Branch, a King who will reign wisely and do what is just and right in the land.'",
+     "ref": "Jeremiah 23:5",
+     "use": "Use for the Messiah being a descendant of David and a just ruler."
+    },
+    {
+     "text": "'The spirit of the Lord will rest on him... the spirit of wisdom and understanding.'",
+     "ref": "Isaiah 11:2",
+     "use": "Use for the Messiah's character: wise and close to God."
+    },
+    {
+     "text": "'They will beat their swords into ploughshares... nation will not take up sword against nation.'",
+     "ref": "Isaiah 2:4",
+     "use": "Use for the Messianic Age as a time of world peace."
+    },
+    {
+     "text": "'I believe with perfect faith in the coming of the Messiah' (Maimonides, 12th Principle).",
+     "ref": "Maimonides, 13 Principles of Faith",
+     "use": "Use to show belief in the Messiah is a core teaching for Orthodox Jews."
+    }
+   ],
+   "tip": "Learn two Orthodox and two Reform points. For a 'different views' evaluation, contrast a personal Messiah (Orthodox) with a Messianic Age brought by humans (Reform)."
+  },
+  {
+   "id": "jb-06",
+   "code": "Jew Bel.6",
+   "title": "The Promised Land and the Covenant with Abraham",
+   "overview": "God's covenant with Abraham created the Jewish people and promised them land. It explains why Jews see themselves as chosen, why circumcision matters and why Israel is special.",
+   "notes": [
+    {
+     "h": "The covenant with Abraham",
+     "bullets": [
+      "A **covenant** is a binding agreement between God and people.",
+      "God told Abram to leave his home and promised: a great nation, a blessing, and a land (Genesis 12:1-3).",
+      "God promised Abraham as many descendants as the stars (Genesis 15:5) and the land of Canaan 'for ever' (Genesis 17:8).",
+      "Abraham's side: worship only God, obey, and circumcise every male as the sign of the covenant (Genesis 17:10-11).",
+      "God changed Abram's name to Abraham and Sarai's to Sarah.",
+      "Abraham's willingness to sacrifice Isaac (Genesis 22) shows his faith, and God provided a ram instead."
+     ]
+    },
+    {
+     "h": "The Promised Land",
+     "bullets": [
+      "The land of Canaan is now the land of **Israel**. Jerusalem is the holiest city.",
+      "Jews have prayed for centuries to return, facing Jerusalem in prayer.",
+      "Moving to Israel is called **aliyah** ('going up'). Many Jews support Israel as a homeland and place of safety.",
+      "Some Jews see living in Israel as a mitzvah, while others feel Jews can live a full Jewish life anywhere."
+     ]
+    },
+    {
+     "h": "Why it matters today",
+     "bullets": [
+      "Jews see themselves as God's **chosen people**: a responsibility to follow God and be 'a light to the nations', not a privilege.",
+      "Brit Milah (circumcision on the eighth day) continues the covenant.",
+      "The covenant gives Jews a sense of identity, history and purpose."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "The covenant is eternal and binding. The land of Israel was given to the Jews by God, and the mitzvot must be kept as part of the covenant."
+    },
+    {
+     "label": "Reform",
+     "text": "The covenant is a close relationship that calls Jews to moral action. Many see being 'chosen' as a duty to serve humanity, and views on the land and Israel vary."
+    }
+   ],
+   "terms": [
+    {
+     "term": "covenant",
+     "def": "a binding agreement between God and people"
+    },
+    {
+     "term": "Brit Milah",
+     "def": "the covenant of circumcision, done on a baby boy's eighth day"
+    },
+    {
+     "term": "chosen people",
+     "def": "the belief that God chose the Jews to serve God and obey the mitzvot"
+    },
+    {
+     "term": "aliyah",
+     "def": "'going up': moving to Israel (also being called up to read the Torah)"
+    },
+    {
+     "term": "patriarch",
+     "def": "a founding father of the Jewish people: Abraham, Isaac and Jacob"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing.'",
+     "ref": "Genesis 12:2",
+     "use": "AQA names Genesis 12:1-3: use it for God's promises to Abraham."
+    },
+    {
+     "text": "'Look up at the sky and count the stars... So shall your offspring be.'",
+     "ref": "Genesis 15:5",
+     "use": "Use for the promise of many descendants."
+    },
+    {
+     "text": "'Every male among you shall be circumcised... it will be the sign of the covenant between Me and you.'",
+     "ref": "Genesis 17:10-11",
+     "use": "Use to explain why Jews keep Brit Milah."
+    },
+    {
+     "text": "'I will give you and your descendants the whole land of Canaan, as an everlasting possession.'",
+     "ref": "Genesis 17:8",
+     "use": "Use for the Promised Land."
+    },
+    {
+     "text": "'You are a holy people to the Lord your God... His treasured possession.'",
+     "ref": "Deuteronomy 7:6",
+     "use": "Use for the idea of the chosen people."
+    }
+   ],
+   "tip": "Quote Genesis 12:1-3 (the AQA named passage) and split the covenant into God's promises and Abraham's duties for a clear structure."
+  },
+  {
+   "id": "jb-07",
+   "code": "Jew Bel.7",
+   "title": "The covenant at Sinai and the Ten Commandments",
+   "overview": "At Mount Sinai God gave Moses the Torah, including the Ten Commandments. This is the heart of Jewish law and identity.",
+   "notes": [
+    {
+     "h": "Moses and the covenant at Sinai",
+     "bullets": [
+      "Moses was raised in Egypt, was chosen by God at the burning bush and led the Israelites out of slavery.",
+      "Three months after leaving Egypt, the Israelites reached **Mount Sinai**, where God made a covenant with them (Exodus 19).",
+      "The people agreed: 'All that the Lord has spoken we will do' (Exodus 24:7).",
+      "God's promise: the Jews will be His 'treasured possession' and a 'holy nation'. The people's promise: keep the mitzvot.",
+      "The sign of the Mosaic covenant is **Shabbat** (Exodus 31:16-17).",
+      "Moses is the greatest prophet and teacher. Many Orthodox Jews believe he received both the Written Torah and the Oral Torah at Sinai."
+     ]
+    },
+    {
+     "h": "The Ten Commandments (Exodus 20:1-17)",
+     "bullets": [
+      "Judaism counts 'I am the Lord your God who brought you out of Egypt' as the first commandment.",
+      "Mitzvot between **people and God**: one God, no idols, do not misuse God's name, keep Shabbat.",
+      "Mitzvot between **people and people**: honour parents, do not murder, commit adultery, steal, lie about others or be jealous of what others have.",
+      "They are part of the 613 mitzvot and are read in the synagogue and displayed above the ark."
+     ]
+    },
+    {
+     "h": "Importance today",
+     "bullets": [
+      "The covenant gives Jews their identity as a people with a mission.",
+      "Jews keep Shabbat, respect parents and treat others fairly because God commanded it at Sinai.",
+      "The covenant is seen as lasting for ever, so each generation takes it on (for example at Bar and Bat Mitzvah)."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "The whole Torah was given by God at Sinai word for word and the Ten Commandments and all 613 mitzvot are binding."
+    },
+    {
+     "label": "Reform",
+     "text": "The Torah is inspired by God and written down by humans. The Ten Commandments are a key moral guide, and Jews decide how to apply other mitzvot today."
+    }
+   ],
+   "terms": [
+    {
+     "term": "Mount Sinai",
+     "def": "the mountain where God gave Moses the Torah"
+    },
+    {
+     "term": "Ten Commandments",
+     "def": "the ten central laws in Exodus 20 and Deuteronomy 5"
+    },
+    {
+     "term": "Moses",
+     "def": "the prophet who led the Israelites out of Egypt and received the Torah"
+    },
+    {
+     "term": "Torah",
+     "def": "the teachings and laws of God; the first five books of the Tenakh"
+    },
+    {
+     "term": "Shabbat",
+     "def": "the sign of the covenant with Moses"
+    }
+   ],
+   "sources": [
+    {
+     "text": "The Ten Commandments, beginning 'I am the Lord your God, who brought you out of Egypt'.",
+     "ref": "Exodus 20:1-17",
+     "use": "AQA names this passage: quote one or two commandments and explain how Jews follow them."
+    },
+    {
+     "text": "'All that the Lord has spoken we will do and we will obey.'",
+     "ref": "Exodus 24:7",
+     "use": "Use to show the Israelites freely accepted the covenant."
+    },
+    {
+     "text": "'You will be my treasured possession... a kingdom of priests and a holy nation.'",
+     "ref": "Exodus 19:5-6",
+     "use": "Use for the covenant promise and the chosen people idea."
+    },
+    {
+     "text": "The Israelites shall keep the Sabbath 'as a lasting covenant'.",
+     "ref": "Exodus 31:16",
+     "use": "Use to link the Sinai covenant to Shabbat."
+    },
+    {
+     "text": "Moses received the Torah from Sinai and passed it on to Joshua.",
+     "ref": "Pirkei Avot 1:1",
+     "use": "Use to show Torah authority passing through the generations."
+    }
+   ],
+   "tip": "Be able to name at least four of the Ten Commandments and say which are between God and people and which are between people."
+  },
+  {
+   "id": "jb-08",
+   "code": "Jew Bel.8",
+   "title": "Key moral principles in Judaism",
+   "overview": "Justice, healing the world, charity and kindness guide how Jews treat others and the world. They link belief in God to everyday action.",
+   "notes": [
+    {
+     "h": "Justice (tzedek)",
+     "bullets": [
+      "God is just, so Jews are called to act fairly and stand up for the powerless.",
+      "Jews campaign against poverty, racism and unfair treatment, and for fair pay and human rights.",
+      "Amos 5:24: 'Let justice roll down like water'."
+     ]
+    },
+    {
+     "h": "Healing the world (Tikkun Olam)",
+     "bullets": [
+      "**Tikkun Olam** means repairing the world: caring for people, animals and the environment.",
+      "It is based on the Talmud's 'It is not for you to finish the work, but you are not free to ignore it'.",
+      "Examples: charity work, environmental projects, volunteering, working for peace.",
+      "Many Reform Jews see Tikkun Olam as a main way of living out their faith."
+     ]
+    },
+    {
+     "h": "Charity (tzedakah)",
+     "bullets": [
+      "**Tzedakah** comes from the word for righteousness: giving is a duty, not just a kindness.",
+      "Jews are expected to give at least a tenth of income (**maaser**). Many homes have a tzedakah box.",
+      "Maimonides said the highest form of giving is helping a person become self-sufficient.",
+      "Wealth is seen as a loan from God to use well."
+     ]
+    },
+    {
+     "h": "Kindness (chesed)",
+     "bullets": [
+      "**Chesed** means loving-kindness: acts done freely from the heart.",
+      "The Talmud says chesed is greater than tzedakah, because it can be done for rich and poor, living and dead, with money or time.",
+      "'Love your neighbour as yourself' (Leviticus 19:18) and Rabbi Hillel's 'What is hateful to you, do not do to others' sum up the Torah.",
+      "Examples: visiting the sick, welcoming guests, comforting mourners."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "Justice, charity and kindness are mitzvot that come from the Torah and must be done as commands from God, alongside ritual mitzvot."
+    },
+    {
+     "label": "Reform",
+     "text": "Place special emphasis on the ethical teachings of the prophets and on Tikkun Olam and social action as the heart of Judaism."
+    }
+   ],
+   "terms": [
+    {
+     "term": "tzedek",
+     "def": "justice, righteousness"
+    },
+    {
+     "term": "Tikkun Olam",
+     "def": "healing or repairing the world"
+    },
+    {
+     "term": "tzedakah",
+     "def": "charity, seen as a duty of justice"
+    },
+    {
+     "term": "chesed",
+     "def": "loving-kindness"
+    },
+    {
+     "term": "maaser",
+     "def": "giving a tenth of income to charity"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Let justice roll on like a river, righteousness like a never-failing stream.'",
+     "ref": "Amos 5:24",
+     "use": "Use for justice: Jews are called to work for a fair society."
+    },
+    {
+     "text": "'I will make you a light to the nations.'",
+     "ref": "Isaiah 42:6",
+     "use": "Use for Tikkun Olam: Jews should set an example and improve the world."
+    },
+    {
+     "text": "'You shall love your neighbour as yourself.'",
+     "ref": "Leviticus 19:18",
+     "use": "Use for kindness and treating others well."
+    },
+    {
+     "text": "'What does the Lord require of you? To do justice, love kindness, and walk humbly with your God.'",
+     "ref": "Micah 6:8",
+     "use": "Use for justice and kindness together."
+    },
+    {
+     "text": "'It is not for you to finish the work, but neither are you free to ignore it.'",
+     "ref": "Pirkei Avot 2:16 (Talmudic teaching)",
+     "use": "Use for Tikkun Olam as a lifelong duty."
+    }
+   ],
+   "tip": "AQA names four principles: justice, healing the world, charity, kindness. In a 4-mark question, choose two and show a real action Jews take because of them."
+  },
+  {
+   "id": "jb-09",
+   "code": "Jew Bel.9",
+   "title": "Sanctity of life and Pikuach Nefesh",
+   "overview": "Jews believe all human life is holy because it comes from God. The duty to save life (Pikuach Nefesh) can override almost every other Jewish law.",
+   "notes": [
+    {
+     "h": "Sanctity of life",
+     "bullets": [
+      "Life is **sacred** because humans are created in God's image (Genesis 1:27) and life belongs to God.",
+      "The Mishnah says that saving one life is like saving a whole world (Sanhedrin 4:5).",
+      "Jews believe God knows each person before birth (Psalm 139), so every person has value, including the disabled and the elderly.",
+      "Deuteronomy 30:19 tells Jews to 'choose life'."
+     ]
+    },
+    {
+     "h": "Pikuach Nefesh (saving a life)",
+     "bullets": [
+      "**Pikuach Nefesh** is the duty to save a life, even if it means breaking other laws.",
+      "A doctor can work on **Shabbat**, and Jews can break kosher rules or fast on Yom Kippur if life is at risk.",
+      "If it is unclear whether life is at risk, Jews assume it is.",
+      "There are exceptions: a Jew must not murder, commit idolatry, or commit forbidden sexual relations, even to save a life (Talmud, Sanhedrin 74a)."
+     ]
+    },
+    {
+     "h": "Influence today",
+     "bullets": [
+      "Many Jews support organ donation, because saving a life is more important than keeping the body whole.",
+      "Jews work in medicine and emergency services, and run charities such as Hatzolah volunteer ambulances.",
+      "Many Jews oppose euthanasia and are cautious about abortion, but allow it if the mother's life is at risk."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "Pikuach Nefesh overrides almost all mitzvot except the three exceptions. Many rabbis allow organ donation. Euthanasia is forbidden, because only God gives and takes life."
+    },
+    {
+     "label": "Reform",
+     "text": "Also value life as sacred, but give more weight to personal conscience and compassion in medical decisions. Views on end-of-life choices vary more widely than in Orthodox Judaism."
+    }
+   ],
+   "terms": [
+    {
+     "term": "sanctity of life",
+     "def": "the belief that life is holy and belongs to God"
+    },
+    {
+     "term": "Pikuach Nefesh",
+     "def": "the duty to save a life, which overrides most other laws"
+    },
+    {
+     "term": "image of God",
+     "def": "the belief that every person reflects God (Genesis 1:27)"
+    },
+    {
+     "term": "Hatzolah",
+     "def": "Jewish volunteer ambulance service"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'God created humans in His image, in the image of God He created them.'",
+     "ref": "Genesis 1:27",
+     "use": "Use to show why life is sacred."
+    },
+    {
+     "text": "Whoever saves one life is credited as though they saved an entire world.",
+     "ref": "Mishnah Sanhedrin 4:5",
+     "use": "Use for Pikuach Nefesh and saving a life."
+    },
+    {
+     "text": "'I have set before you life and death... therefore choose life.'",
+     "ref": "Deuteronomy 30:19",
+     "use": "Use for the duty to protect life."
+    },
+    {
+     "text": "'Do not stand idly by while your neighbour's blood is shed.'",
+     "ref": "Leviticus 19:16",
+     "use": "Use for the duty to act to save life."
+    },
+    {
+     "text": "The commandments are to be lived by, not died by.",
+     "ref": "Leviticus 18:5 with Talmud, Yoma 85b",
+     "use": "Use to explain why laws are broken to save life."
+    }
+   ],
+   "tip": "State the definition of Pikuach Nefesh and a clear example (a doctor on Shabbat), then add the exceptions for a high mark."
+  },
+  {
+   "id": "jb-10",
+   "code": "Jew Bel.10",
+   "title": "Free will and mitzvot",
+   "overview": "Jews believe God gave humans free will, and that they should use it to keep the 613 mitzvot. Orthodox and Reform Jews differ on how binding the mitzvot are.",
+   "notes": [
+    {
+     "h": "Free will",
+     "bullets": [
+      "Jews believe humans can choose between good and evil. Maimonides wrote: 'Free will is granted to every human being.'",
+      "Everyone has a good inclination (**yetzer ha-tov**) and a bad inclination (**yetzer ha-ra**) and must choose which to follow.",
+      "Free will matters because God judges people on their choices.",
+      "Pirkei Avot 3:15: 'Everything is foreseen, yet freedom of choice is given.'"
+     ]
+    },
+    {
+     "h": "The 613 mitzvot",
+     "bullets": [
+      "The Torah contains **613 mitzvot**: 248 positive commands ('do') and 365 negative commands ('do not').",
+      "Some are ritual mitzvot (such as Shabbat and kosher food), and some are ethical (such as justice and charity).",
+      "Mitzvot **between people and God** (bein adam la-Makom) include prayer, Shabbat and food laws. Mitzvot **between people** (bein adam le-chavero) include honouring parents and giving charity.",
+      "Both types are important. On Yom Kippur God forgives sins against God, but for sins against people you must first seek forgiveness from the person."
+     ]
+    },
+    {
+     "h": "Orthodox and Reform views",
+     "bullets": [
+      "**Orthodox**: the mitzvot are God's commands and are binding. Free will means choosing to obey them.",
+      "**Reform**: Jews use informed free will to decide which mitzvot to keep, focusing on those with ethical or spiritual meaning.",
+      "This explains why Jews differ over Shabbat, kosher food, and prayer."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Orthodox",
+     "text": "The 613 mitzvot are binding for all Jews. Free will is the ability to choose obedience or disobedience, and God will judge the choice."
+    },
+    {
+     "label": "Reform",
+     "text": "Jews have the autonomy to interpret the mitzvot. They choose those that give their lives meaning and help society, while ethical mitzvot are seen as central."
+    }
+   ],
+   "terms": [
+    {
+     "term": "free will",
+     "def": "the ability to make choices and be responsible for them"
+    },
+    {
+     "term": "mitzvah (plural mitzvot)",
+     "def": "a commandment from God in the Torah"
+    },
+    {
+     "term": "yetzer ha-tov / yetzer ha-ra",
+     "def": "the good and bad inclinations in every person"
+    },
+    {
+     "term": "bein adam la-Makom",
+     "def": "mitzvot between a person and God"
+    },
+    {
+     "term": "bein adam le-chavero",
+     "def": "mitzvot between one person and another"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'I have set before you life and death, blessing and curse. Choose life.'",
+     "ref": "Deuteronomy 30:19",
+     "use": "Use to show God gives humans the freedom to choose."
+    },
+    {
+     "text": "'Everything is foreseen, yet freedom of choice is given.'",
+     "ref": "Pirkei Avot 3:15",
+     "use": "Use to show God and free will are compatible."
+    },
+    {
+     "text": "'Free will is granted to every human being.'",
+     "ref": "Maimonides, Mishneh Torah, Laws of Repentance 5:1",
+     "use": "Use as a non-biblical source for free will."
+    },
+    {
+     "text": "'I am placing before you a blessing and a curse: the blessing if you obey the commandments.'",
+     "ref": "Deuteronomy 11:26-28",
+     "use": "Use to show choices about the mitzvot have consequences."
+    },
+    {
+     "text": "'This is the covenant... I will put my law within them and write it on their hearts.'",
+     "ref": "Jeremiah 31:33",
+     "use": "Use for the mitzvot being part of the covenant and known inwardly."
+    }
+   ],
+   "tip": "Note that there are 248 positive and 365 negative mitzvot (613 in total). Use 'mitzvot between people and God' and 'between people' to show full understanding."
+  }
+ ],
+ "flashcards": [
+  {
+   "topic": "jb-01",
+   "q": "What does monotheism mean?",
+   "a": "Belief in only one God. Jews believe in one God who is eternal, all-powerful, has no body and cannot be divided."
+  },
+  {
+   "topic": "jb-01",
+   "q": "What is the Shema and where is it from?",
+   "a": "The Jewish declaration of faith: 'Hear, O Israel, the Lord is our God, the Lord is One' (Deuteronomy 6:4). Said morning and evening."
+  },
+  {
+   "topic": "jb-01",
+   "q": "What does 'ex nihilo' mean in Jewish belief about creation?",
+   "a": "God created the universe from nothing, which shows God's unlimited power."
+  },
+  {
+   "topic": "jb-01",
+   "q": "Which commandment forbids worshipping other gods?",
+   "a": "'You shall have no other gods before Me' (Exodus 20:3). It supports the belief that God is One."
+  },
+  {
+   "topic": "jb-01",
+   "q": "How does Isaiah 45:7 show God as creator?",
+   "a": "It says God forms light and creates darkness. It shows God creates and keeps sustaining all things, not only at the start."
+  },
+  {
+   "topic": "jb-01",
+   "q": "How can belief in God as creator influence a Jew today?",
+   "a": "It encourages them to thank God, keep Shabbat, and look after the world as God's stewards (Psalm 24:1)."
+  },
+  {
+   "topic": "jb-02",
+   "q": "How many mitzvot are in the Torah?",
+   "a": "613: 248 positive commands (do) and 365 negative commands (do not)."
+  },
+  {
+   "topic": "jb-02",
+   "q": "Which quote describes God as judge, lawgiver and king?",
+   "a": "Isaiah 33:22: 'For the Lord is our judge, the Lord is our lawgiver, the Lord is our king.'"
+  },
+  {
+   "topic": "jb-02",
+   "q": "What does 'teshuvah' mean?",
+   "a": "Repentance, or 'returning' to God. God is merciful and forgives those who sincerely repent."
+  },
+  {
+   "topic": "jb-02",
+   "q": "When do Jews believe God judges people?",
+   "a": "Especially on Rosh Hashanah and Yom Kippur each year, and after death."
+  },
+  {
+   "topic": "jb-02",
+   "q": "Which verse shows God is loving and merciful?",
+   "a": "Exodus 34:6: God is 'compassionate and gracious, slow to anger, abounding in kindness'."
+  },
+  {
+   "topic": "jb-02",
+   "q": "What are the Noahide laws?",
+   "a": "Seven basic laws God gave to Noah for all humanity, such as not murdering or stealing."
+  },
+  {
+   "topic": "jb-03",
+   "q": "What does Shekhinah mean?",
+   "a": "The divine presence of God: God cannot be seen, but God's presence can be felt in the world."
+  },
+  {
+   "topic": "jb-03",
+   "q": "Give two examples of the Shekhinah in the Tenakh.",
+   "a": "The burning bush (Exodus 3) and the pillar of cloud by day and fire by night (Exodus 13:21)."
+  },
+  {
+   "topic": "jb-03",
+   "q": "Where does the word Shekhinah come from?",
+   "a": "It is not in the Tenakh itself. The rabbis use it in the Talmud and Midrash. It is a feminine Hebrew word."
+  },
+  {
+   "topic": "jb-03",
+   "q": "What does Pirkei Avot 3:6 say about the Shekhinah?",
+   "a": "When ten sit together studying Torah, the Shekhinah is among them. This links to the minyan."
+  },
+  {
+   "topic": "jb-03",
+   "q": "What is a minyan?",
+   "a": "Ten adults needed for communal prayer. Orthodox count men only. Reform count men and women."
+  },
+  {
+   "topic": "jb-03",
+   "q": "How does belief in the Shekhinah help Jews today?",
+   "a": "It gives comfort in suffering: God is close and never abandons them, even in exile."
+  },
+  {
+   "topic": "jb-04",
+   "q": "What is Olam Ha-Ba?",
+   "a": "'The world to come': the afterlife or future age where the righteous are with God."
+  },
+  {
+   "topic": "jb-04",
+   "q": "What is the difference between Gan Eden and Gehinnom?",
+   "a": "Gan Eden is paradise for the righteous. Gehinnom is a place of purification, not usually eternal punishment."
+  },
+  {
+   "topic": "jb-04",
+   "q": "What do many Orthodox Jews believe about resurrection?",
+   "a": "That God will physically raise the dead at the end of time. This is why they bury and do not cremate."
+  },
+  {
+   "topic": "jb-04",
+   "q": "What do many Reform Jews believe about the afterlife?",
+   "a": "That the soul is immortal, not that the body is physically resurrected. Some accept cremation."
+  },
+  {
+   "topic": "jb-04",
+   "q": "What is gilgul?",
+   "a": "Reincarnation: some Kabbalists and Hasidic Jews believe souls return to complete mitzvot and help heal the world."
+  },
+  {
+   "topic": "jb-04",
+   "q": "Which verse in Daniel supports judgement and resurrection?",
+   "a": "Daniel 12:2: 'Many who sleep in the dust will awake, some to everlasting life, others to shame.'"
+  },
+  {
+   "topic": "jb-05",
+   "q": "What does Messiah mean?",
+   "a": "'Anointed one' (Mashiach in Hebrew). It refers to a future leader sent by God."
+  },
+  {
+   "topic": "jb-05",
+   "q": "Who will the Messiah be descended from?",
+   "a": "King David (Jeremiah 23:5)."
+  },
+  {
+   "topic": "jb-05",
+   "q": "What is the Messianic Age?",
+   "a": "A future age of world peace and justice, with no war or hunger, when everyone worships the One God."
+  },
+  {
+   "topic": "jb-05",
+   "q": "How do Orthodox and Reform views of the Messiah differ?",
+   "a": "Orthodox expect a personal Messiah who rebuilds the Temple. Reform expect no person but a Messianic Age brought by human effort."
+  },
+  {
+   "topic": "jb-05",
+   "q": "Which Maimonides principle is about the Messiah?",
+   "a": "The 12th: belief in the coming of the Messiah, even if he is delayed."
+  },
+  {
+   "topic": "jb-05",
+   "q": "How does belief in the Messiah influence Jews today?",
+   "a": "It gives hope in hard times and encourages them to keep the mitzvot or work for justice and peace (Tikkun Olam)."
+  },
+  {
+   "topic": "jb-06",
+   "q": "What three things did God promise Abraham in Genesis 12:1-3?",
+   "a": "A great nation (many descendants), a blessing, and a land (Canaan)."
+  },
+  {
+   "topic": "jb-06",
+   "q": "What was the sign of the covenant with Abraham?",
+   "a": "Circumcision of every male (Genesis 17:10-11), done on the eighth day as Brit Milah."
+  },
+  {
+   "topic": "jb-06",
+   "q": "What name changes happened in the covenant with Abraham?",
+   "a": "Abram became Abraham and Sarai became Sarah."
+  },
+  {
+   "topic": "jb-06",
+   "q": "What is aliyah?",
+   "a": "'Going up': moving to Israel. It also means being called up to read from the Torah."
+  },
+  {
+   "topic": "jb-06",
+   "q": "What does 'chosen people' mean for Jews?",
+   "a": "God chose the Jews for a special relationship and duty to keep the mitzvot. It is a responsibility, not a privilege."
+  },
+  {
+   "topic": "jb-06",
+   "q": "Which story tests Abraham's faith?",
+   "a": "Genesis 22: God asks Abraham to sacrifice Isaac, then provides a ram instead."
+  },
+  {
+   "topic": "jb-07",
+   "q": "Where did God give the Ten Commandments to Moses?",
+   "a": "On Mount Sinai (Exodus 19-20)."
+  },
+  {
+   "topic": "jb-07",
+   "q": "What was the sign of the covenant with Moses?",
+   "a": "Shabbat (Exodus 31:16-17)."
+  },
+  {
+   "topic": "jb-07",
+   "q": "Which Ten Commandments are about people and God?",
+   "a": "One God, no idols, do not misuse God's name and keep Shabbat."
+  },
+  {
+   "topic": "jb-07",
+   "q": "How did the Israelites respond at Sinai?",
+   "a": "'All that the Lord has spoken we will do' (Exodus 24:7)."
+  },
+  {
+   "topic": "jb-07",
+   "q": "What does Judaism count as the first commandment?",
+   "a": "'I am the Lord your God, who brought you out of Egypt' (Exodus 20:2)."
+  },
+  {
+   "topic": "jb-07",
+   "q": "Name two commandments between people and people.",
+   "a": "Honour your parents, and do not murder, commit adultery, steal, lie about others or covet."
+  },
+  {
+   "topic": "jb-08",
+   "q": "What is Tikkun Olam?",
+   "a": "'Healing the world': caring for people, animals and the environment to make the world better."
+  },
+  {
+   "topic": "jb-08",
+   "q": "What is the difference between tzedakah and chesed?",
+   "a": "Tzedakah is giving charity as a duty. Chesed is loving-kindness shown freely to anyone, rich or poor, with money or acts."
+  },
+  {
+   "topic": "jb-08",
+   "q": "What is maaser?",
+   "a": "Giving a tenth of income to charity."
+  },
+  {
+   "topic": "jb-08",
+   "q": "Quote Amos 5:24 on justice.",
+   "a": "'Let justice roll on like a river, righteousness like a never-failing stream.'"
+  },
+  {
+   "topic": "jb-08",
+   "q": "What did Maimonides say is the highest form of giving?",
+   "a": "Helping a person become self-sufficient, for example by giving them a job or loan."
+  },
+  {
+   "topic": "jb-08",
+   "q": "Which verse is often used for kindness to others?",
+   "a": "Leviticus 19:18: 'Love your neighbour as yourself.'"
+  },
+  {
+   "topic": "jb-09",
+   "q": "What does Pikuach Nefesh mean?",
+   "a": "Saving a life: the duty to save life overrides almost all other Jewish laws."
+  },
+  {
+   "topic": "jb-09",
+   "q": "Which three laws can never be broken to save a life?",
+   "a": "Murder, idolatry, and forbidden sexual relations (Sanhedrin 74a)."
+  },
+  {
+   "topic": "jb-09",
+   "q": "Why is human life sacred in Judaism?",
+   "a": "Humans are made in God's image (Genesis 1:27) and life belongs to God."
+  },
+  {
+   "topic": "jb-09",
+   "q": "What does Mishnah Sanhedrin 4:5 teach?",
+   "a": "Saving one life is like saving a whole world."
+  },
+  {
+   "topic": "jb-09",
+   "q": "Give an example of Pikuach Nefesh on Shabbat.",
+   "a": "A Jewish doctor working on Shabbat to treat an emergency, or driving someone to hospital."
+  },
+  {
+   "topic": "jb-09",
+   "q": "How does sanctity of life influence Jews' views on organ donation?",
+   "a": "Many Jews support it as saving life is a mitzvah that outweighs keeping the body intact."
+  },
+  {
+   "topic": "jb-10",
+   "q": "What is free will?",
+   "a": "The ability to choose between right and wrong and to be responsible for the choice."
+  },
+  {
+   "topic": "jb-10",
+   "q": "How many positive and negative mitzvot are there?",
+   "a": "248 positive (do) and 365 negative (do not): 613 in total."
+  },
+  {
+   "topic": "jb-10",
+   "q": "What is the difference between mitzvot between people and God, and between people?",
+   "a": "Between people and God: prayer, Shabbat, food laws. Between people: honour parents, give charity, do not steal."
+  },
+  {
+   "topic": "jb-10",
+   "q": "What are the yetzer ha-tov and yetzer ha-ra?",
+   "a": "The good and bad inclinations in every person. Free will means choosing which to follow."
+  },
+  {
+   "topic": "jb-10",
+   "q": "How do Orthodox and Reform Jews differ on the mitzvot?",
+   "a": "Orthodox treat all as binding commands. Reform use informed free will to choose which to keep."
+  },
+  {
+   "topic": "jb-10",
+   "q": "What does Pirkei Avot 3:15 say?",
+   "a": "'Everything is foreseen, yet freedom of choice is given.'"
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "jb-01",
+   "q": "Which one of the following is the Jewish declaration of faith that God is One?",
+   "options": [
+    "The Shema",
+    "The Amidah",
+    "The Kaddish",
+    "The Aleinu"
+   ],
+   "answer": 0,
+   "why": "The Shema (Deuteronomy 6:4) states that the Lord is One. It is said morning and evening."
+  },
+  {
+   "topic": "jb-01",
+   "q": "Which one of the following best describes 'ex nihilo'?",
+   "options": [
+    "God created from existing matter",
+    "God created the world in seven days",
+    "God created only humans",
+    "God created from nothing"
+   ],
+   "answer": 3,
+   "why": "Ex nihilo means 'from nothing': most Jews believe God made the universe from nothing, showing God's power."
+  },
+  {
+   "topic": "jb-01",
+   "q": "Why do Jews reject the Christian idea of the Trinity?",
+   "options": [
+    "They believe God is indivisible and One",
+    "They believe God is not creator",
+    "They believe God has a body",
+    "They do not believe in prayer"
+   ],
+   "answer": 0,
+   "why": "Jews believe God is a single, indivisible One (the Shema), so God cannot be three persons."
+  },
+  {
+   "topic": "jb-02",
+   "q": "Which one of the following is the central teaching about the number of mitzvot?",
+   "options": [
+    "10",
+    "248",
+    "613",
+    "365"
+   ],
+   "answer": 2,
+   "why": "There are 613 mitzvot: 248 positive and 365 negative."
+  },
+  {
+   "topic": "jb-02",
+   "q": "Isaiah 33:22 describes God as which of the following?",
+   "options": [
+    "Creator, sustainer and saviour",
+    "Shepherd, father and teacher",
+    "Messenger, priest and prophet",
+    "Judge, lawgiver and king"
+   ],
+   "answer": 3,
+   "why": "Isaiah 33:22 says 'The Lord is our judge, the Lord is our lawgiver, the Lord is our king'."
+  },
+  {
+   "topic": "jb-02",
+   "q": "A Jew says God is both just and merciful. Which belief about God does this show?",
+   "options": [
+    "God only punishes",
+    "God is judge and loving and merciful",
+    "God has no laws",
+    "God is not involved in the world"
+   ],
+   "answer": 1,
+   "why": "AQA lists God as Law-Giver and Judge, loving and merciful: God judges fairly but forgives those who truly repent."
+  },
+  {
+   "topic": "jb-03",
+   "q": "Which one of the following terms means the divine presence of God?",
+   "options": [
+    "Mitzvot",
+    "Pikuach Nefesh",
+    "Talmud",
+    "Shekhinah"
+   ],
+   "answer": 3,
+   "why": "Shekhinah means God's presence felt in the world."
+  },
+  {
+   "topic": "jb-03",
+   "q": "Which one of these is an example of the Shekhinah in the Tenakh?",
+   "options": [
+    "The Ten Plagues",
+    "The Passover lamb",
+    "The golden calf",
+    "The pillar of cloud and fire"
+   ],
+   "answer": 3,
+   "why": "Exodus 13:21 describes God going before the Israelites in a pillar of cloud by day and fire by night."
+  },
+  {
+   "topic": "jb-03",
+   "q": "How might belief in the Shekhinah influence a Jew who is suffering?",
+   "options": [
+    "It reminds them God is with them and does not abandon them",
+    "It tells them God is absent",
+    "It tells them to leave Judaism",
+    "It means they do not need to pray"
+   ],
+   "answer": 0,
+   "why": "The rabbis taught that the Shekhinah went into exile with the Jews, which gives comfort."
+  },
+  {
+   "topic": "jb-04",
+   "q": "Which one of the following is the place of purification in Jewish belief about the afterlife?",
+   "options": [
+    "Gan Eden",
+    "Sheol",
+    "Gehinnom",
+    "Olam Ha-Zeh"
+   ],
+   "answer": 2,
+   "why": "Gehinnom is usually seen as a place of purification. Gan Eden is paradise, and Olam Ha-Zeh is this world."
+  },
+  {
+   "topic": "jb-04",
+   "q": "Why do many Orthodox Jews bury their dead and not cremate?",
+   "options": [
+    "Cremation costs too much",
+    "They do not believe in an afterlife",
+    "The Torah bans fire",
+    "They believe in a physical resurrection of the body"
+   ],
+   "answer": 3,
+   "why": "Orthodox Jews believe God will physically raise the dead, so the body is buried."
+  },
+  {
+   "topic": "jb-04",
+   "q": "Which one of the following is the belief of many Reform Jews?",
+   "options": [
+    "Physical resurrection only",
+    "There is no afterlife of any kind",
+    "The soul is immortal",
+    "Reincarnation is required"
+   ],
+   "answer": 2,
+   "why": "Many Reform Jews believe in the immortality of the soul rather than a physical resurrection."
+  },
+  {
+   "topic": "jb-05",
+   "q": "What does the word Messiah mean?",
+   "options": [
+    "Anointed one",
+    "Chosen one",
+    "Holy prophet",
+    "Law-giver"
+   ],
+   "answer": 0,
+   "why": "Mashiach means 'anointed one' because kings were anointed with oil."
+  },
+  {
+   "topic": "jb-05",
+   "q": "Which one of the following do many Orthodox Jews believe about the Messiah?",
+   "options": [
+    "He has already come as Jesus",
+    "He will not come",
+    "He will be an angel",
+    "He will be a descendant of King David"
+   ],
+   "answer": 3,
+   "why": "Jeremiah 23:5 says the Messiah will come from David's line. Jews do not believe Jesus was the Messiah."
+  },
+  {
+   "topic": "jb-05",
+   "q": "A Reform Jew believes the Messianic Age will come through human effort. How might this influence them?",
+   "options": [
+    "They avoid the world",
+    "They work for justice and peace (Tikkun Olam)",
+    "They stop praying",
+    "They wait for a king"
+   ],
+   "answer": 1,
+   "why": "If the Messianic Age depends on humans, Reform Jews are influenced to work for a better world."
+  },
+  {
+   "topic": "jb-06",
+   "q": "Which one of the following was the sign of the covenant with Abraham?",
+   "options": [
+    "Shabbat",
+    "The rainbow",
+    "Circumcision",
+    "The Ten Commandments"
+   ],
+   "answer": 2,
+   "why": "Genesis 17:10-11 says circumcision is the sign of the covenant with Abraham."
+  },
+  {
+   "topic": "jb-06",
+   "q": "Which one of these did God NOT promise Abraham in Genesis 12:1-3?",
+   "options": [
+    "A great nation",
+    "A blessing",
+    "The land of Canaan",
+    "A rebuilt Temple"
+   ],
+   "answer": 3,
+   "why": "God promised nation, blessing and land. The Temple was built much later by Solomon."
+  },
+  {
+   "topic": "jb-06",
+   "q": "A Jewish family emigrates to Israel. What is this called?",
+   "options": [
+    "Aliyah",
+    "Shiva",
+    "Seder",
+    "Teshuvah"
+   ],
+   "answer": 0,
+   "why": "Aliyah means 'going up': moving to Israel."
+  },
+  {
+   "topic": "jb-07",
+   "q": "Where did Moses receive the Ten Commandments?",
+   "options": [
+    "Mount Moriah",
+    "Mount Carmel",
+    "Mount Sinai",
+    "Mount Zion"
+   ],
+   "answer": 2,
+   "why": "God gave the Ten Commandments on Mount Sinai (Exodus 19-20)."
+  },
+  {
+   "topic": "jb-07",
+   "q": "Which one of the following is the sign of the covenant with Moses?",
+   "options": [
+    "Circumcision",
+    "The rainbow",
+    "Tzedakah",
+    "Shabbat"
+   ],
+   "answer": 3,
+   "why": "Exodus 31:16-17 says Shabbat is a lasting sign of the covenant with Israel."
+  },
+  {
+   "topic": "jb-07",
+   "q": "Which one of these is a commandment between people and people?",
+   "options": [
+    "Do not murder",
+    "Keep Shabbat",
+    "Have no other gods",
+    "Do not make idols"
+   ],
+   "answer": 0,
+   "why": "'You shall not murder' is about how people treat each other. The others are about the relationship with God."
+  },
+  {
+   "topic": "jb-08",
+   "q": "Which one of the following means 'healing the world'?",
+   "options": [
+    "Tzedakah",
+    "Chesed",
+    "Tikkun Olam",
+    "Maaser"
+   ],
+   "answer": 2,
+   "why": "Tikkun Olam means healing or repairing the world."
+  },
+  {
+   "topic": "jb-08",
+   "q": "According to the Talmud, why is chesed greater than tzedakah?",
+   "options": [
+    "It costs more money",
+    "It is only for rabbis",
+    "It is in the Ten Commandments",
+    "It can be done for rich and poor, living and dead, with money or acts"
+   ],
+   "answer": 3,
+   "why": "The Talmud (Sukkah 49b) says chesed can be done for anyone and in any way."
+  },
+  {
+   "topic": "jb-08",
+   "q": "A Jewish family always puts aside a tenth of their income for charity. What is this called?",
+   "options": [
+    "Chesed",
+    "Maaser",
+    "Mikveh",
+    "Minyan"
+   ],
+   "answer": 1,
+   "why": "Maaser means giving a tenth of income, a form of tzedakah."
+  },
+  {
+   "topic": "jb-09",
+   "q": "Which one of the following is Pikuach Nefesh?",
+   "options": [
+    "Keeping Shabbat",
+    "Studying Torah",
+    "Saving a life",
+    "Giving charity"
+   ],
+   "answer": 2,
+   "why": "Pikuach Nefesh means saving a life, which overrides almost all other laws."
+  },
+  {
+   "topic": "jb-09",
+   "q": "A Jewish doctor is called to work on Shabbat for an emergency. What belief allows this?",
+   "options": [
+    "Pikuach Nefesh",
+    "Teshuvah",
+    "Kashrut",
+    "Aliyah"
+   ],
+   "answer": 0,
+   "why": "Pikuach Nefesh allows work on Shabbat to save life."
+  },
+  {
+   "topic": "jb-09",
+   "q": "Which one of these laws may NOT be broken to save a life?",
+   "options": [
+    "Shabbat",
+    "Kosher food laws",
+    "Murder",
+    "Fasting on Yom Kippur"
+   ],
+   "answer": 2,
+   "why": "The Talmud says murder, idolatry and forbidden sexual relations may never be broken, even to save a life."
+  },
+  {
+   "topic": "jb-10",
+   "q": "How many negative mitzvot ('do not') are there?",
+   "options": [
+    "248",
+    "365",
+    "613",
+    "10"
+   ],
+   "answer": 1,
+   "why": "There are 365 negative and 248 positive mitzvot, making 613."
+  },
+  {
+   "topic": "jb-10",
+   "q": "Which one of the following best describes the Reform view of the mitzvot?",
+   "options": [
+    "All are binding in the same way",
+    "Jews use informed free will to choose which to follow",
+    "They no longer matter",
+    "Only the Ten Commandments matter"
+   ],
+   "answer": 1,
+   "why": "Reform Jews see mitzvot as guidance and use informed choice, while Orthodox Jews treat them as binding."
+  },
+  {
+   "topic": "jb-10",
+   "q": "Which one of these is a mitzvah between people and God?",
+   "options": [
+    "Giving charity",
+    "Honouring parents",
+    "Keeping Shabbat",
+    "Not stealing"
+   ],
+   "answer": 2,
+   "why": "Shabbat is between people and God. The other options are between people."
+  }
+ ],
+ "exam": [
+  {
+   "topic": "jb-01",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in God as Creator influences Jews today. (4 marks)",
+   "model": "One way is that Jews believe God created the world and is still sustaining it. This influences Jews to thank God daily, for example by saying blessings before and after meals and praying the Shema each morning and evening.\n\nAnother way is that Jews believe God made the world and gave humans stewardship of it. This influences Jews to look after the environment, for example by recycling, planting trees or supporting conservation, because the earth belongs to God.",
+   "points": [
+    "God as sole creator and sustainer: influences daily prayer, blessings and thanksgiving",
+    "Genesis 1 / Isaiah 45:7: creation has a purpose, so life has meaning",
+    "Stewardship (Psalm 24:1): influences care for the environment and animals (Tikkun Olam)",
+    "Shabbat remembers God resting after creation: influences keeping Shabbat",
+    "Humans made in God's image: influences respect for all people",
+    "Each way: 1 mark for the belief and 1 mark for how it influences Jews"
+   ]
+  },
+  {
+   "topic": "jb-02",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in God as Law-Giver and Judge influences Jews today. (4 marks)",
+   "model": "One way is that Jews believe God gave the 613 mitzvot to guide how people live. This influences Jews to study the Torah and follow the mitzvot, for example keeping kosher food laws and Shabbat, because they believe this is what God wants.\n\nAnother way is that Jews believe God is a fair judge who judges people on Rosh Hashanah and after death. This influences Jews to behave well and treat others fairly, and to repent on Yom Kippur so that God will forgive them.",
+   "points": [
+    "God gave the law at Sinai (613 mitzvot): influences obedience, study and practice (Orthodox strictly, Reform selectively)",
+    "God as judge: influences honest, fair and charitable living",
+    "Judgement at Rosh Hashanah/Yom Kippur: influences repentance (teshuvah) and seeking forgiveness",
+    "God is also merciful (Exodus 34:6): influences hope and willingness to change",
+    "Each way: 1 mark for the belief and 1 mark for how it influences Jews"
+   ]
+  },
+  {
+   "topic": "jb-03",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in the Shekhinah influences Jews today. (4 marks)",
+   "model": "One way is that Jews believe the Shekhinah is God's presence felt in the world. This influences Jews to feel that God is close to them in difficult times, such as illness or grief, so they pray and trust in God for comfort.\n\nAnother way is that the rabbis taught that the Shekhinah is present when ten people pray or study Torah together. This influences Jews to attend synagogue and to form a minyan so that they can worship as a community.",
+   "points": [
+    "Shekhinah as God's presence felt but not seen: comfort and trust in hard times",
+    "Shekhinah went into exile with the Jews: God does not abandon them",
+    "Presence in a minyan or Torah study (Pirkei Avot 3:6): influences regular synagogue attendance and study",
+    "Examples (burning bush, pillar of fire): reinforce that God is active in the world",
+    "Each way: 1 mark for the belief and 1 mark for how it influences Jews"
+   ]
+  },
+  {
+   "topic": "jb-05",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in the Messiah influences Jews today. (4 marks)",
+   "model": "One way is that Orthodox Jews believe a Messiah from the line of King David will come and bring peace. This influences them to keep the mitzvot carefully and pray for his coming three times a day in the Amidah, because they believe this prepares the world for him.\n\nAnother way is that Reform Jews believe in a Messianic Age that humans help create. This influences them to work for justice and peace, for example through charity work and campaigning, to make the world better.",
+   "points": [
+    "Orthodox: personal Messiah; influences prayer (Amidah) and strict mitzvot observance",
+    "Hope in suffering and persecution",
+    "Reform: Messianic Age through human effort; influences Tikkun Olam, justice and peace work",
+    "Messiah as peace-bringer (Isaiah 2:4): inspires Jews to seek peace",
+    "Each way: 1 mark for the belief and 1 mark for how it influences Jews"
+   ]
+  },
+  {
+   "topic": "jb-08",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in charity influences Jews today. (4 marks)",
+   "model": "One way is that Jews believe tzedakah is a duty to God and not an optional extra. This influences many Jews to give a tenth of their income to charity and to keep a tzedakah box at home.\n\nAnother way is that Jews believe wealth is a loan from God and that charity brings justice. This influences Jews to help the poor, for example by volunteering at a food bank or supporting Jewish charities that help refugees.",
+   "points": [
+    "Tzedakah as a mitzvah (duty): influences regular giving, maaser, tzedakah boxes",
+    "Wealth as a loan from God: influences generous sharing",
+    "Charity brings justice (tzedek): influences work for fairer society",
+    "Leviticus 19 (leaving gleanings) / Proverbs 25:21: even enemies should be helped",
+    "Examples: volunteering, food banks, Jewish charities, sponsorship",
+    "Each way: 1 mark for the belief and 1 mark for how it influences Jews"
+   ]
+  },
+  {
+   "topic": "jb-09",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in the sanctity of life influences Jews today. (4 marks)",
+   "model": "One way is that Jews believe life is sacred because humans are made in God's image. This influences many Jews to carry organ donor cards, because organ donation can save a life and saving life is a very important mitzvah.\n\nAnother way is that Jews follow Pikuach Nefesh, the duty to save a life. This influences Jews such as doctors to work on Shabbat in an emergency, even though work is normally forbidden.",
+   "points": [
+    "Life sacred, made in God's image (Genesis 1:27): respect for every person",
+    "Pikuach Nefesh: doctors and others break Shabbat laws to save life",
+    "Organ donation and medical research supported by many Jews",
+    "Sanhedrin 4:5: saving one life is like saving a world; influences helping in emergencies",
+    "Opposition to euthanasia and caution on abortion",
+    "Each way: 1 mark for the belief and 1 mark for how it influences Jews"
+   ]
+  },
+  {
+   "topic": "jb-04",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two Jewish beliefs about life after death. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One belief is that the dead will be physically resurrected when God decides. Many Orthodox Jews believe this, which is why they bury the dead and do not cremate. Maimonides' 13th principle of faith says God will bring the dead back to life, and Ezekiel 37:12 says 'I will open your graves and bring you up from your graves'. This means Orthodox Jews are influenced to bury their dead with care so the body is ready for resurrection.\n\nAnother belief is that the soul is immortal and God judges it. Many Reform Jews hold this view and do not insist on a physical resurrection. Daniel 12:2 says that many who sleep in the dust will awake, some to everlasting life and some to shame. This means Jews are influenced to live a good life now, because they believe God will judge them on how they treated others and kept the mitzvot.",
+   "points": [
+    "Belief 1: bodily resurrection (Orthodox), supported by Ezekiel 37:12, Isaiah 26:19, Maimonides' 13th principle",
+    "Belief 2: immortality of the soul and judgement (Reform and many others), Daniel 12:2",
+    "Other creditable beliefs: Olam Ha-Ba, Gan Eden, Gehinnom, Sheol, gilgul",
+    "Source of wisdom: Tenakh, Talmud, Pirkei Avot, Maimonides",
+    "Application: burial practice, living ethically, focusing on this life",
+    "Marks: 1 point + 1 development + 1 source/application for each belief"
+   ]
+  },
+  {
+   "topic": "jb-06",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two ways in which the Covenant with Abraham is important for Jews today. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One way is that the covenant gives Jews their identity as God's chosen people. God promised Abraham that he would be the father of a great nation, saying in Genesis 12:2 'I will make you into a great nation and I will bless you'. This means Jews see themselves as having a special responsibility to serve God and to be a light to others.\n\nAnother way is that the covenant created the practice of Brit Milah. In Genesis 17:10-11 God tells Abraham that every male must be circumcised as the sign of the covenant. This means Jewish families today circumcise their baby sons on the eighth day to keep the covenant and show that the child belongs to the Jewish people.",
+   "points": [
+    "Chosen people/special relationship and responsibility (Genesis 12:1-3; Deuteronomy 7:6)",
+    "Brit Milah as the sign of the covenant (Genesis 17:10-11)",
+    "Promised Land: connection to Israel, aliyah, Jerusalem (Genesis 17:8)",
+    "Abraham as a role model of faith and obedience (Genesis 22)",
+    "Numerous descendants (Genesis 15:5): continuity of the Jewish people",
+    "Marks: 1 point + 1 development + 1 source/application for each way"
+   ]
+  },
+  {
+   "topic": "jb-07",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two ways in which the Ten Commandments are important for Jews today. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One way is that the Ten Commandments are a central part of the covenant at Sinai. They are in Exodus 20:1-17 and begin 'I am the Lord your God, who brought you out of Egypt'. This means Jews see them as direct commands from God and read them in synagogue and display them above the ark.\n\nAnother way is that they guide how Jews live and treat others. The fourth commandment says to remember Shabbat and keep it holy, and the sixth forbids murder. This means Jews today keep Shabbat as a day of rest and treat life as sacred, because they believe obeying these commandments is part of keeping their promise to God.",
+   "points": [
+    "Part of the covenant with Moses at Sinai: direct from God (Exodus 19-20)",
+    "Foundation of the 613 mitzvot",
+    "Guide for commandments between people and God (Shabbat, no idols) and between people (no murder, theft)",
+    "Displayed in synagogues and read at Shavuot",
+    "Different views: Orthodox treat all as binding, Reform as moral guidance",
+    "Marks: 1 point + 1 development + 1 source/application for each way"
+   ]
+  },
+  {
+   "topic": "jb-10",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two Jewish beliefs about free will and the mitzvot. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One belief is that God gave humans free will so they can choose between good and evil. Deuteronomy 30:19 says 'I have set before you life and death, blessing and curse. Choose life'. This means Jews are responsible for their choices, so they try to make good choices and keep the mitzvot.\n\nAnother belief is that the mitzvot are binding for Orthodox Jews but a guide for Reform Jews. Orthodox Jews believe God commanded all 613 mitzvot, so they keep them strictly, while Reform Jews use informed free will to choose which mitzvot give their life meaning. Pirkei Avot 3:15 says 'everything is foreseen, yet freedom of choice is given', which supports using free will within God's law.",
+   "points": [
+    "Free will: humans choose good or evil; judged on choices (Deuteronomy 30:19; Pirkei Avot 3:15; Maimonides)",
+    "613 mitzvot: 248 positive and 365 negative",
+    "Mitzvot between people and God, and between people",
+    "Orthodox: binding; Reform: informed choice",
+    "Source of wisdom: Torah, Pirkei Avot, Maimonides",
+    "Marks: 1 point + 1 development + 1 source/application for each belief"
+   ]
+  },
+  {
+   "topic": "jb-08",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two ways in which Jews put the idea of Tikkun Olam (healing the world) into practice. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One way is by working for social justice and helping those in need. Isaiah 42:6 says Jews should be 'a light to the nations'. This means many Jews volunteer, give to charity and campaign for fairness, for example by supporting refugees, in order to make the world a better place.\n\nAnother way is by caring for the environment. Psalm 24:1 says 'The earth is the Lord's and everything in it'. This means Jews believe the world belongs to God, so many Jews take part in recycling, tree planting and conservation as a way of looking after God's creation.",
+   "points": [
+    "Tikkun Olam: repairing the world through social justice, charity, peace work",
+    "Environmental care and stewardship (Psalm 24:1; Deuteronomy 20:19)",
+    "Isaiah 42:6, 'light to the nations'; Talmud 'not for you to finish the work'",
+    "Links to the Messianic Age (especially Reform)",
+    "Examples: volunteering, Tzedek and other charities, campaigning",
+    "Marks: 1 point + 1 development + 1 source/application for each way"
+   ]
+  },
+  {
+   "topic": "jb-02",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two Jewish beliefs about God as Law-Giver and Judge. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One belief is that God is the Law-Giver who gave the Torah and 613 mitzvot to the Jewish people. Isaiah 33:22 says 'the Lord is our lawgiver', and in Deuteronomy 10:12-13 God asks Jews to keep His commandments for their own good. This means Jews study the Torah and try to follow the mitzvot because they believe this is how to live a holy life.\n\nAnother belief is that God is a fair judge who judges everyone by their actions. Genesis 18:25 asks 'Shall not the Judge of all the earth do justice?' This means Jews try to live honestly and treat others fairly, and they repent on Rosh Hashanah and Yom Kippur because they believe God will judge them.",
+   "points": [
+    "God as Law-Giver: Torah, 613 mitzvot, covenant at Sinai (Isaiah 33:22; Deuteronomy 10:12-13)",
+    "God as Judge: Rosh Hashanah, Yom Kippur and after death (Genesis 18:25; Psalm 75:7)",
+    "Loving and merciful: forgives those who repent (Exodus 34:6)",
+    "Application: following mitzvot, repentance, ethical behaviour",
+    "Marks: 1 point + 1 development + 1 source/application for each belief"
+   ]
+  },
+  {
+   "topic": "jb-05",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Belief in the Messiah is the most important Jewish belief.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "The Messiah is one of Maimonides' 13 Principles of Faith, so for many Orthodox Jews it is a core belief. They pray for him daily in the Amidah.",
+    "Belief in the Messiah gives hope in persecution and suffering. Jews have been persecuted for centuries, and the promise of a Messianic Age of peace (Isaiah 2:4) has helped them endure.",
+    "It motivates action: Jews who want the Messianic Age to come keep the mitzvot or work for justice, so the belief shapes how they live."
+   ],
+   "against": [
+    "The belief that God is One (the Shema) is more basic. Without it there is no Judaism, and the Messiah only matters because God is One and God will act.",
+    "Many Reform Jews do not expect a personal Messiah, so for them it cannot be the most important belief.",
+    "The covenant and the mitzvot shape daily life more than a future event. Jews keep Shabbat and kosher food laws now, whether or not the Messiah comes."
+   ],
+   "conclusion": "The Messiah is important, especially for Orthodox Jews, but belief in God as One and the covenant are more fundamental, because the Messiah depends on them.",
+   "model": "Some Jews would agree that belief in the Messiah is the most important belief. Maimonides listed the coming of the Messiah as one of his 13 Principles of Faith, and Orthodox Jews pray for him three times a day in the Amidah. The belief gives hope. Jews have faced persecution for centuries, and the promise of a Messianic Age of peace, when nations 'will not take up sword against nation' (Isaiah 2:4), gives meaning to suffering. It also influences behaviour, because Jews who want to bring the Messianic Age nearer keep the mitzvot carefully or work for justice. This is a strong argument for Orthodox Jews, because the Messiah is linked to the Temple, resurrection and the final judgement, so it connects to many other beliefs.\n\nHowever, there are strong arguments against. The Shema says 'the Lord is One', and belief in one God is the foundation of Judaism. Without this belief, the Messiah would have no meaning, as he is sent by God. In addition, many Reform Jews do not expect a personal Messiah at all and instead see the Messianic Age as something humans must create through Tikkun Olam. For them the belief cannot be the most important. Finally, the covenant and mitzvot affect Jewish life every day, in Shabbat, prayer and food laws, whereas the Messiah is a hope for the future.\n\nOverall, I think belief in the Messiah is very important, particularly as a source of hope, but it is not the most important belief. The Messiah depends on belief in God as One and on the covenant, which give Jews their identity and daily practice, so these are more fundamental. This is supported by the fact that Jews of all traditions accept the Shema, while only some accept a personal Messiah."
+  },
+  {
+   "topic": "jb-07",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'The Ten Commandments are all Jews need to live a good life.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "The Ten Commandments (Exodus 20:1-17) cover the most important duties to God and to others: worship one God, keep Shabbat, honour parents, do not murder, steal or lie.",
+    "They were given directly by God at Sinai as the core of the covenant, so they have the highest authority.",
+    "Many Reform Jews see the ethical commandments as the heart of Judaism, giving a simple guide for modern life."
+   ],
+   "against": [
+    "The Torah contains 613 mitzvot, and Orthodox Jews believe all are binding, covering food, dress, prayer and festivals that the Ten Commandments do not mention.",
+    "The Ten Commandments do not mention charity, kindness or Tikkun Olam, which Jews believe are essential (Leviticus 19:18, Micah 6:8).",
+    "Jews also rely on the Talmud and rabbis to interpret how to apply the law, so the Ten Commandments alone are not enough."
+   ],
+   "conclusion": "The Ten Commandments are a vital foundation, but most Jews believe a good life also needs the other mitzvot and the Oral Law, so the statement is not convincing.",
+   "model": "Some Jews would agree that the Ten Commandments are enough to live a good life. They were given by God to Moses on Mount Sinai (Exodus 20:1-17) and cover the central duties: to worship only God, to keep Shabbat, to honour parents, and not to murder, steal or lie. These laws cover duties to God and duties to other people, so they form a complete moral base. Many Reform Jews believe the ethical teaching of the Torah is more important than ritual laws, so they would see the Ten Commandments as a clear, simple guide for modern life. This is a reasonable argument, because if everyone followed them, society would be fairer and safer.\n\nHowever, most Jews would disagree. The Torah contains 613 mitzvot, and Orthodox Jews believe that all are binding because they were all given by God. These cover areas the Ten Commandments do not mention, such as kosher food, prayer, festivals and circumcision. Furthermore, the Ten Commandments say little about kindness or charity, yet Leviticus 19:18 commands 'love your neighbour as yourself' and Micah 6:8 says God requires people to 'do justice, love kindness and walk humbly'. Jews also depend on the Talmud to explain how to apply the law in everyday life. This is a strong argument, because the Ten Commandments are short and need interpretation.\n\nIn conclusion, I do not think the Ten Commandments are all Jews need. They are the heart of the covenant and give a strong moral foundation, but Jewish tradition teaches that the whole of the Torah, with the Talmud's guidance, is needed to live as God wants. Even Reform Jews, who select among the mitzvot, would still add the teachings on justice and kindness."
+  },
+  {
+   "topic": "jb-09",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Saving a life is always more important than keeping Jewish law.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "Pikuach Nefesh says saving life overrides almost all mitzvot, including Shabbat, kosher laws and Yom Kippur fasting.",
+    "Life is sacred because humans are made in God's image (Genesis 1:27), and Mishnah Sanhedrin 4:5 says saving one life is like saving a whole world.",
+    "Leviticus 18:5 says Jews should 'live by' the commandments, so the law exists to protect life, not to cause death."
+   ],
+   "against": [
+    "The Talmud (Sanhedrin 74a) says three laws can never be broken, even to save a life: idolatry, murder and forbidden sexual relations. So saving life is not 'always' more important.",
+    "Some Jews believe obeying God matters more than life itself, as in martyrdom to avoid idolatry.",
+    "A Jew cannot kill an innocent person to save another life, because all lives are equally precious."
+   ],
+   "conclusion": "Saving a life overrides nearly all Jewish law, but because of the three exceptions the word 'always' makes the statement too strong.",
+   "model": "There is a strong case for this statement. In Judaism life is sacred, because humans are created in God's image (Genesis 1:27). The principle of Pikuach Nefesh means that the duty to save a life overrides almost all other mitzvot. A Jewish doctor can work on Shabbat, and a sick person can eat or break the fast on Yom Kippur if their life is in danger. The Mishnah says that whoever saves one life is credited as if they saved an entire world (Sanhedrin 4:5), and Leviticus 18:5 says Jews should 'live by' the laws, which suggests the law is meant to protect life. This is a convincing argument, because it shows the purpose of the Torah is to give life and not take it away.\n\nHowever, the word 'always' is a problem. The Talmud (Sanhedrin 74a) teaches that there are three laws a Jew must never break, even to save a life: murder, idolatry and forbidden sexual relations. In history, some Jews chose death rather than worship other gods, because they believed obedience to God was more important than their own survival. Also, a Jew cannot kill an innocent person to save someone else, because each life is equally sacred. This is also a strong argument, because it shows Jewish law does have limits that even Pikuach Nefesh cannot change.\n\nIn conclusion, I think the statement is mostly true but not completely. In nearly every situation, saving life comes first, and this is why Pikuach Nefesh is one of the best-known Jewish principles. But because there are three exceptions, it is not true that it is 'always' more important. The exceptions actually protect sanctity of life in a different way, as they stop one life being valued over another."
+  },
+  {
+   "topic": "jb-10",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Jews should keep all 613 mitzvot.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "Orthodox Jews believe all 613 mitzvot were given by God at Sinai as part of the covenant, so they must be obeyed (Deuteronomy 11:26-28 says obedience brings blessing).",
+    "Keeping the mitzvot is how Jews keep their side of the covenant and show faith. Jeremiah 31:33 says God's law is written on their hearts.",
+    "Mitzvot give structure and identity and unite Jews across time. Maimonides wrote that they train a person to be good."
+   ],
+   "against": [
+    "Reform Jews believe in informed free will: they choose mitzvot that have moral or spiritual meaning, since some laws, such as Temple sacrifices, are impossible or outdated today.",
+    "Many mitzvot cannot be kept by everyone, for example some apply only to priests or only in Israel.",
+    "Pikuach Nefesh shows even Orthodox Jews do not keep every law in every situation, as saving life can override the rules."
+   ],
+   "conclusion": "The mitzvot are central to Judaism, but because some cannot be kept today and Jews are taught to use free will, it is better to say Jews should keep them as far as they can with understanding, not all of them in every case.",
+   "model": "Orthodox Jews would agree with this statement. They believe the 613 mitzvot were given by God to Moses at Sinai as part of the covenant, so each one is a command that must be followed. Deuteronomy 11:26-28 says that obeying the commandments brings a blessing, and not obeying brings a curse. The mitzvot cover every part of life, including prayer, food, Shabbat and treating others fairly, so keeping them gives Jews their identity and keeps them close to God. This is a strong argument for believers, because if God is the Law-Giver, picking and choosing could be disobedience.\n\nHowever, Reform Jews disagree. They believe God gave humans free will and that Jews should use informed choice to decide which mitzvot to follow. Pirkei Avot 3:15 says 'everything is foreseen, yet freedom of choice is given'. They argue that some mitzvot, such as Temple sacrifices, cannot be kept today and that others belong to a different time. In addition, some mitzvot apply only to priests or only in the Land of Israel, so no one can keep all 613. Even Orthodox Jews accept that Pikuach Nefesh can override mitzvot to save a life. This is a convincing argument, as it shows the statement is not realistic in practice.\n\nIn conclusion, I think the mitzvot are the heart of Jewish life and should be taken seriously, especially the ethical ones. However, the statement is too strong. Not all 613 can be kept by everyone, and Jewish teaching on free will suggests that Jews should choose to follow the mitzvot thoughtfully rather than just obey every one automatically. The best answer is that Jews should keep as many as they can with understanding."
+  },
+  {
+   "topic": "jb-04",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Jews should focus on this life, not on life after death.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "Judaism teaches that Olam Ha-Zeh (this world) is where the mitzvot are done. The Tenakh says little about the afterlife, so Jews focus on how they live now.",
+    "Tikkun Olam gives Jews a duty to repair the world today. The Talmud says 'It is not for you to finish the work, but you are not free to ignore it'.",
+    "Because Jewish beliefs about the afterlife differ widely (resurrection, immortal soul, gilgul), no one can be certain, so it is wiser to concentrate on what is known."
+   ],
+   "against": [
+    "Many Jews believe God will judge each person after death, so the afterlife gives a reason to live well (Daniel 12:2).",
+    "Orthodox Jews believe in bodily resurrection (Maimonides' 13th principle), and this affects burial practice and gives comfort when someone dies.",
+    "Belief in Gan Eden and Gehinnom motivates keeping the mitzvot, because actions have consequences beyond death. Pirkei Avot says only Torah and good deeds go with a person after death."
+   ],
+   "conclusion": "The main emphasis of Judaism is this life, but belief in judgement and resurrection gives that life meaning, so the two cannot really be separated.",
+   "model": "There is a good argument that Jews should focus on this life. Judaism teaches that this world, Olam Ha-Zeh, is where the mitzvot are carried out and where God's will is done. The Tenakh has very little to say about the afterlife, and Jewish views differ widely, from resurrection of the body to immortality of the soul or reincarnation. Since no one can be sure, it makes sense to concentrate on what is known. Tikkun Olam gives Jews a duty to heal the world now, and the Talmud says 'It is not for you to finish the work, but you are not free to ignore it'. This is a persuasive argument, as it explains why Jewish culture has stressed charity, justice and study more than speculation about heaven.\n\nHowever, the afterlife is still important to many Jews. They believe God will judge each person on how they lived, as Daniel 12:2 says some will awake to everlasting life and some to shame. This gives a strong reason to behave well. Orthodox Jews believe in bodily resurrection, as Maimonides taught in his 13 Principles of Faith, and this shapes their burial customs and comforts the bereaved. Pirkei Avot says that only Torah and good deeds go with a person when they die, which links this life directly to what comes next. This is also a strong argument, because without belief in judgement some Jews might feel less reason to keep the mitzvot.\n\nIn conclusion, I think the statement is largely right about emphasis, because Judaism is mainly concerned with how people live now. But the two ideas are connected: belief in judgement and an eternal soul gives meaning to actions in this life. So Jews should focus on this life, while keeping the afterlife in mind as the reason it matters."
+  }
+ ]
+}

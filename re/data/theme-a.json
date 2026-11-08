@@ -1,0 +1,1732 @@
+{
+ "section": {
+  "id": "theme-a",
+  "title": "Theme A: Relationships and families",
+  "short": "Theme A",
+  "paper": 2,
+  "religion": "Themes",
+  "blurb": "Sex and sexuality, contraception, marriage, divorce, families and gender equality, from Christian, Jewish and non-religious points of view."
+ },
+ "topics": [
+  {
+   "id": "ta-01",
+   "code": "Rel & Fam.1 and 2",
+   "title": "Human sexuality and sexual relationships before and outside marriage",
+   "overview": "Christians and Jews teach that sex is a gift from God, but they disagree about who it is for and when it is right. This topic is the basis for questions on sex before marriage, adultery and homosexual relationships.",
+   "notes": [
+    {
+     "h": "Human sexuality",
+     "bullets": [
+      "**Human sexuality** means how people express themselves as sexual beings. **Heterosexual** means attracted to the opposite gender. **Homosexual** means attracted to the same gender.",
+      "Christians see sex as a gift from God with two purposes: expressing love and bringing a couple closer, and having children (procreation). Genesis 1:28 says 'be fruitful and increase in number'.",
+      "Jews also see sex as natural and good, not just for making children. Marriage, closeness and pleasure are seen as blessings from God, and celibacy is not normally encouraged."
+     ]
+    },
+    {
+     "h": "Homosexual relationships",
+     "bullets": [
+      "In UK law, homosexual relationships are legal and sexual orientation is protected by the Equality Act 2010. Same-sex couples can marry in England and Wales (since 2014).",
+      "Traditional Christians (for example Roman Catholics) teach that being gay is not a sin, but homosexual sex is wrong because it cannot lead to children and is against God's design. They quote Leviticus 18:22.",
+      "Other Christians (for example Quakers and many liberal Anglicans) teach that a loving, faithful same-sex relationship is as valid as any other, because God made everyone and Jesus taught love of neighbour.",
+      "Orthodox Jews do not accept homosexual acts or same-sex marriage (Leviticus 18:22, and the duty to have children). Reform and Liberal Jews accept same-sex relationships and some hold same-sex weddings."
+     ]
+    },
+    {
+     "h": "Sex before marriage",
+     "bullets": [
+      "Traditional Christians (Catholic, many Evangelicals) teach that sex belongs only within marriage, because it joins two people for life. They use 1 Corinthians 6:18 and the Catechism. Some Christians accept sex in a loving, committed relationship such as an engagement, and the Archbishop of York (2011) said living together first can help a couple find out if they are suited.",
+      "Orthodox Jews teach that sex belongs within marriage. Reform Jews are more flexible if the couple are committed, responsible and protect each other from harm.",
+      "Many non-religious people see sex before marriage as normal if both people consent and take care over protection. The age of consent in the UK is 16."
+     ]
+    },
+    {
+     "h": "Sex outside marriage (adultery)",
+     "bullets": [
+      "**Adultery** is sex between two people where at least one is married to someone else. It is not a crime in the UK, but it is a common reason for divorce.",
+      "Christians and Jews teach it is a serious sin: it breaks the Ten Commandments (Exodus 20:14), breaks wedding promises, destroys trust and hurts children. Jesus taught that even lustful thoughts are a problem (Matthew 5:27-28), but he also forgave a woman caught in adultery (John 8)."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Roman Catholic",
+     "text": "Sex is only right within marriage and must be open to children. Homosexual acts are wrong, but gay people must be treated with respect and compassion. Sex before marriage and adultery are both wrong."
+    },
+    {
+     "label": "Church of England and many Protestants",
+     "text": "Sex is best within marriage. The Church of England teaches that gay people are valued equally by God and should never be hated, but its teaching is that marriage is between one man and one woman. Many Anglicans are more accepting of couples who are committed but unmarried."
+    },
+    {
+     "label": "Quaker and liberal Christian",
+     "text": "What matters is genuine love, commitment and care in a relationship, not the gender of the couple or whether they are married."
+    },
+    {
+     "label": "Orthodox Jewish",
+     "text": "Sex belongs within marriage. Homosexual acts and adultery are forbidden. Being gay is not itself condemned and people should be respected."
+    },
+    {
+     "label": "Reform and Liberal Jewish",
+     "text": "More accepting of committed relationships outside marriage and of same-sex relationships. Adultery is still seen as wrong because it breaks trust."
+    },
+    {
+     "label": "Non-religious (for example humanist)",
+     "text": "Sexual relationships are fine between consenting adults if nobody is harmed. Many see adultery as wrong because of the lies and hurt involved."
+    }
+   ],
+   "terms": [
+    {
+     "term": "human sexuality",
+     "def": "how people express themselves as sexual beings"
+    },
+    {
+     "term": "heterosexual",
+     "def": "being attracted to people of the opposite gender"
+    },
+    {
+     "term": "homosexual",
+     "def": "being attracted to people of the same gender"
+    },
+    {
+     "term": "adultery",
+     "def": "sex between two people where at least one is married to someone else"
+    },
+    {
+     "term": "celibate",
+     "def": "choosing not to have sex"
+    },
+    {
+     "term": "cohabitation",
+     "def": "a couple living together without being married or in a civil partnership"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Be fruitful and increase in number; fill the earth.'",
+     "ref": "Genesis 1:28",
+     "use": "Shows sex is meant to lead to children. Use it for the view that same-sex sex or contraception goes against God's purpose."
+    },
+    {
+     "text": "'Flee from sexual immorality.'",
+     "ref": "1 Corinthians 6:18",
+     "use": "Use it to show why many Christians say sex before marriage is wrong."
+    },
+    {
+     "text": "'You shall not commit adultery.'",
+     "ref": "Exodus 20:14",
+     "use": "The Ten Commandments. Use for adultery and for Christian and Jewish agreement that it is wrong."
+    },
+    {
+     "text": "'Do not have sexual relations with a man as one does with a woman; that is detestable.'",
+     "ref": "Leviticus 18:22",
+     "use": "Used by Orthodox Jews and traditional Christians against homosexual acts. Explain how some religious people interpret it differently today."
+    },
+    {
+     "text": "'Let any one of you who is without sin be the first to throw a stone at her.'",
+     "ref": "John 8:7",
+     "use": "Jesus showing forgiveness to a woman caught in adultery. Use it for compassion and not judging others."
+    }
+   ],
+   "tip": "For 'different views' questions on sex, split Christianity (for example Catholic versus Quaker), not just 'Christian versus Jewish'. Always end a point with the reason behind the belief."
+  },
+  {
+   "id": "ta-02",
+   "code": "Rel & Fam.3",
+   "title": "Contraception and family planning",
+   "overview": "Contraception is one of the three issues AQA says you must be able to give contrasting views on. Christians and Jews disagree on whether it is right to separate sex from having children.",
+   "notes": [
+    {
+     "h": "What it is",
+     "bullets": [
+      "**Contraception** means precautions to prevent pregnancy (and to protect against sexually transmitted infections). Examples: condoms, the pill, the coil, injections, sterilisation.",
+      "**Family planning** means choosing when to have children and how many. It includes artificial methods and natural methods such as tracking the fertile times of the month (the rhythm method).",
+      "In the UK contraception is legal and widely used. Many people say it prevents unwanted pregnancies, controls population growth and protects against infection."
+     ]
+    },
+    {
+     "h": "Christian views",
+     "bullets": [
+      "The Roman Catholic Church teaches that every sexual act must be open to new life, so artificial contraception is wrong (Pope Paul VI, Humanae Vitae, 1968). Natural family planning is allowed for good reasons.",
+      "Most Protestant churches, including the Church of England, accept contraception because it allows responsible parenthood. They say couples must think about health, money and the needs of children already born.",
+      "Some Christians worry the morning-after pill or the coil might end a fertilised egg, which they see as abortion. This links to the commandment 'You shall not murder'."
+     ]
+    },
+    {
+     "h": "Jewish and non-religious views",
+     "bullets": [
+      "Jews value large families and see 'be fruitful and multiply' as a duty, but marriage is also about love and companionship. Orthodox Jews usually allow contraception only for good reasons, such as the mother's health. The pill is preferred to methods that damage the body or block the act.",
+      "Reform Jews allow contraception more freely, including for the welfare or finances of the family.",
+      "Non-religious people mostly support contraception as a way to plan families, avoid unwanted pregnancy and prevent STIs. A few believe it encourages casual sex."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Roman Catholic",
+     "text": "Only natural family planning is acceptable. Artificial contraception separates sex from creating life, which Catholics believe goes against natural law and God's purpose for marriage."
+    },
+    {
+     "label": "Church of England and most Protestants",
+     "text": "Contraception is acceptable within marriage, as sex is also about love and 'there can be good reasons for delaying or limiting parenthood'. Couples should decide responsibly."
+    },
+    {
+     "label": "Orthodox Jewish",
+     "text": "Having children is a duty and a blessing. Contraception is allowed in limited cases such as risk to the mother, and some methods are preferred over others."
+    },
+    {
+     "label": "Reform Jewish",
+     "text": "Couples have free will and may use contraception for family welfare, finances or health."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Contraception is a responsible choice that prevents unwanted pregnancy and disease, and gives people control of their lives."
+    }
+   ],
+   "terms": [
+    {
+     "term": "contraception",
+     "def": "precautions taken to prevent pregnancy and protect against STIs"
+    },
+    {
+     "term": "family planning",
+     "def": "planning when to have children and how many, using contraception or natural methods"
+    },
+    {
+     "term": "procreation",
+     "def": "having children, seen as a duty in many religions"
+    },
+    {
+     "term": "natural family planning",
+     "def": "avoiding pregnancy by having sex only at infertile times of the month"
+    },
+    {
+     "term": "artificial contraception",
+     "def": "methods such as condoms or the pill that prevent pregnancy"
+    },
+    {
+     "term": "sterilisation",
+     "def": "a medical operation that permanently stops someone being able to have children"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Be fruitful and increase in number.'",
+     "ref": "Genesis 1:28",
+     "use": "Use it for Catholic and Orthodox Jewish views that having children is God's purpose for sex."
+    },
+    {
+     "text": "'Children are a heritage from the Lord, offspring a reward from him.'",
+     "ref": "Psalm 127:3",
+     "use": "Shows children are a blessing, so some believers want large families."
+    },
+    {
+     "text": "Catechism of the Catholic Church: every act of sex must remain open to the transmission of life.",
+     "ref": "Catechism of the Catholic Church (CCC 2366)",
+     "use": "The key Catholic source for rejecting artificial contraception."
+    },
+    {
+     "text": "'Anyone who does not provide for their relatives... has denied the faith.'",
+     "ref": "1 Timothy 5:8",
+     "use": "Use for Protestants who say planning family size is part of caring responsibly for the children you have."
+    }
+   ],
+   "tip": "Never write 'Christians are against contraception'. Name the Catholic Church for the 'no' view and the Church of England or Protestants for the 'yes' view."
+  },
+  {
+   "id": "ta-03",
+   "code": "Rel & Fam.4",
+   "title": "Religious teachings about marriage",
+   "overview": "Marriage is the starting point for Christian and Jewish views on sex, family and divorce. You need its nature, purposes, same-sex marriage and cohabitation.",
+   "notes": [
+    {
+     "h": "Nature and purpose of marriage",
+     "bullets": [
+      "**Marriage** is the legal and religious union of two people. For Christians it is a gift from God at creation: 'a man leaves his father and mother and is united to his wife, and they become one flesh' (Genesis 2:24).",
+      "Christian purposes of marriage: love and companionship, a safe place for sex, having children and bringing them up in the faith, and a stable base for family life. Catholics call marriage a **sacrament**: a lifelong union blessed by God.",
+      "Wedding **vows** are promises made before God and the community, such as 'till death us do part'. This phrase is from the wedding service, not the Bible.",
+      "Jews see marriage as a duty and the foundation of family life. It is a covenant (agreement) between two people and with God, ideally under a chuppah (wedding canopy). Marriage avoids loneliness and sexual sin (Genesis 2:18)."
+     ]
+    },
+    {
+     "h": "Same-sex marriage",
+     "bullets": [
+      "Civil partnerships began in 2004. Same-sex marriage became legal in England and Wales in 2014. Religious groups cannot be forced to hold same-sex weddings.",
+      "The Roman Catholic and Orthodox Jewish authorities, and the Church of England, teach that marriage is between one man and one woman. Quakers, the United Reformed Church, the Methodist Church and Liberal Judaism allow same-sex marriages, based on the principle that love and commitment matter most."
+     ]
+    },
+    {
+     "h": "Cohabitation",
+     "bullets": [
+      "**Cohabitation** means living together as a couple without being married. It is very common in the UK today, and many couples do it as a trial run before marriage.",
+      "Catholics and Orthodox Jews oppose it because sex should only happen in marriage. Many Protestants accept it but say marriage is the ideal. The Salvation Army says cohabiting 'falls short of God's ideal will'."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Roman Catholic",
+     "text": "Marriage is a sacrament and lifelong. Its purposes are the loving union of husband and wife and the raising of children. It is between a man and a woman."
+    },
+    {
+     "label": "Church of England and Protestant",
+     "text": "Marriage is a gift from God and a lifelong commitment. Many accept cohabitation as a step towards marriage. The Church of England does not conduct same-sex marriages but welcomes gay people."
+    },
+    {
+     "label": "Quaker and liberal Christian",
+     "text": "Marriage is about love and commitment before God, whatever the gender of the couple. Quakers hold same-sex weddings."
+    },
+    {
+     "label": "Orthodox Jewish",
+     "text": "Marriage is a religious duty between a man and woman, for companionship and children. Same-sex marriage and cohabitation are not accepted."
+    },
+    {
+     "label": "Reform and Liberal Jewish",
+     "text": "Marriage is a sacred partnership. Liberal Judaism holds same-sex weddings, and cohabitation is more widely accepted."
+    }
+   ],
+   "terms": [
+    {
+     "term": "marriage",
+     "def": "a legal and religious union of two people"
+    },
+    {
+     "term": "vows",
+     "def": "promises made during a marriage ceremony"
+    },
+    {
+     "term": "sacrament",
+     "def": "in Catholic belief, a ceremony that gives God's grace; marriage is one of seven"
+    },
+    {
+     "term": "civil partnership",
+     "def": "a legal union giving a couple the same rights as marriage, first available to same-sex couples in 2004"
+    },
+    {
+     "term": "cohabitation",
+     "def": "living together as a couple without being married"
+    },
+    {
+     "term": "chuppah",
+     "def": "the canopy a Jewish couple stand under to marry"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'A man leaves his father and mother and is united to his wife, and they become one flesh.'",
+     "ref": "Genesis 2:24",
+     "use": "Shows marriage is part of God's plan from creation and joins two people closely."
+    },
+    {
+     "text": "'What God has joined together, let no one separate.'",
+     "ref": "Matthew 19:6",
+     "use": "Use for lifelong marriage and Catholic teaching that marriage cannot be broken."
+    },
+    {
+     "text": "'Marriage should be honoured by all.'",
+     "ref": "Hebrews 13:4",
+     "use": "Shows marriage is valued, and links to faithfulness within marriage."
+    },
+    {
+     "text": "'It is not good for the man to be alone.'",
+     "ref": "Genesis 2:18",
+     "use": "Jewish and Christian reason for marriage: companionship."
+    }
+   ],
+   "tip": "For 'purpose of marriage' questions give three clear purposes: companionship, having children, and a stable base for sex and family life."
+  },
+  {
+   "id": "ta-04",
+   "code": "Rel & Fam.5",
+   "title": "Divorce and remarriage",
+   "overview": "Religions teach that marriage should last, but they differ on whether divorce and remarriage can ever be right. Expect questions on the Catholic versus Protestant view, and compassion versus vows.",
+   "notes": [
+    {
+     "h": "Divorce in the UK",
+     "bullets": [
+      "**Divorce** is the legal ending of a marriage. A couple must be married one year before applying. Since 2022 couples in England and Wales can divorce without blaming each other, by stating the marriage has broken down.",
+      "Common reasons: adultery, growing apart, money or work pressures, addiction, abuse and violence, lack of communication, and illness."
+     ]
+    },
+    {
+     "h": "Christian views",
+     "bullets": [
+      "Catholics teach marriage is a lifelong sacrament, so divorce is not recognised by the Church. They quote Jesus: 'what God has joined together, let no one separate' (Matthew 19:6). An **annulment** says the marriage was never valid in the first place (for example, a forced marriage).",
+      "Other Christians (Church of England, Methodist, United Reformed) accept divorce as a last resort. Jesus allowed it for adultery (Matthew 19:9). They say it may be the lesser of two evils, for example where there is abuse, and God forgives.",
+      "Churches try to support couples with counselling, prayer and care, and show compassion to people who are divorced. Some Christians say divorce breaks vows made before God, which is a reason to avoid it."
+     ]
+    },
+    {
+     "h": "Remarriage",
+     "bullets": [
+      "**Remarriage** is marrying again after divorce. Catholics do not allow it unless the first marriage was annulled. Jesus said remarriage after divorce is adultery (Luke 16:18).",
+      "The Church of England may marry divorced people in church at the priest's discretion. Many Protestants allow it, saying God forgives and everyone deserves a second chance."
+     ]
+    },
+    {
+     "h": "Jewish views",
+     "bullets": [
+      "Judaism sees divorce as sad but allowed (Deuteronomy 24:1). A husband gives his wife a **get** (document of divorce) through a Jewish court. Reform Judaism also requires a get, but Liberal Judaism accepts civil divorce alone.",
+      "Jews can remarry after divorce, although an Orthodox couple cannot remarry each other if the woman has married someone else in between."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Roman Catholic",
+     "text": "Marriage is a lifelong sacrament, so divorce is not accepted and remarriage in church is only possible after an annulment. Divorced Catholics are still welcome in the Church."
+    },
+    {
+     "label": "Church of England",
+     "text": "Marriage is meant for life, but divorce is accepted as a sad last resort. Divorced people may remarry in church at the priest's discretion."
+    },
+    {
+     "label": "Methodist and other Protestants",
+     "text": "Divorce is accepted where a marriage has broken down, with compassion for those involved. Remarriage in church is generally allowed."
+    },
+    {
+     "label": "Orthodox Jewish",
+     "text": "Divorce is permitted but sad. A get is needed, and the couple must try reconciliation first."
+    },
+    {
+     "label": "Reform and Liberal Jewish",
+     "text": "Divorce is allowed where love has died. Liberal Jews accept a civil divorce without a get."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Divorce is a personal choice. It can be better for adults and children than staying in an unhappy or violent marriage."
+    }
+   ],
+   "terms": [
+    {
+     "term": "divorce",
+     "def": "the legal ending of a marriage"
+    },
+    {
+     "term": "remarriage",
+     "def": "marrying again after a divorce"
+    },
+    {
+     "term": "annulment",
+     "def": "a Catholic declaration that a marriage was never truly valid"
+    },
+    {
+     "term": "get",
+     "def": "a Jewish document of divorce"
+    },
+    {
+     "term": "vows",
+     "def": "promises made in a wedding ceremony"
+    },
+    {
+     "term": "compassion",
+     "def": "sympathy and concern for the suffering of others"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Anyone who divorces his wife, except for sexual immorality, and marries another woman commits adultery.'",
+     "ref": "Matthew 19:9",
+     "use": "Used by Protestants to show Jesus allowed divorce for adultery, and by Catholics to show remarriage is wrong."
+    },
+    {
+     "text": "'What God has joined together, let no one separate.'",
+     "ref": "Matthew 19:6",
+     "use": "Use for Catholic belief that marriage is permanent."
+    },
+    {
+     "text": "'Anyone who divorces his wife and marries another woman commits adultery.'",
+     "ref": "Luke 16:18",
+     "use": "Use for the view that remarriage is wrong."
+    },
+    {
+     "text": "'I hate divorce,' says the Lord.",
+     "ref": "Malachi 2:16",
+     "use": "Shows divorce is seen as sad and harmful. Mention that Jewish and Christian teachers still accept it in hard cases."
+    },
+    {
+     "text": "'Moses permitted you to divorce your wives because your hearts were hard.'",
+     "ref": "Matthew 19:8",
+     "use": "Use for the idea that divorce is allowed as a concession, not God's ideal."
+    }
+   ],
+   "tip": "For a 12 marker on divorce, use: sanctity of vows and Catholic teaching (for), against: compassion, lesser of two evils and Jesus forgiving. Evaluate by saying which view is stronger and why."
+  },
+  {
+   "id": "ta-05",
+   "code": "Rel & Fam.6 and 7",
+   "title": "The nature and purpose of the family",
+   "overview": "Families are the main building block of society for Christians and Jews. You need the different types of family, the roles of parents and children, the purposes of family, and contemporary issues such as same-sex parents and polygamy.",
+   "notes": [
+    {
+     "h": "Nature of families",
+     "bullets": [
+      "A **nuclear family** is two parents and their children. An **extended family** also includes grandparents, aunts, uncles and cousins. Other types include single-parent families, stepfamilies and same-sex parent families.",
+      "In biblical times extended families were normal, and they cared for old and young and passed on faith. Today many UK families are small, and some children grow up with one parent or in a stepfamily.",
+      "**Polygamy** (having more than one spouse) appears in the Old Testament, but Christians today teach one husband and one wife. Bigamy (marrying while already married) is illegal in the UK. Christians say the ideal family is a married mother and father; others say love is what matters."
+     ]
+    },
+    {
+     "h": "Roles of parents and children",
+     "bullets": [
+      "Christian parents should love and care for children, teach right from wrong and bring them up in the faith: 'bring them up in the training and instruction of the Lord' (Ephesians 6:4). Many baptise their children, take them to church and choose faith schools.",
+      "Children should respect and obey their parents: 'Honour your father and your mother' (Exodus 20:12), and care for them in old age.",
+      "Jewish parents teach the Torah and Jewish customs, including Shabbat and festivals, and raise children as Jews (Deuteronomy 6:7). Children must honour their parents, which includes caring for elderly parents."
+     ]
+    },
+    {
+     "h": "Purposes of family",
+     "bullets": [
+      "**Procreation**: having children is part of God's plan. Parents should have children within a loving marriage ('be fruitful and increase in number').",
+      "**Stability and protection**: a family gives children a safe, loving home and teaches them how to behave and fit into society.",
+      "**Educating children in the faith**: passing on beliefs and values to the next generation. Christians see families as a reflection of God as Father, and Jesus said to make disciples (Matthew 28:19).",
+      "Contemporary issues: Orthodox Jews and Catholics teach that children need a mother and father, so oppose same-sex parenting. Other Christians and Jews say the quality of love and care matters more than the parents' gender."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Roman Catholic",
+     "text": "The family is built on marriage between a man and a woman. Its purposes include having children and raising them in the faith. Same-sex parenting is not the Church's ideal."
+    },
+    {
+     "label": "Church of England and Protestants",
+     "text": "Families are a gift from God and a place to learn love and faith. Many accept different family forms if children are loved and cared for."
+    },
+    {
+     "label": "Orthodox Jewish",
+     "text": "The family is God's plan and the centre of Jewish life. Parents have traditional roles. Children need both a mother and a father."
+    },
+    {
+     "label": "Reform and Liberal Jewish",
+     "text": "Roles in the family are shared. Different family types, including same-sex parents, are accepted if children are loved."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Families come in many forms, and what matters is love, stability and safety for children. Many see polygamy as unequal."
+    }
+   ],
+   "terms": [
+    {
+     "term": "nuclear family",
+     "def": "two parents and their children"
+    },
+    {
+     "term": "extended family",
+     "def": "parents, children and other relatives such as grandparents and cousins"
+    },
+    {
+     "term": "polygamy",
+     "def": "having more than one husband or wife at the same time"
+    },
+    {
+     "term": "procreation",
+     "def": "having children"
+    },
+    {
+     "term": "stepfamily",
+     "def": "a family formed when a parent with children marries or partners again"
+    },
+    {
+     "term": "bigamy",
+     "def": "marrying someone while still legally married to someone else, illegal in the UK"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.'",
+     "ref": "Ephesians 6:4",
+     "use": "Use for the role of parents in a Christian family: loving discipline and faith teaching."
+    },
+    {
+     "text": "'Honour your father and your mother.'",
+     "ref": "Exodus 20:12",
+     "use": "Use for the role of children, and for caring for elderly relatives. Both Christians and Jews follow it."
+    },
+    {
+     "text": "'Impress them on your children. Talk about them when you sit at home.'",
+     "ref": "Deuteronomy 6:7",
+     "use": "Jewish duty to teach children the faith (the Shema)."
+    },
+    {
+     "text": "'Go and make disciples of all nations.'",
+     "ref": "Matthew 28:19",
+     "use": "Use for educating children in the faith: family is the first place faith is passed on."
+    },
+    {
+     "text": "'Children are a heritage from the Lord.'",
+     "ref": "Psalm 127:3",
+     "use": "Shows children are a blessing, so having a family is a purpose of marriage."
+    }
+   ],
+   "tip": "For 'role of parents' questions in a 6 marker, link every point to a source: for example Ephesians 6:4 for teaching the faith, then apply it ('so Christian parents baptise their children and take them to church')."
+  },
+  {
+   "id": "ta-06",
+   "code": "Rel & Fam.8",
+   "title": "Christian beliefs about gender equality and the roles of men and women",
+   "overview": "This topic asks whether men and women are equal, and whether they should have different roles. Christians and Jews give different answers, and there are differences within each religion.",
+   "notes": [
+    {
+     "h": "Gender equality in the UK",
+     "bullets": [
+      "**Gender equality** is the belief that all genders have equal status and value. UK law backs this up: the Equal Pay Act 1970, Sex Discrimination Act 1975 and Equality Act 2010 make unfair treatment because of sex illegal.",
+      "Men and women's traditional roles used to be very different, with men as breadwinners and women at home. Today both usually work and share childcare, although some people still hold traditional views."
+     ]
+    },
+    {
+     "h": "Christian teaching on equality",
+     "bullets": [
+      "All humans are made in God's image, 'male and female he created them' (Genesis 1:27), so are equal in value. Paul wrote 'there is no male and female, for you are all one in Christ Jesus' (Galatians 3:28).",
+      "Jesus treated women with respect. He taught women, such as Mary and Martha, and first appeared to women after the resurrection.",
+      "Many Christians support equality and women in leadership. The Church of England has had women priests since 1994 and women bishops since 2015. Some Christians, including Roman Catholics and Orthodox churches, only allow men to be priests, saying they hold different but equal roles."
+     ]
+    },
+    {
+     "h": "Roles in marriage and family",
+     "bullets": [
+      "Traditional Christians use Ephesians 5:22-25: wives submit to husbands and husbands love their wives as Christ loved the church. They say men and women have different but equally valuable roles, such as a man as head of the household and a woman as home-maker.",
+      "Many modern Christians see marriage as an equal partnership in which the same Ephesians passage says to submit to one another (5:21), and both share jobs, childcare and decisions."
+     ]
+    },
+    {
+     "h": "Jewish teaching",
+     "bullets": [
+      "Jews teach that men and women are created equal in God's image and have equal moral duties. Mothers are very highly valued, and Jewish identity passes through the mother.",
+      "In Orthodox Judaism the roles are different. Men lead worship, only men are rabbis, men and women sit separately in the synagogue, and women are not counted in a minyan (the ten needed for some prayers). In Reform and Liberal Judaism, women can be rabbis, sit with men and are counted in a minyan."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Roman Catholic",
+     "text": "Men and women are equal in dignity, but only men can be priests. Husbands and wives share complementary roles."
+    },
+    {
+     "label": "Church of England and most Protestants",
+     "text": "Men and women are equal in God's image. Women can be priests and bishops in the Church of England, and marriage is a partnership."
+    },
+    {
+     "label": "Traditional or conservative Christian",
+     "text": "Men and women are equal in value but have different God-given roles, with the husband as head of the family and the wife caring for the home."
+    },
+    {
+     "label": "Orthodox Jewish",
+     "text": "Men and women are equal in God's eyes but have different roles. Only men are rabbis and the synagogue has separate seating."
+    },
+    {
+     "label": "Reform and Liberal Jewish",
+     "text": "Complete equality in worship and leadership. Women can be rabbis and are counted in a minyan."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Gender equality is a human right. Role stereotypes should not limit what anyone does."
+    }
+   ],
+   "terms": [
+    {
+     "term": "gender equality",
+     "def": "the belief that all genders have equal status and value, so discrimination is wrong"
+    },
+    {
+     "term": "gender stereotype",
+     "def": "a fixed idea about how men or women should behave"
+    },
+    {
+     "term": "roles of men and women",
+     "def": "the different jobs and duties a society or religion expects of men and women"
+    },
+    {
+     "term": "minyan",
+     "def": "the group of ten Jewish adults needed for certain prayers"
+    },
+    {
+     "term": "ordination",
+     "def": "the ceremony making someone a priest or minister"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'So God created mankind in his own image... male and female he created them.'",
+     "ref": "Genesis 1:27",
+     "use": "The main source for equality: both genders are made in God's image."
+    },
+    {
+     "text": "'There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus.'",
+     "ref": "Galatians 3:28",
+     "use": "Use for Christians who support equality. Say all are equal in Christ, so discrimination is wrong."
+    },
+    {
+     "text": "'Wives, submit yourselves to your own husbands... Husbands, love your wives, just as Christ loved the church.'",
+     "ref": "Ephesians 5:22-25",
+     "use": "Used by traditional Christians for different roles. Balance it with the idea of mutual love."
+    },
+    {
+     "text": "Jesus welcomed Mary to sit and learn at his feet, not just do housework.",
+     "ref": "Luke 10:38-42",
+     "use": "Use to show Jesus valued women as disciples and not only in domestic roles."
+    }
+   ],
+   "tip": "Distinguish 'equal' from 'the same'. Many traditional Christians and Orthodox Jews say men and women are equal but have different roles, and this is a strong point to evaluate."
+  },
+  {
+   "id": "ta-07",
+   "code": "AQA spec A13 (not on the school list)",
+   "title": "Gender prejudice and discrimination",
+   "overview": "AQA expects you to know examples of gender prejudice and discrimination and what Christians and Jews teach about them. The school list does not give this its own number, but exam questions can ask about it.",
+   "notes": [
+    {
+     "h": "Prejudice and discrimination",
+     "bullets": [
+      "**Gender prejudice** is negative thoughts, feelings or beliefs about someone because of their gender. **Gender discrimination** is acting on those prejudices, such as treating someone unfairly.",
+      "Examples: women paid less for the same job, women or men refused jobs because of their sex, fewer women in senior roles, stereotypes such as 'boys do not cry', and some religions refusing to let women lead worship."
+     ]
+    },
+    {
+     "h": "Religious teaching on prejudice",
+     "bullets": [
+      "Christians teach that everyone is equal and loved by God, so discrimination is wrong. Key teachings are 'love your neighbour as yourself' (Matthew 22:39), the Golden Rule (Matthew 7:12) and Galatians 3:28.",
+      "Christians who support women-only or men-only roles say this is not prejudice, because roles are different but equal. Others say excluding women from leadership is discrimination.",
+      "Jews teach that all people are made in God's image and that everyone should be treated justly. Orthodox Jews say different roles in worship are not discrimination. Reform and Liberal Jews say men and women should have equal roles."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Christian (most denominations)",
+     "text": "All people are equal in God's image, so prejudice and discrimination are wrong. Christians disagree about whether different roles for men and women count as discrimination."
+    },
+    {
+     "label": "Orthodox Jewish",
+     "text": "People are equal in value, but men and women have different religious duties. This is not seen as discrimination."
+    },
+    {
+     "label": "Reform and Liberal Jewish",
+     "text": "Equality in all areas of religious life. Excluding women would be discrimination."
+    },
+    {
+     "label": "Non-religious",
+     "text": "Gender prejudice is unfair and is against human rights. The Equality Act 2010 protects people from discrimination because of sex."
+    }
+   ],
+   "terms": [
+    {
+     "term": "gender prejudice",
+     "def": "negative thoughts, feelings or beliefs about a person based on their gender"
+    },
+    {
+     "term": "gender discrimination",
+     "def": "acting on prejudice by treating someone unfairly because of their gender"
+    },
+    {
+     "term": "stereotype",
+     "def": "a fixed and oversimplified idea about a group of people"
+    },
+    {
+     "term": "Equality Act 2010",
+     "def": "UK law that protects people from discrimination, including because of sex"
+    }
+   ],
+   "sources": [
+    {
+     "text": "'Love your neighbour as yourself.'",
+     "ref": "Matthew 22:39",
+     "use": "Use for any point saying prejudice is wrong because Christians should treat everyone with love."
+    },
+    {
+     "text": "'Do to others what you would have them do to you.'",
+     "ref": "Matthew 7:12",
+     "use": "The Golden Rule. Use to show discrimination goes against Jesus' teaching."
+    },
+    {
+     "text": "'There is neither... male and female, for you are all one in Christ Jesus.'",
+     "ref": "Galatians 3:28",
+     "use": "Shows equality of all genders in the Christian community."
+    },
+    {
+     "text": "'God created mankind in his own image.'",
+     "ref": "Genesis 1:27",
+     "use": "Used by Christians and Jews: everyone is made in God's image, so prejudice insults God's creation."
+    }
+   ],
+   "tip": "Give one real example of discrimination (for example unequal pay) before you give the religious teaching. It shows you understand the term."
+  }
+ ],
+ "flashcards": [
+  {
+   "topic": "ta-01",
+   "q": "What is the difference between heterosexual and homosexual?",
+   "a": "Heterosexual means attracted to people of the opposite gender. Homosexual means attracted to people of the same gender."
+  },
+  {
+   "topic": "ta-01",
+   "q": "Why do traditional Christians say sex before marriage is wrong?",
+   "a": "They teach sex is a gift for marriage, joining two people for life. They quote the Catechism and 1 Corinthians 6:18 ('Flee from sexual immorality')."
+  },
+  {
+   "topic": "ta-01",
+   "q": "What did the Archbishop of York say in 2011 about living together before marriage?",
+   "a": "He said couples could 'test the milk before you buy the cow', meaning a trial period might help them find out if they are suited before marrying."
+  },
+  {
+   "topic": "ta-01",
+   "q": "Which Bible verse is used against homosexual acts by Orthodox Jews and traditional Christians?",
+   "a": "Leviticus 18:22: 'Do not have sexual relations with a man as one does with a woman; that is detestable.'"
+  },
+  {
+   "topic": "ta-01",
+   "q": "Give one Christian reason why adultery is wrong.",
+   "a": "It breaks the Ten Commandments (Exodus 20:14) and the vows made before God. It also destroys trust and hurts children."
+  },
+  {
+   "topic": "ta-01",
+   "q": "What did Jesus do when a woman was caught in adultery (John 8)?",
+   "a": "He told the crowd 'Let any one of you who is without sin be the first to throw a stone', forgave her, and told her to leave her life of sin."
+  },
+  {
+   "topic": "ta-01",
+   "q": "What do Reform and Liberal Jews teach about same-sex relationships?",
+   "a": "They accept them. Liberal Judaism holds same-sex weddings, saying loving, committed relationships matter more than the gender of the couple."
+  },
+  {
+   "topic": "ta-01",
+   "q": "What is the age of consent in the UK and why does it exist?",
+   "a": "16. It protects young people from exploitation and abuse."
+  },
+  {
+   "topic": "ta-01",
+   "q": "What does Matthew 5:27-28 teach about adultery?",
+   "a": "Jesus taught that looking at someone lustfully is already adultery in the heart, so the thoughts matter as well as actions."
+  },
+  {
+   "topic": "ta-02",
+   "q": "What is contraception?",
+   "a": "Precautions taken to prevent pregnancy, and to protect against sexually transmitted infections."
+  },
+  {
+   "topic": "ta-02",
+   "q": "Why does the Catholic Church reject artificial contraception?",
+   "a": "It teaches that every sexual act must be open to new life (Humanae Vitae, 1968). Artificial methods separate sex from having children."
+  },
+  {
+   "topic": "ta-02",
+   "q": "What type of family planning do Catholics allow?",
+   "a": "Natural family planning, such as avoiding sex during the fertile times of the month, for serious reasons."
+  },
+  {
+   "topic": "ta-02",
+   "q": "Why do many Protestants accept contraception?",
+   "a": "It allows responsible parenthood. They say couples can plan family size for health, money and the needs of existing children, and sex also expresses love."
+  },
+  {
+   "topic": "ta-02",
+   "q": "Why might some Christians object to the morning-after pill?",
+   "a": "They worry it might stop a fertilised egg developing. They see this as ending a life, which they link to 'You shall not murder'."
+  },
+  {
+   "topic": "ta-02",
+   "q": "What do Orthodox Jews teach about contraception?",
+   "a": "Having children is a duty, so contraception is only allowed for good reasons such as the mother's health. The pill is preferred over methods that harm the body."
+  },
+  {
+   "topic": "ta-02",
+   "q": "What is a non-religious argument for contraception?",
+   "a": "It prevents unwanted pregnancy, protects against STIs, helps control population growth and lets people plan their lives."
+  },
+  {
+   "topic": "ta-02",
+   "q": "Which verse is used to support large families and oppose contraception?",
+   "a": "Genesis 1:28, 'Be fruitful and increase in number', and Psalm 127:3, 'Children are a heritage from the Lord'."
+  },
+  {
+   "topic": "ta-02",
+   "q": "What is family planning?",
+   "a": "Planning when to have children and how many, using contraception or natural methods."
+  },
+  {
+   "topic": "ta-03",
+   "q": "What are the Christian purposes of marriage?",
+   "a": "Love and companionship, a place for sex, having children and raising them in the faith, and a stable family life."
+  },
+  {
+   "topic": "ta-03",
+   "q": "Why do Catholics call marriage a sacrament?",
+   "a": "They believe it is a lifelong union blessed by God, which gives God's grace to the couple."
+  },
+  {
+   "topic": "ta-03",
+   "q": "What is cohabitation?",
+   "a": "Living together as a couple without being married or in a civil partnership."
+  },
+  {
+   "topic": "ta-03",
+   "q": "When did same-sex marriage become legal in England and Wales?",
+   "a": "2014. Civil partnerships for same-sex couples had been available since 2004."
+  },
+  {
+   "topic": "ta-03",
+   "q": "Do religious groups have to hold same-sex weddings?",
+   "a": "No. The law protects religious groups from being forced to do so. Quakers, Liberal Jews and the Methodist Church allow them, but Catholic and Orthodox Jewish authorities do not."
+  },
+  {
+   "topic": "ta-03",
+   "q": "What does Genesis 2:24 teach about marriage?",
+   "a": "A man leaves his parents and is united to his wife and they become one flesh. Marriage is part of God's design and joins two people closely."
+  },
+  {
+   "topic": "ta-03",
+   "q": "What is a Jewish chuppah?",
+   "a": "The canopy a Jewish couple stand under during a wedding. It represents the home they will build."
+  },
+  {
+   "topic": "ta-03",
+   "q": "What does the Salvation Army say about cohabiting?",
+   "a": "That it 'falls short of God's ideal will', so marriage is better, although it accepts that many people live together."
+  },
+  {
+   "topic": "ta-03",
+   "q": "Where do the words 'till death us do part' come from?",
+   "a": "The Christian wedding service, not the Bible. Use them for the promise of a lifelong marriage."
+  },
+  {
+   "topic": "ta-04",
+   "q": "What is divorce?",
+   "a": "The legal ending of a marriage."
+  },
+  {
+   "topic": "ta-04",
+   "q": "Why do Catholics oppose divorce?",
+   "a": "They teach marriage is a sacrament and lifelong. They quote Jesus: 'What God has joined together, let no one separate' (Matthew 19:6)."
+  },
+  {
+   "topic": "ta-04",
+   "q": "What is an annulment?",
+   "a": "A Catholic declaration that a marriage was never valid, for example because it was forced. It allows the people to remarry in church."
+  },
+  {
+   "topic": "ta-04",
+   "q": "Why do some Christians accept divorce?",
+   "a": "Jesus allowed it for adultery (Matthew 19:9). They say it can be the lesser of two evils, such as where there is abuse, and God forgives."
+  },
+  {
+   "topic": "ta-04",
+   "q": "What can the Church do to help couples with problems?",
+   "a": "Offer counselling, prayer and support, and show compassion to people who divorce."
+  },
+  {
+   "topic": "ta-04",
+   "q": "What is a get?",
+   "a": "A Jewish document of divorce, given by a husband to his wife through a Jewish court."
+  },
+  {
+   "topic": "ta-04",
+   "q": "What does the Church of England teach about remarriage?",
+   "a": "Divorced people may remarry in church at the discretion of the priest. The Church stresses forgiveness and second chances."
+  },
+  {
+   "topic": "ta-04",
+   "q": "What does Luke 16:18 say about remarriage?",
+   "a": "Anyone who divorces and marries another commits adultery. Catholics use it to say remarriage after divorce is wrong."
+  },
+  {
+   "topic": "ta-04",
+   "q": "How long must a couple be married before they can divorce in the UK?",
+   "a": "One year. Since 2022 they can divorce without blaming each other."
+  },
+  {
+   "topic": "ta-05",
+   "q": "What is a nuclear family?",
+   "a": "Two parents and their children."
+  },
+  {
+   "topic": "ta-05",
+   "q": "What is an extended family?",
+   "a": "A nuclear family plus other relatives such as grandparents, aunts, uncles and cousins."
+  },
+  {
+   "topic": "ta-05",
+   "q": "What is polygamy and what is the UK law on it?",
+   "a": "Having more than one spouse at once. Bigamy is illegal in the UK, and Christians teach one husband and one wife."
+  },
+  {
+   "topic": "ta-05",
+   "q": "Give one role of Christian parents.",
+   "a": "To love and care for children and bring them up in the faith: 'bring them up in the training and instruction of the Lord' (Ephesians 6:4)."
+  },
+  {
+   "topic": "ta-05",
+   "q": "What is the role of children in a religious family?",
+   "a": "To honour and respect parents (Exodus 20:12), obey them, and care for them when they are old."
+  },
+  {
+   "topic": "ta-05",
+   "q": "What are the three purposes of the family in the AQA specification?",
+   "a": "Procreation (having children), stability and protection of children, and educating children in the faith."
+  },
+  {
+   "topic": "ta-05",
+   "q": "Why do some religious people oppose same-sex parents?",
+   "a": "Catholics and Orthodox Jews teach that children need a mother and father as role models. Others say love and care matter more."
+  },
+  {
+   "topic": "ta-05",
+   "q": "What is a stepfamily?",
+   "a": "A family formed when a parent with children marries or partners again."
+  },
+  {
+   "topic": "ta-05",
+   "q": "What do Jewish parents teach their children?",
+   "a": "The Torah, Jewish customs such as Shabbat and festivals, and how to live a moral life (Deuteronomy 6:7)."
+  },
+  {
+   "topic": "ta-06",
+   "q": "What is gender equality?",
+   "a": "The belief that all genders have equal status and value, so discrimination against any is wrong."
+  },
+  {
+   "topic": "ta-06",
+   "q": "Which verse says men and women are made in God's image?",
+   "a": "Genesis 1:27: 'God created mankind in his own image... male and female he created them.'"
+  },
+  {
+   "topic": "ta-06",
+   "q": "What does Galatians 3:28 teach about gender?",
+   "a": "There is no male and female in Christ, as all are one. Christians use it to support equality."
+  },
+  {
+   "topic": "ta-06",
+   "q": "How did Jesus treat women?",
+   "a": "With respect. He taught women like Mary, spoke to the Samaritan woman, and first appeared to women after the resurrection."
+  },
+  {
+   "topic": "ta-06",
+   "q": "Which Christians only allow men to be priests?",
+   "a": "Roman Catholics and Orthodox churches. They say men and women have different but equal roles."
+  },
+  {
+   "topic": "ta-06",
+   "q": "When did the Church of England first have women priests and bishops?",
+   "a": "Women priests in 1994 and women bishops from 2015."
+  },
+  {
+   "topic": "ta-06",
+   "q": "What does Ephesians 5:22-25 say, and how is it used?",
+   "a": "Wives submit to husbands and husbands love wives as Christ loved the church. Traditional Christians use it for different roles, others for mutual love."
+  },
+  {
+   "topic": "ta-06",
+   "q": "How do Orthodox and Reform synagogues differ over women?",
+   "a": "Orthodox: only male rabbis, separate seating, women not counted in a minyan. Reform and Liberal: women rabbis, mixed seating, women counted."
+  },
+  {
+   "topic": "ta-06",
+   "q": "Name one UK law supporting gender equality.",
+   "a": "The Equality Act 2010 (earlier laws: the Equal Pay Act 1970 and Sex Discrimination Act 1975)."
+  },
+  {
+   "topic": "ta-07",
+   "q": "What is gender prejudice?",
+   "a": "Negative thoughts, feelings or beliefs about someone because of their gender."
+  },
+  {
+   "topic": "ta-07",
+   "q": "What is gender discrimination?",
+   "a": "Acting on gender prejudice, such as paying someone less or refusing a job because of their gender."
+  },
+  {
+   "topic": "ta-07",
+   "q": "Give two examples of gender discrimination.",
+   "a": "Women being paid less for the same work, and people being refused a job or a role such as leading worship because of their sex."
+  },
+  {
+   "topic": "ta-07",
+   "q": "Why do Christians say prejudice is wrong?",
+   "a": "Everyone is made in God's image (Genesis 1:27) and Jesus taught 'love your neighbour as yourself'."
+  },
+  {
+   "topic": "ta-07",
+   "q": "What is the Golden Rule?",
+   "a": "'Do to others what you would have them do to you' (Matthew 7:12). Christians use it to argue prejudice is wrong."
+  },
+  {
+   "topic": "ta-07",
+   "q": "Why do some religious people say different roles are not discrimination?",
+   "a": "They say men and women are equal in value but have different God-given roles, so difference is not unfairness."
+  },
+  {
+   "topic": "ta-07",
+   "q": "What is a stereotype?",
+   "a": "A fixed and oversimplified idea about a group, such as that women should stay at home."
+  },
+  {
+   "topic": "ta-07",
+   "q": "What do Reform and Liberal Jews say about women leading worship?",
+   "a": "They support full equality: women can be rabbis, and are counted in a minyan."
+  },
+  {
+   "topic": "ta-07",
+   "q": "Which law protects people from discrimination in the UK?",
+   "a": "The Equality Act 2010, which protects against discrimination because of sex, sexual orientation and other characteristics."
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "ta-01",
+   "q": "Which of the following best describes adultery?",
+   "options": [
+    "Sex between two people where at least one is married to someone else",
+    "Sex before marriage",
+    "Living together without marrying",
+    "Having more than one spouse"
+   ],
+   "answer": 0,
+   "why": "Adultery is sex where at least one person is married to someone else. Having more than one spouse is polygamy."
+  },
+  {
+   "topic": "ta-01",
+   "q": "Which religious group teaches that homosexual acts are wrong but gay people must be treated with respect?",
+   "options": [
+    "Quakers",
+    "Roman Catholics",
+    "Liberal Jews",
+    "Humanists"
+   ],
+   "answer": 1,
+   "why": "The Catholic Church teaches that same-sex acts are wrong, but also that gay people must be treated with compassion and respect."
+  },
+  {
+   "topic": "ta-01",
+   "q": "Which Bible reference is the Ten Commandments rule against adultery?",
+   "options": [
+    "Genesis 1:28",
+    "Matthew 19:6",
+    "Exodus 20:14",
+    "Leviticus 18:22"
+   ],
+   "answer": 2,
+   "why": "Exodus 20:14 says 'You shall not commit adultery'. Leviticus 18:22 is about homosexual acts."
+  },
+  {
+   "topic": "ta-01",
+   "q": "A student writes: 'Some Christians accept sex in a committed relationship because love matters most.' Which group could she name as an example?",
+   "options": [
+    "Roman Catholics",
+    "Orthodox Jews",
+    "The Pope",
+    "Quakers"
+   ],
+   "answer": 3,
+   "why": "Quakers and some liberal Anglicans focus on love and commitment rather than marriage alone."
+  },
+  {
+   "topic": "ta-01",
+   "q": "What is the age of consent in the UK?",
+   "options": [
+    "16",
+    "14",
+    "18",
+    "21"
+   ],
+   "answer": 0,
+   "why": "The age of consent is 16. It protects young people from exploitation."
+  },
+  {
+   "topic": "ta-02",
+   "q": "Which Church teaches that only natural family planning is acceptable?",
+   "options": [
+    "Church of England",
+    "Roman Catholic Church",
+    "Methodist Church",
+    "Quakers"
+   ],
+   "answer": 1,
+   "why": "The Catholic Church says sex must be open to new life, so artificial contraception is wrong, but natural methods are allowed."
+  },
+  {
+   "topic": "ta-02",
+   "q": "Which of these is a natural method of family planning?",
+   "options": [
+    "The pill",
+    "Condoms",
+    "The rhythm method",
+    "Sterilisation"
+   ],
+   "answer": 2,
+   "why": "The rhythm method means avoiding sex at fertile times of the month. The others are artificial."
+  },
+  {
+   "topic": "ta-02",
+   "q": "Which statement is a reason many Protestants accept contraception?",
+   "options": [
+    "It stops all marriages",
+    "God forbids children",
+    "It is part of the Ten Commandments",
+    "It allows responsible parenthood"
+   ],
+   "answer": 3,
+   "why": "Protestants say that planning family size for health, money and care for existing children is responsible."
+  },
+  {
+   "topic": "ta-02",
+   "q": "Which Bible quotation is most often used to support having many children?",
+   "options": [
+    "'Be fruitful and increase in number'",
+    "'Do not kill'",
+    "'Love your neighbour'",
+    "'Honour your father and mother'"
+   ],
+   "answer": 0,
+   "why": "Genesis 1:28 is used by Catholics and Orthodox Jews to show having children is part of God's plan."
+  },
+  {
+   "topic": "ta-02",
+   "q": "Why might some Christians object to the morning-after pill?",
+   "options": [
+    "It is very expensive",
+    "It might end a fertilised egg, which they see as a life",
+    "It only works for men",
+    "It stops marriage"
+   ],
+   "answer": 1,
+   "why": "Some Christians believe life begins at conception, so anything that might end it is like abortion."
+  },
+  {
+   "topic": "ta-03",
+   "q": "What does 'cohabitation' mean?",
+   "options": [
+    "Being married twice",
+    "A Jewish wedding canopy",
+    "Living together as a couple without being married",
+    "A legal divorce"
+   ],
+   "answer": 2,
+   "why": "Cohabitation is living together as a couple without marriage or a civil partnership."
+  },
+  {
+   "topic": "ta-03",
+   "q": "When did same-sex marriage become legal in England and Wales?",
+   "options": [
+    "1967",
+    "1998",
+    "2004",
+    "2014"
+   ],
+   "answer": 3,
+   "why": "The Marriage (Same Sex Couples) Act came into force in 2014. 2004 was when civil partnerships began."
+  },
+  {
+   "topic": "ta-03",
+   "q": "Which statement describes the Catholic view of marriage?",
+   "options": [
+    "A sacrament that is lifelong",
+    "A temporary agreement",
+    "Only a legal contract",
+    "Only for people with children"
+   ],
+   "answer": 0,
+   "why": "Catholics believe marriage is one of seven sacraments, a lifelong union blessed by God."
+  },
+  {
+   "topic": "ta-03",
+   "q": "Which source states that a man 'leaves his father and mother and is united to his wife'?",
+   "options": [
+    "Exodus 20:12",
+    "Genesis 2:24",
+    "Matthew 5:28",
+    "Ephesians 6:4"
+   ],
+   "answer": 1,
+   "why": "Genesis 2:24 is the key creation text on marriage."
+  },
+  {
+   "topic": "ta-03",
+   "q": "Which group does NOT allow same-sex marriage in its religious ceremonies?",
+   "options": [
+    "Quakers",
+    "Liberal Judaism",
+    "Orthodox Judaism",
+    "Methodist Church"
+   ],
+   "answer": 2,
+   "why": "Orthodox Judaism teaches that marriage is between a man and a woman. The others hold or allow same-sex weddings."
+  },
+  {
+   "topic": "ta-04",
+   "q": "What is a get?",
+   "options": [
+    "A Catholic annulment",
+    "A Christian wedding vow",
+    "A type of family",
+    "A Jewish document of divorce"
+   ],
+   "answer": 3,
+   "why": "A get is the Jewish divorce document, issued through a Jewish court."
+  },
+  {
+   "topic": "ta-04",
+   "q": "Which Bible passage gives an exception for divorce in the case of adultery?",
+   "options": [
+    "Matthew 19:9",
+    "Genesis 1:27",
+    "Psalm 127:3",
+    "Exodus 20:12"
+   ],
+   "answer": 0,
+   "why": "Jesus says 'except for sexual immorality' in Matthew 19:9, which Protestants use to allow divorce."
+  },
+  {
+   "topic": "ta-04",
+   "q": "Which Church does not recognise divorce but allows annulment?",
+   "options": [
+    "Church of England",
+    "Roman Catholic Church",
+    "Methodist Church",
+    "United Reformed Church"
+   ],
+   "answer": 1,
+   "why": "Catholics teach marriage is permanent, so the Church only declares that a marriage was never valid (annulment)."
+  },
+  {
+   "topic": "ta-04",
+   "q": "A Christian says: 'Divorce can be the lesser of two evils.' Which situation does this best fit?",
+   "options": [
+    "A couple who just want a bigger house",
+    "A couple who have a disagreement about holidays",
+    "A marriage involving violence or abuse",
+    "A couple who have never met"
+   ],
+   "answer": 2,
+   "why": "Many Christians accept divorce in abusive marriages because staying together causes more harm."
+  },
+  {
+   "topic": "ta-04",
+   "q": "Where do the words 'till death us do part' come from?",
+   "options": [
+    "The Ten Commandments",
+    "The Gospel of Matthew",
+    "The Torah",
+    "Christian wedding services"
+   ],
+   "answer": 3,
+   "why": "They are from the wedding vows, not the Bible, so do not cite them as a Bible quote."
+  },
+  {
+   "topic": "ta-05",
+   "q": "A family of two parents and their children is called:",
+   "options": [
+    "A nuclear family",
+    "An extended family",
+    "A stepfamily",
+    "A polygamous family"
+   ],
+   "answer": 0,
+   "why": "A nuclear family is two parents and their children. Extended families include other relatives."
+  },
+  {
+   "topic": "ta-05",
+   "q": "Which one of these is a religious purpose of the family?",
+   "options": [
+    "Contraception",
+    "Procreation",
+    "Cohabitation",
+    "Divorce"
+   ],
+   "answer": 1,
+   "why": "Procreation, having children, is one purpose along with stability and educating children in the faith."
+  },
+  {
+   "topic": "ta-05",
+   "q": "Which verse tells fathers to bring children up in the Lord's instruction?",
+   "options": [
+    "Exodus 20:14",
+    "Genesis 2:24",
+    "Ephesians 6:4",
+    "Leviticus 18:22"
+   ],
+   "answer": 2,
+   "why": "Ephesians 6:4 is used for the role of parents in a Christian family."
+  },
+  {
+   "topic": "ta-05",
+   "q": "Why do Orthodox Jews and Catholics often oppose same-sex parenting?",
+   "options": [
+    "They think children should not be raised in faith",
+    "It is illegal in the UK",
+    "They believe parents should not work",
+    "They think children need both a mother and a father"
+   ],
+   "answer": 3,
+   "why": "Their view is that children benefit from role models of both genders. Same-sex adoption is legal in the UK."
+  },
+  {
+   "topic": "ta-05",
+   "q": "What is polygamy?",
+   "options": [
+    "Having more than one husband or wife at the same time",
+    "Marrying twice after a divorce",
+    "Living with your parents",
+    "A Jewish festival"
+   ],
+   "answer": 0,
+   "why": "Polygamy means multiple spouses. It is illegal in the UK as bigamy, and Christians today teach one husband and one wife."
+  },
+  {
+   "topic": "ta-06",
+   "q": "Which Bible verse says there is 'neither male nor female' in Christ?",
+   "options": [
+    "Genesis 2:24",
+    "Galatians 3:28",
+    "Matthew 19:6",
+    "Exodus 20:12"
+   ],
+   "answer": 1,
+   "why": "Galatians 3:28 is the key source for Christian equality."
+  },
+  {
+   "topic": "ta-06",
+   "q": "Which Christian groups do NOT ordain women as priests?",
+   "options": [
+    "Church of England and Methodists",
+    "Quakers",
+    "Roman Catholics and Orthodox churches",
+    "United Reformed Church"
+   ],
+   "answer": 2,
+   "why": "The Catholic and Orthodox churches ordain only men, saying men and women have different roles."
+  },
+  {
+   "topic": "ta-06",
+   "q": "In an Orthodox synagogue, which is true?",
+   "options": [
+    "Women can be rabbis",
+    "Women are counted in the minyan",
+    "There are no rules about seating",
+    "Men and women sit separately"
+   ],
+   "answer": 3,
+   "why": "Orthodox synagogues have separate seating, male rabbis and a male-only minyan."
+  },
+  {
+   "topic": "ta-06",
+   "q": "Which UK law made discrimination because of sex illegal and replaced earlier laws in 2010?",
+   "options": [
+    "Equality Act",
+    "Abortion Act",
+    "Suicide Act",
+    "Marriage Act"
+   ],
+   "answer": 0,
+   "why": "The Equality Act 2010 protects people from discrimination on grounds such as sex and sexual orientation."
+  },
+  {
+   "topic": "ta-07",
+   "q": "Acting on negative beliefs about someone because of their gender is called:",
+   "options": [
+    "Gender prejudice",
+    "Gender discrimination",
+    "Gender equality",
+    "Gender stereotyping"
+   ],
+   "answer": 1,
+   "why": "Prejudice is the belief or feeling. Discrimination is acting on it."
+  },
+  {
+   "topic": "ta-07",
+   "q": "Which teaching of Jesus is a Christian reason for rejecting prejudice?",
+   "options": [
+    "'Be fruitful and increase'",
+    "'Honour your father and mother'",
+    "'Love your neighbour as yourself'",
+    "'Do not covet'"
+   ],
+   "answer": 2,
+   "why": "Loving your neighbour means treating everyone fairly, whatever their gender."
+  },
+  {
+   "topic": "ta-07",
+   "q": "Which is an example of gender discrimination?",
+   "options": [
+    "A man enjoys cooking",
+    "A girl joins a football club",
+    "A couple share childcare",
+    "A woman is paid less than a man for the same job"
+   ],
+   "answer": 3,
+   "why": "Unequal pay for the same work is unfair treatment because of gender."
+  },
+  {
+   "topic": "ta-07",
+   "q": "Why do some Orthodox Jews say different roles in worship are not discrimination?",
+   "options": [
+    "They say men and women are equal in value but have different duties",
+    "They deny women are made in God's image",
+    "They believe only women are important",
+    "They think it is illegal"
+   ],
+   "answer": 0,
+   "why": "They argue 'equal but different': both are made in God's image but have different religious duties."
+  }
+ ],
+ "exam": [
+  {
+   "topic": "ta-04",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'A Christian should never get divorced.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "model": "Many Christians would agree with this statement. Catholics teach that marriage is a sacrament, a lifelong promise made before God. Jesus said 'What God has joined together, let no one separate' (Matthew 19:6), so a divorce breaks a vow made to God and not just to a partner. Christians also point out that divorce can harm children and weaken family life. This is a strong argument for Catholics, who believe the teaching comes directly from Jesus, but it is less convincing for Christians who do not see marriage as a sacrament.\n\nHowever, many Christians disagree. The Church of England and most Protestant churches teach that divorce is sad but sometimes the lesser of two evils. In Matthew 19:9 Jesus himself allowed divorce for adultery, and in cases of violence or abuse, staying married could cause far more harm than ending it. Jesus also taught forgiveness and compassion, so Christians should not condemn people whose marriages have failed. This argument is strong because it follows Jesus' own teaching and it protects people from harm, although some say it risks making vows seem less serious. Non-religious people would also say that a couple should not be forced to stay together if they are unhappy.\n\nIn conclusion, I think the statement is too strong. Marriage should be lifelong and Christians should do everything they can to save it, including counselling, but the word 'never' ignores situations such as abuse. A loving God would not want someone to suffer in a violent marriage. Even Catholics accept that couples may separate legally in extreme cases, and the Church can annul a marriage that was never valid. Therefore, divorce should be a last resort and not an absolute wrong.",
+   "for": [
+    "Marriage is a sacrament and a lifelong vow before God (Catholic teaching).",
+    "Matthew 19:6: 'What God has joined together, let no one separate'; Luke 16:18 says remarriage is adultery.",
+    "Divorce harms children and weakens the family.",
+    "Evaluation: strongest for Catholics, but depends on seeing marriage as a sacrament."
+   ],
+   "against": [
+    "The Church of England and Protestants accept divorce as the lesser of two evils.",
+    "Jesus allowed divorce for adultery (Matthew 19:9).",
+    "Compassion, forgiveness and avoiding harm in abusive marriages.",
+    "Non-religious: people should not be forced to stay in unhappy marriages.",
+    "Evaluation: strong because it follows Jesus' teaching on compassion."
+   ],
+   "conclusion": "The statement is too absolute. Christians should treat marriage as lifelong and try to save it, but divorce can be the lesser of two evils in cases such as abuse."
+  },
+  {
+   "topic": "ta-01",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Sex outside marriage is always wrong.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "model": "Many religious people would agree with this statement. Traditional Christians and Orthodox Jews teach that sex is a gift from God that belongs in marriage, where it joins two people for life and can lead to children. The Catechism says every sexual act must be within marriage, and 1 Corinthians 6:18 says 'Flee from sexual immorality'. Adultery is also condemned by the Ten Commandments (Exodus 20:14) because it breaks promises and destroys trust. This argument is strong for believers who see the Bible as God's word, because it gives clear guidance and protects families.\n\nOn the other hand, many people disagree. Some Christians, such as Quakers and many liberal Anglicans, say the most important thing is that a couple are loving, faithful and committed. They argue that Jesus taught 'love your neighbour', not strict rules about marriage, and that a loyal couple who are not married are not harming anyone. Reform Jews are also more flexible about committed couples. Non-religious people say sex between consenting adults is a private choice, and many couples live together for years before marrying. This is a convincing point in modern society, but it is weaker for those who believe in clear moral rules from God. Also, 'outside marriage' includes adultery, which almost everyone, religious or not, agrees causes harm.\n\nIn conclusion, I think the statement is true for adultery but not necessarily for every situation. Adultery breaks promises and hurts others, so it is wrong in almost every view. However, sex between two unmarried people in a loving, committed relationship is hard to describe as always wrong, especially as Jesus stressed love and forgiveness. Religious believers can still say that marriage is the ideal, and that respect, consent and responsibility must always come first.",
+   "for": [
+    "Traditional Christians and Orthodox Jews: sex is for marriage (Catechism, 1 Corinthians 6:18).",
+    "Adultery breaks the Ten Commandments (Exodus 20:14) and wedding vows.",
+    "Sex outside marriage can lead to hurt, pregnancy and STIs.",
+    "Evaluation: strong for believers who accept the Bible as authority."
+   ],
+   "against": [
+    "Quakers and liberal Christians: love and commitment matter most.",
+    "Jesus taught love and forgiveness (John 8:7).",
+    "Reform Jews more flexible; humanists see it as a private choice between consenting adults.",
+    "Many couples cohabit successfully before marriage.",
+    "Evaluation: persuasive today, but weaker for those who see God's rules as fixed."
+   ],
+   "conclusion": "The statement is convincing for adultery but too strong for committed couples. Marriage is the religious ideal but love, consent and responsibility matter in every view."
+  },
+  {
+   "topic": "ta-02",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Religious people should not use contraception.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "model": "Some religious people would support this statement. The Roman Catholic Church teaches that sex must always be open to creating new life, and that artificial contraception separates sex from having children. This is based on Genesis 1:28, 'Be fruitful and increase in number', and on the Catechism and Humanae Vitae (1968). Catholics argue that children are a gift from God (Psalm 127:3), so a couple should not block God's plan. Some Christians also worry that methods like the coil or morning-after pill could end a fertilised egg, which they see as a life. This is a strong argument for Catholics because it follows their official teaching, but it only applies to artificial methods, as Catholics allow natural family planning.\n\nHowever, many religious people disagree. The Church of England and most Protestants teach that sex is also about love, and that couples can plan their families responsibly. They say contraception helps parents to care properly for their children, protects the mother's health, and reduces the spread of STIs. Reform Jews also accept contraception, as couples have free will and need to protect their family's welfare. Non-religious people add that contraception reduces unwanted pregnancies and abortions. This argument is strong because it uses the principle of caring for others, and no Bible verse specifically forbids contraception.\n\nIn conclusion, I do not agree that religious people should not use contraception. The statement is true for Catholics who follow their Church's teaching, but 'religious people' includes many Christians and Jews who accept contraception as part of responsible parenthood. It is also hard to say that God would prefer unwanted children, or that spreading STIs is better than using protection. However, believers who are worried about methods that might end a life have a fair point, so choosing methods carefully is sensible.",
+   "for": [
+    "Catholic teaching: sex must be open to life (Humanae Vitae, Catechism).",
+    "Genesis 1:28 and Psalm 127:3: children are God's blessing.",
+    "Orthodox Jews: having children is a duty, contraception only for good reason.",
+    "Some methods might end a fertilised egg, which some see as abortion.",
+    "Evaluation: strong for Catholics, but they accept natural family planning."
+   ],
+   "against": [
+    "Church of England and Protestants: responsible parenthood, health, finances.",
+    "1 Timothy 5:8: provide for your family.",
+    "Reform Jews allow contraception; non-religious people say it prevents unwanted pregnancy and STIs.",
+    "No Bible verse forbids contraception directly.",
+    "Evaluation: strong because it focuses on love and care."
+   ],
+   "conclusion": "The statement is too general. It matches Catholic teaching but many Christians and Jews see contraception as a responsible choice."
+  },
+  {
+   "topic": "ta-06",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Men and women should have the same roles in religion.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "model": "Many religious people support this statement. Genesis 1:27 says 'male and female he created them' in God's image, which suggests men and women have equal value. Galatians 3:28 says 'there is neither... male and female, for you are all one in Christ Jesus'. Jesus treated women with respect: he taught Mary and appeared first to women after his resurrection. On this basis the Church of England allows women to be priests and bishops, and Reform and Liberal Judaism have women rabbis. This is a strong argument because it follows the main Christian teaching of equality, and because many women have shown they can lead worship well.\n\nOn the other hand, some religious people believe men and women have different roles. The Catholic and Orthodox churches only allow men to be priests, as Jesus chose twelve male disciples, and Orthodox Judaism has male rabbis and separate seating in the synagogue. Traditional Christians use Ephesians 5:22-25 to say a husband and wife have different but equally important roles. They say 'different' does not mean 'unequal', and that tradition should be respected. This argument is strong for those who give great authority to tradition, but weaker for those who point out that, in Jesus' time, culture limited women's roles, and Jesus himself broke many customs. Non-religious people would say that excluding people from roles because of their gender is discrimination.\n\nIn conclusion, I think the statement is reasonable if it means everyone should have equal respect and the opportunity to serve. The evidence from Genesis 1:27 and Galatians 3:28 is very strong, and the fact that many churches now have women in leadership suggests tradition can change. However, the claim that roles must be exactly the same does not take seriously the beliefs of those who see worship and family life as based on God-given differences. These believers sincerely think different roles are equal, so the debate can only be resolved by how a person interprets the sources.",
+   "for": [
+    "Genesis 1:27: both genders are made in God's image.",
+    "Galatians 3:28: all one in Christ.",
+    "Jesus respected women; the Church of England has women priests and bishops; Reform Judaism has women rabbis.",
+    "Non-religious: discrimination is unfair.",
+    "Evaluation: strong because it follows the core teaching on equality."
+   ],
+   "against": [
+    "Catholic and Orthodox Christians: only men can be priests (Jesus chose twelve male apostles).",
+    "Orthodox Judaism: male rabbis and separate seating.",
+    "Ephesians 5:22-25: different but equal roles in marriage.",
+    "Evaluation: strong for those who value tradition, but can be seen as unfair."
+   ],
+   "conclusion": "Equal value and opportunity are supported by key teachings, but believers genuinely differ on whether equal means the same roles."
+  },
+  {
+   "topic": "ta-05",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'The main purpose of the family is to have children.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "model": "Many religious people would agree that having children is a central purpose of the family. Genesis 1:28 says 'Be fruitful and increase in number', and Psalm 127:3 calls children 'a heritage from the Lord'. Catholics and Orthodox Jews teach that marriage and sex are meant to be open to children, so the family begins with procreation. Without children, there would be no next generation to carry on the faith. This is a strong argument because it follows God's first command to humans, but it does not explain why couples without children are still families.\n\nHowever, there are other equally important purposes. Families give children stability and protection, a safe place to learn right from wrong. Christians say parents should bring children up 'in the training and instruction of the Lord' (Ephesians 6:4), and Jews are commanded to teach children the Torah (Deuteronomy 6:7). The family is also where love and companionship are found, including for the elderly, and Christians and Jews are expected to care for their parents (Exodus 20:12). Non-religious people would add that a family does not have to include children to give people support and security, and many couples choose not to have children. This argument is strong because it matches how most families live today.\n\nIn conclusion, I think having children is an important purpose but not the main one. Without love, stability and education in the faith, simply having children would not achieve what religious teachings want from families. A couple who cannot have children, or choose not to, can still have a loving family which serves God by caring for others. For this reason, I think the purpose of the family is better summed up as providing a loving, stable home, with children as one of the blessings of that home.",
+   "for": [
+    "Genesis 1:28 and Psalm 127:3: children are God's blessing and command.",
+    "Catholics and Orthodox Jews: sex and marriage are open to life.",
+    "Procreation ensures the faith is passed on.",
+    "Evaluation: strong in religious terms, but ignores couples without children."
+   ],
+   "against": [
+    "Families give stability, protection and security for all members.",
+    "Ephesians 6:4 and Deuteronomy 6:7: educating children in the faith.",
+    "Exodus 20:12: caring for elderly parents shows families are more than having children.",
+    "Non-religious: many families have no children or different forms.",
+    "Evaluation: strong because it matches how people actually live."
+   ],
+   "conclusion": "Having children is important, but love, stability and passing on the faith are equally central, so it is not the only main purpose."
+  },
+  {
+   "topic": "ta-02",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different religious beliefs about the use of artificial contraception. In your answer you must refer to one or more religious traditions.",
+   "model": "One belief, held by Roman Catholics, is that artificial contraception is wrong. This is because the Catholic Church teaches that every sexual act must be open to creating new life, so blocking this with the pill or condoms goes against God's purpose for sex. A different belief, held by the Church of England, is that contraception is acceptable in marriage. This is because couples have a duty to plan their family responsibly, for example by thinking about their health and money, so using contraception is a way of caring for the children they already have.",
+   "points": [
+    "Catholic: artificial contraception is wrong (1), because sex must be open to new life / natural law / Humanae Vitae (1).",
+    "Church of England or Protestant: contraception is acceptable (1), because of responsible parenthood, health, finances or the quality of family life (1).",
+    "Other creditable: Orthodox Jews allow it in limited cases such as the mother's health; Reform Jews accept it more freely."
+   ]
+  },
+  {
+   "topic": "ta-01",
+   "marks": 4,
+   "type": "similar",
+   "q": "Explain two similar religious beliefs about adultery. In your answer you must refer to one or more religious traditions.",
+   "model": "One belief is that adultery is wrong because it breaks the Ten Commandments. Christians and Jews both follow 'You shall not commit adultery', so having sex with someone else's husband or wife disobeys God. A similar belief is that adultery is wrong because it breaks the promises made at a wedding. Christians make vows before God and Jews make a covenant, so adultery betrays the partner, destroys trust and can hurt the children.",
+   "points": [
+    "Adultery is wrong because it breaks the commandment (1), and is disobeying God (1).",
+    "Adultery breaks marriage promises or vows (1), and damages trust, the couple or the children (1).",
+    "Other creditable: Jesus taught lust is adultery in the heart (Matthew 5:28); adultery can destroy the family."
+   ]
+  },
+  {
+   "topic": "ta-04",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different beliefs in contemporary British society about divorce. In your answer you must refer to the main religious tradition of Great Britain and one or more other religious traditions.",
+   "model": "One belief, held by Roman Catholics, is that divorce is not accepted. This is because Catholics believe marriage is a sacrament and a lifelong promise made before God, so only God can end it. A different belief, held by Jews, is that divorce is allowed, although it is sad. This is because the Torah allows a couple to divorce if the marriage has broken down, and the husband gives his wife a get, a document ending the marriage.",
+   "points": [
+    "Catholic: divorce not accepted (1), marriage is a sacrament / lifelong vow / Matthew 19:6 (1).",
+    "Jewish: divorce permitted (1), if the marriage has broken down, with a get / Deuteronomy 24:1 (1).",
+    "Other creditable: Church of England accepts divorce as a last resort; humanists accept it as a personal choice."
+   ]
+  },
+  {
+   "topic": "ta-03",
+   "marks": 4,
+   "type": "similar",
+   "q": "Explain two similar religious beliefs about the purpose of marriage. In your answer you must refer to one or more religious traditions.",
+   "model": "One belief is that the purpose of marriage is to have children. Christians believe God told humans to 'be fruitful and increase in number', so marriage is where a couple should start a family. A similar belief, held by Jews, is that marriage is for companionship and for building a Jewish home. Jews believe 'it is not good for the man to be alone', so marriage gives a couple a lifelong partner and a stable family in which to raise children in the faith.",
+   "points": [
+    "Christian: marriage is for having children / procreation (1), linked to Genesis 1:28 or raising children in the faith (1).",
+    "Jewish: marriage is for companionship and family life (1), linked to Genesis 2:18 or raising children in Judaism (1).",
+    "Other creditable: marriage as a safe place for sex; a stable home."
+   ]
+  },
+  {
+   "topic": "ta-05",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different religious beliefs about same-sex parents. In your answer you must refer to one or more religious traditions.",
+   "model": "One belief, held by many Roman Catholics and Orthodox Jews, is that children need a mother and a father. This is because they believe children learn from role models of both genders and that marriage is meant to be between a man and a woman. A different belief, held by Quakers and Reform Jews, is that same-sex couples can be good parents. This is because they teach that love and care matter more than gender, and every person is made in the image of God.",
+   "points": [
+    "Catholic or Orthodox Jewish: children need a mother and a father (1), because of role models / the traditional view of marriage (1).",
+    "Quaker, liberal Christian or Reform Jewish: same-sex couples can be good parents (1), because love and care matter most / all are equal in God's image (1).",
+    "Other creditable: the Church of England teaches that children need to be loved, but its official teaching is that marriage is between a man and a woman."
+   ]
+  },
+  {
+   "topic": "ta-06",
+   "marks": 4,
+   "type": "similar",
+   "q": "Explain two similar religious beliefs about gender equality. In your answer you must refer to one or more religious traditions.",
+   "model": "One belief, held by Christians, is that men and women are equal because both are made in God's image. Genesis 1:27 says 'male and female he created them', so neither gender is more valuable than the other. A similar belief, held by Jews, is that men and women have equal value and the same moral duties. This is because God created everyone, and in Reform and Liberal Judaism women can be rabbis and are counted in a minyan.",
+   "points": [
+    "Christian: equal because made in God's image (1), Genesis 1:27 or Galatians 3:28 (1).",
+    "Jewish: equal value and moral duties because God created all (1), development such as women rabbis in Reform Judaism or mothers valued highly (1).",
+    "Other creditable: Jesus treated women with respect."
+   ]
+  },
+  {
+   "topic": "ta-05",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about the role of parents in a religious family. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief is that parents must bring up their children in the faith. This means parents should teach them about God, take them to worship and set a good example. Ephesians 6:4 says fathers should bring children up 'in the training and instruction of the Lord'. This means Christian parents have a duty to teach right from wrong, so many baptise their children and take them to church. Another belief is that parents should love and care for their children. This is because children are a gift from God, as Psalm 127:3 says: 'Children are a heritage from the Lord'. This means Christian parents should treat children as precious, protect them and provide a safe, loving home.",
+   "points": [
+    "Belief 1: parents teach children the faith (1), development (1), source such as Ephesians 6:4 or Deuteronomy 6:7 (1), application of the source (1).",
+    "Belief 2: parents love and care for children (1), development (1), source such as Psalm 127:3 or Proverbs 22:6 (1), application (1).",
+    "Maximum 6: two beliefs, each developed with a source, with at least one source used for full marks."
+   ]
+  },
+  {
+   "topic": "ta-03",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about the purpose of marriage. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One purpose of marriage is companionship. God made marriage so that people would not be lonely. Genesis 2:18 says 'It is not good for the man to be alone'. This means a married couple should support and love each other through good and bad times, which is why Christians and Jews see marriage as a lifelong partnership. Another purpose is to have children. Genesis 1:28 says 'Be fruitful and increase in number'. This means marriage is the right place to start a family, so Christian couples often promise to raise children in the faith when they marry.",
+   "points": [
+    "Companionship (1), development (1), Genesis 2:18 or Genesis 2:24 (1), application (1).",
+    "Having children (1), development (1), Genesis 1:28 or Psalm 127:3 (1), application (1).",
+    "Other creditable purposes: a stable family life, a safe place for sex, a sacrament that reflects God's love."
+   ]
+  },
+  {
+   "topic": "ta-04",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about divorce. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief, held by Catholics, is that divorce is wrong because marriage is lifelong. This means a couple make a promise before God which cannot be broken. In Matthew 19:6 Jesus says 'What God has joined together, let no one separate'. This means Catholics do not recognise divorce and can only remarry in church if the first marriage is annulled. Another belief, held by many Protestants, is that divorce is allowed in some situations. This is because Christians should be compassionate when a marriage has failed. In Matthew 19:9 Jesus allows divorce for adultery, so Protestants say divorce can be the lesser of two evils.",
+   "points": [
+    "Catholic: divorce wrong, lifelong marriage (1), development with sacrament or vows (1), Matthew 19:6 (1), application of source such as annulment only (1).",
+    "Protestant: divorce permitted in some situations (1), development with compassion or lesser of two evils (1), Matthew 19:9 (1), application (1).",
+    "Other creditable: Jewish get and Deuteronomy 24:1; Malachi 2:16."
+   ]
+  },
+  {
+   "topic": "ta-01",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about homosexual relationships. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief is that homosexual acts are wrong. Traditional Christians and Orthodox Jews believe marriage and sex are for a man and a woman, and for having children. Leviticus 18:22 says 'Do not have sexual relations with a man as one does with a woman'. This means these believers see same-sex sex as against God's law, although they say gay people should still be respected. Another belief is that homosexual relationships should be accepted. Many liberal Christians and Quakers point out that Jesus said 'Love your neighbour as yourself' (Matthew 22:39). This means they treat gay couples with equal love and accept their relationships, if they are faithful and committed.",
+   "points": [
+    "Homosexual acts wrong (1), development such as procreation or marriage between man and woman (1), Leviticus 18:22 (1), application (1).",
+    "Homosexual relationships accepted (1), development such as love and equality (1), Matthew 22:39 or Genesis 1:27 (1), application (1).",
+    "Other creditable: Catechism on respect for gay people; Liberal Judaism accepts same-sex relationships."
+   ]
+  },
+  {
+   "topic": "ta-06",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about gender equality. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief is that men and women are equal because they are both made in God's image. Genesis 1:27 says 'male and female he created them'. This means that neither gender is worth more than the other, so many Christians support women in leadership roles such as priests and bishops. Another belief is that all Christians are one in Christ. Galatians 3:28 says 'There is neither... male and female, for you are all one in Christ Jesus'. This means gender should not affect how a person is treated in the church, so discrimination against women is wrong.",
+   "points": [
+    "Equal in God's image (1), development (1), Genesis 1:27 (1), application such as women priests (1).",
+    "All one in Christ (1), development (1), Galatians 3:28 (1), application such as no discrimination (1).",
+    "Other creditable: Jesus' respect for women; traditional Christians use Ephesians 5 for different but equal roles."
+   ]
+  },
+  {
+   "topic": "ta-02",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about contraception. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief, held by Catholics, is that artificial contraception is wrong. This means sex must always be open to having children. Genesis 1:28 says 'Be fruitful and increase in number', and the Catechism teaches that every act of sex must remain open to life. This means Catholics only use natural family planning to space out their children. Another belief, held by many Protestants, is that contraception is acceptable. This is because couples should be responsible parents. 1 Timothy 5:8 teaches that people should provide for their families, so Protestants say using contraception to have only as many children as they can care for is a way of following that teaching.",
+   "points": [
+    "Catholic: artificial contraception wrong (1), development (1), Genesis 1:28 or Catechism (1), application such as natural family planning (1).",
+    "Protestant: contraception acceptable (1), development (1), 1 Timothy 5:8 or Genesis 2:24 on love in marriage (1), application (1).",
+    "Other creditable: Jewish views and the Church of England quotation about good reasons for limiting parenthood."
+   ]
+  },
+  {
+   "topic": "ta-07",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about gender prejudice and discrimination. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief is that gender prejudice is wrong because Christians should treat others as they want to be treated. This means they should not judge or treat someone unfairly because of their gender. In Matthew 7:12 Jesus says 'do to others what you would have them do to you'. This means a Christian employer should pay men and women equally. Another belief is that everyone is made in God's image. Genesis 1:27 says 'male and female he created them'. This means that discrimination insults what God has made, so Christians and Jews should challenge it.",
+   "points": [
+    "Treat others as you want to be treated (1), development (1), Matthew 7:12 (1), application such as equal pay (1).",
+    "All made in God's image (1), development (1), Genesis 1:27 (1), application such as challenging discrimination (1).",
+    "Other creditable: Galatians 3:28; Jesus' treatment of women."
+   ]
+  }
+ ]
+}

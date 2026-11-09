@@ -34,7 +34,7 @@
     {
      "h": "Adjective endings to learn",
      "bullets": [
-      "+e: **intelligent / intelligente**, **bavard / bavarde**, **poli / polie**. Already ending in -e: no change, **timide**, **drôle**, **sympa** (never changes).",
+      "+e: **intelligent / intelligente**, **bavard / bavarde**, **poli / polie**. Already ending in -e: no extra feminine ending for **timide**, **drôle**, **sympa**. **Sympa** takes -s in the plural (**sympas**).",
       "-eux / -euse: **généreux / généreuse**, **paresseux / paresseuse**. -if / -ive: **sportif / sportive**, **créatif / créative**.",
       "-eur / -euse: **travailleur / travailleuse**. Irregular: **gentil / gentille**."
      ]
@@ -971,7 +971,7 @@
   },
   {
    "topic": "u2-01",
-   "q": "Which adjective never changes its ending?",
+   "q": "Which adjective has the same masculine and feminine form?",
    "options": [
     "sympa",
     "gentil",
@@ -979,7 +979,7 @@
     "généreux"
    ],
    "answer": 0,
-   "why": "Sympa is the same for boys and girls. Gentille, bavarde and généreuse are the feminine forms of the others."
+   "why": "Sympa is the same for boys and girls, but it takes -s in the plural (sympas). Gentille, bavarde and généreuse are the feminine forms of the others."
   },
   {
    "topic": "u2-01",

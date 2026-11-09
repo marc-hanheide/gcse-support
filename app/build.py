@@ -77,10 +77,11 @@ def main():
         for d in secs:
             for t in d['topics']:
                 for x in t.get('terms', []):
-                    k = (x['term'], x['def'])
+                    group = d['section'].get('short', d['section']['title'])
+                    k = (group, x['term'], x['def'])
                     if k not in seen:
                         seen.add(k)
-                        gl.append({'group': d['section'].get('short', d['section']['title']), 'term': x['term'], 'def': x['def']})
+                        gl.append({'group': group, 'term': x['term'], 'def': x['def']})
     clean = {k: v for k, v in meta.items() if k not in ('sectionOrder', 'pageTitle')}
     data = {'meta': clean, 'sections': secs, 'glossary': gl,
             'built': datetime.date.today().strftime('%d %b %Y')}

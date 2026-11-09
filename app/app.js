@@ -135,8 +135,9 @@ function renderCard(){
   var c=CS.queue[0],col_=col(c.sec);
   var h='<header class="top"><button class="ib" data-act="endCards" aria-label="Stop and go back">‹</button><div style="flex:1">'+bar(pct(CS.done,CS.total),col_)+'<p class="sub small" style="margin:4px 0 0">'+CS.done+' of '+CS.total+' · '+esc(SEC[c.sec].section.short||SEC[c.sec].section.title)+'</p></div>'+HOMEBTN+'</header>';
   h+='<div class="card fc c" style="--c:'+col_+';border-color:'+col_+'" data-act="flip" role="button" tabindex="0" aria-label="Card. Tap to reveal the answer">';
-  h+=CS.flip?'<div class="small mut" style="margin-bottom:8px">Answer</div><div class="a">'+fmt(c.a)+'</div>'+sayBtn(c.say)+'<div class="hint">'+esc(c.q)+'</div>':'<div class="small mut" style="margin-bottom:8px">'+esc(tname(c.sec,c.topic))+'</div><div class="q">'+fmt(c.q)+'</div><div class="hint">Tap to reveal the answer</div>';
+  h+=CS.flip?'<div class="small mut" style="margin-bottom:8px">Answer</div><div class="a">'+fmt(c.a)+'</div><div class="hint">'+esc(c.q)+'</div>':'<div class="small mut" style="margin-bottom:8px">'+esc(tname(c.sec,c.topic))+'</div><div class="q">'+fmt(c.q)+'</div><div class="hint">Tap to reveal the answer</div>';
   h+='</div>';
+  h+=CS.flip?sayBtn(c.say):'';
   h+=CS.flip?'<div class="row"><button class="btn bad" data-act="cardAns" data-v="0">Not yet</button><button class="btn ok" data-act="cardAns" data-v="1">Got it</button></div>':'<button class="btn" style="width:100%" data-act="flip">Show answer</button>';
   view(h);var f=$('.fc');if(f)f.focus({preventScroll:true})}
 var INTV=[0,0,1,3,7,14,30];
@@ -202,8 +203,9 @@ var STRUCT0={'evaluate':['Argument for, with evidence','Argument against, with e
 var STRUCT=Object.assign({},STRUCT0,META.structures||{});
 function writeItem(id){
   var sid=id.split(':')[0],s=SEC[sid],e=s&&s.ex.filter(function(x){return x.id===id})[0];if(!e)return notFound();cur=e;var c=s.color,st=S.exam[id]||{},mins=e.marks;
+  var timing=['conversation','roleplay','read-aloud'].indexOf(e.type)<0?'<p class="small mut">Aim for about '+mins+' minutes in the exam.</p>':'';
   var h=hdr((META.typeNames&&META.typeNames[e.type])||(e.marks+' mark question'),(META.typeNames&&META.typeNames[e.type]?e.marks+' marks · ':'')+s.section.title,true);
-  h+='<div class="card c" style="--c:'+c+'"><div class="small mut">'+esc(tname(sid,e.topic))+'</div><p style="font-size:1.08rem;font-weight:700;margin-top:6px">'+fmt(e.q)+'</p><p class="small mut">Aim for about '+mins+' minutes in the exam.</p>'+(e.listen?sayBtn(e.model).replace('aria-label="Listen">🔊','aria-label="Listen">🔊 Listen'):'')+'</div>';
+  h+='<div class="card c" style="--c:'+c+'"><div class="small mut">'+esc(tname(sid,e.topic))+'</div><p style="font-size:1.08rem;font-weight:700;margin-top:6px">'+fmt(e.q)+'</p>'+timing+(e.listen?sayBtn(e.model).replace('aria-label="Listen">🔊','aria-label="Listen">🔊 Listen'):'')+'</div>';
   if(STRUCT[e.type])h+='<details><summary>Structure to follow</summary><div><ol class="steps">'+STRUCT[e.type].map(function(x){return '<li>'+esc(x)+'</li>'}).join('')+'</ol></div></details>';
   h+='<label class="f" for="draft">Your answer (saved on this device)</label><textarea id="draft" data-act-input="draft" data-id="'+esc(id)+'" placeholder="Write your answer here, or on paper, then check it below.">'+esc(S.drafts[id]||'')+'</textarea>';
   h+='<div id="reveal">'+(st.shown?revealHtml(e,st):'<button class="btn pri" style="width:100%;margin-top:12px" data-act="reveal">Show model answer and mark points</button>')+'</div>';

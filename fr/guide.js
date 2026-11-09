@@ -39,7 +39,7 @@ const TECH_GUIDE = `
 <div class="card"><ul class="b">
 <li>The sentences use words from the vocabulary lists, so learning the spelling of your vocabulary is the best preparation.</li>
 <li>Sounds to know: <b>é</b> (-é, -er, -ez), <b>è</b> (è, ê, -et), <b>an / en</b>, <b>on</b>, <b>in / ain</b>, <b>ou</b>, <b>oi</b>, <b>eu</b>, <b>ch</b> (sh sound), <b>gn</b>, <b>qu</b> (k sound).</li>
-<li>Use grammar to check: after je the verb ends in -e or -s; after ils in -ent; after nous in -ons.</li>
+<li>For regular present-tense verbs, endings often help: je in -e (je joue) or -s (je finis), ils in -ent (ils jouent), nous in -ons (nous jouons). These are not universal: common irregular forms include j'ai, je peux, ils ont, ils sont, ils font and ils vont.</li>
 <li>Practise with the Dictation questions in the Write tab: tap Listen as often as you like.</li>
 </ul></div>
 

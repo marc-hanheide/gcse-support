@@ -1718,6 +1718,141 @@
     "Le sport est bon pour la santé.",
     "Je voudrais essayer l'escalade."
    ]
+  },
+  {
+   "topic": "u1-01",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I spend three hours a day on my phone.\n2. I use the internet to do my homework.\n3. My friends post photos on social media.\n4. I never play video games.\n5. Yesterday I downloaded a new game.",
+   "model": "1. Je passe trois heures par jour sur mon portable.\n2. J'utilise Internet pour faire mes devoirs.\n3. Mes amis postent des photos sur les réseaux sociaux.\n4. Je ne joue jamais aux jeux vidéo.\n5. Hier, j'ai téléchargé un nouveau jeu.",
+   "say": true,
+   "points": [
+    "1. passer + time + par jour, sur mon portable",
+    "2. utiliser... pour + infinitive (pour faire)",
+    "3. ils form: postent, les réseaux sociaux",
+    "4. ne... jamais round the verb",
+    "5. perfect tense: j'ai téléchargé; nouveau before the noun (BAGS)"
+   ]
+  },
+  {
+   "topic": "u1-02",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I play football on Saturdays.\n2. My sister goes swimming.\n3. I don't do any sport.\n4. I have been cycling for two years.\n5. Sport is good for your health.",
+   "model": "1. Je joue au foot le samedi.\n2. Ma sœur fait de la natation.\n3. Je ne fais pas de sport.\n4. Je fais du vélo depuis deux ans.\n5. Le sport est bon pour la santé.",
+   "say": true,
+   "points": [
+    "1. jouer au foot; le samedi for every Saturday",
+    "2. faire de la natation (not 'va nager')",
+    "3. pas de after a negative",
+    "4. present tense + depuis (not j'ai fait)",
+    "5. le sport, bon pour la santé"
+   ]
+  },
+  {
+   "topic": "u1-03",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I like watching films at the cinema.\n2. My favourite series is a comedy.\n3. I can't stand the news because it is boring.\n4. Last night I watched a documentary.\n5. Tomorrow I am going to watch a horror film.",
+   "model": "1. J'aime regarder des films au cinéma.\n2. Ma série préférée est une comédie.\n3. Je ne supporte pas les informations parce que c'est ennuyeux.\n4. Hier soir, j'ai regardé un documentaire.\n5. Demain, je vais regarder un film d'horreur.",
+   "say": true,
+   "points": [
+    "1. j'aime + infinitive; au cinéma",
+    "2. ma série préférée (feminine agreement)",
+    "3. je ne supporte pas les informations; parce que c'est",
+    "4. hier soir + j'ai regardé",
+    "5. near future: je vais regarder; un film d'horreur"
+   ]
+  },
+  {
+   "topic": "u1-04",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. Next Saturday I am going to go to the beach.\n2. We are going to take the train.\n3. Do you want to come?\n4. Meet at nine o'clock outside the station.\n5. If it rains, we are going to go to the museum.",
+   "model": "1. Samedi prochain, je vais aller à la plage.\n2. Nous allons prendre le train. (On va prendre le train.)\n3. Tu veux venir?\n4. Rendez-vous à neuf heures devant la gare.\n5. S'il pleut, on va aller au musée.",
+   "say": true,
+   "points": [
+    "1. samedi prochain + je vais aller à la plage",
+    "2. nous allons / on va + prendre",
+    "3. tu veux + infinitive",
+    "4. à neuf heures, devant la gare",
+    "5. si + present (s'il pleut), then near future; au musée"
+   ]
+  },
+  {
+   "topic": "u1-05",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. On Saturday I stayed at home.\n2. My parents went to the supermarket.\n3. I read a book and drank a hot chocolate.\n4. On Sunday we went out with my cousins.\n5. The weather was bad but it was fun.",
+   "model": "1. Samedi, je suis resté(e) à la maison.\n2. Mes parents sont allés au supermarché.\n3. J'ai lu un livre et j'ai bu un chocolat chaud.\n4. Dimanche, nous sommes sortis avec mes cousins.\n5. Il faisait mauvais mais c'était amusant.",
+   "say": true,
+   "points": [
+    "1. être verb: je suis resté(e)",
+    "2. sont allés: plural agreement",
+    "3. irregular participles lu and bu",
+    "4. nous sommes sortis (on est sortis)",
+    "5. imperfect: il faisait mauvais, c'était"
+   ]
+  },
+  {
+   "topic": "u1-06",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. What do you do at the weekend?\n2. Where did you go last summer?\n3. Why do you like music?\n4. What time does the film start?\n5. Who are you going to go out with?",
+   "model": "1. Qu'est-ce que tu fais le week-end?\n2. Où es-tu allé(e) l'été dernier? (Où est-ce que tu es allé(e) l'été dernier?)\n3. Pourquoi aimes-tu la musique? (Pourquoi est-ce que tu aimes la musique?)\n4. À quelle heure commence le film? (Le film commence à quelle heure?)\n5. Avec qui vas-tu sortir? (Avec qui est-ce que tu vas sortir?)",
+   "say": true,
+   "points": [
+    "1. qu'est-ce que + present",
+    "2. où + perfect tense with être",
+    "3. pourquoi + inversion or est-ce que",
+    "4. à quelle heure",
+    "5. avec qui + near future"
+   ]
+  },
+  {
+   "topic": "u1-01",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nI spend too much time online. Every evening, I watch videos or chat with my friends. Last night, I watched a series until midnight, so I was tired at school. My parents think that social media is dangerous, but in my opinion it is useful for staying in touch. Next week, I am going to try to use my phone less often.",
+   "model": "Je passe trop de temps en ligne. Tous les soirs, je regarde des vidéos ou je tchatte avec mes amis. Hier soir, j'ai regardé une série jusqu'à minuit, donc j'étais fatigué(e) au collège. Mes parents pensent que les réseaux sociaux sont dangereux, mais à mon avis, c'est utile pour rester en contact. La semaine prochaine, je vais essayer d'utiliser mon portable moins souvent.",
+   "say": true,
+   "points": [
+    "trop de temps, tous les soirs",
+    "perfect tense j'ai regardé plus imperfect j'étais fatigué(e)",
+    "pensent que; les réseaux sociaux sont dangereux (plural agreement)",
+    "à mon avis, pour rester en contact",
+    "near future + essayer de + infinitive"
+   ]
+  },
+  {
+   "topic": "u1-02",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nI have been doing gymnastics for six years and I train twice a week. Last weekend, I took part in a competition in Nottingham. I was nervous, but I won a medal! In the future, I would like to try climbing because it looks exciting. However, I don't have much free time because of my homework.",
+   "model": "Je fais de la gymnastique depuis six ans et je m'entraîne deux fois par semaine. Le week-end dernier, j'ai participé à une compétition à Nottingham. J'étais nerveuse (nerveux), mais j'ai gagné une médaille! À l'avenir, je voudrais essayer l'escalade parce que ça a l'air passionnant. Cependant, je n'ai pas beaucoup de temps libre à cause de mes devoirs.",
+   "say": true,
+   "points": [
+    "depuis + present; je m'entraîne; deux fois par semaine",
+    "perfect j'ai participé, j'ai gagné; imperfect j'étais",
+    "je voudrais + infinitive; ça a l'air",
+    "cependant; pas beaucoup de",
+    "à cause de mes devoirs"
+   ]
+  },
+  {
+   "topic": "u1-04",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nNext summer, my friends and I are going to spend a day in London. We are going to leave early by train. First we will visit a museum, then we will go shopping. If the weather is nice, we will have a picnic in the park. Last year, I went there with my family and it was unforgettable.",
+   "model": "L'été prochain, mes amis et moi allons passer une journée à Londres. Nous allons partir tôt en train. D'abord, nous visiterons un musée, puis nous ferons du shopping. S'il fait beau, nous ferons un pique-nique dans le parc. L'année dernière, j'y suis allé(e) avec ma famille et c'était inoubliable.",
+   "say": true,
+   "points": [
+    "mes amis et moi takes the nous form: allons passer",
+    "en train; partir tôt",
+    "simple future: nous visiterons, nous ferons (near future also accepted)",
+    "si + present: s'il fait beau",
+    "j'y suis allé(e); c'était inoubliable"
+   ]
   }
  ]
 }

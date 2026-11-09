@@ -1409,6 +1409,141 @@
     "Complex structures: qui, ce qui, BAGS adjective (un nouveau violon)",
     "Justified opinions and varied vocabulary"
    ]
+  },
+  {
+   "topic": "u2-01",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. My name is Sam and I am fourteen.\n2. My birthday is on the tenth of May.\n3. I live in Lincoln, in England.\n4. I am quite chatty but a bit shy.\n5. My friends say that I am generous.",
+   "model": "1. Je m'appelle Sam et j'ai quatorze ans.\n2. Mon anniversaire, c'est le dix mai.\n3. J'habite à Lincoln, en Angleterre.\n4. Je suis assez bavard(e) mais un peu timide.\n5. Mes amis disent que je suis généreux (généreuse).",
+   "say": true,
+   "points": [
+    "1. j'ai quatorze ans (avoir for age)",
+    "2. le dix mai: no 'of', no capital on the month",
+    "3. à for a town, en for England",
+    "4. assez, un peu; bavard(e)",
+    "5. disent que; généreux / généreuse"
+   ]
+  },
+  {
+   "topic": "u2-01",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. My sister is very hard-working.\n2. My brothers are lazy.\n3. My mother is creative and kind.\n4. I speak English and a little French.\n5. When I was little, I was shy.",
+   "model": "1. Ma sœur est très travailleuse.\n2. Mes frères sont paresseux.\n3. Ma mère est créative et gentille.\n4. Je parle anglais et un peu de français.\n5. Quand j'étais petit(e), j'étais timide.",
+   "say": true,
+   "points": [
+    "1. travailleuse (feminine of travailleur)",
+    "2. sont paresseux: -eux stays the same in the masculine plural",
+    "3. créative, gentille",
+    "4. no article after parler; un peu de français",
+    "5. imperfect: j'étais (twice)"
+   ]
+  },
+  {
+   "topic": "u2-02",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I wake up at seven o'clock.\n2. On Sundays I help at home.\n3. My brother goes to bed late.\n4. We have lunch at midday.\n5. Last Saturday I got up at ten.",
+   "model": "1. Je me réveille à sept heures.\n2. Le dimanche, j'aide à la maison.\n3. Mon frère se couche tard.\n4. Nous déjeunons à midi. (On déjeune à midi.)\n5. Samedi dernier, je me suis levé(e) à dix heures.",
+   "say": true,
+   "points": [
+    "1. reflexive: je me réveille",
+    "2. le dimanche for every Sunday",
+    "3. il form of a reflexive: se couche",
+    "4. déjeuner, à midi",
+    "5. reflexive perfect with être: je me suis levé(e)"
+   ]
+  },
+  {
+   "topic": "u2-03",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I get on well with my mother.\n2. My brother annoys me.\n3. We argue every day.\n4. A good friend must be honest.\n5. My best friend is always there for me.",
+   "model": "1. Je m'entends bien avec ma mère.\n2. Mon frère m'énerve.\n3. On se dispute tous les jours. (Nous nous disputons tous les jours.)\n4. Un bon ami doit être honnête.\n5. Ma meilleure amie (Mon meilleur ami) est toujours là pour moi.",
+   "say": true,
+   "points": [
+    "1. je m'entends bien avec",
+    "2. object pronoun before the verb: m'énerve",
+    "3. se disputer; tous les jours",
+    "4. doit + infinitive",
+    "5. meilleur(e) ami(e) agreeing; toujours là pour moi"
+   ]
+  },
+  {
+   "topic": "u2-04",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. My father is tall and slim.\n2. My sister has long blond hair.\n3. He has brown eyes and he wears glasses.\n4. My grandmother is an old lady.\n5. I admire her because she is brave.",
+   "model": "1. Mon père est grand et mince.\n2. Ma sœur a les cheveux longs et blonds.\n3. Il a les yeux marron et il porte des lunettes.\n4. Ma grand-mère est une vieille dame.\n5. Je l'admire parce qu'elle est courageuse.",
+   "say": true,
+   "points": [
+    "1. grand, mince",
+    "2. avoir les cheveux + plural adjectives after",
+    "3. marron does not change; porter des lunettes",
+    "4. vieille before the noun (BAGS)",
+    "5. je l'admire; courageuse"
+   ]
+  },
+  {
+   "topic": "u2-05",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. We celebrate Christmas with my grandparents.\n2. I give presents to my family.\n3. For my birthday, I eat a cake.\n4. Last year I had a party at home.\n5. Next year I am going to celebrate my birthday with my friends.",
+   "model": "1. On fête Noël avec mes grands-parents.\n2. J'offre des cadeaux à ma famille.\n3. Pour mon anniversaire, je mange un gâteau.\n4. L'année dernière, j'ai fait une fête chez moi.\n5. L'année prochaine, je vais fêter mon anniversaire avec mes amis.",
+   "say": true,
+   "points": [
+    "1. on fête Noël",
+    "2. offrir des cadeaux à",
+    "3. pour mon anniversaire",
+    "4. faire une fête (not 'avoir'); chez moi",
+    "5. near future: je vais fêter"
+   ]
+  },
+  {
+   "topic": "u2-03",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nMy best friend is called Leo. We have known each other since primary school. He is funny and loyal, and I can always count on him. Last month we argued because of a misunderstanding, but we made up quickly. In the future, I hope that we will stay friends.",
+   "model": "Mon meilleur ami s'appelle Leo. Nous nous connaissons (On se connaît) depuis l'école primaire. Il est drôle et fidèle, et je peux toujours compter sur lui. Le mois dernier, nous nous sommes disputés à cause d'un malentendu, mais nous nous sommes vite réconciliés. À l'avenir, j'espère que nous resterons amis.",
+   "say": true,
+   "points": [
+    "depuis + present: nous nous connaissons",
+    "je peux compter sur lui",
+    "reflexive perfect with agreement: nous nous sommes disputés, réconciliés",
+    "à cause d'un malentendu",
+    "simple future: nous resterons amis"
+   ]
+  },
+  {
+   "topic": "u2-04",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nMy role model is my grandfather. He is quite small and he has grey hair. When he was young, he worked in a factory and he had a difficult life. I admire him because he is patient and generous. One day, I would like to be like him.",
+   "model": "Mon modèle, c'est mon grand-père. Il est assez petit et il a les cheveux gris. Quand il était jeune, il travaillait dans une usine et il avait une vie difficile. Je l'admire parce qu'il est patient et généreux. Un jour, je voudrais être comme lui.",
+   "say": true,
+   "points": [
+    "mon modèle, c'est...",
+    "les cheveux gris",
+    "imperfect for background: il était, il travaillait, il avait",
+    "je l'admire parce qu'il est...",
+    "conditional: je voudrais être comme lui"
+   ]
+  },
+  {
+   "topic": "u2-05",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nLast Christmas, the whole family got together at my aunt's house. In the morning, we opened the presents, then we ate a huge meal. It was snowing, so the atmosphere was magical. In France, many families eat a chocolate log. Next year, I would like to spend Christmas in Paris.",
+   "model": "À Noël dernier, toute la famille s'est réunie chez ma tante. Le matin, nous avons ouvert les cadeaux, puis nous avons mangé un énorme repas. Il neigeait, donc l'ambiance était magique. En France, beaucoup de familles mangent une bûche de Noël. L'année prochaine, je voudrais passer Noël à Paris.",
+   "say": true,
+   "points": [
+    "reflexive perfect with agreement: s'est réunie; chez ma tante",
+    "irregular participle ouvert; nous avons mangé",
+    "imperfect: il neigeait, l'ambiance était",
+    "beaucoup de familles mangent (plural verb)",
+    "conditional: je voudrais passer"
+   ]
   }
  ]
 }

@@ -13,7 +13,7 @@ AQA 8652 specification at a glance (first exams 2026): four papers at 25% each, 
 
 ## How the content is organised
 
-- `terms` in each topic are the vocabulary list. With `termCards` set in `subject.json` the app turns every term into an English to French flashcard, and with `glossaryFromTerms` the build turns them into the glossary.
+- `terms` in each topic are the vocabulary list. With `termCards` set in `subject.json` the app turns every term into an English to French flashcard, with `vocabQuiz` they also make an English to French multiple-choice vocabulary quiz (351 words), and with `glossaryFromTerms` the build turns them into the glossary.
 - `sources` are key phrases (French text, English in `ref`). `views` are model answers with an English translation in `en`.
 - `speak: "fr-FR"` adds speaker buttons using the browser's speech synthesis. Exam items with `listen: true` (dictation, reading aloud) show a Listen button before the answer is revealed.
 

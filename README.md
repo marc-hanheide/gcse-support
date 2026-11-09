@@ -54,6 +54,7 @@ Optional `subject.json` settings (see `fr/subject.json`):
 - `papers` and `scopeLabels`: headings for section groups and the matching entries in the "What to cover" menu.
 - `typeNames`: a title for each exam item `type`, shown instead of "N mark question".
 - `termCards`: turn every topic `terms` entry into a flashcard (definition on the front, term on the back).
+- `vocabQuiz` (and optional `vocabQuizLabel`): adds a vocabulary quiz built from the topics' `terms` (definition shown, pick the term), with wrong options taken from the same topic and never sharing a meaning with the answer. Available from the Quiz tab, the home page, and each section and topic page.
 - `glossaryFromTerms`: build the glossary from the topics' `terms` when there is no `glossary.json`.
 - `speak`: a language code such as `fr-FR`. Adds listen buttons using the device's speech synthesis to terms, phrases, flashcards (`say` field) and model answers (`say: true` on a view or exam item). Exam items with `listen: true` get a Listen button on the question, for dictation and reading aloud.
 

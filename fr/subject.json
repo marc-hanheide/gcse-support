@@ -7,6 +7,8 @@
   "glossaryLabel": "words to learn",
   "glossaryFromTerms": true,
   "termCards": true,
+  "vocabQuiz": true,
+  "vocabQuizLabel": "Vocabulary: English to French",
   "speak": "fr-FR",
   "labels": {
     "views": "Model answers",
@@ -26,7 +28,11 @@
     "1": "Units 1 and 2 (topics)",
     "2": "Grammar"
   },
-  "sectionOrder": ["unit-1", "unit-2", "grammar"],
+  "sectionOrder": [
+    "unit-1",
+    "unit-2",
+    "grammar"
+  ],
   "colors": {
     "unit-1": "#1d4ed8",
     "unit-2": "#be123c",

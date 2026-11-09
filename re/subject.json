@@ -9,6 +9,10 @@
     "1": "Paper 1: Study of religions",
     "2": "Paper 2: Thematic studies"
   },
+  "scopeLabels": {
+    "1": "Paper 1: Christianity and Judaism",
+    "2": "Paper 2: Themes A, B, D, E"
+  },
   "sectionOrder": [
     "christian-beliefs",
     "christian-practices",

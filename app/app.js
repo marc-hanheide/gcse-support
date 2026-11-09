@@ -20,10 +20,19 @@ var SECS=DATA.sections, SEC={}, TOP={}, COLS=META.colors||{}, PAL=['#6d28d9','#b
 SECS.forEach(function(s){
   var id=s.section.id; SEC[id]=s; TOP[id]={}; s.color=COLS[id]||PAL[SECS.indexOf(s)%PAL.length];
   s.topics.forEach(function(t,i){t._i=i;TOP[id][t.id]=t});
-  s.cards=(s.flashcards||[]).map(function(c,i){return {id:id+':c'+i,sec:id,topic:c.topic,q:c.q,a:c.a}});
+  s.cards=(s.flashcards||[]).map(function(c,i){return {id:id+':c'+i,sec:id,topic:c.topic,q:c.q,a:c.a,say:c.say}});
+  if(META.termCards)s.topics.forEach(function(t){(t.terms||[]).forEach(function(x,i){s.cards.push({id:id+':v'+t.id+':'+i,sec:id,topic:t.id,q:x.def,a:x.term,say:x.term})})});
   s.qz=(s.quiz||[]).map(function(c,i){return {id:id+':q'+i,sec:id,topic:c.topic,q:c.q,options:c.options,answer:c.answer,why:c.why}});
   s.ex=(s.exam||[]).map(function(c,i){var o=Object.assign({},c);o.id=id+':e'+i;o.sec=id;return o});
 });
+var LBL=Object.assign({views:'Different views',sources:'Sources of wisdom and authority',use:'Use it for',terms:'Key terms',quoteBank:'Quote bank',quoteBankSub:'Sources of wisdom and authority',quoteSearch:'Search quotes or references',paper:'Paper'},META.labels||{});
+var SPEAK=META.speak||'',VOICE=null;
+function pickVoice(){if(!SPEAK||!window.speechSynthesis)return;var vs=speechSynthesis.getVoices(),lc=SPEAK.toLowerCase();VOICE=vs.filter(function(v){return v.lang&&v.lang.toLowerCase().replace('_','-')===lc})[0]||vs.filter(function(v){return v.lang&&v.lang.toLowerCase().indexOf(lc.slice(0,2))===0})[0]||null}
+if(SPEAK&&window.speechSynthesis){pickVoice();if(speechSynthesis.addEventListener)speechSynthesis.addEventListener('voiceschanged',pickVoice)}
+function sayBtn(t){if(!SPEAK||!window.speechSynthesis||!t)return '';return '<button class="say" type="button" data-act="say" data-say="'+esc(String(t).replace(/\*\*/g,''))+'" aria-label="Listen">🔊</button>'}
+function speakText(t){try{speechSynthesis.cancel();var u=new SpeechSynthesisUtterance(t);u.lang=SPEAK;if(VOICE)u.voice=VOICE;u.rate=.9;speechSynthesis.speak(u)}catch(e){}}
+var PAPERS=[];SECS.forEach(function(s){if(PAPERS.indexOf(s.section.paper)<0)PAPERS.push(s.section.paper)});PAPERS.sort();
+function paperName(p){return (META.papers&&META.papers[p])||(LBL.paper+' '+p)}
 function tname(sec,t){var x=TOP[sec]&&TOP[sec][t];return x?x.title:''}
 function col(sec){return SEC[sec]?SEC[sec].color:'#4338ca'}
 function secDone(s){return s.topics.filter(function(t){return S.done[s.section.id+':'+t.id]}).length}
@@ -49,12 +58,12 @@ function renderNav(h){var items=[['home','Home','#/'],['cards','Cards','#/cards'
 function view(html){var v=$('#view');v.innerHTML=html;window.scrollTo(0,0)}
 
 /* ---------- pools / scope ---------- */
-function scopeOptions(sel){var o='<option value="all">Everything</option><option value="p1"'+(sel==='p1'?' selected':'')+'>Paper 1: Christianity and Judaism</option><option value="p2"'+(sel==='p2'?' selected':'')+'>Paper 2: Themes A, B, D, E</option>';
+function scopeOptions(sel){var o='<option value="all">Everything</option>';if(PAPERS.length>1)PAPERS.forEach(function(p){o+='<option value="p'+p+'"'+(sel==='p'+p?' selected':'')+'>'+esc((META.scopeLabels&&META.scopeLabels[p])||paperName(p))+'</option>'});
   SECS.forEach(function(s){o+='<option value="'+s.section.id+'"'+(sel===s.section.id?' selected':'')+'>'+esc(s.section.title)+'</option>'});return o}
 function topicOptions(sec,sel){var o='<option value="all">All topics</option>';if(SEC[sec])SEC[sec].topics.forEach(function(t){o+='<option value="'+t.id+'"'+(sel===t.id?' selected':'')+'>'+esc(t.code+': '+t.title)+'</option>'});return o}
 function scopeUI(sc,extra){sc=sc||{};return '<label class="f" for="sc-sec">What to cover</label><select id="sc-sec" data-scope="1">'+scopeOptions(sc.sec||'all')+(extra||'')+'</select><div id="sc-topwrap" style="'+(SEC[sc.sec]?'':'display:none')+'"><label class="f" for="sc-top">Topic</label><select id="sc-top">'+topicOptions(sc.sec,sc.topic)+'</select></div>'}
 function readScope(){var s=$('#sc-sec')?$('#sc-sec').value:'all',t=$('#sc-top')?$('#sc-top').value:'all';return {sec:s,topic:SEC[s]?t:'all'}}
-function inScope(s,sc){var v=sc.sec;if(!v||v==='all')return true;if(v==='p1')return s.section.paper===1;if(v==='p2')return s.section.paper===2;return s.section.id===v}
+function inScope(s,sc){var v=sc.sec;if(!v||v==='all')return true;var m=/^p(\d+)$/.exec(v);if(m)return s.section.paper===+m[1];return s.section.id===v}
 function pool(kind,sc){var out=[];SECS.forEach(function(s){if(!inScope(s,sc))return;s[kind].forEach(function(x){if(sc.topic&&sc.topic!=='all'&&x.topic!==sc.topic)return;out.push(x)})});return out}
 
 /* ---------- views ---------- */
@@ -65,8 +74,8 @@ function home(){
   var h=hdr(META.title||'Revision',META.subtitle||'');
   h+='<div class="card"><div class="row" style="align-items:center"><div><div class="big">'+pct(doneT,totT)+'%</div><div class="mut small">topics revised ('+doneT+' of '+totT+')</div></div><div><div class="big">'+pct(knownC,totC)+'%</div><div class="mut small">cards learnt ('+knownC+' of '+totC+')</div></div></div></div>';
   h+='<div class="card"><b>Today</b><div class="row" style="margin-top:10px"><a class="btn pri" href="#/cards" data-act="quickCards">Flashcards: '+(due>0?due+' due':Math.min(newC,20)+' new')+'</a><a class="btn" href="#/quiz" data-act="quickQuiz">Quick quiz (10)</a></div>'+(wrong?'<p class="small mut" style="margin-top:10px">'+wrong+' question'+(wrong>1?'s':'')+' to revisit in the Quiz tab.</p>':'')+'</div>';
-  var PAPERS=[];SECS.forEach(function(s){if(PAPERS.indexOf(s.section.paper)<0)PAPERS.push(s.section.paper)});PAPERS.sort();PAPERS.forEach(function(p){
-    h+='<h2>'+esc((META.papers&&META.papers[p])||('Paper '+p))+'</h2><div class="grid">';
+  PAPERS.forEach(function(p){
+    h+='<h2>'+esc(paperName(p))+'</h2><div class="grid">';
     SECS.filter(function(s){return s.section.paper===p}).forEach(function(s){
       var d=secDone(s),n=s.topics.length,k=secKnown(s);
       h+='<a class="card sec c" style="--c:'+s.color+'" href="#/s/'+s.section.id+'"><b>'+esc(s.section.title)+'</b><div class="small mut" style="margin:4px 0 8px">'+esc(s.section.blurb||'')+'</div>'+bar(pct(d,n),s.color)+'<div class="stat"><span>'+d+'/'+n+' topics</span><span>'+k+'/'+s.cards.length+' cards</span><span>'+s.ex.length+' exam Qs</span></div></a>'});
@@ -76,7 +85,7 @@ function home(){
 
 function secPage(id){
   var s=SEC[id];if(!s)return notFound();
-  var h=hdr(s.section.title,'Paper '+s.section.paper,true);
+  var h=hdr(s.section.title,paperName(s.section.paper),true);
   h+='<div class="card c" style="--c:'+s.color+'"><p>'+esc(s.section.blurb||'')+'</p>'+bar(pct(secDone(s),s.topics.length),s.color)+'<div class="row" style="margin-top:12px"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+id+'">Flashcards ('+s.cards.length+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+id+'">Quiz ('+s.qz.length+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+id+'">Write ('+s.ex.length+')</a></div></div>';
   h+='<h2>Topics</h2><div class="list">';
   s.topics.forEach(function(t){var d=S.done[id+':'+t.id];h+='<a class="item" href="#/t/'+id+'/'+t.id+'"><span class="tick'+(d?' on':'')+'" aria-label="'+(d?'Revised':'Not yet revised')+'">'+(d?'✓':'')+'</span><span class="t"><small>'+esc(t.code)+'</small>'+esc(t.title)+'</span><span class="mut">›</span></a>'});
@@ -87,9 +96,9 @@ function topicPage(sid,tid){
   var h=hdr(t.title,s.section.title+' · '+t.code,true);
   h+='<div class="card c" style="--c:'+c+'"><p>'+fmt(t.overview||'')+'</p></div>';
   (t.notes||[]).forEach(function(n){h+='<h2>'+esc(n.h)+'</h2><div class="card c" style="--c:'+c+'"><ul class="b">'+(n.bullets||[]).map(function(b){return '<li>'+fmt(b)+'</li>'}).join('')+'</ul></div>'});
-  if(t.views&&t.views.length){h+='<h2>Different views</h2>'+t.views.map(function(v){return '<div class="view" style="--c:'+c+'"><b>'+esc(v.label)+'</b>'+fmt(v.text)+'</div>'}).join('')}
-  if(t.sources&&t.sources.length){h+='<h2>Sources of wisdom and authority</h2>'+t.sources.map(function(q){return '<div class="quote" style="--c:'+c+'"><q>'+fmt(q.text)+'</q><div class="ref">'+esc(q.ref||'')+'</div>'+(q.use?'<div class="use">Use it for: '+esc(q.use)+'</div>':'')+'</div>'}).join('')}
-  if(t.terms&&t.terms.length){h+='<h2>Key terms</h2><div class="terms" style="--c:'+c+'">'+t.terms.map(function(x){return '<div><b>'+esc(x.term)+'</b>: '+fmt(x.def)+'</div>'}).join('')+'</div>'}
+  if(t.views&&t.views.length){h+='<h2>'+esc(LBL.views)+'</h2>'+t.views.map(function(v){return '<div class="view" style="--c:'+c+'"><b>'+esc(v.label)+'</b>'+fmt(v.text)+(v.say?sayBtn(v.say===true?v.text:v.say):'')+(v.en?'<details class="en"><summary>English</summary><div>'+fmt(v.en)+'</div></details>':'')+'</div>'}).join('')}
+  if(t.sources&&t.sources.length){h+='<h2>'+esc(LBL.sources)+'</h2>'+t.sources.map(function(q){return '<div class="quote" style="--c:'+c+'"><q>'+fmt(q.text)+sayBtn(q.text)+'</q><div class="ref">'+esc(q.ref||'')+'</div>'+(q.use?'<div class="use">'+esc(LBL.use)+': '+esc(q.use)+'</div>':'')+'</div>'}).join('')}
+  if(t.terms&&t.terms.length){h+='<h2>'+esc(LBL.terms)+'</h2><div class="terms" style="--c:'+c+'">'+t.terms.map(function(x){return '<div><b>'+esc(x.term)+'</b>: '+fmt(x.def)+sayBtn(x.term)+'</div>'}).join('')+'</div>'}
   if(t.tip)h+='<div class="tip"><b>Exam tip.</b> '+fmt(t.tip)+'</div>';
   var nc=s.cards.filter(function(x){return x.topic===tid}).length,nq=s.qz.filter(function(x){return x.topic===tid}).length,ne=s.ex.filter(function(x){return x.topic===tid}).length;
   h+='<h2>Test yourself</h2><div class="row"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Cards ('+nc+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Quiz ('+nq+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+sid+'" data-topic="'+tid+'">Write ('+ne+')</a></div>';
@@ -125,7 +134,7 @@ function renderCard(){
   var c=CS.queue[0],col_=col(c.sec);
   var h='<header class="top"><button class="ib" data-act="endCards" aria-label="Stop and go back">‹</button><div style="flex:1">'+bar(pct(CS.done,CS.total),col_)+'<p class="sub small" style="margin:4px 0 0">'+CS.done+' of '+CS.total+' · '+esc(SEC[c.sec].section.short||SEC[c.sec].section.title)+'</p></div>'+HOMEBTN+'</header>';
   h+='<div class="card fc c" style="--c:'+col_+';border-color:'+col_+'" data-act="flip" role="button" tabindex="0" aria-label="Card. Tap to reveal the answer">';
-  h+=CS.flip?'<div class="small mut" style="margin-bottom:8px">Answer</div><div class="a">'+fmt(c.a)+'</div><div class="hint">'+esc(c.q)+'</div>':'<div class="small mut" style="margin-bottom:8px">'+esc(tname(c.sec,c.topic))+'</div><div class="q">'+fmt(c.q)+'</div><div class="hint">Tap to reveal the answer</div>';
+  h+=CS.flip?'<div class="small mut" style="margin-bottom:8px">Answer</div><div class="a">'+fmt(c.a)+'</div>'+sayBtn(c.say)+'<div class="hint">'+esc(c.q)+'</div>':'<div class="small mut" style="margin-bottom:8px">'+esc(tname(c.sec,c.topic))+'</div><div class="q">'+fmt(c.q)+'</div><div class="hint">Tap to reveal the answer</div>';
   h+='</div>';
   h+=CS.flip?'<div class="row"><button class="btn bad" data-act="cardAns" data-v="0">Not yet</button><button class="btn ok" data-act="cardAns" data-v="1">Got it</button></div>':'<button class="btn" style="width:100%" data-act="flip">Show answer</button>';
   view(h);var f=$('.fc');if(f)f.focus({preventScroll:true})}
@@ -172,19 +181,19 @@ function renderQuiz(){
   view(h)}
 
 /* ----- write ----- */
-var W={sec:'all',topic:'all',marks:'all'},cur=null;
+var W={sec:'all',topic:'all',marks:'all'},cur=null,MARKS=[];SECS.forEach(function(s){s.ex.forEach(function(e){var m=String(e.marks);if(MARKS.indexOf(m)<0)MARKS.push(m)})});MARKS.sort(function(a,b){return a-b});
 function writeList(){
   var h=hdr('Write','Exam questions with model answers and mark points');
   var items=[];SECS.forEach(function(s){if(!inScope(s,W))return;s.ex.forEach(function(e){if(W.topic!=='all'&&e.topic!==W.topic)return;if(W.marks!=='all'&&String(e.marks)!==W.marks)return;items.push(e)})});
-  h+='<div class="card">'+scopeUI(W)+'<label class="f">Question size</label><div class="chips" id="w-marks">'+['all','4','6','12'].map(function(m){return '<button class="chip'+(W.marks===m?' on':'')+'" data-act="setMarks" data-m="'+m+'">'+(m==='all'?'All':m+' marks')+'</button>'}).join('')+'</div><p class="small mut">'+items.length+' questions. '+items.filter(function(e){return S.exam[e.id]}).length+' attempted.</p>'+(items.length?'<a class="btn pri" style="width:100%" href="#/w/'+shuffle(items)[0].id+'">Random question</a>':'')+'</div>';
+  h+='<div class="card">'+scopeUI(W)+'<label class="f">Question size</label><div class="chips" id="w-marks">'+['all'].concat(MARKS).map(function(m){return '<button class="chip'+(W.marks===m?' on':'')+'" data-act="setMarks" data-m="'+m+'">'+(m==='all'?'All':m+' marks')+'</button>'}).join('')+'</div><p class="small mut">'+items.length+' questions. '+items.filter(function(e){return S.exam[e.id]}).length+' attempted.</p>'+(items.length?'<a class="btn pri" style="width:100%" href="#/w/'+shuffle(items)[0].id+'">Random question</a>':'')+'</div>';
   h+='<div class="list">'+items.map(function(e){var d=S.exam[e.id];return '<a class="item" href="#/w/'+e.id+'"><span class="t"><small>'+esc(SEC[e.sec].section.short||SEC[e.sec].section.title)+' · '+esc(tname(e.sec,e.topic))+'</small>'+esc(e.q.length>120?e.q.slice(0,117)+'...':e.q)+'</span>'+pill(e.marks+' marks',col(e.sec))+(d?'<span class="tick on">✓</span>':'')+'</a>'}).join('')+'</div>';
   view(h)}
 var STRUCT0={'evaluate':['Argument for, with evidence','Argument against, with evidence','Evaluate: how convincing is each side?','Conclusion: which is stronger, and why?']};
 var STRUCT=Object.assign({},STRUCT0,META.structures||{});
 function writeItem(id){
   var sid=id.split(':')[0],s=SEC[sid],e=s&&s.ex.filter(function(x){return x.id===id})[0];if(!e)return notFound();cur=e;var c=s.color,st=S.exam[id]||{},mins=e.marks;
-  var h=hdr(e.marks+' mark question',s.section.title,true);
-  h+='<div class="card c" style="--c:'+c+'"><div class="small mut">'+esc(tname(sid,e.topic))+'</div><p style="font-size:1.08rem;font-weight:700;margin-top:6px">'+fmt(e.q)+'</p><p class="small mut">Aim for about '+mins+' minutes in the exam.</p></div>';
+  var h=hdr((META.typeNames&&META.typeNames[e.type])||(e.marks+' mark question'),(META.typeNames&&META.typeNames[e.type]?e.marks+' marks · ':'')+s.section.title,true);
+  h+='<div class="card c" style="--c:'+c+'"><div class="small mut">'+esc(tname(sid,e.topic))+'</div><p style="font-size:1.08rem;font-weight:700;margin-top:6px">'+fmt(e.q)+'</p><p class="small mut">Aim for about '+mins+' minutes in the exam.</p>'+(e.listen?sayBtn(e.model).replace('aria-label="Listen">🔊','aria-label="Listen">🔊 Listen'):'')+'</div>';
   if(STRUCT[e.type])h+='<details><summary>Structure to follow</summary><div><ol class="steps">'+STRUCT[e.type].map(function(x){return '<li>'+esc(x)+'</li>'}).join('')+'</ol></div></details>';
   h+='<label class="f" for="draft">Your answer (saved on this device)</label><textarea id="draft" data-act-input="draft" data-id="'+esc(id)+'" placeholder="Write your answer here, or on paper, then check it below.">'+esc(S.drafts[id]||'')+'</textarea>';
   h+='<div id="reveal">'+(st.shown?revealHtml(e,st):'<button class="btn pri" style="width:100%;margin-top:12px" data-act="reveal">Show model answer and mark points</button>')+'</div>';
@@ -198,14 +207,14 @@ function revealHtml(e,st){
     if(e['for']&&e['for'].length)h+='<h2>Arguments for</h2><div class="card"><ul class="b">'+e['for'].map(function(x){return '<li>'+fmt(x)+'</li>'}).join('')+'</ul></div>';
     if(e.against&&e.against.length)h+='<h2>Arguments against</h2><div class="card"><ul class="b">'+e.against.map(function(x){return '<li>'+fmt(x)+'</li>'}).join('')+'</ul></div>';
     if(e.conclusion)h+='<h2>Conclusion</h2><div class="card">'+fmt(e.conclusion)+'</div>'}
-  h+='<h2>Model answer</h2><div class="model" style="--c:'+c+'">'+esc(e.model||'')+'</div><p class="small mut" style="margin-top:8px">A model answer is one good way to answer, not the only one. Different correct points can earn marks too.</p>';
+  h+='<h2>Model answer</h2><div class="model" style="--c:'+c+'">'+esc(e.model||'')+'</div>'+(e.say?sayBtn(e.model):'')+(e.en?'<details class="en"><summary>English</summary><div>'+fmt(e.en)+'</div></details>':'')+'<p class="small mut" style="margin-top:8px">A model answer is one good way to answer, not the only one. Different correct points can earn marks too.</p>';
   return h}
 
 /* ----- guide / more / glossary / quotes / search ----- */
 function guide(){view(hdr('Exam guide','How the papers work and how to answer each question')+(typeof TECH_GUIDE!=='undefined'?TECH_GUIDE:'<div class="card">No guide has been added for this subject yet.</div>'))}
 function more(){
   var h=hdr('More');
-  h+='<div class="list"><a class="item" href="#/glossary"><span class="t">Glossary<small>'+DATA.glossary.length+' '+esc(META.glossaryLabel||'key terms')+'</small></span><span class="mut">›</span></a><a class="item" href="#/quotes"><span class="t">Quote bank<small>Sources of wisdom and authority</small></span><span class="mut">›</span></a><a class="item" href="#/search"><span class="t">Search<small>Topics, terms and cards</small></span><span class="mut">›</span></a><a class="item" href="#/guide"><span class="t">Exam guide<small>Structure, timing, how to answer</small></span><span class="mut">›</span></a></div>';
+  h+='<div class="list"><a class="item" href="#/glossary"><span class="t">Glossary<small>'+DATA.glossary.length+' '+esc(META.glossaryLabel||'key terms')+'</small></span><span class="mut">›</span></a><a class="item" href="#/quotes"><span class="t">'+esc(LBL.quoteBank)+'<small>'+esc(LBL.quoteBankSub)+'</small></span><span class="mut">›</span></a><a class="item" href="#/search"><span class="t">Search<small>Topics, terms and cards</small></span><span class="mut">›</span></a><a class="item" href="#/guide"><span class="t">Exam guide<small>Structure, timing, how to answer</small></span><span class="mut">›</span></a></div>';
   h+='<h2>Settings</h2><div class="card"><label class="f" for="theme">Appearance</label><select id="theme" data-act-change="theme"><option value="auto"'+(S.theme==='auto'?' selected':'')+'>Match my phone</option><option value="light"'+(S.theme==='light'?' selected':'')+'>Light</option><option value="dark"'+(S.theme==='dark'?' selected':'')+'>Dark</option></select>';
   h+='<p class="small mut" style="margin-top:12px">Progress is saved in this browser on this device only. To keep the app on your phone: open it in your browser, tap Share, then Add to Home Screen.</p><button class="btn" style="width:100%" data-act="reset" id="resetbtn">Reset all my progress</button></div>';
   h+='<h2>About this app</h2><div class="card small">'+(META.about||'')+'<p class="mut">Version: '+esc(DATA.built||'')+'</p></div>';
@@ -217,14 +226,14 @@ function glossary(){
 function glist(){
   var q=GF.q.toLowerCase(),items=DATA.glossary.filter(function(x){return (GF.g==='all'||x.group===GF.g)&&(!q||x.term.toLowerCase().indexOf(q)>=0||x.def.toLowerCase().indexOf(q)>=0)});
   items.sort(function(a,b){return a.term.localeCompare(b.term)});
-  $('#glist').innerHTML=items.length?items.map(function(x){return '<details><summary><span>'+esc(x.term)+' <span class="mut small">'+esc(x.group)+'</span></span></summary><div>'+esc(x.def)+'</div></details>'}).join(''):'<p class="mut">No terms match.</p>'}
+  $('#glist').innerHTML=items.length?items.map(function(x){return '<details><summary><span>'+esc(x.term)+' <span class="mut small">'+esc(x.group)+'</span></span></summary><div>'+esc(x.def)+sayBtn(META.speak?x.term:'')+'</div></details>'}).join(''):'<p class="mut">No terms match.</p>'}
 var QF={sec:'all',q:''};
 function quotes(){
-  var h=hdr('Quote bank','Sources of wisdom and authority',true)+(typeof TECH_QUOTES!=='undefined'?TECH_QUOTES:'')+'<div class="sticky" style="margin-top:10px"><input type="search" id="qq" placeholder="Search quotes or references" value="'+esc(QF.q)+'" aria-label="Search quotes"></div><div class="chips"><button class="chip'+(QF.sec==='all'?' on':'')+'" data-act="qSec" data-s="all">All</button>'+SECS.map(function(s){return '<button class="chip'+(QF.sec===s.section.id?' on':'')+'" data-act="qSec" data-s="'+s.section.id+'">'+esc(s.section.short||s.section.title)+'</button>'}).join('')+'</div><div id="qlist"></div>';view(h);qlist()}
+  var h=hdr(LBL.quoteBank,LBL.quoteBankSub,true)+(typeof TECH_QUOTES!=='undefined'?TECH_QUOTES:'')+'<div class="sticky" style="margin-top:10px"><input type="search" id="qq" placeholder="'+esc(LBL.quoteSearch)+'" value="'+esc(QF.q)+'" aria-label="Search quotes"></div><div class="chips"><button class="chip'+(QF.sec==='all'?' on':'')+'" data-act="qSec" data-s="all">All</button>'+SECS.map(function(s){return '<button class="chip'+(QF.sec===s.section.id?' on':'')+'" data-act="qSec" data-s="'+s.section.id+'">'+esc(s.section.short||s.section.title)+'</button>'}).join('')+'</div><div id="qlist"></div>';view(h);qlist()}
 function qlist(){
   var q=QF.q.toLowerCase(),out=[];
   SECS.forEach(function(s){if(QF.sec!=='all'&&QF.sec!==s.section.id)return;s.topics.forEach(function(t){(t.sources||[]).forEach(function(x){var blob=(x.text+' '+x.ref+' '+(x.use||'')).toLowerCase();if(!q||blob.indexOf(q)>=0)out.push({s:s,t:t,x:x})})})});
-  $('#qlist').innerHTML=out.length?out.map(function(o){return '<div class="quote" style="--c:'+o.s.color+'"><q>'+fmt(o.x.text)+'</q><div class="ref">'+esc(o.x.ref||'')+'</div>'+(o.x.use?'<div class="use">Use it for: '+esc(o.x.use)+'</div>':'')+'<div class="use"><a href="#/t/'+o.s.section.id+'/'+o.t.id+'">'+esc(o.s.section.short||o.s.section.title)+': '+esc(o.t.title)+'</a></div></div>'}).join(''):'<p class="mut">No quotes match.</p>'}
+  $('#qlist').innerHTML=out.length?out.map(function(o){return '<div class="quote" style="--c:'+o.s.color+'"><q>'+fmt(o.x.text)+sayBtn(o.x.text)+'</q><div class="ref">'+esc(o.x.ref||'')+'</div>'+(o.x.use?'<div class="use">'+esc(LBL.use)+': '+esc(o.x.use)+'</div>':'')+'<div class="use"><a href="#/t/'+o.s.section.id+'/'+o.t.id+'">'+esc(o.s.section.short||o.s.section.title)+': '+esc(o.t.title)+'</a></div></div>'}).join(''):'<p class="mut">No quotes match.</p>'}
 var IDX=null;
 function buildIdx(){IDX=[];SECS.forEach(function(s){var id=s.section.id;s.topics.forEach(function(t){var txt=[t.title,t.overview].concat((t.notes||[]).reduce(function(a,n){return a.concat(n.bullets||[])},[])).join(' ');IDX.push({k:'Topic',l:t.title,sub:s.section.title,t:txt.toLowerCase(),link:'#/t/'+id+'/'+t.id,c:s.color});(t.terms||[]).forEach(function(x){IDX.push({k:'Term',l:x.term,sub:x.def,t:(x.term+' '+x.def).toLowerCase(),link:'#/t/'+id+'/'+t.id,c:s.color})})});s.cards.forEach(function(c){IDX.push({k:'Card',l:c.q,sub:c.a,t:(c.q+' '+c.a).toLowerCase(),link:'#/t/'+id+'/'+c.topic,c:s.color})})});DATA.glossary.forEach(function(x){IDX.push({k:'Glossary',l:x.term,sub:x.def,t:(x.term+' '+x.def).toLowerCase(),link:'#/glossary',c:'#4338ca'})})}
 function search(){view(hdr('Search','',true)+'<div class="sticky"><input type="search" id="sq" placeholder="Search everything" aria-label="Search"></div><div id="sres"><p class="mut">Type at least two letters.</p></div>')}
@@ -266,6 +275,7 @@ var ACT={
  startCardsAgain:function(){beginCards()},
  resetCardsRoute:function(){CS=null},
  endCards:function(){CS=null;history.length>1?history.back():(location.hash='#/cards');if(location.hash==='#/cards')cardsSetup()},
+ say:function(t,e){if(e)e.stopPropagation();speakText(t.dataset.say)},
  flip:function(){if(CS){CS.flip=!CS.flip;renderCard()}},
  cardAns:function(t){cardAns(t.dataset.v==='1')},
  startQuiz:startQuiz,

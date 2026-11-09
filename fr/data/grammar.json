@@ -1,0 +1,1254 @@
+{
+ "section": {
+  "id": "grammar",
+  "title": "Grammar toolkit",
+  "short": "Grammar",
+  "paper": 2,
+  "blurb": "The tenses, adjectives, opinions and negatives you need for every topic. Accurate grammar is what moves an answer up the mark scheme."
+ },
+ "topics": [
+  {
+   "id": "g-01",
+   "code": "G1",
+   "title": "The present tense",
+   "overview": "Use the present for what you do normally or are doing now. Learn the three regular patterns and the key irregular verbs, because almost every other tense is built from them.",
+   "notes": [
+    {
+     "h": "Regular verbs",
+     "bullets": [
+      "-er (jouer): je jou**e**, tu jou**es**, il / elle / on jou**e**, nous jou**ons**, vous jou**ez**, ils / elles jou**ent**.",
+      "-ir (finir): je fin**is**, tu fin**is**, il fin**it**, nous fin**issons**, vous fin**issez**, ils fin**issent**.",
+      "-re (vendre): je vend**s**, tu vend**s**, il vend, nous vend**ons**, vous vend**ez**, ils vend**ent**.",
+      "The -e, -es and -ent endings of -er verbs all sound the same, so je joue, tu joues and ils jouent sound identical."
+     ]
+    },
+    {
+     "h": "The big four irregulars",
+     "bullets": [
+      "**avoir**: j'ai, tu as, il a, nous avons, vous avez, ils ont.",
+      "**être**: je suis, tu es, il est, nous sommes, vous êtes, ils sont.",
+      "**aller**: je vais, tu vas, il va, nous allons, vous allez, ils vont.",
+      "**faire**: je fais, tu fais, il fait, nous faisons, vous faites, ils font."
+     ]
+    },
+    {
+     "h": "Other useful irregulars",
+     "bullets": [
+      "**prendre**: je prends, nous prenons, ils prennent. **vouloir**: je veux, ils veulent. **pouvoir**: je peux, ils peuvent. **devoir**: je dois, ils doivent.",
+      "Modal verbs (vouloir, pouvoir, devoir) are followed by an **infinitive**: je peux sortir, je dois travailler.",
+      "**on** takes the same form as il / elle: on joue, on va, on fait. It means we or people in general."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "term": "je joue",
+     "def": "I play"
+    },
+    {
+     "term": "nous jouons",
+     "def": "we play"
+    },
+    {
+     "term": "ils jouent",
+     "def": "they play"
+    },
+    {
+     "term": "je finis",
+     "def": "I finish"
+    },
+    {
+     "term": "j'attends",
+     "def": "I wait"
+    },
+    {
+     "term": "j'ai",
+     "def": "I have"
+    },
+    {
+     "term": "ils ont",
+     "def": "they have"
+    },
+    {
+     "term": "je suis",
+     "def": "I am"
+    },
+    {
+     "term": "ils sont",
+     "def": "they are"
+    },
+    {
+     "term": "je vais",
+     "def": "I go"
+    },
+    {
+     "term": "ils vont",
+     "def": "they go"
+    },
+    {
+     "term": "je fais",
+     "def": "I do, I make"
+    },
+    {
+     "term": "vous faites",
+     "def": "you do (plural or polite)"
+    },
+    {
+     "term": "ils font",
+     "def": "they do"
+    },
+    {
+     "term": "je prends",
+     "def": "I take"
+    },
+    {
+     "term": "je veux",
+     "def": "I want"
+    },
+    {
+     "term": "je peux",
+     "def": "I can"
+    },
+    {
+     "term": "je dois",
+     "def": "I must, I have to"
+    }
+   ],
+   "tip": "Ils sont (they are) and ils ont (they have) sound different: the s in ils sont is a hissing s, the s in ils ont is a buzzing z. Listen for it in the listening paper."
+  },
+  {
+   "id": "g-02",
+   "code": "G2",
+   "title": "The perfect tense (passé composé)",
+   "overview": "Use the perfect for completed actions in the past: what you did. It has two parts, an auxiliary (avoir or être in the present) and a past participle.",
+   "notes": [
+    {
+     "h": "With avoir (most verbs)",
+     "bullets": [
+      "**j'ai** joué, **tu as** fini, **il a** vendu, **nous avons** mangé, **vous avez** vu, **ils ont** fait.",
+      "Participles: -er to **-é**, -ir to **-i**, -re to **-u**.",
+      "Irregular participles: **avoir eu, être été, faire fait, voir vu, boire bu, lire lu, prendre pris, mettre mis, dire dit, écrire écrit, recevoir reçu, devoir dû, pouvoir pu, vouloir voulu**."
+     ]
+    },
+    {
+     "h": "With être",
+     "bullets": [
+      "**MRS VANDERTRAMP**: Monter, Rester, Sortir, Venir, Aller, Naître, Descendre, Entrer, Rentrer, Tomber, Retourner, Arriver, Mourir, Partir. Most are verbs of movement.",
+      "**je suis allé(e)**, **tu es venu(e)**, **il est parti**, **elle est partie**, **nous sommes sorti(e)s**, **ils sont arrivés**, **elles sont arrivées**.",
+      "The participle **agrees** like an adjective: add -e for feminine, -s for plural.",
+      "**All reflexive verbs** use être: je me suis levé(e), on s'est amusés."
+     ]
+    },
+    {
+     "h": "Negatives and questions",
+     "bullets": [
+      "Ne... pas goes round the auxiliary: **je n'ai pas** joué, **je ne suis pas** allé(e), **je ne me suis pas** levé(e).",
+      "Questions: **Tu as fait** tes devoirs? **Qu'est-ce que tu as fait?** **As-tu vu** le film?"
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "term": "j'ai joué",
+     "def": "I played"
+    },
+    {
+     "term": "j'ai fini",
+     "def": "I finished"
+    },
+    {
+     "term": "j'ai attendu",
+     "def": "I waited"
+    },
+    {
+     "term": "j'ai eu",
+     "def": "I had"
+    },
+    {
+     "term": "j'ai été",
+     "def": "I was, I have been"
+    },
+    {
+     "term": "j'ai fait",
+     "def": "I did"
+    },
+    {
+     "term": "j'ai vu",
+     "def": "I saw"
+    },
+    {
+     "term": "j'ai bu",
+     "def": "I drank"
+    },
+    {
+     "term": "j'ai lu",
+     "def": "I read"
+    },
+    {
+     "term": "j'ai pris",
+     "def": "I took"
+    },
+    {
+     "term": "j'ai mis",
+     "def": "I put (on)"
+    },
+    {
+     "term": "j'ai dit",
+     "def": "I said"
+    },
+    {
+     "term": "j'ai écrit",
+     "def": "I wrote"
+    },
+    {
+     "term": "j'ai dû",
+     "def": "I had to"
+    },
+    {
+     "term": "je suis allé(e)",
+     "def": "I went"
+    },
+    {
+     "term": "je suis venu(e)",
+     "def": "I came"
+    },
+    {
+     "term": "je suis parti(e)",
+     "def": "I left"
+    },
+    {
+     "term": "je suis arrivé(e)",
+     "def": "I arrived"
+    },
+    {
+     "term": "je suis tombé(e)",
+     "def": "I fell"
+    },
+    {
+     "term": "je suis né(e)",
+     "def": "I was born"
+    },
+    {
+     "term": "je me suis amusé(e)",
+     "def": "I had fun"
+    }
+   ],
+   "tip": "In a 90 or 150 word answer, use at least one être verb with the right agreement and one irregular participle (fait, vu, pris). Examiners look for range, not just j'ai joué."
+  },
+  {
+   "id": "g-03",
+   "code": "G3",
+   "title": "Future and conditional",
+   "overview": "The near future (je vais + infinitive) is enough for Foundation. For Higher, add the simple future (je ferai) and the conditional (je voudrais, ce serait) to show range.",
+   "notes": [
+    {
+     "h": "Near future",
+     "bullets": [
+      "**aller** in the present + **infinitive**: je vais jouer, tu vas sortir, on va manger, nous allons voir, ils vont partir.",
+      "Negative: je **ne** vais **pas** jouer. Reflexive: je vais **me** lever, tu vas **te** coucher."
+     ]
+    },
+    {
+     "h": "Simple future (Higher)",
+     "bullets": [
+      "Infinitive + **-ai, -as, -a, -ons, -ez, -ont**: je jouer**ai**, il finir**a**. -re verbs drop the e: je vendr**ai**.",
+      "Irregular stems, same endings: **aller ir-** (j'irai), **être ser-** (je serai), **avoir aur-** (j'aurai), **faire fer-** (je ferai), **pouvoir pourr-** (je pourrai), **venir viendr-** (je viendrai), **voir verr-** (je verrai).",
+      "Useful: **Quand je serai plus âgé(e)**, j'habiterai à l'étranger. When I am older I will live abroad."
+     ]
+    },
+    {
+     "h": "Conditional: would",
+     "bullets": [
+      "Future stem + imperfect endings **-ais, -ais, -ait, -ions, -iez, -aient**: je jouer**ais**, ce ser**ait**, j'ir**ais**.",
+      "Must-know: **je voudrais** I would like, **j'aimerais** I would like, **ce serait** génial it would be great, **on pourrait** we could, **je devrais** I should.",
+      "**Si j'avais** plus d'argent, **j'irais** en France. If I had more money I would go to France. (Higher: si + imperfect, then conditional)"
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "term": "je vais jouer",
+     "def": "I am going to play"
+    },
+    {
+     "term": "on va sortir",
+     "def": "we are going to go out"
+    },
+    {
+     "term": "je jouerai",
+     "def": "I will play"
+    },
+    {
+     "term": "j'irai",
+     "def": "I will go"
+    },
+    {
+     "term": "je serai",
+     "def": "I will be"
+    },
+    {
+     "term": "j'aurai",
+     "def": "I will have"
+    },
+    {
+     "term": "je ferai",
+     "def": "I will do"
+    },
+    {
+     "term": "je pourrai",
+     "def": "I will be able to"
+    },
+    {
+     "term": "je voudrais",
+     "def": "I would like"
+    },
+    {
+     "term": "j'aimerais",
+     "def": "I would like"
+    },
+    {
+     "term": "ce serait",
+     "def": "it would be"
+    },
+    {
+     "term": "on pourrait",
+     "def": "we could"
+    },
+    {
+     "term": "je devrais",
+     "def": "I should"
+    },
+    {
+     "term": "j'irais",
+     "def": "I would go"
+    }
+   ],
+   "tip": "Je voudrais + infinitive is the fastest way to add a different tense to any answer: Je voudrais essayer..., je voudrais visiter..."
+  },
+  {
+   "id": "g-04",
+   "code": "G4",
+   "title": "The imperfect tense",
+   "overview": "Use the imperfect for description in the past (it was, there were, the weather was) and for what used to happen. Mixing it with the perfect is a clear Higher-level skill.",
+   "notes": [
+    {
+     "h": "How to form it",
+     "bullets": [
+      "Take the **nous** form of the present, remove -ons, add **-ais, -ais, -ait, -ions, -iez, -aient**.",
+      "nous jouons: je **jouais**. nous faisons: je **faisais**. nous allons: j'**allais**.",
+      "The only irregular stem is être: **j'étais**, c'**était**."
+     ]
+    },
+    {
+     "h": "When to use it",
+     "bullets": [
+      "Description and opinion: **c'était** génial, **il y avait** du monde, **il faisait** beau, **il pleuvait**.",
+      "Used to: **Quand j'étais petit(e), je jouais** au foot tous les jours. When I was little I used to play football every day.",
+      "Background to an event (with the perfect): **Je regardais** la télé quand mon ami **a téléphoné**. I was watching TV when my friend phoned."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "term": "c'était",
+     "def": "it was"
+    },
+    {
+     "term": "j'étais",
+     "def": "I was"
+    },
+    {
+     "term": "il y avait",
+     "def": "there was, there were"
+    },
+    {
+     "term": "il faisait beau",
+     "def": "the weather was nice"
+    },
+    {
+     "term": "il faisait froid",
+     "def": "it was cold"
+    },
+    {
+     "term": "il pleuvait",
+     "def": "it was raining"
+    },
+    {
+     "term": "j'avais",
+     "def": "I had, I used to have"
+    },
+    {
+     "term": "je jouais",
+     "def": "I used to play, I was playing"
+    },
+    {
+     "term": "j'allais",
+     "def": "I used to go, I was going"
+    },
+    {
+     "term": "je faisais",
+     "def": "I used to do, I was doing"
+    },
+    {
+     "term": "quand j'étais petit(e)",
+     "def": "when I was little"
+    }
+   ],
+   "tip": "One imperfect sentence lifts a past paragraph: add c'était, il faisait beau or il y avait beaucoup de monde after describing what you did."
+  },
+  {
+   "id": "g-05",
+   "code": "G5",
+   "title": "Adjectives: agreement and position (BAGS)",
+   "overview": "Adjectives agree with the noun in gender and number, and most go after the noun. BAGS adjectives go before it. Getting these right is an easy accuracy mark.",
+   "notes": [
+    {
+     "h": "Agreement",
+     "bullets": [
+      "Feminine: add **-e** (grand, grande). Plural: add **-s** (grands, grandes). Already -e: no change (jeune, jeune).",
+      "**-eux to -euse** (heureux, heureuse), **-if to -ive** (sportif, sportive), **-en to -enne** (italien, italienne), **-er to -ère** (cher, chère), **-eur to -euse** (travailleur, travailleuse).",
+      "Irregular: **blanc / blanche**, **long / longue**, **gentil / gentille**, **gros / grosse**.",
+      "Never change: **marron**, **sympa**, **cool**, **super**."
+     ]
+    },
+    {
+     "h": "Position: BAGS",
+     "bullets": [
+      "Most adjectives go **after**: un chat **noir**, une ville **intéressante**.",
+      "**B**eauty: beau, joli. **A**ge: jeune, vieux, nouveau. **G**ood / bad: bon, mauvais, gentil. **S**ize: grand, petit, gros, long. These go **before**: une **belle** journée, un **petit** chien.",
+      "beau / bel / belle, nouveau / nouvel / nouvelle, vieux / vieil / vieille: the middle form is for a masculine noun starting with a vowel: un **bel** endroit, un **nouvel** ami."
+     ]
+    },
+    {
+     "h": "Comparatives and superlatives",
+     "bullets": [
+      "**plus** + adj + **que** more... than: Ma sœur est **plus** grande **que** moi. **moins... que** less... than. **aussi... que** as... as.",
+      "**le / la / les plus** + adj: the most. C'est **la plus** belle ville. **meilleur(e)** better, **le meilleur** the best (not plus bon)."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "term": "heureux / heureuse",
+     "def": "happy"
+    },
+    {
+     "term": "ennuyeux / ennuyeuse",
+     "def": "boring"
+    },
+    {
+     "term": "actif / active",
+     "def": "active"
+    },
+    {
+     "term": "cher / chère",
+     "def": "expensive, dear"
+    },
+    {
+     "term": "blanc / blanche",
+     "def": "white"
+    },
+    {
+     "term": "long / longue",
+     "def": "long"
+    },
+    {
+     "term": "beau / bel / belle",
+     "def": "beautiful"
+    },
+    {
+     "term": "nouveau / nouvel / nouvelle",
+     "def": "new"
+    },
+    {
+     "term": "vieux / vieil / vieille",
+     "def": "old"
+    },
+    {
+     "term": "bon / bonne",
+     "def": "good"
+    },
+    {
+     "term": "mauvais / mauvaise",
+     "def": "bad"
+    },
+    {
+     "term": "plus... que",
+     "def": "more... than"
+    },
+    {
+     "term": "moins... que",
+     "def": "less... than"
+    },
+    {
+     "term": "aussi... que",
+     "def": "as... as"
+    },
+    {
+     "term": "meilleur(e)",
+     "def": "better"
+    },
+    {
+     "term": "le / la meilleur(e)",
+     "def": "the best"
+    }
+   ],
+   "tip": "Before you finish a writing task, find every adjective and ask: is the noun feminine or plural? Is it a BAGS adjective? It takes a minute and saves marks."
+  },
+  {
+   "id": "g-06",
+   "code": "G6",
+   "title": "Opinions, reasons and connectives",
+   "overview": "Turn simple sentences into developed ones: an opinion phrase, a reason, an intensifier and a connective. This is how answers reach the top bands for range of language.",
+   "notes": [
+    {
+     "h": "Opinion phrases",
+     "bullets": [
+      "Verbs + noun: **j'aime, j'adore, je préfère, je n'aime pas, je déteste** + le / la / les.",
+      "Verbs + infinitive: **j'aime jouer**, **je préfère regarder**.",
+      "Phrases: **à mon avis**, **selon moi**, **je pense que**, **je trouve que**, **je crois que**, **pour moi**.",
+      "Higher: **ce que j'aime, c'est**... what I like is... **ce qui m'énerve, c'est**... what annoys me is..."
+     ]
+    },
+    {
+     "h": "Reasons and connectives",
+     "bullets": [
+      "Because: **parce que** (parce qu' before a vowel), **car**.",
+      "Adding: **et, aussi, en plus** (what's more). Contrasting: **mais, cependant** (however), **par contre** (on the other hand), **pourtant** (yet).",
+      "Result: **donc, alors** (so). Time: **quand** (when), **pendant que** (while).",
+      "Relative pronouns: **qui** (who / which, subject), **que** (that / which, object), **où** (where)."
+     ]
+    },
+    {
+     "h": "Intensifiers and opinion adjectives",
+     "bullets": [
+      "**très** very, **assez** quite, **vraiment** really, **trop** too, **un peu** a bit, **tellement** so, **pas du tout** not at all.",
+      "Positive: génial, super, passionnant, amusant, intéressant, relaxant. Negative: nul, ennuyeux, fatigant, barbant (boring), pénible (annoying).",
+      "Past and future opinions: **c'était** génial, **ce sera** amusant, **ce serait** super."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "term": "à mon avis",
+     "def": "in my opinion"
+    },
+    {
+     "term": "selon moi",
+     "def": "in my view"
+    },
+    {
+     "term": "je pense que",
+     "def": "I think that"
+    },
+    {
+     "term": "je trouve que",
+     "def": "I find that"
+    },
+    {
+     "term": "parce que",
+     "def": "because"
+    },
+    {
+     "term": "car",
+     "def": "because, as"
+    },
+    {
+     "term": "cependant",
+     "def": "however"
+    },
+    {
+     "term": "par contre",
+     "def": "on the other hand"
+    },
+    {
+     "term": "en plus",
+     "def": "what's more"
+    },
+    {
+     "term": "donc",
+     "def": "so, therefore"
+    },
+    {
+     "term": "pourtant",
+     "def": "yet, however"
+    },
+    {
+     "term": "qui",
+     "def": "who, which (subject)"
+    },
+    {
+     "term": "où",
+     "def": "where"
+    },
+    {
+     "term": "vraiment",
+     "def": "really"
+    },
+    {
+     "term": "tellement",
+     "def": "so (very)"
+    },
+    {
+     "term": "pas du tout",
+     "def": "not at all"
+    },
+    {
+     "term": "pénible",
+     "def": "annoying, a pain"
+    },
+    {
+     "term": "ce que j'aime, c'est",
+     "def": "what I like is"
+    }
+   ],
+   "tip": "Use the formula opinion + intensifier + reason: J'adore le hockey parce que c'est vraiment passionnant. Then add a contrast: par contre, je trouve le rugby trop violent."
+  },
+  {
+   "id": "g-07",
+   "code": "G7",
+   "title": "Negatives",
+   "overview": "Negatives make two parts that sandwich the verb. Using more than ne... pas (jamais, plus, rien, personne) is an easy way to show range.",
+   "notes": [
+    {
+     "h": "The negatives",
+     "bullets": [
+      "**ne... pas** not, **ne... jamais** never, **ne... plus** no longer / not any more, **ne... rien** nothing, **ne... personne** nobody, **ne... que** only.",
+      "Ne becomes **n'** before a vowel or h: je **n'**aime **pas**, je **n'**habite **plus** à Londres."
+     ]
+    },
+    {
+     "h": "Where they go",
+     "bullets": [
+      "Present: round the verb, **je ne joue jamais** au tennis.",
+      "Perfect: round the auxiliary, **je n'ai pas joué**, **je ne suis jamais allé(e)** en France. Exception: personne goes after the participle, **je n'ai vu personne**.",
+      "Near future: round aller, **je ne vais pas sortir**.",
+      "Reflexive: ne before the pronoun, **je ne me lève pas** tôt."
+     ]
+    },
+    {
+     "h": "Articles after a negative",
+     "bullets": [
+      "un, une, du, de la, de l', des become **de / d'**: J'ai un chien. **Je n'ai pas de** chien. Je fais du sport. **Je ne fais pas de** sport.",
+      "But le, la, les stay the same: Je n'aime pas **le** sport."
+     ]
+    }
+   ],
+   "terms": [
+    {
+     "term": "ne... pas",
+     "def": "not"
+    },
+    {
+     "term": "ne... jamais",
+     "def": "never"
+    },
+    {
+     "term": "ne... plus",
+     "def": "no longer, not any more"
+    },
+    {
+     "term": "ne... rien",
+     "def": "nothing"
+    },
+    {
+     "term": "ne... personne",
+     "def": "nobody"
+    },
+    {
+     "term": "ne... que",
+     "def": "only"
+    },
+    {
+     "term": "je n'ai pas de",
+     "def": "I don't have any"
+    },
+    {
+     "term": "je ne suis jamais allé(e)",
+     "def": "I have never been"
+    },
+    {
+     "term": "je ne vais pas",
+     "def": "I am not going to"
+    }
+   ],
+   "tip": "Je ne suis jamais allé(e) en France, mais je voudrais y aller: two tenses, a negative and a pronoun in one sentence."
+  }
+ ],
+ "flashcards": [
+  {
+   "topic": "g-01",
+   "q": "Present tense of faire (all six).",
+   "a": "je fais, tu fais, il fait, nous faisons, vous faites, ils font",
+   "say": "je fais, tu fais, il fait, nous faisons, vous faites, ils font"
+  },
+  {
+   "topic": "g-01",
+   "q": "Present tense of aller (all six).",
+   "a": "je vais, tu vas, il va, nous allons, vous allez, ils vont",
+   "say": "je vais, tu vas, il va, nous allons, vous allez, ils vont"
+  },
+  {
+   "topic": "g-01",
+   "q": "What follows a modal verb (vouloir, pouvoir, devoir)?",
+   "a": "An infinitive: je peux sortir, je dois travailler, je veux jouer."
+  },
+  {
+   "topic": "g-02",
+   "q": "What does MRS VANDERTRAMP stand for?",
+   "a": "Monter, Rester, Sortir, Venir, Aller, Naître, Descendre, Entrer, Rentrer, Tomber, Retourner, Arriver, Mourir, Partir: verbs that take être in the perfect tense."
+  },
+  {
+   "topic": "g-02",
+   "q": "Make negative: J'ai regardé la télé.",
+   "a": "Je n'ai pas regardé la télé.",
+   "say": "Je n'ai pas regardé la télé."
+  },
+  {
+   "topic": "g-02",
+   "q": "Perfect tense, 'my sisters went out'.",
+   "a": "Mes sœurs sont sorties. (être, feminine plural agreement)",
+   "say": "Mes sœurs sont sorties."
+  },
+  {
+   "topic": "g-03",
+   "q": "Simple future stems of aller, être, avoir, faire.",
+   "a": "ir-, ser-, aur-, fer-: j'irai, je serai, j'aurai, je ferai.",
+   "say": "j'irai, je serai, j'aurai, je ferai"
+  },
+  {
+   "topic": "g-03",
+   "q": "How do you say: If I had more money, I would go to Paris.",
+   "a": "Si j'avais plus d'argent, j'irais à Paris.",
+   "say": "Si j'avais plus d'argent, j'irais à Paris."
+  },
+  {
+   "topic": "g-04",
+   "q": "How is the imperfect formed?",
+   "a": "nous form of the present minus -ons, plus -ais, -ais, -ait, -ions, -iez, -aient. Only être is irregular: j'étais."
+  },
+  {
+   "topic": "g-04",
+   "q": "How do you say: When I was little, I used to play in the garden.",
+   "a": "Quand j'étais petit(e), je jouais dans le jardin.",
+   "say": "Quand j'étais petite, je jouais dans le jardin."
+  },
+  {
+   "topic": "g-05",
+   "q": "Translate with correct position: a new friend (boy), an old lady, a black cat.",
+   "a": "un nouvel ami, une vieille dame, un chat noir",
+   "say": "un nouvel ami, une vieille dame, un chat noir"
+  },
+  {
+   "topic": "g-05",
+   "q": "How do you say: My sister is taller than me.",
+   "a": "Ma sœur est plus grande que moi.",
+   "say": "Ma sœur est plus grande que moi."
+  },
+  {
+   "topic": "g-06",
+   "q": "Develop this: J'aime le foot.",
+   "a": "J'adore le foot parce que c'est vraiment passionnant. Par contre, je trouve le rugby trop violent.",
+   "say": "J'adore le foot parce que c'est vraiment passionnant. Par contre, je trouve le rugby trop violent."
+  },
+  {
+   "topic": "g-06",
+   "q": "Three ways to say 'however' or contrast.",
+   "a": "cependant, par contre, pourtant (and mais)"
+  },
+  {
+   "topic": "g-07",
+   "q": "Make negative with 'never': Je vais à la piscine.",
+   "a": "Je ne vais jamais à la piscine.",
+   "say": "Je ne vais jamais à la piscine."
+  },
+  {
+   "topic": "g-07",
+   "q": "Make negative: J'ai un frère.",
+   "a": "Je n'ai pas de frère. (un becomes de after a negative)",
+   "say": "Je n'ai pas de frère."
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "g-01",
+   "q": "Complete: Nous ___ au basket le mardi.",
+   "options": [
+    "jouons",
+    "jouez",
+    "jouent",
+    "joue"
+   ],
+   "answer": 0,
+   "why": "Nous takes -ons in the present tense."
+  },
+  {
+   "topic": "g-01",
+   "q": "Which is 'they do'?",
+   "options": [
+    "ils font",
+    "ils faisent",
+    "ils fait",
+    "ils sont"
+   ],
+   "answer": 0,
+   "why": "Faire is irregular: ils font. Ils sont is they are."
+  },
+  {
+   "topic": "g-01",
+   "q": "Complete: Vous ___ du sport?",
+   "options": [
+    "faites",
+    "faisez",
+    "fais",
+    "font"
+   ],
+   "answer": 0,
+   "why": "Vous faites is irregular, like vous êtes and vous dites."
+  },
+  {
+   "topic": "g-01",
+   "q": "Which is correct?",
+   "options": [
+    "Je peux sortir ce soir.",
+    "Je peux sors ce soir.",
+    "Je peux sorti ce soir.",
+    "Je peut sortir ce soir."
+   ],
+   "answer": 0,
+   "why": "Pouvoir is followed by an infinitive, and je takes peux."
+  },
+  {
+   "topic": "g-01",
+   "q": "'On va au cinéma' most often means:",
+   "options": [
+    "We go to the cinema.",
+    "One went to the cinema.",
+    "They will go to the cinema.",
+    "Go to the cinema!"
+   ],
+   "answer": 0,
+   "why": "On is used informally for we, with the il / elle form of the verb."
+  },
+  {
+   "topic": "g-02",
+   "q": "Which verb takes être in the perfect?",
+   "options": [
+    "arriver",
+    "manger",
+    "voir",
+    "prendre"
+   ],
+   "answer": 0,
+   "why": "Arriver is one of the MRS VANDERTRAMP verbs: je suis arrivé(e)."
+  },
+  {
+   "topic": "g-02",
+   "q": "Past participle of 'voir':",
+   "options": [
+    "vu",
+    "voiré",
+    "vi",
+    "voi"
+   ],
+   "answer": 0,
+   "why": "J'ai vu, I saw. Voir is irregular."
+  },
+  {
+   "topic": "g-02",
+   "q": "Elles ___ parties à huit heures.",
+   "options": [
+    "sont",
+    "ont",
+    "sommes",
+    "est"
+   ],
+   "answer": 0,
+   "why": "Partir takes être. Elles needs sont, and the participle agrees: parties."
+  },
+  {
+   "topic": "g-02",
+   "q": "Which is the correct negative?",
+   "options": [
+    "Je n'ai pas mangé.",
+    "Je n'ai mangé pas.",
+    "Je ne pas ai mangé.",
+    "J'ai ne pas mangé."
+   ],
+   "answer": 0,
+   "why": "Ne... pas goes round the auxiliary (ai), and the participle comes after."
+  },
+  {
+   "topic": "g-02",
+   "q": "A girl writes 'I had fun':",
+   "options": [
+    "Je me suis amusée.",
+    "Je m'ai amusée.",
+    "J'ai amusé.",
+    "Je suis amusé."
+   ],
+   "answer": 0,
+   "why": "Reflexive verbs take être in the perfect, and the participle agrees with a female subject."
+  },
+  {
+   "topic": "g-03",
+   "q": "Which is the simple future of 'faire' (je)?",
+   "options": [
+    "je ferai",
+    "je faisais",
+    "je ferais",
+    "je fairai"
+   ],
+   "answer": 0,
+   "why": "Faire has the future stem fer-: je ferai. Je ferais (with -s) is the conditional."
+  },
+  {
+   "topic": "g-03",
+   "q": "'Ce serait génial' means:",
+   "options": [
+    "It would be great.",
+    "It will be great.",
+    "It was great.",
+    "It is great."
+   ],
+   "answer": 0,
+   "why": "Serait is the conditional of être (would be). Sera is will be, c'était is it was."
+  },
+  {
+   "topic": "g-03",
+   "q": "Complete: Demain, je vais ___ tôt.",
+   "options": [
+    "me lever",
+    "se lever",
+    "lever",
+    "me lève"
+   ],
+   "answer": 0,
+   "why": "In the near future the reflexive pronoun matches the subject and the verb stays an infinitive: je vais me lever."
+  },
+  {
+   "topic": "g-03",
+   "q": "Which means 'I would like to travel'?",
+   "options": [
+    "Je voudrais voyager.",
+    "Je veux voyagé.",
+    "Je voudrai voyager.",
+    "Je vais voyager."
+   ],
+   "answer": 0,
+   "why": "Je voudrais is the conditional of vouloir, followed by an infinitive. Je voudrai without -s is the future."
+  },
+  {
+   "topic": "g-03",
+   "q": "Future stem of 'aller':",
+   "options": [
+    "ir-",
+    "aller-",
+    "va-",
+    "all-"
+   ],
+   "answer": 0,
+   "why": "J'irai, I will go. J'irais, I would go."
+  },
+  {
+   "topic": "g-04",
+   "q": "Imperfect of 'faire' (il):",
+   "options": [
+    "il faisait",
+    "il fait",
+    "il fera",
+    "il a fait"
+   ],
+   "answer": 0,
+   "why": "nous faisons, stem fais-, plus -ait: il faisait (as in il faisait beau)."
+  },
+  {
+   "topic": "g-04",
+   "q": "Which describes the past rather than a single action?",
+   "options": [
+    "Il y avait beaucoup de monde.",
+    "J'ai acheté un pull.",
+    "Je suis rentrée à six heures.",
+    "On a mangé au café."
+   ],
+   "answer": 0,
+   "why": "Il y avait is the imperfect, used for description. The others are perfect tense actions."
+  },
+  {
+   "topic": "g-04",
+   "q": "'Quand j'étais petit, je jouais au foot' means:",
+   "options": [
+    "When I was little, I used to play football.",
+    "When I am older, I will play football.",
+    "When I was little, I played football once.",
+    "When I'm small, I play football."
+   ],
+   "answer": 0,
+   "why": "The imperfect jouais expresses a repeated or habitual action: used to play."
+  },
+  {
+   "topic": "g-04",
+   "q": "Complete: Je ___ la télé quand le téléphone a sonné.",
+   "options": [
+    "regardais",
+    "ai regardé",
+    "regarderai",
+    "regarde"
+   ],
+   "answer": 0,
+   "why": "The imperfect gives the background (was watching), the perfect gives the interruption (a sonné)."
+  },
+  {
+   "topic": "g-04",
+   "q": "Which is the imperfect of être (je)?",
+   "options": [
+    "j'étais",
+    "j'ai été",
+    "je serai",
+    "je suis"
+   ],
+   "answer": 0,
+   "why": "Être has the irregular imperfect stem ét-: j'étais, c'était."
+  },
+  {
+   "topic": "g-05",
+   "q": "Which is correct?",
+   "options": [
+    "une belle maison",
+    "une maison belle",
+    "une beau maison",
+    "un belle maison"
+   ],
+   "answer": 0,
+   "why": "Beau is a Beauty adjective (BAGS), so it goes before the noun and agrees: une belle maison."
+  },
+  {
+   "topic": "g-05",
+   "q": "Feminine of 'heureux':",
+   "options": [
+    "heureuse",
+    "heureuxe",
+    "heureuve",
+    "heureusse"
+   ],
+   "answer": 0,
+   "why": "-eux becomes -euse in the feminine."
+  },
+  {
+   "topic": "g-05",
+   "q": "Choose: un ___ ami (new).",
+   "options": [
+    "nouvel",
+    "nouveau",
+    "nouvelle",
+    "nouveaux"
+   ],
+   "answer": 0,
+   "why": "Before a masculine noun beginning with a vowel, nouveau becomes nouvel."
+  },
+  {
+   "topic": "g-05",
+   "q": "How do you say 'better than'?",
+   "options": [
+    "meilleur que",
+    "plus bon que",
+    "plus mieux que",
+    "bonne que"
+   ],
+   "answer": 0,
+   "why": "Bon has an irregular comparative: meilleur(e). Plus bon is wrong."
+  },
+  {
+   "topic": "g-05",
+   "q": "Complete: J'ai des chaussures ___. (white)",
+   "options": [
+    "blanches",
+    "blancs",
+    "blanc",
+    "blanche"
+   ],
+   "answer": 0,
+   "why": "Chaussures is feminine plural, and blanc has the irregular feminine blanche, so blanches."
+  },
+  {
+   "topic": "g-06",
+   "q": "Which connective means 'on the other hand'?",
+   "options": [
+    "par contre",
+    "en plus",
+    "donc",
+    "car"
+   ],
+   "answer": 0,
+   "why": "Par contre introduces a contrast. En plus adds, donc gives a result, car gives a reason."
+  },
+  {
+   "topic": "g-06",
+   "q": "Complete: J'aime la musique ___ c'est relaxant.",
+   "options": [
+    "parce que",
+    "parce qu'",
+    "mais",
+    "donc"
+   ],
+   "answer": 0,
+   "why": "Parce que before a consonant (c'est). Parce qu' is only used before a vowel: parce qu'il..."
+  },
+  {
+   "topic": "g-06",
+   "q": "'Ce qui m'énerve, c'est le bruit' means:",
+   "options": [
+    "What annoys me is the noise.",
+    "The noise doesn't annoy me.",
+    "I am the one who is noisy.",
+    "Who annoys me? The noise."
+   ],
+   "answer": 0,
+   "why": "Ce qui... c'est... is a Higher structure meaning what... is..."
+  },
+  {
+   "topic": "g-06",
+   "q": "Which sentence is the most developed?",
+   "options": [
+    "J'adore le tennis parce que c'est vraiment passionnant, mais c'est assez cher.",
+    "J'aime le tennis.",
+    "Le tennis est bien.",
+    "Je joue au tennis et au foot."
+   ],
+   "answer": 0,
+   "why": "It has an opinion, an intensifier, a reason and a contrast, which is what the mark scheme rewards."
+  },
+  {
+   "topic": "g-06",
+   "q": "Complete: C'est la ville ___ j'habite.",
+   "options": [
+    "où",
+    "qui",
+    "que",
+    "quand"
+   ],
+   "answer": 0,
+   "why": "Où means where: the town where I live."
+  },
+  {
+   "topic": "g-07",
+   "q": "Make negative: J'ai des frères.",
+   "options": [
+    "Je n'ai pas de frères.",
+    "Je n'ai pas des frères.",
+    "Je ne pas ai des frères.",
+    "J'ai pas frères."
+   ],
+   "answer": 0,
+   "why": "After a negative, des becomes de."
+  },
+  {
+   "topic": "g-07",
+   "q": "'Je ne joue plus au foot' means:",
+   "options": [
+    "I no longer play football.",
+    "I play football more.",
+    "I never played football.",
+    "I don't play much football."
+   ],
+   "answer": 0,
+   "why": "Ne... plus means no longer or not any more."
+  },
+  {
+   "topic": "g-07",
+   "q": "Which is correct for 'I have never been to France'?",
+   "options": [
+    "Je ne suis jamais allé en France.",
+    "Je n'ai jamais allé en France.",
+    "Je ne suis allé jamais en France.",
+    "Je jamais suis allé en France."
+   ],
+   "answer": 0,
+   "why": "Aller takes être, and jamais goes straight after the auxiliary."
+  },
+  {
+   "topic": "g-07",
+   "q": "Complete: Je ___ vais pas sortir ce soir.",
+   "options": [
+    "ne",
+    "n'",
+    "pas",
+    "non"
+   ],
+   "answer": 0,
+   "why": "In the near future, ne... pas goes round vais: je ne vais pas sortir."
+  },
+  {
+   "topic": "g-07",
+   "q": "'Il n'y a rien à faire' means:",
+   "options": [
+    "There is nothing to do.",
+    "There is no one to do it.",
+    "There is a lot to do.",
+    "There is never anything on."
+   ],
+   "answer": 0,
+   "why": "Ne... rien means nothing."
+  }
+ ],
+ "exam": [
+  {
+   "topic": "g-02",
+   "marks": 5,
+   "type": "grammar",
+   "q": "Grammar task (like AQA Foundation Writing Q3). Choose the correct word for each gap:\n1. Ma sœur est très (sportif / sportive / sportifs).\n2. Hier, je (vais / suis allée / allais) au parc. (a girl writing)\n3. Nous (jouons / jouez / jouent) au foot le samedi.\n4. Demain, on va (regarde / regarder / regardé) un film.\n5. Je n'ai pas (des / de / du) chien.",
+   "model": "1. sportive\n2. suis allée\n3. jouons\n4. regarder\n5. de",
+   "points": [
+    "1. sportive: feminine agreement with ma sœur",
+    "2. suis allée: perfect tense with être and feminine agreement",
+    "3. jouons: nous form",
+    "4. regarder: infinitive after on va",
+    "5. de: after a negative"
+   ]
+  },
+  {
+   "topic": "g-05",
+   "marks": 5,
+   "type": "grammar",
+   "q": "Grammar task. Choose the correct word for each gap:\n1. J'habite dans une (vieux / vieille / vieil) maison.\n2. Mes amis (est / sont / sommes) très drôles.\n3. Elle a les yeux (marron / marrons / marronne).\n4. Mon frère (fait / fais / font) de la natation.\n5. Le week-end dernier, j'ai (prendre / pris / prends) le train.",
+   "model": "1. vieille\n2. sont\n3. marron\n4. fait\n5. pris",
+   "points": [
+    "1. vieille: feminine of vieux, before the noun (BAGS)",
+    "2. sont: ils / mes amis",
+    "3. marron: never changes",
+    "4. fait: il form of faire",
+    "5. pris: past participle of prendre"
+   ]
+  },
+  {
+   "topic": "g-04",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Higher translation into French:\nWhen I was younger, I used to watch cartoons every morning. Last Saturday, I went to the cinema with my cousin and we saw an action film. It was exciting, but the tickets were expensive. Next week, we are going to go swimming if the weather is nice.",
+   "model": "Quand j'étais plus jeune, je regardais des dessins animés tous les matins. Samedi dernier, je suis allé(e) au cinéma avec mon cousin (ma cousine) et nous avons vu un film d'action. C'était passionnant, mais les billets étaient chers. La semaine prochaine, nous allons faire de la natation s'il fait beau.",
+   "say": true,
+   "points": [
+    "Imperfect: quand j'étais plus jeune, je regardais",
+    "Perfect with être and avoir: je suis allé(e), nous avons vu",
+    "Imperfect description: c'était, les billets étaient chers (agreement)",
+    "Near future: nous allons faire de la natation",
+    "si + present: s'il fait beau"
+   ]
+  },
+  {
+   "topic": "g-06",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French:\n1. In my opinion, music is really relaxing.\n2. I prefer comedies because they are funny.\n3. However, my brother finds them boring.\n4. My sister is taller than me.\n5. I never go to the gym.",
+   "model": "1. À mon avis, la musique est vraiment relaxante.\n2. Je préfère les comédies parce qu'elles sont drôles.\n3. Cependant, mon frère les trouve ennuyeuses.\n4. Ma sœur est plus grande que moi.\n5. Je ne vais jamais à la salle de sport.",
+   "say": true,
+   "points": [
+    "1. à mon avis, la musique (article), relaxante (agreement)",
+    "2. les comédies, parce qu'elles sont",
+    "3. cependant, les trouve (pronoun before verb), ennuyeuses",
+    "4. plus grande que moi",
+    "5. ne... jamais round the verb"
+   ]
+  }
+ ]
+}

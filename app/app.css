@@ -107,3 +107,7 @@ table.t th{background:var(--acbg)}
 @media (prefers-reduced-motion:no-preference){.bar>i{transition:width .4s}}
 
 .homebtn{display:flex;align-items:center;justify-content:center;text-decoration:none;color:var(--ac);margin-left:auto}
+.say{border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:999px;font-size:.95rem;line-height:1;padding:4px 8px;margin-left:8px;cursor:pointer;vertical-align:middle;font-style:normal}
+.fc .say{display:inline-block;margin:10px 0 0}
+details.en{margin-top:6px;border:0;background:none;padding:0}
+details.en summary{font-size:.85rem;color:var(--mut);cursor:pointer}

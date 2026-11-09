@@ -1,0 +1,117 @@
+{
+  "title": "French GCSE revision",
+  "short": "French Revision",
+  "pageTitle": "French GCSE Revision (AQA 8652)",
+  "subtitle": "AQA 8652, Year 10: free time, identity and relationships",
+  "storageKey": "lsst-fr-revision-v1",
+  "glossaryLabel": "words to learn",
+  "glossaryFromTerms": true,
+  "termCards": true,
+  "speak": "fr-FR",
+  "labels": {
+    "views": "Model answers",
+    "sources": "Key phrases",
+    "use": "Use it for",
+    "terms": "Vocabulary",
+    "quoteBank": "Phrase bank",
+    "quoteBankSub": "Key French phrases with English",
+    "quoteSearch": "Search French or English",
+    "paper": "Part"
+  },
+  "papers": {
+    "1": "Topics for the assessment",
+    "2": "Grammar toolkit"
+  },
+  "scopeLabels": {
+    "1": "Units 1 and 2 (topics)",
+    "2": "Grammar"
+  },
+  "sectionOrder": ["unit-1", "unit-2", "grammar"],
+  "colors": {
+    "unit-1": "#1d4ed8",
+    "unit-2": "#be123c",
+    "grammar": "#0f766e"
+  },
+  "typeNames": {
+    "conversation": "Speaking: conversation",
+    "roleplay": "Speaking: role-play",
+    "read-aloud": "Speaking: reading aloud",
+    "dictation": "Listening: dictation",
+    "photo": "Writing: photo sentences",
+    "grammar": "Writing: grammar task",
+    "translate-fr": "Translation into French",
+    "translate-en": "Translation into English",
+    "write-short": "Writing: about 50 words",
+    "write-90": "Writing: about 90 words",
+    "write-150": "Writing: about 150 words"
+  },
+  "structures": {
+    "conversation": [
+      "Answer in the tense of the question",
+      "Give a detail: when, where, who with, how often",
+      "Give an opinion with a reason (parce que...)",
+      "Add a different time frame: past (j'ai...) or future (je vais... / je voudrais...)"
+    ],
+    "roleplay": [
+      "Cover every prompt, one clear sentence each",
+      "Keep it simple and accurate rather than long",
+      "Use the tense the prompt needs",
+      "For the question prompt, use a question word or est-ce que"
+    ],
+    "read-aloud": [
+      "Read slowly and clearly",
+      "Do not pronounce most final consonants or the -ent of verbs",
+      "Watch nasal sounds (an, en, on, in) and é / è",
+      "Answer the follow-up questions in full sentences, in the right tense"
+    ],
+    "dictation": [
+      "Listen once for meaning, then write sentence by sentence",
+      "Check verb endings and agreements make sense",
+      "Add accents: é, è, à, ç",
+      "Re-read what you wrote against what you hear"
+    ],
+    "photo": [
+      "Five separate sentences",
+      "Use il y a and the present tense",
+      "Say who, where and what they are doing",
+      "Keep each sentence short and accurate"
+    ],
+    "grammar": [
+      "Look at the subject: who is doing it?",
+      "Check gender and number for adjectives",
+      "Check the tense from the time phrase",
+      "After a negative, un / du / des become de"
+    ],
+    "translate-fr": [
+      "Translate the meaning, not word for word",
+      "Spot the tense of each sentence first",
+      "Check genders, agreements and accents",
+      "Do not leave gaps: use a simpler word if stuck"
+    ],
+    "translate-en": [
+      "Read the whole passage first",
+      "Translate every word, including small ones (souvent, très, aussi)",
+      "Get the tense right in English (j'ai vu = I saw)",
+      "Make it sound like natural English"
+    ],
+    "write-short": [
+      "One or two sentences per bullet point",
+      "Present tense is fine at this level",
+      "Add opinions and connectives",
+      "Check spelling and agreements"
+    ],
+    "write-90": [
+      "Cover all three bullet points equally",
+      "Use past, present and future across the answer",
+      "Give opinions with reasons",
+      "Add connectives and one complex structure"
+    ],
+    "write-150": [
+      "Cover both bullet points in detail",
+      "Show a range of tenses: perfect, imperfect, future, conditional",
+      "Justify opinions and add complex structures (qui, ce qui, si...)",
+      "Leave time to check verbs and agreements"
+    ]
+  },
+  "about": "<p>French revision for a Year 10 assessment, built from the class topic list for Unit 1 (Free time) and Unit 2 (Identity and relationships), and set out to match the AQA GCSE French specification (8652, first exams 2026). Model answers, questions and translations were written for revision; they are not real past-paper questions.</p><p>The speaker buttons use your device's built-in French voice, so they work offline on most phones. If you hear English, install a French voice in your phone's settings.</p><p>Always check anything you are unsure about with your teacher. The official specification is at <a href=\"https://www.aqa.org.uk/subjects/languages/gcse/french-8652\" target=\"_blank\" rel=\"noopener\">aqa.org.uk</a>.</p>"
+}

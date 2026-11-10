@@ -20,10 +20,20 @@ var SECS=DATA.sections, SEC={}, TOP={}, COLS=META.colors||{}, PAL=['#6d28d9','#b
 SECS.forEach(function(s){
   var id=s.section.id; SEC[id]=s; TOP[id]={}; s.color=COLS[id]||PAL[SECS.indexOf(s)%PAL.length];
   s.topics.forEach(function(t,i){t._i=i;TOP[id][t.id]=t});
-  s.cards=(s.flashcards||[]).map(function(c,i){return {id:id+':c'+i,sec:id,topic:c.topic,q:c.q,a:c.a}});
+  s.cards=(s.flashcards||[]).map(function(c,i){return {id:id+':c'+i,sec:id,topic:c.topic,q:c.q,a:c.a,say:c.say}});
+  s.vq=[];if(META.vocabQuiz)s.topics.forEach(function(t){(t.terms||[]).forEach(function(x,i){s.vq.push({id:id+':w'+t.id+':'+i,sec:id,topic:t.id,vocab:1,term:x.term,def:x.def,q:'French for: **'+x.def+'**',why:'**'+x.term+'** means '+x.def+'.'})})});
+  if(META.termCards)s.topics.forEach(function(t){(t.terms||[]).forEach(function(x,i){s.cards.push({id:id+':v'+t.id+':'+i,sec:id,topic:t.id,q:x.def,a:x.term,say:x.term})})});
   s.qz=(s.quiz||[]).map(function(c,i){return {id:id+':q'+i,sec:id,topic:c.topic,q:c.q,options:c.options,answer:c.answer,why:c.why}});
   s.ex=(s.exam||[]).map(function(c,i){var o=Object.assign({},c);o.id=id+':e'+i;o.sec=id;return o});
 });
+var LBL=Object.assign({views:'Different views',sources:'Sources of wisdom and authority',use:'Use it for',terms:'Key terms',quoteBank:'Quote bank',quoteBankSub:'Sources of wisdom and authority',quoteSearch:'Search quotes or references',paper:'Paper'},META.labels||{});
+var SPEAK=META.speak||'',VOICE=null;
+function pickVoice(){if(!SPEAK||!window.speechSynthesis)return;var vs=speechSynthesis.getVoices(),lc=SPEAK.toLowerCase();VOICE=vs.filter(function(v){return v.lang&&v.lang.toLowerCase().replace('_','-')===lc})[0]||vs.filter(function(v){return v.lang&&v.lang.toLowerCase().indexOf(lc.slice(0,2))===0})[0]||null}
+if(SPEAK&&window.speechSynthesis){pickVoice();if(speechSynthesis.addEventListener)speechSynthesis.addEventListener('voiceschanged',pickVoice)}
+function sayBtn(t){if(!SPEAK||!window.speechSynthesis||!t)return '';return '<button class="say" type="button" data-act="say" data-say="'+esc(String(t).replace(/\*\*/g,''))+'" aria-label="Listen">🔊</button>'}
+function speakText(t){try{speechSynthesis.cancel();var u=new SpeechSynthesisUtterance(t);u.lang=SPEAK;if(VOICE)u.voice=VOICE;u.rate=.9;speechSynthesis.speak(u)}catch(e){}}
+var PAPERS=[];SECS.forEach(function(s){if(PAPERS.indexOf(s.section.paper)<0)PAPERS.push(s.section.paper)});PAPERS.sort();
+function paperName(p){return (META.papers&&META.papers[p])||(LBL.paper+' '+p)}
 function tname(sec,t){var x=TOP[sec]&&TOP[sec][t];return x?x.title:''}
 function col(sec){return SEC[sec]?SEC[sec].color:'#4338ca'}
 function secDone(s){return s.topics.filter(function(t){return S.done[s.section.id+':'+t.id]}).length}
@@ -49,12 +59,12 @@ function renderNav(h){var items=[['home','Home','#/'],['cards','Cards','#/cards'
 function view(html){var v=$('#view');v.innerHTML=html;window.scrollTo(0,0)}
 
 /* ---------- pools / scope ---------- */
-function scopeOptions(sel){var o='<option value="all">Everything</option><option value="p1"'+(sel==='p1'?' selected':'')+'>Paper 1: Christianity and Judaism</option><option value="p2"'+(sel==='p2'?' selected':'')+'>Paper 2: Themes A, B, D, E</option>';
+function scopeOptions(sel){var o='<option value="all">Everything</option>';if(PAPERS.length>1)PAPERS.forEach(function(p){o+='<option value="p'+p+'"'+(sel==='p'+p?' selected':'')+'>'+esc((META.scopeLabels&&META.scopeLabels[p])||paperName(p))+'</option>'});
   SECS.forEach(function(s){o+='<option value="'+s.section.id+'"'+(sel===s.section.id?' selected':'')+'>'+esc(s.section.title)+'</option>'});return o}
 function topicOptions(sec,sel){var o='<option value="all">All topics</option>';if(SEC[sec])SEC[sec].topics.forEach(function(t){o+='<option value="'+t.id+'"'+(sel===t.id?' selected':'')+'>'+esc(t.code+': '+t.title)+'</option>'});return o}
 function scopeUI(sc,extra){sc=sc||{};return '<label class="f" for="sc-sec">What to cover</label><select id="sc-sec" data-scope="1">'+scopeOptions(sc.sec||'all')+(extra||'')+'</select><div id="sc-topwrap" style="'+(SEC[sc.sec]?'':'display:none')+'"><label class="f" for="sc-top">Topic</label><select id="sc-top">'+topicOptions(sc.sec,sc.topic)+'</select></div>'}
 function readScope(){var s=$('#sc-sec')?$('#sc-sec').value:'all',t=$('#sc-top')?$('#sc-top').value:'all';return {sec:s,topic:SEC[s]?t:'all'}}
-function inScope(s,sc){var v=sc.sec;if(!v||v==='all')return true;if(v==='p1')return s.section.paper===1;if(v==='p2')return s.section.paper===2;return s.section.id===v}
+function inScope(s,sc){var v=sc.sec;if(!v||v==='all')return true;var m=/^p(\d+)$/.exec(v);if(m)return s.section.paper===+m[1];return s.section.id===v}
 function pool(kind,sc){var out=[];SECS.forEach(function(s){if(!inScope(s,sc))return;s[kind].forEach(function(x){if(sc.topic&&sc.topic!=='all'&&x.topic!==sc.topic)return;out.push(x)})});return out}
 
 /* ---------- views ---------- */
@@ -64,9 +74,9 @@ function home(){
   var wrong=Object.keys(S.wrong).length;
   var h=hdr(META.title||'Revision',META.subtitle||'');
   h+='<div class="card"><div class="row" style="align-items:center"><div><div class="big">'+pct(doneT,totT)+'%</div><div class="mut small">topics revised ('+doneT+' of '+totT+')</div></div><div><div class="big">'+pct(knownC,totC)+'%</div><div class="mut small">cards learnt ('+knownC+' of '+totC+')</div></div></div></div>';
-  h+='<div class="card"><b>Today</b><div class="row" style="margin-top:10px"><a class="btn pri" href="#/cards" data-act="quickCards">Flashcards: '+(due>0?due+' due':Math.min(newC,20)+' new')+'</a><a class="btn" href="#/quiz" data-act="quickQuiz">Quick quiz (10)</a></div>'+(wrong?'<p class="small mut" style="margin-top:10px">'+wrong+' question'+(wrong>1?'s':'')+' to revisit in the Quiz tab.</p>':'')+'</div>';
-  var PAPERS=[];SECS.forEach(function(s){if(PAPERS.indexOf(s.section.paper)<0)PAPERS.push(s.section.paper)});PAPERS.sort();PAPERS.forEach(function(p){
-    h+='<h2>'+esc((META.papers&&META.papers[p])||('Paper '+p))+'</h2><div class="grid">';
+  h+='<div class="card"><b>Today</b><div class="row" style="margin-top:10px"><a class="btn pri" href="#/cards" data-act="quickCards">Flashcards: '+(due>0?due+' due':Math.min(newC,20)+' new')+'</a><a class="btn" href="#/quiz" data-act="quickQuiz">Quick quiz (10)</a>'+(SECS.some(function(s){return s.vq.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="vq">'+esc(META.vocabQuizLabel||'Vocabulary')+' (10)</a>':'')+'</div>'+(wrong?'<p class="small mut" style="margin-top:10px">'+wrong+' question'+(wrong>1?'s':'')+' to revisit in the Quiz tab.</p>':'')+'</div>';
+  PAPERS.forEach(function(p){
+    h+='<h2>'+esc(paperName(p))+'</h2><div class="grid">';
     SECS.filter(function(s){return s.section.paper===p}).forEach(function(s){
       var d=secDone(s),n=s.topics.length,k=secKnown(s);
       h+='<a class="card sec c" style="--c:'+s.color+'" href="#/s/'+s.section.id+'"><b>'+esc(s.section.title)+'</b><div class="small mut" style="margin:4px 0 8px">'+esc(s.section.blurb||'')+'</div>'+bar(pct(d,n),s.color)+'<div class="stat"><span>'+d+'/'+n+' topics</span><span>'+k+'/'+s.cards.length+' cards</span><span>'+s.ex.length+' exam Qs</span></div></a>'});
@@ -76,8 +86,8 @@ function home(){
 
 function secPage(id){
   var s=SEC[id];if(!s)return notFound();
-  var h=hdr(s.section.title,'Paper '+s.section.paper,true);
-  h+='<div class="card c" style="--c:'+s.color+'"><p>'+esc(s.section.blurb||'')+'</p>'+bar(pct(secDone(s),s.topics.length),s.color)+'<div class="row" style="margin-top:12px"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+id+'">Flashcards ('+s.cards.length+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+id+'">Quiz ('+s.qz.length+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+id+'">Write ('+s.ex.length+')</a></div></div>';
+  var h=hdr(s.section.title,paperName(s.section.paper),true);
+  h+='<div class="card c" style="--c:'+s.color+'"><p>'+esc(s.section.blurb||'')+'</p>'+bar(pct(secDone(s),s.topics.length),s.color)+'<div class="row" style="margin-top:12px"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+id+'">Flashcards ('+s.cards.length+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+id+'">Quiz ('+s.qz.length+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+id+'">Write ('+s.ex.length+')</a>'+(s.vq.length?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="vq" data-sec="'+id+'" data-start="1">Vocab quiz ('+s.vq.length+')</a>':'')+'</div></div>';
   h+='<h2>Topics</h2><div class="list">';
   s.topics.forEach(function(t){var d=S.done[id+':'+t.id];h+='<a class="item" href="#/t/'+id+'/'+t.id+'"><span class="tick'+(d?' on':'')+'" aria-label="'+(d?'Revised':'Not yet revised')+'">'+(d?'✓':'')+'</span><span class="t"><small>'+esc(t.code)+'</small>'+esc(t.title)+'</span><span class="mut">›</span></a>'});
   h+='</div>';view(h)}
@@ -87,12 +97,12 @@ function topicPage(sid,tid){
   var h=hdr(t.title,s.section.title+' · '+t.code,true);
   h+='<div class="card c" style="--c:'+c+'"><p>'+fmt(t.overview||'')+'</p></div>';
   (t.notes||[]).forEach(function(n){h+='<h2>'+esc(n.h)+'</h2><div class="card c" style="--c:'+c+'"><ul class="b">'+(n.bullets||[]).map(function(b){return '<li>'+fmt(b)+'</li>'}).join('')+'</ul></div>'});
-  if(t.views&&t.views.length){h+='<h2>Different views</h2>'+t.views.map(function(v){return '<div class="view" style="--c:'+c+'"><b>'+esc(v.label)+'</b>'+fmt(v.text)+'</div>'}).join('')}
-  if(t.sources&&t.sources.length){h+='<h2>Sources of wisdom and authority</h2>'+t.sources.map(function(q){return '<div class="quote" style="--c:'+c+'"><q>'+fmt(q.text)+'</q><div class="ref">'+esc(q.ref||'')+'</div>'+(q.use?'<div class="use">Use it for: '+esc(q.use)+'</div>':'')+'</div>'}).join('')}
-  if(t.terms&&t.terms.length){h+='<h2>Key terms</h2><div class="terms" style="--c:'+c+'">'+t.terms.map(function(x){return '<div><b>'+esc(x.term)+'</b>: '+fmt(x.def)+'</div>'}).join('')+'</div>'}
+  if(t.views&&t.views.length){h+='<h2>'+esc(LBL.views)+'</h2>'+t.views.map(function(v){return '<div class="view" style="--c:'+c+'"><b>'+esc(v.label)+'</b>'+fmt(v.text)+(v.say?sayBtn(v.say===true?v.text:v.say):'')+(v.en?'<details class="en"><summary>English</summary><div>'+fmt(v.en)+'</div></details>':'')+'</div>'}).join('')}
+  if(t.sources&&t.sources.length){h+='<h2>'+esc(LBL.sources)+'</h2>'+t.sources.map(function(q){return '<div class="quote" style="--c:'+c+'"><q>'+fmt(q.text)+sayBtn(q.text)+'</q><div class="ref">'+esc(q.ref||'')+'</div>'+(q.use?'<div class="use">'+esc(LBL.use)+': '+esc(q.use)+'</div>':'')+'</div>'}).join('')}
+  if(t.terms&&t.terms.length){h+='<h2>'+esc(LBL.terms)+'</h2><div class="terms" style="--c:'+c+'">'+t.terms.map(function(x){return '<div><b>'+esc(x.term)+'</b>: '+fmt(x.def)+sayBtn(x.term)+'</div>'}).join('')+'</div>'}
   if(t.tip)h+='<div class="tip"><b>Exam tip.</b> '+fmt(t.tip)+'</div>';
-  var nc=s.cards.filter(function(x){return x.topic===tid}).length,nq=s.qz.filter(function(x){return x.topic===tid}).length,ne=s.ex.filter(function(x){return x.topic===tid}).length;
-  h+='<h2>Test yourself</h2><div class="row"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Cards ('+nc+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Quiz ('+nq+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+sid+'" data-topic="'+tid+'">Write ('+ne+')</a></div>';
+  var nc=s.cards.filter(function(x){return x.topic===tid}).length,nq=s.qz.filter(function(x){return x.topic===tid}).length,ne=s.ex.filter(function(x){return x.topic===tid}).length,nv=s.vq.filter(function(x){return x.topic===tid}).length;
+  h+='<h2>Test yourself</h2><div class="row"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Cards ('+nc+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Quiz ('+nq+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+sid+'" data-topic="'+tid+'">Write ('+ne+')</a>'+(nv?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="vq" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Vocab quiz ('+nv+')</a>':'')+'</div>';
   h+='<div style="margin:16px 0"><button class="btn '+(done?'':'ok')+'" style="width:100%" data-act="toggleDone" data-key="'+sid+':'+tid+'">'+(done?'✓ Marked as revised (tap to undo)':'Mark as revised')+'</button></div>';
   var prev=s.topics[t._i-1],next=s.topics[t._i+1];
   h+='<div class="row">'+(prev?'<a class="btn" href="#/t/'+sid+'/'+prev.id+'">‹ '+esc(prev.code)+'</a>':'')+(next?'<a class="btn" href="#/t/'+sid+'/'+next.id+'">'+esc(next.code)+' ›</a>':'')+'</div>';
@@ -127,6 +137,7 @@ function renderCard(){
   h+='<div class="card fc c" style="--c:'+col_+';border-color:'+col_+'" data-act="flip" role="button" tabindex="0" aria-label="Card. Tap to reveal the answer">';
   h+=CS.flip?'<div class="small mut" style="margin-bottom:8px">Answer</div><div class="a">'+fmt(c.a)+'</div><div class="hint">'+esc(c.q)+'</div>':'<div class="small mut" style="margin-bottom:8px">'+esc(tname(c.sec,c.topic))+'</div><div class="q">'+fmt(c.q)+'</div><div class="hint">Tap to reveal the answer</div>';
   h+='</div>';
+  h+=CS.flip?sayBtn(c.say):'';
   h+=CS.flip?'<div class="row"><button class="btn bad" data-act="cardAns" data-v="0">Not yet</button><button class="btn ok" data-act="cardAns" data-v="1">Got it</button></div>':'<button class="btn" style="width:100%" data-act="flip">Show answer</button>';
   view(h);var f=$('.fc');if(f)f.focus({preventScroll:true})}
 var INTV=[0,0,1,3,7,14,30];
@@ -140,25 +151,34 @@ function cardAns(v){
 /* ----- quiz ----- */
 var QS=null,quizSetup={sec:'all',topic:'all',n:'10',wrongOnly:false};
 function quizPage(){
-  QS=null;var wc=Object.keys(S.wrong).length,all=pool('qz',quizSetup).length;
+  QS=null;var wc=Object.keys(S.wrong).length,all=pool(qkind(),quizSetup).length,hasV=SECS.some(function(s){return s.vq.length});
   var h=hdr('Quiz','Multiple choice, with an explanation after each answer');
-  h+='<div class="card">'+scopeUI(quizSetup)+'<label class="f" for="qz-n">How many questions?</label><select id="qz-n"><option value="5"'+(quizSetup.n==='5'?' selected':'')+'>5</option><option value="10"'+(quizSetup.n==='10'?' selected':'')+'>10</option><option value="20"'+(quizSetup.n==='20'?' selected':'')+'>20</option><option value="999"'+(quizSetup.n==='999'?' selected':'')+'>All of them</option></select>'+
+  h+='<div class="card">'+(hasV?'<label class="f" for="qz-kind">Question type</label><select id="qz-kind"><option value="qz"'+(qkind()==='qz'?' selected':'')+'>Topic questions</option><option value="vq"'+(qkind()==='vq'?' selected':'')+'>'+esc(META.vocabQuizLabel||'Vocabulary')+'</option></select>':'')+scopeUI(quizSetup)+'<label class="f" for="qz-n">How many questions?</label><select id="qz-n"><option value="5"'+(quizSetup.n==='5'?' selected':'')+'>5</option><option value="10"'+(quizSetup.n==='10'?' selected':'')+'>10</option><option value="20"'+(quizSetup.n==='20'?' selected':'')+'>20</option><option value="999"'+(quizSetup.n==='999'?' selected':'')+'>All of them</option></select>'+
    '<label class="chk" style="margin-top:10px"><input type="checkbox" id="qz-wrong"'+(quizSetup.wrongOnly?' checked':'')+'><span>Only questions I got wrong before ('+wc+')</span></label><p class="small mut" id="qz-info">'+all+' questions in this selection.</p><button class="btn pri" style="width:100%" data-act="startQuiz">Start quiz</button></div>';
-  var rec=SECS.filter(function(s){return S.quiz[s.section.id]});
-  if(rec.length){h+='<h2>Your best scores</h2><div class="list">'+rec.map(function(s){var q=S.quiz[s.section.id];return '<div class="item"><span class="t">'+esc(s.section.title)+'<small>Last '+q.last+'%</small></span>'+pill('Best '+q.best+'%',s.color)+'</div>'}).join('')+'</div>'}
+  var rec=[];SECS.forEach(function(s){if(S.quiz[s.section.id])rec.push({s:s,k:s.section.id,l:s.section.title});if(S.quiz[s.section.id+':vocab'])rec.push({s:s,k:s.section.id+':vocab',l:s.section.title+' (vocabulary)'})});
+  if(rec.length){h+='<h2>Your best scores</h2><div class="list">'+rec.map(function(o){var s=o.s,q=S.quiz[o.k];return '<div class="item"><span class="t">'+esc(o.l)+'<small>Last '+q.last+'%</small></span>'+pill('Best '+q.best+'%',s.color)+'</div>'}).join('')+'</div>'}
   view(h)}
 function startQuiz(){
-  var sc=readScope();quizSetup={sec:sc.sec,topic:sc.topic,n:$('#qz-n').value,wrongOnly:$('#qz-wrong').checked};beginQuiz()}
+  var sc=readScope();quizSetup={sec:sc.sec,topic:sc.topic,n:$('#qz-n').value,wrongOnly:$('#qz-wrong').checked,kind:$('#qz-kind')?$('#qz-kind').value:'qz'};beginQuiz()}
+function vocabOpts(x){
+  var near=SEC[x.sec].vq.filter(function(y){return y.topic===x.topic}),far=[];SECS.forEach(function(s){s.vq.forEach(function(y){if(y.topic!==x.topic)far.push(y)})});
+  function senses(d){return String(d).replace(/\([^)]*\)/g,'').split(/[,\/;]/).map(function(z){return z.trim().toLowerCase()}).filter(Boolean)}
+  var opts=[x.term],seen={},used=senses(x.def);seen[x.term]=1;
+  /* skip distractors that share any meaning with the answer, so only one option is right */
+  shuffle(near).concat(shuffle(far)).forEach(function(y){if(opts.length<4&&!seen[y.term]&&!senses(y.def).some(function(z){return used.indexOf(z)>=0})){opts.push(y.term);seen[y.term]=1}});
+  return {options:opts,answer:0}}
+function qkind(){return quizSetup.kind==='vq'?'vq':'qz'}
 function beginQuiz(items){
   var q=items;
-  if(!q){q=pool('qz',quizSetup);if(quizSetup.wrongOnly)q=q.filter(function(x){return S.wrong[x.id]});q=shuffle(q).slice(0,parseInt(quizSetup.n,10)||10)}
+  if(!q){q=pool(qkind(),quizSetup);if(quizSetup.wrongOnly)q=q.filter(function(x){return S.wrong[x.id]});q=shuffle(q).slice(0,parseInt(quizSetup.n,10)||10)}
   if(!q.length){view(hdr('Quiz','',true)+'<div class="card"><p><b>No questions to show.</b></p><p class="mut">Nothing matches this selection yet (you may have no mistakes saved). Change the selection and try again.</p><a class="btn pri" href="#/quiz" data-act="resetQuizRoute">Back</a></div>');return}
-  QS={items:q.map(function(x){var idx=shuffle(x.options.map(function(_,i){return i}));return {id:x.id,sec:x.sec,topic:x.topic,q:x.q,why:x.why,opts:idx.map(function(i){return {t:x.options[i],ok:i===x.answer}})}}),i:0,score:0,pick:null,wrong:[]};renderQuiz()}
+  q=q.map(function(x){return x.vocab?Object.assign({},x,vocabOpts(x)):x});
+  QS={kind:qkind(),items:q.map(function(x){var idx=shuffle(x.options.map(function(_,i){return i}));return {id:x.id,sec:x.sec,topic:x.topic,q:x.q,why:x.why,say:x.term,opts:idx.map(function(i){return {t:x.options[i],ok:i===x.answer}})}}),i:0,score:0,pick:null,wrong:[]};renderQuiz()}
 function renderQuiz(){
   if(!QS)return;
   if(QS.i>=QS.items.length){var tot=QS.items.length,p=pct(QS.score,tot);
     var secs={};QS.items.forEach(function(x){secs[x.sec]=1});
-    Object.keys(secs).forEach(function(k){var its=QS.items.filter(function(x){return x.sec===k}),sc=its.filter(function(x){return QS.wrong.indexOf(x.id)<0}).length,pp=pct(sc,its.length),r=S.quiz[k]||{best:0,last:0};r.last=pp;r.best=Math.max(r.best,pp);S.quiz[k]=r});save();
+    Object.keys(secs).forEach(function(k){var its=QS.items.filter(function(x){return x.sec===k}),sc=its.filter(function(x){return QS.wrong.indexOf(x.id)<0}).length,pp=pct(sc,its.length),kk=k+(QS.kind==='vq'?':vocab':''),r=S.quiz[kk]||{best:0,last:0};r.last=pp;r.best=Math.max(r.best,pp);S.quiz[kk]=r});save();
     var h=hdr('Quiz complete');h+='<div class="card"><div class="big">'+QS.score+' / '+tot+'</div><p class="mut">'+p+'%. '+(p>=80?'Excellent work.':p>=60?'Good, keep going.':'Worth another go after a look at the notes.')+'</p></div>';
     if(QS.wrong.length){h+='<h2>To review</h2>'+QS.items.filter(function(x){return QS.wrong.indexOf(x.id)>=0}).map(function(x){var ok=x.opts.filter(function(o){return o.ok})[0];return '<div class="card c" style="--c:'+col(x.sec)+'"><p><b>'+fmt(x.q)+'</b></p><p>Answer: '+fmt(ok.t)+'</p><p class="small mut">'+fmt(x.why)+'</p><a class="small" href="#/t/'+x.sec+'/'+x.topic+'">Open topic: '+esc(tname(x.sec,x.topic))+'</a></div>'}).join('')}
     h+='<div class="row">'+(QS.wrong.length?'<button class="btn pri" data-act="retryWrong">Retry the ones I missed</button>':'')+'<a class="btn" href="#/quiz" data-act="resetQuizRoute">New quiz</a></div>';
@@ -168,23 +188,24 @@ function renderQuiz(){
   h+='<div class="card c" style="--c:'+c+'"><div class="small mut">'+esc(SEC[it.sec].section.short||SEC[it.sec].section.title)+' · '+esc(tname(it.sec,it.topic))+'</div><p style="font-size:1.1rem;font-weight:700;margin-top:6px">'+fmt(it.q)+'</p></div>';
   var L='ABCD';
   it.opts.forEach(function(o,i){var cls='';if(QS.pick!==null){if(o.ok)cls=' ok';else if(i===QS.pick)cls=' bad'}h+='<button class="opt'+cls+'" data-act="quizPick" data-i="'+i+'"'+(QS.pick!==null?' disabled':'')+'><b>'+L[i]+'.</b> '+fmt(o.t)+(QS.pick!==null&&o.ok?' ✓':'')+(QS.pick===i&&!o.ok?' ✗':'')+'</button>'});
-  if(QS.pick!==null){var good=it.opts[QS.pick].ok;h+='<div class="fb '+(good?'ok':'bad')+'"><b>'+(good?'Correct.':'Not quite.')+'</b><p>'+fmt(it.why)+'</p></div><button class="btn pri" style="width:100%" data-act="quizNext">'+(QS.i+1>=QS.items.length?'See results':'Next question')+'</button>'}
+  if(QS.pick!==null){var good=it.opts[QS.pick].ok;h+='<div class="fb '+(good?'ok':'bad')+'"><b>'+(good?'Correct.':'Not quite.')+'</b><p>'+fmt(it.why)+(QS.kind==='vq'?sayBtn(it.say):'')+'</p></div><button class="btn pri" style="width:100%" data-act="quizNext">'+(QS.i+1>=QS.items.length?'See results':'Next question')+'</button>'}
   view(h)}
 
 /* ----- write ----- */
-var W={sec:'all',topic:'all',marks:'all'},cur=null;
+var W={sec:'all',topic:'all',marks:'all'},cur=null,MARKS=[];SECS.forEach(function(s){s.ex.forEach(function(e){var m=String(e.marks);if(MARKS.indexOf(m)<0)MARKS.push(m)})});MARKS.sort(function(a,b){return a-b});
 function writeList(){
   var h=hdr('Write','Exam questions with model answers and mark points');
   var items=[];SECS.forEach(function(s){if(!inScope(s,W))return;s.ex.forEach(function(e){if(W.topic!=='all'&&e.topic!==W.topic)return;if(W.marks!=='all'&&String(e.marks)!==W.marks)return;items.push(e)})});
-  h+='<div class="card">'+scopeUI(W)+'<label class="f">Question size</label><div class="chips" id="w-marks">'+['all','4','6','12'].map(function(m){return '<button class="chip'+(W.marks===m?' on':'')+'" data-act="setMarks" data-m="'+m+'">'+(m==='all'?'All':m+' marks')+'</button>'}).join('')+'</div><p class="small mut">'+items.length+' questions. '+items.filter(function(e){return S.exam[e.id]}).length+' attempted.</p>'+(items.length?'<a class="btn pri" style="width:100%" href="#/w/'+shuffle(items)[0].id+'">Random question</a>':'')+'</div>';
+  h+='<div class="card">'+scopeUI(W)+'<label class="f">Question size</label><div class="chips" id="w-marks">'+['all'].concat(MARKS).map(function(m){return '<button class="chip'+(W.marks===m?' on':'')+'" data-act="setMarks" data-m="'+m+'">'+(m==='all'?'All':m+' marks')+'</button>'}).join('')+'</div><p class="small mut">'+items.length+' questions. '+items.filter(function(e){return S.exam[e.id]}).length+' attempted.</p>'+(items.length?'<a class="btn pri" style="width:100%" href="#/w/'+shuffle(items)[0].id+'">Random question</a>':'')+'</div>';
   h+='<div class="list">'+items.map(function(e){var d=S.exam[e.id];return '<a class="item" href="#/w/'+e.id+'"><span class="t"><small>'+esc(SEC[e.sec].section.short||SEC[e.sec].section.title)+' · '+esc(tname(e.sec,e.topic))+'</small>'+esc(e.q.length>120?e.q.slice(0,117)+'...':e.q)+'</span>'+pill(e.marks+' marks',col(e.sec))+(d?'<span class="tick on">✓</span>':'')+'</a>'}).join('')+'</div>';
   view(h)}
 var STRUCT0={'evaluate':['Argument for, with evidence','Argument against, with evidence','Evaluate: how convincing is each side?','Conclusion: which is stronger, and why?']};
 var STRUCT=Object.assign({},STRUCT0,META.structures||{});
 function writeItem(id){
   var sid=id.split(':')[0],s=SEC[sid],e=s&&s.ex.filter(function(x){return x.id===id})[0];if(!e)return notFound();cur=e;var c=s.color,st=S.exam[id]||{},mins=e.marks;
-  var h=hdr(e.marks+' mark question',s.section.title,true);
-  h+='<div class="card c" style="--c:'+c+'"><div class="small mut">'+esc(tname(sid,e.topic))+'</div><p style="font-size:1.08rem;font-weight:700;margin-top:6px">'+fmt(e.q)+'</p><p class="small mut">Aim for about '+mins+' minutes in the exam.</p></div>';
+  var timing=['conversation','roleplay','read-aloud'].indexOf(e.type)<0?'<p class="small mut">Aim for about '+mins+' minutes in the exam.</p>':'';
+  var h=hdr((META.typeNames&&META.typeNames[e.type])||(e.marks+' mark question'),(META.typeNames&&META.typeNames[e.type]?e.marks+' marks · ':'')+s.section.title,true);
+  h+='<div class="card c" style="--c:'+c+'"><div class="small mut">'+esc(tname(sid,e.topic))+'</div><p style="font-size:1.08rem;font-weight:700;margin-top:6px">'+fmt(e.q)+'</p>'+timing+(e.listen?sayBtn(e.model).replace('aria-label="Listen">🔊','aria-label="Listen">🔊 Listen'):'')+'</div>';
   if(STRUCT[e.type])h+='<details><summary>Structure to follow</summary><div><ol class="steps">'+STRUCT[e.type].map(function(x){return '<li>'+esc(x)+'</li>'}).join('')+'</ol></div></details>';
   h+='<label class="f" for="draft">Your answer (saved on this device)</label><textarea id="draft" data-act-input="draft" data-id="'+esc(id)+'" placeholder="Write your answer here, or on paper, then check it below.">'+esc(S.drafts[id]||'')+'</textarea>';
   h+='<div id="reveal">'+(st.shown?revealHtml(e,st):'<button class="btn pri" style="width:100%;margin-top:12px" data-act="reveal">Show model answer and mark points</button>')+'</div>';
@@ -198,14 +219,14 @@ function revealHtml(e,st){
     if(e['for']&&e['for'].length)h+='<h2>Arguments for</h2><div class="card"><ul class="b">'+e['for'].map(function(x){return '<li>'+fmt(x)+'</li>'}).join('')+'</ul></div>';
     if(e.against&&e.against.length)h+='<h2>Arguments against</h2><div class="card"><ul class="b">'+e.against.map(function(x){return '<li>'+fmt(x)+'</li>'}).join('')+'</ul></div>';
     if(e.conclusion)h+='<h2>Conclusion</h2><div class="card">'+fmt(e.conclusion)+'</div>'}
-  h+='<h2>Model answer</h2><div class="model" style="--c:'+c+'">'+esc(e.model||'')+'</div><p class="small mut" style="margin-top:8px">A model answer is one good way to answer, not the only one. Different correct points can earn marks too.</p>';
+  h+='<h2>Model answer</h2><div class="model" style="--c:'+c+'">'+esc(e.model||'')+'</div>'+(e.say?sayBtn(e.model):'')+(e.en?'<details class="en"><summary>English</summary><div>'+fmt(e.en)+'</div></details>':'')+'<p class="small mut" style="margin-top:8px">A model answer is one good way to answer, not the only one. Different correct points can earn marks too.</p>';
   return h}
 
 /* ----- guide / more / glossary / quotes / search ----- */
 function guide(){view(hdr('Exam guide','How the papers work and how to answer each question')+(typeof TECH_GUIDE!=='undefined'?TECH_GUIDE:'<div class="card">No guide has been added for this subject yet.</div>'))}
 function more(){
   var h=hdr('More');
-  h+='<div class="list"><a class="item" href="#/glossary"><span class="t">Glossary<small>'+DATA.glossary.length+' '+esc(META.glossaryLabel||'key terms')+'</small></span><span class="mut">›</span></a><a class="item" href="#/quotes"><span class="t">Quote bank<small>Sources of wisdom and authority</small></span><span class="mut">›</span></a><a class="item" href="#/search"><span class="t">Search<small>Topics, terms and cards</small></span><span class="mut">›</span></a><a class="item" href="#/guide"><span class="t">Exam guide<small>Structure, timing, how to answer</small></span><span class="mut">›</span></a></div>';
+  h+='<div class="list"><a class="item" href="#/glossary"><span class="t">Glossary<small>'+DATA.glossary.length+' '+esc(META.glossaryLabel||'key terms')+'</small></span><span class="mut">›</span></a><a class="item" href="#/quotes"><span class="t">'+esc(LBL.quoteBank)+'<small>'+esc(LBL.quoteBankSub)+'</small></span><span class="mut">›</span></a><a class="item" href="#/search"><span class="t">Search<small>Topics, terms and cards</small></span><span class="mut">›</span></a><a class="item" href="#/guide"><span class="t">Exam guide<small>Structure, timing, how to answer</small></span><span class="mut">›</span></a></div>';
   h+='<h2>Settings</h2><div class="card"><label class="f" for="theme">Appearance</label><select id="theme" data-act-change="theme"><option value="auto"'+(S.theme==='auto'?' selected':'')+'>Match my phone</option><option value="light"'+(S.theme==='light'?' selected':'')+'>Light</option><option value="dark"'+(S.theme==='dark'?' selected':'')+'>Dark</option></select>';
   h+='<p class="small mut" style="margin-top:12px">Progress is saved in this browser on this device only. To keep the app on your phone: open it in your browser, tap Share, then Add to Home Screen.</p><button class="btn" style="width:100%" data-act="reset" id="resetbtn">Reset all my progress</button></div>';
   h+='<h2>About this app</h2><div class="card small">'+(META.about||'')+'<p class="mut">Version: '+esc(DATA.built||'')+'</p></div>';
@@ -217,14 +238,14 @@ function glossary(){
 function glist(){
   var q=GF.q.toLowerCase(),items=DATA.glossary.filter(function(x){return (GF.g==='all'||x.group===GF.g)&&(!q||x.term.toLowerCase().indexOf(q)>=0||x.def.toLowerCase().indexOf(q)>=0)});
   items.sort(function(a,b){return a.term.localeCompare(b.term)});
-  $('#glist').innerHTML=items.length?items.map(function(x){return '<details><summary><span>'+esc(x.term)+' <span class="mut small">'+esc(x.group)+'</span></span></summary><div>'+esc(x.def)+'</div></details>'}).join(''):'<p class="mut">No terms match.</p>'}
+  $('#glist').innerHTML=items.length?items.map(function(x){return '<details><summary><span>'+esc(x.term)+' <span class="mut small">'+esc(x.group)+'</span></span></summary><div>'+esc(x.def)+sayBtn(META.speak?x.term:'')+'</div></details>'}).join(''):'<p class="mut">No terms match.</p>'}
 var QF={sec:'all',q:''};
 function quotes(){
-  var h=hdr('Quote bank','Sources of wisdom and authority',true)+(typeof TECH_QUOTES!=='undefined'?TECH_QUOTES:'')+'<div class="sticky" style="margin-top:10px"><input type="search" id="qq" placeholder="Search quotes or references" value="'+esc(QF.q)+'" aria-label="Search quotes"></div><div class="chips"><button class="chip'+(QF.sec==='all'?' on':'')+'" data-act="qSec" data-s="all">All</button>'+SECS.map(function(s){return '<button class="chip'+(QF.sec===s.section.id?' on':'')+'" data-act="qSec" data-s="'+s.section.id+'">'+esc(s.section.short||s.section.title)+'</button>'}).join('')+'</div><div id="qlist"></div>';view(h);qlist()}
+  var h=hdr(LBL.quoteBank,LBL.quoteBankSub,true)+(typeof TECH_QUOTES!=='undefined'?TECH_QUOTES:'')+'<div class="sticky" style="margin-top:10px"><input type="search" id="qq" placeholder="'+esc(LBL.quoteSearch)+'" value="'+esc(QF.q)+'" aria-label="Search quotes"></div><div class="chips"><button class="chip'+(QF.sec==='all'?' on':'')+'" data-act="qSec" data-s="all">All</button>'+SECS.map(function(s){return '<button class="chip'+(QF.sec===s.section.id?' on':'')+'" data-act="qSec" data-s="'+s.section.id+'">'+esc(s.section.short||s.section.title)+'</button>'}).join('')+'</div><div id="qlist"></div>';view(h);qlist()}
 function qlist(){
   var q=QF.q.toLowerCase(),out=[];
   SECS.forEach(function(s){if(QF.sec!=='all'&&QF.sec!==s.section.id)return;s.topics.forEach(function(t){(t.sources||[]).forEach(function(x){var blob=(x.text+' '+x.ref+' '+(x.use||'')).toLowerCase();if(!q||blob.indexOf(q)>=0)out.push({s:s,t:t,x:x})})})});
-  $('#qlist').innerHTML=out.length?out.map(function(o){return '<div class="quote" style="--c:'+o.s.color+'"><q>'+fmt(o.x.text)+'</q><div class="ref">'+esc(o.x.ref||'')+'</div>'+(o.x.use?'<div class="use">Use it for: '+esc(o.x.use)+'</div>':'')+'<div class="use"><a href="#/t/'+o.s.section.id+'/'+o.t.id+'">'+esc(o.s.section.short||o.s.section.title)+': '+esc(o.t.title)+'</a></div></div>'}).join(''):'<p class="mut">No quotes match.</p>'}
+  $('#qlist').innerHTML=out.length?out.map(function(o){return '<div class="quote" style="--c:'+o.s.color+'"><q>'+fmt(o.x.text)+sayBtn(o.x.text)+'</q><div class="ref">'+esc(o.x.ref||'')+'</div>'+(o.x.use?'<div class="use">'+esc(LBL.use)+': '+esc(o.x.use)+'</div>':'')+'<div class="use"><a href="#/t/'+o.s.section.id+'/'+o.t.id+'">'+esc(o.s.section.short||o.s.section.title)+': '+esc(o.t.title)+'</a></div></div>'}).join(''):'<p class="mut">No quotes match.</p>'}
 var IDX=null;
 function buildIdx(){IDX=[];SECS.forEach(function(s){var id=s.section.id;s.topics.forEach(function(t){var txt=[t.title,t.overview].concat((t.notes||[]).reduce(function(a,n){return a.concat(n.bullets||[])},[])).join(' ');IDX.push({k:'Topic',l:t.title,sub:s.section.title,t:txt.toLowerCase(),link:'#/t/'+id+'/'+t.id,c:s.color});(t.terms||[]).forEach(function(x){IDX.push({k:'Term',l:x.term,sub:x.def,t:(x.term+' '+x.def).toLowerCase(),link:'#/t/'+id+'/'+t.id,c:s.color})})});s.cards.forEach(function(c){IDX.push({k:'Card',l:c.q,sub:c.a,t:(c.q+' '+c.a).toLowerCase(),link:'#/t/'+id+'/'+c.topic,c:s.color})})});DATA.glossary.forEach(function(x){IDX.push({k:'Glossary',l:x.term,sub:x.def,t:(x.term+' '+x.def).toLowerCase(),link:'#/glossary',c:'#4338ca'})})}
 function search(){view(hdr('Search','',true)+'<div class="sticky"><input type="search" id="sq" placeholder="Search everything" aria-label="Search"></div><div id="sres"><p class="mut">Type at least two letters.</p></div>')}
@@ -258,22 +279,23 @@ var ACT={
  back:function(){if(history.length>1)history.back();else location.hash='#/'},
  toggleDone:function(t){var k=t.dataset.key;S.done[k]=!S.done[k];if(!S.done[k])delete S.done[k];save();var p=k.split(':');topicPage(p[0],p[1])},
  quickCards:function(){cardSetup={sec:'all',topic:'all',mode:'due',n:'20'};CS=null;setTimeout(beginCards,0)},
- quickQuiz:function(){quizSetup={sec:'all',topic:'all',n:'10',wrongOnly:false};QS=null;setTimeout(beginQuiz,0)},
+ quickQuiz:function(t){quizSetup={sec:'all',topic:'all',n:'10',wrongOnly:false,kind:t&&t.dataset&&t.dataset.kind||'qz'};QS=null;setTimeout(beginQuiz,0)},
  goCards:function(t){cardSetup={sec:t.dataset.sec,topic:t.dataset.topic||'all',mode:t.dataset.start?'all':'due',n:t.dataset.start?'999':'20'};CS=null;if(t.dataset.start)setTimeout(beginCards,0)},
- goQuiz:function(t){quizSetup={sec:t.dataset.sec,topic:t.dataset.topic||'all',n:t.dataset.start?'999':'10',wrongOnly:false};QS=null;if(t.dataset.start)setTimeout(beginQuiz,0)},
+ goQuiz:function(t){quizSetup={sec:t.dataset.sec,topic:t.dataset.topic||'all',n:t.dataset.start?(t.dataset.kind==='vq'?'20':'999'):'10',wrongOnly:false,kind:t.dataset.kind||'qz'};QS=null;if(t.dataset.start)setTimeout(beginQuiz,0)},
  goWrite:function(t){W={sec:t.dataset.sec,topic:t.dataset.topic||'all',marks:'all'}},
  startCards:startCards,
  startCardsAgain:function(){beginCards()},
- resetCardsRoute:function(){CS=null},
+ resetCardsRoute:function(){CS=null;if(location.hash==='#/cards')setTimeout(cardsSetup,0)},
  endCards:function(){CS=null;history.length>1?history.back():(location.hash='#/cards');if(location.hash==='#/cards')cardsSetup()},
+ say:function(t,e){if(e)e.stopPropagation();speakText(t.dataset.say)},
  flip:function(){if(CS){CS.flip=!CS.flip;renderCard()}},
  cardAns:function(t){cardAns(t.dataset.v==='1')},
  startQuiz:startQuiz,
- resetQuizRoute:function(){QS=null},
+ resetQuizRoute:function(){QS=null;if(location.hash==='#/quiz')setTimeout(quizPage,0)},
  endQuiz:function(){QS=null;history.length>1?history.back():(location.hash='#/quiz');if(location.hash==='#/quiz')quizPage()},
  quizPick:function(t){if(QS.pick!==null)return;var i=+t.dataset.i,it=QS.items[QS.i];QS.pick=i;var ok=it.opts[i].ok;if(ok){QS.score++;if(S.wrong[it.id]){S.wrong[it.id]--;if(S.wrong[it.id]<=0)delete S.wrong[it.id]}}else{QS.wrong.push(it.id);S.wrong[it.id]=(S.wrong[it.id]||0)+1}save();renderQuiz();var f=$('.fb');if(f)f.scrollIntoView({block:'nearest'})},
  quizNext:function(){QS.i++;QS.pick=null;renderQuiz()},
- retryWrong:function(){var ids=QS.wrong.slice(),all=[];SECS.forEach(function(s){s.qz.forEach(function(x){if(ids.indexOf(x.id)>=0)all.push(x)})});beginQuiz(shuffle(all))},
+ retryWrong:function(){var ids=QS.wrong.slice(),all=[];SECS.forEach(function(s){s.qz.concat(s.vq).forEach(function(x){if(ids.indexOf(x.id)>=0)all.push(x)})});beginQuiz(shuffle(all))},
  setMarks:function(t){var sc=readScope();W.sec=sc.sec;W.topic=sc.topic;W.marks=t.dataset.m;writeList()},
  reveal:function(){var st=S.exam[cur.id]||{};st.shown=true;S.exam[cur.id]=st;save();$('#reveal').innerHTML=revealHtml(cur,st)},
  gGroup:function(t){GF.g=t.dataset.g;glossary()},
@@ -285,14 +307,14 @@ document.addEventListener('keydown',function(e){var t=e.target;if(t&&t.classList
   if(CS&&CS.flip&&!/INPUT|TEXTAREA|SELECT/.test(e.target.tagName)){if(e.key==='1')ACT.cardAns({dataset:{v:'0'}});if(e.key==='2')ACT.cardAns({dataset:{v:'1'}})}});
 document.addEventListener('change',function(e){var t=e.target;
   if(t.id==='sc-sec'){var v=t.value,w=$('#sc-topwrap');if(SEC[v]){$('#sc-top').innerHTML=topicOptions(v);w.style.display=''}else w.style.display='none';refreshInfo()}
-  else if(t.id==='sc-top'||t.id==='cd-mode'||t.id==='qz-wrong'||t.id==='qz-n'||t.id==='cd-n')refreshInfo();
+  else if(t.id==='qz-kind'||t.id==='sc-top'||t.id==='cd-mode'||t.id==='qz-wrong'||t.id==='qz-n'||t.id==='cd-n')refreshInfo();
   if(t.dataset.actChange==='theme'){S.theme=t.value;save();applyTheme()}
   if(t.dataset.actInput==='pt'&&cur){var st=S.exam[cur.id]||{},p=st.pts||[],i=+t.dataset.i,k=p.indexOf(i);if(t.checked&&k<0)p.push(i);if(!t.checked&&k>=0)p.splice(k,1);st.pts=p;S.exam[cur.id]=st;save();var s=$('#ptsum');if(s)s.innerHTML='<b>'+p.length+' of '+(cur.points||[]).length+' points</b>'}
   if(location.hash==='#/write'&&(t.id==='sc-sec'||t.id==='sc-top')){var sc=readScope();W.sec=sc.sec;W.topic=sc.topic;writeList()}});
 function refreshInfo(){
   var sc=readScope();
   if($('#cd-info')){var now=Date.now(),all=pool('cards',sc),d=all.filter(function(c){return isDue(c,now)}).length,n=all.filter(function(c){return !S.cards[c.id]}).length;$('#cd-info').textContent=all.length+' cards in this selection: '+d+' due, '+n+' new.'}
-  if($('#qz-info')){var q=pool('qz',sc);if($('#qz-wrong')&&$('#qz-wrong').checked)q=q.filter(function(x){return S.wrong[x.id]});$('#qz-info').textContent=q.length+' questions in this selection.'}}
+  if($('#qz-info')){var q=pool($('#qz-kind')&&$('#qz-kind').value==='vq'?'vq':'qz',sc);if($('#qz-wrong')&&$('#qz-wrong').checked)q=q.filter(function(x){return S.wrong[x.id]});$('#qz-info').textContent=q.length+' questions in this selection.'}}
 document.addEventListener('input',function(e){var t=e.target;
   if(t.id==='draft'){S.drafts[t.dataset.id]=t.value;var st=S.exam[t.dataset.id]||{};st.started=1;S.exam[t.dataset.id]=st;clearTimeout(window._ds);window._ds=setTimeout(save,400)}
   if(t.id==='gq'){GF.q=t.value;glist()}

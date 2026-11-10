@@ -1,0 +1,1549 @@
+{
+ "section": {
+  "id": "unit-2",
+  "title": "Unit 2: Identity and relationships",
+  "short": "Unit 2",
+  "paper": 1,
+  "blurb": "Your identity, weekend routine, friends and family, describing people and role models, and celebrations."
+ },
+ "topics": [
+  {
+   "id": "u2-01",
+   "code": "2.1",
+   "title": "Talk about your identity",
+   "overview": "Introduce yourself: name, age, birthday, where you live, nationality and languages, then your personality and what matters to you. Adjective agreement is the key accuracy point.",
+   "notes": [
+    {
+     "h": "The basics",
+     "bullets": [
+      "**Je m'appelle** Emma. **J'ai quinze ans.** (avoir for age, never je suis quinze)",
+      "**Mon anniversaire, c'est le** douze mars. Dates use le + number + month, no capital letter on the month.",
+      "**J'habite à** Lincoln (town), **en** Angleterre (feminine country), **au** Royaume-Uni (masculine country).",
+      "**Je suis anglaise / britannique.** **Je parle** anglais **et un peu de** français."
+     ]
+    },
+    {
+     "h": "Personality",
+     "bullets": [
+      "**Je suis** assez / très / un peu + adjective. Girls add the feminine ending: **je suis bavarde**, **je suis travailleuse**.",
+      "**Mes amis disent que je suis** drôle. My friends say I am funny.",
+      "**Je ne suis pas** du tout timide. I am not shy at all.",
+      "Higher: **Ce qui est important pour moi, c'est** ma famille. What is important to me is my family."
+     ]
+    },
+    {
+     "h": "Adjective endings to learn",
+     "bullets": [
+      "+e: **intelligent / intelligente**, **bavard / bavarde**, **poli / polie**. Already ending in -e: no extra feminine ending for **timide**, **drôle**, **sympa**. **Sympa** takes -s in the plural (**sympas**).",
+      "-eux / -euse: **généreux / généreuse**, **paresseux / paresseuse**. -if / -ive: **sportif / sportive**, **créatif / créative**.",
+      "-eur / -euse: **travailleur / travailleuse**. Irregular: **gentil / gentille**."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Parle-moi de toi",
+     "text": "Je m'appelle Emma et j'ai quinze ans. Mon anniversaire, c'est le cinq avril. J'habite à Lincoln, en Angleterre. Je suis assez drôle et très bavarde, mais je suis un peu têtue.",
+     "en": "My name is Emma and I am fifteen. My birthday is on the fifth of April. I live in Lincoln, in England. I am quite funny and very chatty, but I am a bit stubborn.",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Comment est-ce que tu te décrirais?",
+     "text": "Je dirais que je suis une personne créative et travailleuse. Mes amis disent que je suis généreuse parce que je les aide toujours. Par contre, ma mère pense que je suis parfois impatiente! Ce qui est important pour moi, c'est la musique: je joue du violon depuis l'âge de huit ans. Quand j'étais petite, j'étais très timide, mais maintenant je suis beaucoup plus confiante.",
+     "en": "I would say that I am a creative and hard-working person. My friends say I am generous because I always help them. On the other hand, my mum thinks I am sometimes impatient! What is important to me is music: I have played the violin since I was eight. When I was little I was very shy, but now I am much more confident.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Mes amis disent que je suis drôle et généreuse.",
+     "ref": "My friends say that I am funny and generous.",
+     "use": "describing yourself through others' eyes"
+    },
+    {
+     "text": "Ce qui est important pour moi, c'est ma famille.",
+     "ref": "What is important to me is my family.",
+     "use": "Higher structure: ce qui"
+    },
+    {
+     "text": "Quand j'étais petite, j'étais timide, mais maintenant je suis plus confiante.",
+     "ref": "When I was little I was shy, but now I am more confident.",
+     "use": "imperfect versus present (Higher)"
+    },
+    {
+     "text": "Je ne suis pas du tout paresseuse.",
+     "ref": "I am not lazy at all.",
+     "use": "a stronger negative"
+    }
+   ],
+   "terms": [
+    {
+     "term": "je m'appelle",
+     "def": "my name is"
+    },
+    {
+     "term": "j'ai quinze ans",
+     "def": "I am fifteen"
+    },
+    {
+     "term": "mon anniversaire, c'est le...",
+     "def": "my birthday is on the..."
+    },
+    {
+     "term": "j'habite à",
+     "def": "I live in (a town)"
+    },
+    {
+     "term": "en Angleterre",
+     "def": "in England"
+    },
+    {
+     "term": "anglais / anglaise",
+     "def": "English (m / f)"
+    },
+    {
+     "term": "britannique",
+     "def": "British"
+    },
+    {
+     "term": "je parle",
+     "def": "I speak"
+    },
+    {
+     "term": "drôle",
+     "def": "funny"
+    },
+    {
+     "term": "sympa",
+     "def": "nice, kind"
+    },
+    {
+     "term": "timide",
+     "def": "shy"
+    },
+    {
+     "term": "bavard / bavarde",
+     "def": "chatty"
+    },
+    {
+     "term": "têtu / têtue",
+     "def": "stubborn"
+    },
+    {
+     "term": "gentil / gentille",
+     "def": "kind"
+    },
+    {
+     "term": "généreux / généreuse",
+     "def": "generous"
+    },
+    {
+     "term": "travailleur / travailleuse",
+     "def": "hard-working"
+    },
+    {
+     "term": "créatif / créative",
+     "def": "creative"
+    },
+    {
+     "term": "intelligent / intelligente",
+     "def": "intelligent"
+    },
+    {
+     "term": "patient / impatient",
+     "def": "patient / impatient"
+    },
+    {
+     "term": "confiant / confiante",
+     "def": "confident"
+    },
+    {
+     "term": "une personne",
+     "def": "a person (always feminine)"
+    },
+    {
+     "term": "ce qui est important pour moi",
+     "def": "what is important to me"
+    }
+   ],
+   "tip": "Une personne is always feminine, so un garçon est une personne créative. Check every adjective after je suis matches you: a girl writes je suis créative, not créatif."
+  },
+  {
+   "id": "u2-02",
+   "code": "2.2",
+   "title": "Weekend routine",
+   "overview": "Describe what you normally do at the weekend from getting up to going to bed. Reflexive verbs and times are the core, with a past or future weekend for higher marks.",
+   "notes": [
+    {
+     "h": "Reflexive verbs",
+     "bullets": [
+      "The pronoun matches the person: **je me** lève, **tu te** lèves, **il / elle / on se** lève, **nous nous** levons, **vous vous** levez, **ils / elles se** lèvent.",
+      "Before a vowel: **je m'habille**, **je m'amuse**.",
+      "Perfect tense uses **être**: **je me suis levé(e)**, **je me suis couché(e)**. Negative: **je ne me lève pas** tôt."
+     ]
+    },
+    {
+     "h": "Times",
+     "bullets": [
+      "**à huit heures** at 8.00, **à huit heures et quart** 8.15, **à huit heures et demie** 8.30, **à neuf heures moins le quart** 8.45.",
+      "**à midi** at midday, **vers dix heures** at about ten o'clock.",
+      "**le samedi** on Saturdays (every week) but **samedi** on Saturday (one day)."
+     ]
+    },
+    {
+     "h": "Weekend activities",
+     "bullets": [
+      "**Je fais la grasse matinée.** I have a lie-in. **Je prends le petit-déjeuner.** I have breakfast.",
+      "**J'aide à la maison**, **je promène le chien**, **je fais mes devoirs**, **je retrouve mes amis en ville**.",
+      "**Le week-end, c'est le moment de** me détendre. The weekend is the time to relax."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Que fais-tu le week-end?",
+     "text": "Le samedi, je me lève à dix heures. Je prends le petit-déjeuner et je promène le chien. L'après-midi, je retrouve mes amis en ville. Le soir, je regarde la télé et je me couche à onze heures.",
+     "en": "On Saturdays I get up at ten o'clock. I have breakfast and walk the dog. In the afternoon I meet my friends in town. In the evening I watch TV and I go to bed at eleven.",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Décris ta routine du week-end",
+     "text": "Pendant la semaine, je me lève à sept heures, donc le samedi, je fais la grasse matinée jusqu'à dix heures. Après le petit-déjeuner, j'ai une leçon de violon et ensuite j'aide mes parents à la maison. Le dimanche est plus calme: je fais mes devoirs et je me détends. Le week-end dernier, par contre, je me suis levée très tôt parce que nous sommes allés à la mer. Je préfère le week-end parce que je peux me reposer.",
+     "en": "During the week I get up at seven, so on Saturdays I have a lie-in until ten. After breakfast I have a violin lesson and then I help my parents at home. Sunday is calmer: I do my homework and relax. Last weekend, however, I got up very early because we went to the seaside. I prefer the weekend because I can rest.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Le samedi, je fais la grasse matinée.",
+     "ref": "On Saturdays I have a lie-in.",
+     "use": "a must-know weekend phrase"
+    },
+    {
+     "text": "Je me lève vers dix heures et je m'habille.",
+     "ref": "I get up at about ten and get dressed.",
+     "use": "reflexive verbs"
+    },
+    {
+     "text": "Samedi dernier, je me suis levée tôt.",
+     "ref": "Last Saturday I got up early.",
+     "use": "reflexive verb in the perfect tense"
+    },
+    {
+     "text": "Je préfère le week-end parce que je peux me reposer.",
+     "ref": "I prefer the weekend because I can rest.",
+     "use": "opinion with modal + infinitive"
+    }
+   ],
+   "terms": [
+    {
+     "term": "je me réveille",
+     "def": "I wake up"
+    },
+    {
+     "term": "je me lève",
+     "def": "I get up"
+    },
+    {
+     "term": "je me douche",
+     "def": "I have a shower"
+    },
+    {
+     "term": "je m'habille",
+     "def": "I get dressed"
+    },
+    {
+     "term": "je me brosse les dents",
+     "def": "I brush my teeth"
+    },
+    {
+     "term": "je me couche",
+     "def": "I go to bed"
+    },
+    {
+     "term": "je me détends",
+     "def": "I relax"
+    },
+    {
+     "term": "je me repose",
+     "def": "I rest"
+    },
+    {
+     "term": "je fais la grasse matinée",
+     "def": "I have a lie-in"
+    },
+    {
+     "term": "je prends le petit-déjeuner",
+     "def": "I have breakfast"
+    },
+    {
+     "term": "le déjeuner",
+     "def": "lunch"
+    },
+    {
+     "term": "le dîner",
+     "def": "dinner, evening meal"
+    },
+    {
+     "term": "j'aide à la maison",
+     "def": "I help at home"
+    },
+    {
+     "term": "je promène le chien",
+     "def": "I walk the dog"
+    },
+    {
+     "term": "je fais mes devoirs",
+     "def": "I do my homework"
+    },
+    {
+     "term": "je retrouve mes amis",
+     "def": "I meet my friends"
+    },
+    {
+     "term": "le samedi",
+     "def": "on Saturdays"
+    },
+    {
+     "term": "le matin / l'après-midi / le soir",
+     "def": "in the morning / afternoon / evening"
+    },
+    {
+     "term": "et demie",
+     "def": "half past"
+    },
+    {
+     "term": "et quart",
+     "def": "quarter past"
+    },
+    {
+     "term": "moins le quart",
+     "def": "quarter to"
+    },
+    {
+     "term": "vers",
+     "def": "at about (time)"
+    },
+    {
+     "term": "tôt / tard",
+     "def": "early / late"
+    }
+   ],
+   "tip": "Show off one reflexive verb in the perfect tense: samedi dernier, je me suis levée tard. Remember être and the extra -e for a girl."
+  },
+  {
+   "id": "u2-03",
+   "code": "2.3",
+   "title": "Discuss friends and relationships",
+   "overview": "Say who you get on with and why, what makes a good friend, and describe a friendship or an argument. The core verbs are reflexive: s'entendre, se disputer.",
+   "notes": [
+    {
+     "h": "Getting on or not",
+     "bullets": [
+      "**Je m'entends bien avec** ma sœur **parce qu'elle est** drôle. I get on well with my sister because she is funny.",
+      "**Je ne m'entends pas bien avec** mon frère. **On se dispute** souvent. We often argue.",
+      "**Il m'énerve** quand il prend mes affaires. He annoys me when he takes my things.",
+      "**Mes parents sont** assez stricts, mais **ils me soutiennent**. They support me."
+     ]
+    },
+    {
+     "h": "A good friend",
+     "bullets": [
+      "**Un bon ami / Une bonne amie doit être** fidèle et honnête. A good friend must be loyal and honest.",
+      "**Je peux compter sur** elle. I can count on her. **Elle est toujours là pour moi.** She is always there for me.",
+      "**On a les mêmes centres d'intérêt.** We have the same interests. **On rigole bien ensemble.** We have a good laugh together."
+     ]
+    },
+    {
+     "h": "Higher: time and change",
+     "bullets": [
+      "**On se connaît depuis** l'école primaire. We have known each other since primary school.",
+      "**Quand j'étais plus jeune, je me disputais** souvent avec mon frère, **mais maintenant on s'entend mieux.**",
+      "**Le week-end dernier, on s'est disputés**, mais on s'est réconciliés le lendemain."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Tu t'entends bien avec ta famille?",
+     "text": "Je m'entends bien avec ma mère parce qu'elle est gentille et patiente. Je ne m'entends pas bien avec mon frère parce qu'il est égoïste. On se dispute tous les jours! Ma meilleure amie s'appelle Sophie. Elle est très drôle.",
+     "en": "I get on well with my mum because she is kind and patient. I don't get on well with my brother because he is selfish. We argue every day! My best friend is called Sophie. She is very funny.",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Qu'est-ce qu'un bon ami, selon toi?",
+     "text": "Selon moi, un bon ami doit être fidèle et compréhensif. Ma meilleure amie et moi, on se connaît depuis l'école primaire et je peux toujours compter sur elle. On a les mêmes centres d'intérêt, surtout la musique, et on rigole bien ensemble. Le mois dernier, on s'est disputées à cause d'un malentendu, mais on s'est vite réconciliées. À l'avenir, j'espère qu'on restera amies toute notre vie.",
+     "en": "In my opinion a good friend must be loyal and understanding. My best friend and I have known each other since primary school and I can always count on her. We have the same interests, especially music, and we have a good laugh together. Last month we argued because of a misunderstanding, but we soon made up. In the future I hope we will stay friends all our lives.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Je m'entends bien avec ma sœur parce qu'elle est toujours là pour moi.",
+     "ref": "I get on well with my sister because she is always there for me.",
+     "use": "relationships with a reason"
+    },
+    {
+     "text": "Un bon ami doit être fidèle et honnête.",
+     "ref": "A good friend must be loyal and honest.",
+     "use": "what makes a good friend"
+    },
+    {
+     "text": "On se connaît depuis six ans.",
+     "ref": "We have known each other for six years.",
+     "use": "depuis with the present (Higher)"
+    },
+    {
+     "text": "On s'est disputés, mais on s'est réconciliés.",
+     "ref": "We argued but we made up.",
+     "use": "reflexive verbs in the perfect tense (Higher)"
+    }
+   ],
+   "terms": [
+    {
+     "term": "s'entendre bien avec",
+     "def": "to get on well with"
+    },
+    {
+     "term": "se disputer avec",
+     "def": "to argue with"
+    },
+    {
+     "term": "il / elle m'énerve",
+     "def": "he / she annoys me"
+    },
+    {
+     "term": "un(e) meilleur(e) ami(e)",
+     "def": "a best friend"
+    },
+    {
+     "term": "un copain / une copine",
+     "def": "a friend, mate"
+    },
+    {
+     "term": "les parents",
+     "def": "parents"
+    },
+    {
+     "term": "un demi-frère / une demi-sœur",
+     "def": "a half-brother or stepbrother / a half-sister or stepsister"
+    },
+    {
+     "term": "les grands-parents",
+     "def": "grandparents"
+    },
+    {
+     "term": "fidèle",
+     "def": "loyal"
+    },
+    {
+     "term": "honnête",
+     "def": "honest"
+    },
+    {
+     "term": "compréhensif / compréhensive",
+     "def": "understanding"
+    },
+    {
+     "term": "égoïste",
+     "def": "selfish"
+    },
+    {
+     "term": "strict / stricte",
+     "def": "strict"
+    },
+    {
+     "term": "compter sur",
+     "def": "to count on"
+    },
+    {
+     "term": "soutenir",
+     "def": "to support"
+    },
+    {
+     "term": "être là pour quelqu'un",
+     "def": "to be there for someone"
+    },
+    {
+     "term": "les mêmes centres d'intérêt",
+     "def": "the same interests"
+    },
+    {
+     "term": "rigoler",
+     "def": "to laugh, have fun"
+    },
+    {
+     "term": "se connaître",
+     "def": "to know each other"
+    },
+    {
+     "term": "se réconcilier",
+     "def": "to make up"
+    },
+    {
+     "term": "un malentendu",
+     "def": "a misunderstanding"
+    },
+    {
+     "term": "doit être",
+     "def": "must be"
+    }
+   ],
+   "tip": "Je m'entends bien avec is one of the most useful phrases in the course. Learn the negative too: je ne m'entends pas bien avec (ne goes before m', pas after the verb)."
+  },
+  {
+   "id": "u2-04",
+   "code": "2.4",
+   "title": "Describing people and role models",
+   "overview": "Describe what people look like and what they are like, and explain who your role model is and why. Watch adjective agreement and position (BAGS adjectives go before the noun).",
+   "notes": [
+    {
+     "h": "Appearance",
+     "bullets": [
+      "**Il / Elle est** grand(e), petit(e), **de taille moyenne** (medium height), mince (slim).",
+      "**Il / Elle a les cheveux** courts / longs / mi-longs, blonds / bruns / noirs / roux, raides (straight) / frisés (curly).",
+      "**Il / Elle a les yeux** bleus / verts / **marron** (marron never changes). **Il porte des lunettes.** He wears glasses. **Il a une barbe.** He has a beard."
+     ]
+    },
+    {
+     "h": "Adjective position: BAGS",
+     "bullets": [
+      "Most adjectives go **after** the noun: une fille **intelligente**, un film **intéressant**.",
+      "**BAGS** adjectives go **before**: **B**eauty (beau, joli), **A**ge (jeune, vieux, nouveau), **G**ood or bad (bon, mauvais, gentil), **S**ize (grand, petit, gros).",
+      "Une **jolie** maison, un **vieux** professeur, une **bonne** idée, un **petit** frère.",
+      "Irregular feminines: beau, **belle**; vieux, **vieille**; nouveau, **nouvelle**. Before a masculine vowel: un **bel** homme, un **vieil** ami."
+     ]
+    },
+    {
+     "h": "Role models",
+     "bullets": [
+      "**Mon modèle, c'est** ma grand-mère. Modèle is always masculine: ma tante est **mon** modèle.",
+      "**Je l'admire parce qu'elle** aide les autres / **a beaucoup travaillé** / est courageuse.",
+      "**Il / Elle m'inspire.** He / she inspires me. **Je voudrais être comme lui / elle.** I would like to be like him / her.",
+      "**Un bon modèle doit être** travailleur et respectueux."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Décris ta meilleure amie",
+     "text": "Ma meilleure amie s'appelle Chloé. Elle est petite et mince. Elle a les cheveux longs et bruns et les yeux verts. Elle porte des lunettes. Elle est très gentille et drôle.",
+     "en": "My best friend is called Chloé. She is small and slim. She has long brown hair and green eyes. She wears glasses. She is very kind and funny.",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Qui est ton modèle et pourquoi?",
+     "text": "Mon modèle, c'est ma tante, qui est infirmière. Je l'admire parce qu'elle travaille dur pour aider les autres, même quand elle est fatiguée. Quand elle était jeune, elle n'avait pas beaucoup d'argent, mais elle a réussi ses études. Elle m'inspire parce qu'elle est courageuse et toujours positive. À l'avenir, je voudrais être comme elle et faire un métier utile.",
+     "en": "My role model is my aunt, who is a nurse. I admire her because she works hard to help others, even when she is tired. When she was young she didn't have much money, but she succeeded in her studies. She inspires me because she is brave and always positive. In the future I would like to be like her and do a useful job.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Elle a les cheveux longs et frisés et les yeux marron.",
+     "ref": "She has long curly hair and brown eyes.",
+     "use": "physical description (marron does not change)"
+    },
+    {
+     "text": "Mon modèle, c'est ma grand-mère parce qu'elle est courageuse.",
+     "ref": "My role model is my grandmother because she is brave.",
+     "use": "role model with a reason"
+    },
+    {
+     "text": "Je l'admire parce qu'elle aide les autres.",
+     "ref": "I admire her because she helps others.",
+     "use": "object pronoun l' before the verb"
+    },
+    {
+     "text": "Je voudrais être comme elle.",
+     "ref": "I would like to be like her.",
+     "use": "conditional for the future"
+    }
+   ],
+   "terms": [
+    {
+     "term": "grand / grande",
+     "def": "tall, big"
+    },
+    {
+     "term": "petit / petite",
+     "def": "small, short"
+    },
+    {
+     "term": "de taille moyenne",
+     "def": "of medium height"
+    },
+    {
+     "term": "mince",
+     "def": "slim"
+    },
+    {
+     "term": "les cheveux courts / longs",
+     "def": "short / long hair"
+    },
+    {
+     "term": "les cheveux raides / frisés",
+     "def": "straight / curly hair"
+    },
+    {
+     "term": "blonds / bruns / roux",
+     "def": "blond / brown / red (hair)"
+    },
+    {
+     "term": "les yeux bleus / verts",
+     "def": "blue / green eyes"
+    },
+    {
+     "term": "marron",
+     "def": "brown (eyes, never changes)"
+    },
+    {
+     "term": "il porte des lunettes",
+     "def": "he wears glasses"
+    },
+    {
+     "term": "une barbe",
+     "def": "a beard"
+    },
+    {
+     "term": "beau / belle",
+     "def": "beautiful, good-looking (m / f)"
+    },
+    {
+     "term": "vieux / vieille",
+     "def": "old (m / f)"
+    },
+    {
+     "term": "nouveau / nouvelle",
+     "def": "new (m / f)"
+    },
+    {
+     "term": "un modèle",
+     "def": "a role model"
+    },
+    {
+     "term": "admirer",
+     "def": "to admire"
+    },
+    {
+     "term": "il / elle m'inspire",
+     "def": "he / she inspires me"
+    },
+    {
+     "term": "courageux / courageuse",
+     "def": "brave"
+    },
+    {
+     "term": "respectueux / respectueuse",
+     "def": "respectful"
+    },
+    {
+     "term": "aider les autres",
+     "def": "to help others"
+    },
+    {
+     "term": "travailler dur",
+     "def": "to work hard"
+    },
+    {
+     "term": "célèbre",
+     "def": "famous"
+    }
+   ],
+   "tip": "Les cheveux and les yeux are plural, so the colour adjectives take -s: les yeux bleus, les cheveux noirs. The exception is marron: les yeux marron."
+  },
+  {
+   "id": "u2-05",
+   "code": "2.5",
+   "title": "Talk about celebrations",
+   "overview": "Describe how you celebrate festivals and birthdays, compare with French traditions, and narrate a past celebration and a future one.",
+   "notes": [
+    {
+     "h": "How we celebrate",
+     "bullets": [
+      "**On fête** Noël en famille. We celebrate Christmas as a family. **Pour fêter mon anniversaire**, je fais une fête.",
+      "**On offre des cadeaux** we give presents, **on décore le sapin** we decorate the tree, **on mange un repas spécial**, **on chante et on danse**.",
+      "**On regarde les feux d'artifice** we watch the fireworks. **On se déguise** we dress up."
+     ]
+    },
+    {
+     "h": "French celebrations",
+     "bullets": [
+      "**Le 6 janvier (l'Épiphanie)**: on mange **la galette des rois**. Whoever finds **la fève** (a small charm) is king or queen for the day.",
+      "**La Chandeleur** (2 February): on mange **des crêpes**. **Le 1er avril**: **poisson d'avril**, people stick paper fish on friends' backs.",
+      "**Le 14 juillet**: **la fête nationale**, with parades and fireworks. **La Saint-Sylvestre** (31 December): New Year's Eve.",
+      "At Christmas many French families have **le réveillon** (a big meal on Christmas Eve) and **une bûche de Noël** (a chocolate log)."
+     ]
+    },
+    {
+     "h": "A past and a future celebration",
+     "bullets": [
+      "**L'année dernière, pour mon anniversaire, j'ai fait une fête** chez moi. **J'ai reçu** beaucoup de cadeaux. (recevoir, j'ai reçu)",
+      "**C'était** la meilleure fête de ma vie! It was the best party of my life!",
+      "**L'année prochaine, je vais fêter** mes seize ans au bowling."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Comment fêtes-tu ton anniversaire?",
+     "text": "Pour mon anniversaire, je mange un gâteau avec ma famille. Mes parents m'offrent des cadeaux. Le soir, je vais au restaurant avec mes amis. J'adore mon anniversaire parce que c'est amusant.",
+     "en": "For my birthday I eat a cake with my family. My parents give me presents. In the evening I go to a restaurant with my friends. I love my birthday because it's fun.",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Parle-moi d'une fête récente",
+     "text": "Ma fête préférée, c'est Noël, parce que toute la famille se réunit. L'année dernière, mes grands-parents sont venus chez nous. Le matin, on a ouvert les cadeaux, puis on a mangé un énorme repas avec de la dinde. Il neigeait un peu, donc l'ambiance était magique. En France, beaucoup de familles font le réveillon le 24 décembre, et je voudrais essayer ça un jour. Cette année, on va fêter Noël chez ma tante.",
+     "en": "My favourite celebration is Christmas, because the whole family gets together. Last year my grandparents came to our house. In the morning we opened the presents, then we ate a huge meal with turkey. It was snowing a little, so the atmosphere was magical. In France many families have the réveillon on 24 December, and I would like to try that one day. This year we are going to celebrate Christmas at my aunt's house.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Ma fête préférée, c'est Noël, parce que toute la famille se réunit.",
+     "ref": "My favourite celebration is Christmas, because the whole family gets together.",
+     "use": "favourite celebration with a reason"
+    },
+    {
+     "text": "L'année dernière, pour mon anniversaire, j'ai fait une fête chez moi.",
+     "ref": "Last year for my birthday I had a party at my house.",
+     "use": "a past celebration"
+    },
+    {
+     "text": "En France, on mange la galette des rois le 6 janvier.",
+     "ref": "In France people eat the king cake on 6 January.",
+     "use": "French culture"
+    },
+    {
+     "text": "L'année prochaine, je vais fêter mes seize ans.",
+     "ref": "Next year I am going to celebrate my sixteenth birthday.",
+     "use": "a future celebration"
+    }
+   ],
+   "terms": [
+    {
+     "term": "une fête",
+     "def": "a celebration, party, festival"
+    },
+    {
+     "term": "fêter",
+     "def": "to celebrate"
+    },
+    {
+     "term": "Noël",
+     "def": "Christmas"
+    },
+    {
+     "term": "Pâques",
+     "def": "Easter"
+    },
+    {
+     "term": "le jour de l'An",
+     "def": "New Year's Day"
+    },
+    {
+     "term": "la Saint-Sylvestre",
+     "def": "New Year's Eve"
+    },
+    {
+     "term": "la fête nationale",
+     "def": "national day (14 July in France)"
+    },
+    {
+     "term": "l'Aïd",
+     "def": "Eid"
+    },
+    {
+     "term": "un anniversaire",
+     "def": "a birthday"
+    },
+    {
+     "term": "un mariage",
+     "def": "a wedding"
+    },
+    {
+     "term": "un cadeau",
+     "def": "a present"
+    },
+    {
+     "term": "offrir",
+     "def": "to give (a present)"
+    },
+    {
+     "term": "j'ai reçu",
+     "def": "I received"
+    },
+    {
+     "term": "le sapin de Noël",
+     "def": "the Christmas tree"
+    },
+    {
+     "term": "décorer",
+     "def": "to decorate"
+    },
+    {
+     "term": "les feux d'artifice",
+     "def": "fireworks"
+    },
+    {
+     "term": "un repas",
+     "def": "a meal"
+    },
+    {
+     "term": "la dinde",
+     "def": "turkey (meat)"
+    },
+    {
+     "term": "se réunir",
+     "def": "to get together"
+    },
+    {
+     "term": "se déguiser",
+     "def": "to dress up"
+    },
+    {
+     "term": "la galette des rois",
+     "def": "king cake (eaten at Epiphany)"
+    },
+    {
+     "term": "l'ambiance",
+     "def": "the atmosphere"
+    }
+   ],
+   "tip": "Include one fact about French celebrations (galette des rois, 14 juillet, réveillon). It shows cultural knowledge and gives you extra things to say in the photo card conversation."
+  }
+ ],
+ "flashcards": [
+  {
+   "topic": "u2-01",
+   "q": "How do you say: I am fifteen. (Careful with the verb!)",
+   "a": "J'ai quinze ans. (avoir, not être)",
+   "say": "J'ai quinze ans."
+  },
+  {
+   "topic": "u2-01",
+   "q": "Feminine of: généreux, sportif, travailleur, gentil.",
+   "a": "généreuse, sportive, travailleuse, gentille"
+  },
+  {
+   "topic": "u2-01",
+   "q": "How do you say: My friends say that I am funny.",
+   "a": "Mes amis disent que je suis drôle.",
+   "say": "Mes amis disent que je suis drôle."
+  },
+  {
+   "topic": "u2-01",
+   "q": "How do you say: What is important to me is music.",
+   "a": "Ce qui est important pour moi, c'est la musique.",
+   "say": "Ce qui est important pour moi, c'est la musique."
+  },
+  {
+   "topic": "u2-02",
+   "q": "How do you say: On Saturdays I have a lie-in.",
+   "a": "Le samedi, je fais la grasse matinée.",
+   "say": "Le samedi, je fais la grasse matinée."
+  },
+  {
+   "topic": "u2-02",
+   "q": "How do you say: I get up at half past nine.",
+   "a": "Je me lève à neuf heures et demie.",
+   "say": "Je me lève à neuf heures et demie."
+  },
+  {
+   "topic": "u2-02",
+   "q": "Perfect tense, girl: I went to bed late.",
+   "a": "Je me suis couchée tard.",
+   "say": "Je me suis couchée tard."
+  },
+  {
+   "topic": "u2-02",
+   "q": "What is the difference between 'samedi' and 'le samedi'?",
+   "a": "samedi = on Saturday (one day). le samedi = on Saturdays (every week)."
+  },
+  {
+   "topic": "u2-03",
+   "q": "How do you say: I get on well with my sister.",
+   "a": "Je m'entends bien avec ma sœur.",
+   "say": "Je m'entends bien avec ma sœur."
+  },
+  {
+   "topic": "u2-03",
+   "q": "How do you say: We argue often.",
+   "a": "On se dispute souvent.",
+   "say": "On se dispute souvent."
+  },
+  {
+   "topic": "u2-03",
+   "q": "How do you say: A good friend must be loyal.",
+   "a": "Un bon ami doit être fidèle.",
+   "say": "Un bon ami doit être fidèle."
+  },
+  {
+   "topic": "u2-03",
+   "q": "How do you say: We have known each other for five years.",
+   "a": "On se connaît depuis cinq ans.",
+   "say": "On se connaît depuis cinq ans."
+  },
+  {
+   "topic": "u2-04",
+   "q": "What does BAGS stand for, and what does it tell you?",
+   "a": "Beauty, Age, Good/bad, Size. These adjectives go before the noun: une jolie fille, un vieux livre, une bonne idée, un petit chien."
+  },
+  {
+   "topic": "u2-04",
+   "q": "How do you say: She has short curly hair and brown eyes.",
+   "a": "Elle a les cheveux courts et frisés et les yeux marron.",
+   "say": "Elle a les cheveux courts et frisés et les yeux marron."
+  },
+  {
+   "topic": "u2-04",
+   "q": "How do you say: My role model is my mum.",
+   "a": "Mon modèle, c'est ma mère. (modèle is always masculine)",
+   "say": "Mon modèle, c'est ma mère."
+  },
+  {
+   "topic": "u2-04",
+   "q": "How do you say: I admire her because she helps others.",
+   "a": "Je l'admire parce qu'elle aide les autres.",
+   "say": "Je l'admire parce qu'elle aide les autres."
+  },
+  {
+   "topic": "u2-05",
+   "q": "How do you say: We celebrate Christmas as a family.",
+   "a": "On fête Noël en famille.",
+   "say": "On fête Noël en famille."
+  },
+  {
+   "topic": "u2-05",
+   "q": "What happens in France on 6 January?",
+   "a": "L'Épiphanie: people eat la galette des rois. Whoever finds la fève is king or queen.",
+   "say": "On mange la galette des rois."
+  },
+  {
+   "topic": "u2-05",
+   "q": "How do you say: I received lots of presents.",
+   "a": "J'ai reçu beaucoup de cadeaux.",
+   "say": "J'ai reçu beaucoup de cadeaux."
+  },
+  {
+   "topic": "u2-05",
+   "q": "How do you say: It was the best party of my life.",
+   "a": "C'était la meilleure fête de ma vie.",
+   "say": "C'était la meilleure fête de ma vie."
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "u2-01",
+   "q": "How do you say 'I am 15'?",
+   "options": [
+    "J'ai quinze ans.",
+    "Je suis quinze ans.",
+    "Je suis quinze.",
+    "J'ai quinze."
+   ],
+   "answer": 0,
+   "why": "French uses avoir for age: j'ai quinze ans. You must include ans."
+  },
+  {
+   "topic": "u2-01",
+   "q": "A girl says she is hard-working:",
+   "options": [
+    "Je suis travailleuse.",
+    "Je suis travailleur.",
+    "Je suis travailleure.",
+    "Je suis travaillée."
+   ],
+   "answer": 0,
+   "why": "Adjectives ending in -eur from a verb (travailler) become -euse in the feminine."
+  },
+  {
+   "topic": "u2-01",
+   "q": "Complete: J'habite ___ Angleterre.",
+   "options": [
+    "en",
+    "à",
+    "au",
+    "dans"
+   ],
+   "answer": 0,
+   "why": "Use en with feminine countries (en France, en Angleterre), au with masculine ones (au Canada), à with towns."
+  },
+  {
+   "topic": "u2-01",
+   "q": "Which adjective has the same masculine and feminine form?",
+   "options": [
+    "sympa",
+    "gentil",
+    "bavard",
+    "généreux"
+   ],
+   "answer": 0,
+   "why": "Sympa is the same for boys and girls, but it takes -s in the plural (sympas). Gentille, bavarde and généreuse are the feminine forms of the others."
+  },
+  {
+   "topic": "u2-01",
+   "q": "'Ce qui est important pour moi, c'est ma famille' means:",
+   "options": [
+    "What is important to me is my family.",
+    "My family thinks I am important.",
+    "Who is important? My family.",
+    "I am important to my family."
+   ],
+   "answer": 0,
+   "why": "Ce qui means what (as the subject). It is a good Higher structure."
+  },
+  {
+   "topic": "u2-02",
+   "q": "'Je fais la grasse matinée' means:",
+   "options": [
+    "I have a lie-in.",
+    "I eat a big breakfast.",
+    "I do the morning chores.",
+    "I go out in the morning."
+   ],
+   "answer": 0,
+   "why": "Faire la grasse matinée is an idiom for staying in bed late, a lie-in."
+  },
+  {
+   "topic": "u2-02",
+   "q": "Complete: Nous ___ levons à huit heures.",
+   "options": [
+    "nous",
+    "se",
+    "me",
+    "vous"
+   ],
+   "answer": 0,
+   "why": "The reflexive pronoun matches the subject: nous nous levons."
+  },
+  {
+   "topic": "u2-02",
+   "q": "Which means 'quarter to ten'?",
+   "options": [
+    "dix heures moins le quart",
+    "dix heures et quart",
+    "neuf heures et demie",
+    "neuf heures et quart"
+   ],
+   "answer": 0,
+   "why": "Moins le quart is quarter to. Et quart is quarter past."
+  },
+  {
+   "topic": "u2-02",
+   "q": "A girl says 'I got up early'. Which is correct?",
+   "options": [
+    "Je me suis levée tôt.",
+    "J'ai levé tôt.",
+    "Je me suis levé tôt.",
+    "Je me levée tôt."
+   ],
+   "answer": 0,
+   "why": "Reflexive verbs use être in the perfect tense, and the participle agrees: levée."
+  },
+  {
+   "topic": "u2-02",
+   "q": "'Le dimanche, je promène le chien' means:",
+   "options": [
+    "On Sundays I walk the dog.",
+    "On Sunday I bought a dog.",
+    "Last Sunday I walked the dog.",
+    "On Sundays the dog walks me."
+   ],
+   "answer": 0,
+   "why": "Le dimanche with the article means every Sunday. Promener means to walk (an animal)."
+  },
+  {
+   "topic": "u2-03",
+   "q": "Which means 'I get on well with my brother'?",
+   "options": [
+    "Je m'entends bien avec mon frère.",
+    "J'entends bien mon frère.",
+    "Je me dispute avec mon frère.",
+    "Je suis bien avec mon frère."
+   ],
+   "answer": 0,
+   "why": "S'entendre bien avec is to get on well with. Entendre on its own means to hear."
+  },
+  {
+   "topic": "u2-03",
+   "q": "What does 'fidèle' mean?",
+   "options": [
+    "loyal",
+    "faithful to a religion only",
+    "funny",
+    "selfish"
+   ],
+   "answer": 0,
+   "why": "Fidèle means loyal or faithful, a key quality of a good friend."
+  },
+  {
+   "topic": "u2-03",
+   "q": "Complete: Un bon ami ___ être honnête.",
+   "options": [
+    "doit",
+    "dois",
+    "devoir",
+    "doivent"
+   ],
+   "answer": 0,
+   "why": "Un bon ami is il, so devoir becomes doit, followed by an infinitive."
+  },
+  {
+   "topic": "u2-03",
+   "q": "'On se dispute souvent' means:",
+   "options": [
+    "We often argue.",
+    "We often discuss.",
+    "We are often sad.",
+    "We often go out."
+   ],
+   "answer": 0,
+   "why": "Se disputer is to argue. Discuter is to discuss."
+  },
+  {
+   "topic": "u2-03",
+   "q": "Choose the correct negative.",
+   "options": [
+    "Je ne m'entends pas bien avec lui.",
+    "Je m'entends ne pas bien avec lui.",
+    "Je ne entends pas bien avec lui.",
+    "Je pas m'entends bien avec lui."
+   ],
+   "answer": 0,
+   "why": "Ne goes before the reflexive pronoun and pas after the verb: je ne m'entends pas."
+  },
+  {
+   "topic": "u2-04",
+   "q": "Which is correct?",
+   "options": [
+    "une petite maison",
+    "une maison petite",
+    "un petite maison",
+    "une petit maison"
+   ],
+   "answer": 0,
+   "why": "Petit is a Size adjective (BAGS), so it goes before the noun and agrees: une petite maison."
+  },
+  {
+   "topic": "u2-04",
+   "q": "Complete: Elle a les yeux ___.",
+   "options": [
+    "marron",
+    "marrons",
+    "marronne",
+    "marronnes"
+   ],
+   "answer": 0,
+   "why": "Marron never changes: les yeux marron."
+  },
+  {
+   "topic": "u2-04",
+   "q": "Feminine of 'vieux':",
+   "options": [
+    "vieille",
+    "vieuse",
+    "vieuxe",
+    "vielle"
+   ],
+   "answer": 0,
+   "why": "Vieux is irregular: une vieille dame. Before a masculine vowel it becomes vieil: un vieil ami."
+  },
+  {
+   "topic": "u2-04",
+   "q": "'Je l'admire' means:",
+   "options": [
+    "I admire him / her.",
+    "I admire it all.",
+    "I admired them.",
+    "She admires me."
+   ],
+   "answer": 0,
+   "why": "L' is an object pronoun (le or la) placed before the verb."
+  },
+  {
+   "topic": "u2-04",
+   "q": "How do you say 'My role model is my aunt'?",
+   "options": [
+    "Mon modèle, c'est ma tante.",
+    "Ma modèle, c'est ma tante.",
+    "Mon modèle, c'est mon tante.",
+    "Ma modèle est mon tante."
+   ],
+   "answer": 0,
+   "why": "Modèle is always masculine (mon), tante is feminine (ma)."
+  },
+  {
+   "topic": "u2-05",
+   "q": "What is eaten in France on 6 January?",
+   "options": [
+    "la galette des rois",
+    "la bûche de Noël",
+    "des crêpes",
+    "la dinde"
+   ],
+   "answer": 0,
+   "why": "La galette des rois is eaten at Epiphany. Crêpes are for la Chandeleur on 2 February."
+  },
+  {
+   "topic": "u2-05",
+   "q": "What is 'la Saint-Sylvestre'?",
+   "options": [
+    "New Year's Eve",
+    "New Year's Day",
+    "Easter Sunday",
+    "Bastille Day"
+   ],
+   "answer": 0,
+   "why": "La Saint-Sylvestre is 31 December. Le jour de l'An is 1 January."
+  },
+  {
+   "topic": "u2-05",
+   "q": "Past participle of 'recevoir':",
+   "options": [
+    "reçu",
+    "recevé",
+    "recevu",
+    "reçut"
+   ],
+   "answer": 0,
+   "why": "J'ai reçu, I received. Note the cedilla to keep the c soft."
+  },
+  {
+   "topic": "u2-05",
+   "q": "'On regarde les feux d'artifice' means:",
+   "options": [
+    "We watch the fireworks.",
+    "We look at the bonfire.",
+    "We watch the artists.",
+    "We light candles."
+   ],
+   "answer": 0,
+   "why": "Les feux d'artifice are fireworks, for example on 14 July or New Year's Eve."
+  },
+  {
+   "topic": "u2-05",
+   "q": "Which sentence is in the future?",
+   "options": [
+    "Je vais fêter mes seize ans.",
+    "J'ai fêté mes quinze ans.",
+    "Je fête mon anniversaire.",
+    "Je fêtais Noël."
+   ],
+   "answer": 0,
+   "why": "Vais + infinitive is the near future."
+  }
+ ],
+ "exam": [
+  {
+   "topic": "u2-01",
+   "marks": 5,
+   "type": "conversation",
+   "q": "Answer aloud in French: Comment es-tu? Décris ta personnalité.",
+   "model": "Je dirais que je suis assez drôle et très bavarde. Mes amis disent que je suis généreuse parce que je partage toujours mes affaires. Par contre, je suis un peu têtue! Quand j'étais petite, j'étais timide, mais maintenant je suis plus confiante.",
+   "en": "I would say I am quite funny and very chatty. My friends say I am generous because I always share my things. On the other hand I am a bit stubborn! When I was little I was shy, but now I am more confident.",
+   "say": true,
+   "points": [
+    "Several personality adjectives with correct agreement",
+    "Intensifiers: assez, très, un peu",
+    "Reason with parce que",
+    "Another person's view (mes amis disent que...)",
+    "Imperfect for the past (quand j'étais petite)"
+   ]
+  },
+  {
+   "topic": "u2-01",
+   "marks": 15,
+   "type": "read-aloud",
+   "q": "Read this text aloud, then answer the questions in French.\n\nJe m'appelle Hugo et j'habite à Toulouse, dans le sud de la France. J'ai seize ans. Je suis assez sportif, mais je suis aussi un peu paresseux le week-end! Mon anniversaire, c'est le premier juin.\n\nQuestions: 1. Comment es-tu? 2. Qu'est-ce que tu as fait pour ton dernier anniversaire?",
+   "model": "Je m'appelle Hugo et j'habite à Toulouse, dans le sud de la France. J'ai seize ans. Je suis assez sportif, mais je suis aussi un peu paresseux le week-end! Mon anniversaire, c'est le premier juin.",
+   "listen": true,
+   "en": "My name is Hugo and I live in Toulouse, in the south of France. I am sixteen. I am quite sporty, but I am also a bit lazy at the weekend! My birthday is on the first of June. Sample answers: 1. Je suis drôle et assez travailleuse. 2. Pour mon dernier anniversaire, je suis allée au restaurant avec ma famille.",
+   "points": [
+    "Silent h in Hugo and in habite",
+    "Final letters you DO say: sud (d), sportif (f)",
+    "Silent endings: ans, mais, paresseux, premier",
+    "seize sounds like 'sez', juin has the 'ui' sound, France and dans are nasal",
+    "Answered question 1 in the present tense",
+    "Answered question 2 in the perfect tense"
+   ]
+  },
+  {
+   "topic": "u2-02",
+   "marks": 5,
+   "type": "conversation",
+   "q": "Answer aloud in French: Qu'est-ce que tu fais d'habitude le week-end?",
+   "model": "D'habitude, le samedi, je fais la grasse matinée et je me lève vers dix heures. L'après-midi, je retrouve mes amis en ville ou je fais du sport. Le dimanche, je fais mes devoirs et j'aide mes parents à la maison. Le week-end dernier, je me suis couchée très tard parce que j'étais à une fête.",
+   "en": "Usually on Saturdays I have a lie-in and get up at about ten. In the afternoon I meet my friends in town or do sport. On Sundays I do my homework and help my parents at home. Last weekend I went to bed very late because I was at a party.",
+   "say": true,
+   "points": [
+    "Reflexive verbs in the present (je me lève)",
+    "Times and time phrases (vers dix heures, l'après-midi)",
+    "le samedi / le dimanche for routine",
+    "A reflexive verb in the perfect tense",
+    "A reason or opinion"
+   ]
+  },
+  {
+   "topic": "u2-02",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French:\n1. On Saturdays I get up at nine o'clock.\n2. I have breakfast with my family.\n3. In the afternoon I meet my friends in town.\n4. Last Sunday I stayed at home.\n5. Next weekend I am going to go to bed late.",
+   "model": "1. Le samedi, je me lève à neuf heures.\n2. Je prends le petit-déjeuner avec ma famille.\n3. L'après-midi, je retrouve mes amis en ville.\n4. Dimanche dernier, je suis resté(e) à la maison.\n5. Le week-end prochain, je vais me coucher tard.",
+   "say": true,
+   "points": [
+    "1. le samedi, je me lève, à neuf heures",
+    "2. prendre le petit-déjeuner",
+    "3. l'après-midi, retrouver, en ville",
+    "4. Perfect with être: je suis resté(e)",
+    "5. Near future of a reflexive: je vais me coucher (pronoun matches je)"
+   ]
+  },
+  {
+   "topic": "u2-03",
+   "marks": 10,
+   "type": "roleplay",
+   "q": "Role play. Your French friend asks about your friends and family. Answer in French:\n1. Say who you get on well with and why.\n2. Say who you argue with.\n3. Describe your best friend (one detail).\n4. Say what you did with your best friend recently.\n5. Ask your friend a question about their best friend.",
+   "model": "1. Je m'entends bien avec ma mère parce qu'elle est patiente.\n2. Je me dispute avec mon frère.\n3. Ma meilleure amie est très drôle.\n4. Samedi dernier, on est allées au cinéma.\n5. Comment s'appelle ton meilleur ami?",
+   "say": true,
+   "points": [
+    "1. s'entendre bien avec + parce que",
+    "2. se disputer avec",
+    "3. Adjective agreeing with ami / amie",
+    "4. Perfect tense",
+    "5. A correctly formed question"
+   ]
+  },
+  {
+   "topic": "u2-03",
+   "marks": 15,
+   "type": "write-90",
+   "q": "Your French friend wants to know about friendship. Write about 90 words in French. You must write something about each bullet point. Mention:\n- what makes a good friend\n- what you did recently with your friends\n- your plans with your friends for the holidays.",
+   "model": "Selon moi, un bon ami doit être fidèle et drôle. Ma meilleure amie s'appelle Maya et on se connaît depuis l'école primaire. On s'entend très bien parce qu'on a les mêmes centres d'intérêt. Samedi dernier, nous sommes allées au centre commercial et nous avons acheté des vêtements. Après, on a mangé une pizza et on a beaucoup rigolé. C'était génial! Pendant les vacances, on va faire du camping avec sa famille au bord de la mer. S'il fait beau, on va nager tous les jours. J'ai hâte!",
+   "en": "In my opinion a good friend must be loyal and funny. My best friend is called Maya and we have known each other since primary school. We get on very well because we have the same interests. Last Saturday we went to the shopping centre and bought clothes. Afterwards we ate a pizza and laughed a lot. It was great! During the holidays we are going to go camping with her family by the sea. If the weather is nice we are going to swim every day. I can't wait!",
+   "say": true,
+   "points": [
+    "All three bullet points covered",
+    "Opinion structure (selon moi, doit être)",
+    "Perfect tense with avoir and être (nous sommes allées)",
+    "Near future (on va + infinitive)",
+    "depuis, si + present or another complex structure",
+    "Varied connectives and justified opinions"
+   ]
+  },
+  {
+   "topic": "u2-04",
+   "marks": 5,
+   "type": "conversation",
+   "q": "Answer aloud in French: Qui est ton modèle? Pourquoi?",
+   "model": "Mon modèle, c'est ma grand-mère. Elle est petite, elle a les cheveux gris et elle porte des lunettes. Je l'admire parce qu'elle est très courageuse et elle aide toujours les autres. Quand elle était jeune, elle a travaillé dans un hôpital. Je voudrais être aussi gentille qu'elle.",
+   "en": "My role model is my grandmother. She is small, she has grey hair and wears glasses. I admire her because she is very brave and always helps others. When she was young she worked in a hospital. I would like to be as kind as her.",
+   "say": true,
+   "points": [
+    "mon modèle (masculine) used correctly",
+    "Physical description with agreements",
+    "Reason with je l'admire parce que",
+    "A past tense",
+    "A conditional or comparison (je voudrais être aussi... que)"
+   ]
+  },
+  {
+   "topic": "u2-04",
+   "marks": 10,
+   "type": "translate-en",
+   "q": "Translate into English:\nMon modèle, c'est mon oncle. Il est grand et il a une barbe noire. Il est médecin et il travaille beaucoup. Je l'admire parce qu'il aide les gens malades. Plus tard, je voudrais faire le même métier que lui.",
+   "model": "My role model is my uncle. He is tall and he has a black beard. He is a doctor and he works a lot. I admire him because he helps sick (ill) people. Later I would like to do the same job as him.",
+   "points": [
+    "My role model is my uncle",
+    "He is tall and has a black beard",
+    "He is a doctor and works a lot",
+    "I admire him because he helps sick people",
+    "Later I would like to do the same job as him"
+   ]
+  },
+  {
+   "topic": "u2-04",
+   "marks": 8,
+   "type": "dictation",
+   "q": "Dictation. Tap the speaker to hear the sentences, write them down in French, then check.",
+   "model": "Ma sœur est petite. Elle a les cheveux longs. Elle a les yeux bleus. Elle est très gentille.",
+   "listen": true,
+   "en": "My sister is small. She has long hair. She has blue eyes. She is very kind.",
+   "points": [
+    "Ma sœur est petite. (œ, feminine -e)",
+    "Elle a les cheveux longs. (plural -s)",
+    "Elle a les yeux bleus. (plural -s)",
+    "Elle est très gentille. (accent on très, -lle)"
+   ]
+  },
+  {
+   "topic": "u2-05",
+   "marks": 10,
+   "type": "photo",
+   "q": "Photo task (Foundation). Imagine a photo showing a family around a table with a birthday cake, candles and presents. Write five short sentences in French about what is in the photo.",
+   "model": "Il y a une famille dans la photo. Ils sont dans une cuisine. Il y a un gâteau d'anniversaire sur la table. Une fille ouvre un cadeau. Ils sont contents.",
+   "en": "There is a family in the photo. They are in a kitchen. There is a birthday cake on the table. A girl is opening a present. They are happy.",
+   "say": true,
+   "points": [
+    "Five separate sentences, each with a verb",
+    "Il y a used correctly",
+    "Present tense throughout",
+    "Simple, accurate vocabulary (gâteau, cadeau, table)",
+    "Something about people (ils sont contents)"
+   ]
+  },
+  {
+   "topic": "u2-05",
+   "marks": 25,
+   "type": "write-150",
+   "q": "Higher. Write about 150 words in French about celebrations. Mention:\n- a celebration you enjoyed in the past\n- how you would like to celebrate an important birthday in the future.",
+   "model": "J'adore les fêtes, mais ma préférée, c'est Noël. L'année dernière, toute la famille s'est réunie chez mes grands-parents, qui habitent à la campagne. Le matin, on a ouvert les cadeaux et j'ai reçu un nouveau violon, ce qui m'a fait très plaisir. Ensuite, on a préparé un énorme repas ensemble. Il neigeait dehors, donc l'ambiance était vraiment magique. Le soir, nous avons joué à des jeux de société et nous avons beaucoup rigolé. C'était inoubliable!\n\nPour mes dix-huit ans, je voudrais organiser une grande fête avec tous mes amis. Ce serait génial de louer une salle et d'inviter un DJ. Cependant, si mes parents disent que c'est trop cher, je ferai peut-être un week-end à Paris avec ma meilleure amie. On pourrait visiter la ville et manger dans un bon restaurant. Ce qui compte pour moi, c'est de passer du temps avec les gens que j'aime.",
+   "en": "I love celebrations, but my favourite is Christmas. Last year the whole family got together at my grandparents' house, who live in the countryside. In the morning we opened the presents and I received a new violin, which made me very happy. Then we prepared a huge meal together. It was snowing outside, so the atmosphere was really magical. In the evening we played board games and laughed a lot. It was unforgettable! For my eighteenth birthday I would like to organise a big party with all my friends. It would be great to hire a room and invite a DJ. However, if my parents say it's too expensive, I might do a weekend in Paris with my best friend instead. We could visit the city and eat in a good restaurant. What matters to me is spending time with the people I love.",
+   "say": true,
+   "points": [
+    "Both bullet points covered in detail",
+    "Perfect tense including a reflexive (s'est réunie) and j'ai reçu",
+    "Imperfect for description (il neigeait, l'ambiance était)",
+    "Conditional (je voudrais, ce serait, on pourrait)",
+    "A simple future or si clause (si mes parents disent..., je ferai)",
+    "Complex structures: qui, ce qui, BAGS adjective (un nouveau violon)",
+    "Justified opinions and varied vocabulary"
+   ]
+  },
+  {
+   "topic": "u2-01",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. My name is Sam and I am fourteen.\n2. My birthday is on the tenth of May.\n3. I live in Lincoln, in England.\n4. I am quite chatty but a bit shy.\n5. My friends say that I am generous.",
+   "model": "1. Je m'appelle Sam et j'ai quatorze ans.\n2. Mon anniversaire, c'est le dix mai.\n3. J'habite à Lincoln, en Angleterre.\n4. Je suis assez bavard(e) mais un peu timide.\n5. Mes amis disent que je suis généreux (généreuse).",
+   "say": true,
+   "points": [
+    "1. j'ai quatorze ans (avoir for age)",
+    "2. le dix mai: no 'of', no capital on the month",
+    "3. à for a town, en for England",
+    "4. assez, un peu; bavard(e)",
+    "5. disent que; généreux / généreuse"
+   ]
+  },
+  {
+   "topic": "u2-01",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. My sister is very hard-working.\n2. My brothers are lazy.\n3. My mother is creative and kind.\n4. I speak English and a little French.\n5. When I was little, I was shy.",
+   "model": "1. Ma sœur est très travailleuse.\n2. Mes frères sont paresseux.\n3. Ma mère est créative et gentille.\n4. Je parle anglais et un peu de français.\n5. Quand j'étais petit(e), j'étais timide.",
+   "say": true,
+   "points": [
+    "1. travailleuse (feminine of travailleur)",
+    "2. sont paresseux: -eux stays the same in the masculine plural",
+    "3. créative, gentille",
+    "4. no article after parler; un peu de français",
+    "5. imperfect: j'étais (twice)"
+   ]
+  },
+  {
+   "topic": "u2-02",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I wake up at seven o'clock.\n2. On Sundays I help at home.\n3. My brother goes to bed late.\n4. We have lunch at midday.\n5. Last Saturday I got up at ten.",
+   "model": "1. Je me réveille à sept heures.\n2. Le dimanche, j'aide à la maison.\n3. Mon frère se couche tard.\n4. Nous déjeunons à midi. (On déjeune à midi.)\n5. Samedi dernier, je me suis levé(e) à dix heures.",
+   "say": true,
+   "points": [
+    "1. reflexive: je me réveille",
+    "2. le dimanche for every Sunday",
+    "3. il form of a reflexive: se couche",
+    "4. déjeuner, à midi",
+    "5. reflexive perfect with être: je me suis levé(e)"
+   ]
+  },
+  {
+   "topic": "u2-03",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I get on well with my mother.\n2. My brother annoys me.\n3. We argue every day.\n4. A good friend must be honest.\n5. My best friend is always there for me.",
+   "model": "1. Je m'entends bien avec ma mère.\n2. Mon frère m'énerve.\n3. On se dispute tous les jours. (Nous nous disputons tous les jours.)\n4. Un bon ami doit être honnête.\n5. Ma meilleure amie (Mon meilleur ami) est toujours là pour moi.",
+   "say": true,
+   "points": [
+    "1. je m'entends bien avec",
+    "2. object pronoun before the verb: m'énerve",
+    "3. se disputer; tous les jours",
+    "4. doit + infinitive",
+    "5. meilleur(e) ami(e) agreeing; toujours là pour moi"
+   ]
+  },
+  {
+   "topic": "u2-04",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. My father is tall and slim.\n2. My sister has long blond hair.\n3. He has brown eyes and he wears glasses.\n4. My grandmother is an old lady.\n5. I admire her because she is brave.",
+   "model": "1. Mon père est grand et mince.\n2. Ma sœur a les cheveux longs et blonds.\n3. Il a les yeux marron et il porte des lunettes.\n4. Ma grand-mère est une vieille dame.\n5. Je l'admire parce qu'elle est courageuse.",
+   "say": true,
+   "points": [
+    "1. grand, mince",
+    "2. avoir les cheveux + plural adjectives after",
+    "3. marron does not change; porter des lunettes",
+    "4. vieille before the noun (BAGS)",
+    "5. je l'admire; courageuse"
+   ]
+  },
+  {
+   "topic": "u2-05",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. We celebrate Christmas with my grandparents.\n2. I give presents to my family.\n3. For my birthday, I eat a cake.\n4. Last year I had a party at home.\n5. Next year I am going to celebrate my birthday with my friends.",
+   "model": "1. On fête Noël avec mes grands-parents.\n2. J'offre des cadeaux à ma famille.\n3. Pour mon anniversaire, je mange un gâteau.\n4. L'année dernière, j'ai fait une fête chez moi.\n5. L'année prochaine, je vais fêter mon anniversaire avec mes amis.",
+   "say": true,
+   "points": [
+    "1. on fête Noël",
+    "2. offrir des cadeaux à",
+    "3. pour mon anniversaire",
+    "4. faire une fête (not 'avoir'); chez moi",
+    "5. near future: je vais fêter"
+   ]
+  },
+  {
+   "topic": "u2-03",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nMy best friend is called Leo. We have known each other since primary school. He is funny and loyal, and I can always count on him. Last month we argued because of a misunderstanding, but we made up quickly. In the future, I hope that we will stay friends.",
+   "model": "Mon meilleur ami s'appelle Leo. Nous nous connaissons (On se connaît) depuis l'école primaire. Il est drôle et fidèle, et je peux toujours compter sur lui. Le mois dernier, nous nous sommes disputés à cause d'un malentendu, mais nous nous sommes vite réconciliés. À l'avenir, j'espère que nous resterons amis.",
+   "say": true,
+   "points": [
+    "depuis + present: nous nous connaissons",
+    "je peux compter sur lui",
+    "reflexive perfect with agreement: nous nous sommes disputés, réconciliés",
+    "à cause d'un malentendu",
+    "simple future: nous resterons amis"
+   ]
+  },
+  {
+   "topic": "u2-04",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nMy role model is my grandfather. He is quite small and he has grey hair. When he was young, he worked in a factory and he had a difficult life. I admire him because he is patient and generous. One day, I would like to be like him.",
+   "model": "Mon modèle, c'est mon grand-père. Il est assez petit et il a les cheveux gris. Quand il était jeune, il travaillait dans une usine et il avait une vie difficile. Je l'admire parce qu'il est patient et généreux. Un jour, je voudrais être comme lui.",
+   "say": true,
+   "points": [
+    "mon modèle, c'est...",
+    "les cheveux gris",
+    "imperfect for background: il était, il travaillait, il avait",
+    "je l'admire parce qu'il est...",
+    "conditional: je voudrais être comme lui"
+   ]
+  },
+  {
+   "topic": "u2-05",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nLast Christmas, the whole family got together at my aunt's house. In the morning, we opened the presents, then we ate a huge meal. It was snowing, so the atmosphere was magical. In France, many families eat a chocolate log. Next year, I would like to spend Christmas in Paris.",
+   "model": "À Noël dernier, toute la famille s'est réunie chez ma tante. Le matin, nous avons ouvert les cadeaux, puis nous avons mangé un énorme repas. Il neigeait, donc l'ambiance était magique. En France, beaucoup de familles mangent une bûche de Noël. L'année prochaine, je voudrais passer Noël à Paris.",
+   "say": true,
+   "points": [
+    "reflexive perfect with agreement: s'est réunie; chez ma tante",
+    "irregular participle ouvert; nous avons mangé",
+    "imperfect: il neigeait, l'ambiance était",
+    "beaucoup de familles mangent (plural verb)",
+    "conditional: je voudrais passer"
+   ]
+  }
+ ]
+}

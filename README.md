@@ -20,6 +20,11 @@ re/                   GCSE Religious Studies (AQA 8062), first subject
   tools/glossary.py   script used to turn AQA's vocabulary documents into glossary.json
   dist/index.html     the compiled single-file app (committed for convenience)
   NOTES.md            sources, corrections to school material, items to verify
+fr/                   GCSE French (AQA 8652), Year 10 units 1 and 2 plus grammar
+  subject.json        also sets labels, speech (fr-FR) and vocabulary flashcards
+  data/*.json         unit-1, unit-2, grammar
+  guide.js            AQA exam guide
+  dist/index.html     the compiled single-file app
 ```
 
 ## Build
@@ -29,6 +34,7 @@ Python 3 only, no dependencies.
 ```
 python3 app/build.py re                 # writes re/dist/index.html
 python3 app/build.py re /tmp/re.html    # or to a path of your choice
+python3 app/build.py fr                 # writes fr/dist/index.html
 ```
 
 The build validates the data (unknown topic ids, quiz options, missing model answers, em or en dashes) and exits non-zero if anything is wrong. Open the output file directly in a browser to test; it works from `file://`.
@@ -41,6 +47,16 @@ The build validates the data (unknown topic ids, quiz options, missing model ans
 4. `python3 app/build.py maths`
 
 Question-type guidance shown on the Write screen comes from `structures` in `subject.json` (keyed by each exam item's `type`). The self-mark checklist for `evaluate` questions can be replaced with `evaluateChecklist`.
+
+Optional `subject.json` settings (see `fr/subject.json`):
+
+- `labels`: rename headings, for example `views`, `sources`, `terms`, `quoteBank`, `paper`.
+- `papers` and `scopeLabels`: headings for section groups and the matching entries in the "What to cover" menu.
+- `typeNames`: a title for each exam item `type`, shown instead of "N mark question".
+- `termCards`: turn every topic `terms` entry into a flashcard (definition on the front, term on the back).
+- `vocabQuiz` (and optional `vocabQuizLabel`): adds a vocabulary quiz built from the topics' `terms` (definition shown, pick the term), with wrong options taken from the same topic and never sharing a meaning with the answer. Available from the Quiz tab, the home page, and each section and topic page.
+- `glossaryFromTerms`: build the glossary from the topics' `terms` when there is no `glossary.json`.
+- `speak`: a language code such as `fr-FR`. Adds listen buttons using the device's speech synthesis to terms, phrases, flashcards (`say` field) and model answers (`say: true` on a view or exam item). Exam items with `listen: true` get a Listen button on the question, for dictation and reading aloud.
 
 ## Section schema
 

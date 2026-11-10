@@ -7,7 +7,8 @@ Example: python3 app/build.py re        ->  re/dist/index.html
 A subject folder contains:
   subject.json   title, colours, section order, about text (see re/subject.json)
   data/*.json    one file per section (schema in README.md)
-  glossary.json  optional list of {group, term, def}
+  glossary.json  optional list of {group, term, def}; or set glossaryFromTerms
+                 in subject.json to build it from the topics' terms
   guide.js       optional; defines TECH_GUIDE and TECH_QUOTES (HTML strings)
 The output has all CSS, JavaScript and data inlined: no network needed.
 """
@@ -57,6 +58,9 @@ def main():
             if len(set(x['options'])) != 4:
                 problems.append(f'{sid} quiz[{i}] duplicate options')
         for i, x in enumerate(d.get('exam', [])):
+            for k in ('points', 'for', 'against'):
+                if k in x and not isinstance(x[k], list):
+                    problems.append(f'{sid} exam[{i}] {k} should be a list')
             if not x.get('model') or (x.get('type') != 'evaluate' and not x.get('points')):
                 problems.append(f'{sid} exam[{i}] missing model/points')
             if x.get('type') == 'evaluate' and not (x.get('for') and x.get('against') and x.get('conclusion')):
@@ -67,6 +71,17 @@ def main():
         secs.append(d)
     gp = os.path.join(sd, 'glossary.json')
     gl = json.loads(read(gp)) if os.path.exists(gp) else []
+    if not gl and meta.get('glossaryFromTerms'):
+        # build the glossary from every topic's terms (used for vocabulary lists)
+        seen = set()
+        for d in secs:
+            for t in d['topics']:
+                for x in t.get('terms', []):
+                    group = d['section'].get('short', d['section']['title'])
+                    k = (group, x['term'], x['def'])
+                    if k not in seen:
+                        seen.add(k)
+                        gl.append({'group': group, 'term': x['term'], 'def': x['def']})
     clean = {k: v for k, v in meta.items() if k not in ('sectionOrder', 'pageTitle')}
     data = {'meta': clean, 'sections': secs, 'glossary': gl,
             'built': datetime.date.today().strftime('%d %b %Y')}
@@ -86,7 +101,8 @@ def main():
         f.write(out)
     print('wrote', dest, round(len(out) / 1024), 'KB')
     for d in secs:
-        print(' ', d['section']['id'], 'topics', len(d['topics']), 'cards', len(d['flashcards']),
+        nv = sum(len(t.get('terms', [])) for t in d['topics']) if meta.get('termCards') else 0
+        print(' ', d['section']['id'], 'topics', len(d['topics']), 'cards', len(d['flashcards']) + nv,
               'quiz', len(d['quiz']), 'exam', len(d['exam']))
     print('PROBLEMS', len(problems))
     for p in problems[:60]:

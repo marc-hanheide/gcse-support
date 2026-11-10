@@ -1,0 +1,1858 @@
+{
+ "section": {
+  "id": "unit-1",
+  "title": "Unit 1: Free time",
+  "short": "Unit 1",
+  "paper": 1,
+  "blurb": "What you do online, being active, what you watch, planning a day out, last weekend and understanding questions."
+ },
+ "topics": [
+  {
+   "id": "u1-01",
+   "code": "1.1",
+   "title": "Explain what you do online",
+   "overview": "Say which devices you use, what you do online, how often, and what you think of it. Higher marks come from adding a past and a future example and giving the advantages and disadvantages.",
+   "notes": [
+    {
+     "h": "Key structures",
+     "bullets": [
+      "**J'utilise mon portable pour** + infinitive: I use my phone to... For example: J'utilise mon portable pour envoyer des messages.",
+      "**Je passe** deux heures **par jour** en ligne: I spend two hours a day online.",
+      "**Je suis accro à** mon portable: I am addicted to my phone.",
+      "**Sur** Internet, **sur** les réseaux sociaux, **sur** mon ordinateur: use sur for on/online platforms."
+     ]
+    },
+    {
+     "h": "How often",
+     "bullets": [
+      "**tous les jours** every day, **tous les soirs** every evening, **souvent** often, **de temps en temps** from time to time.",
+      "**une fois par semaine** once a week, **rarement** rarely, **ne... jamais** never: Je **ne** joue **jamais** à des jeux vidéo."
+     ]
+    },
+    {
+     "h": "Opinions and three tenses",
+     "bullets": [
+      "Present: **Je regarde** des vidéos tous les soirs.",
+      "Past: **Hier soir, j'ai regardé** une vidéo et **j'ai posté** des photos.",
+      "Future: **Ce week-end, je vais télécharger** un nouveau jeu.",
+      "Opinion: **L'avantage, c'est que** c'est pratique. **L'inconvénient, c'est que** c'est addictif."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Que fais-tu en ligne?",
+     "text": "J'utilise mon portable tous les jours. J'envoie des messages à mes amis et je regarde des vidéos. J'aime ça parce que c'est amusant. Le soir, je joue à des jeux vidéo sur mon ordinateur.",
+     "en": "I use my phone every day. I send messages to my friends and I watch videos. I like it because it is fun. In the evening I play video games on my computer.",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Que fais-tu en ligne?",
+     "text": "Je passe environ trois heures par jour en ligne, ce qui est peut-être trop! D'habitude, j'utilise mon portable pour tchatter avec mes amis et pour faire des recherches pour mes devoirs. Hier soir, j'ai regardé une série en streaming et j'ai posté des photos sur les réseaux sociaux. À mon avis, les réseaux sociaux sont utiles pour rester en contact, mais le harcèlement en ligne peut être un vrai problème. Ce week-end, je vais télécharger un nouveau jeu.",
+     "en": "I spend about three hours a day online, which is perhaps too much! Usually I use my phone to chat with my friends and to do research for my homework. Last night I watched a series on streaming and I posted photos on social media. In my opinion social media is useful for staying in touch, but online bullying can be a real problem. This weekend I am going to download a new game.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "J'utilise mon portable pour tchatter avec mes amis.",
+     "ref": "I use my phone to chat with my friends.",
+     "use": "any question about technology"
+    },
+    {
+     "text": "Je passe deux heures par jour sur les réseaux sociaux.",
+     "ref": "I spend two hours a day on social media.",
+     "use": "saying how much time you spend online"
+    },
+    {
+     "text": "L'avantage, c'est que c'est pratique, mais l'inconvénient, c'est que c'est addictif.",
+     "ref": "The advantage is that it's practical, but the disadvantage is that it's addictive.",
+     "use": "giving a balanced opinion (Higher)"
+    },
+    {
+     "text": "Hier soir, j'ai regardé des vidéos pendant une heure.",
+     "ref": "Last night I watched videos for an hour.",
+     "use": "adding a past tense"
+    }
+   ],
+   "terms": [
+    {
+     "term": "en ligne",
+     "def": "online"
+    },
+    {
+     "term": "un portable",
+     "def": "a mobile phone"
+    },
+    {
+     "term": "une tablette",
+     "def": "a tablet"
+    },
+    {
+     "term": "un ordinateur",
+     "def": "a computer"
+    },
+    {
+     "term": "un écran",
+     "def": "a screen"
+    },
+    {
+     "term": "les réseaux sociaux",
+     "def": "social media"
+    },
+    {
+     "term": "envoyer des messages",
+     "def": "to send messages"
+    },
+    {
+     "term": "tchatter avec mes amis",
+     "def": "to chat with my friends"
+    },
+    {
+     "term": "télécharger",
+     "def": "to download"
+    },
+    {
+     "term": "partager des photos",
+     "def": "to share photos"
+    },
+    {
+     "term": "poster",
+     "def": "to post"
+    },
+    {
+     "term": "regarder des vidéos",
+     "def": "to watch videos"
+    },
+    {
+     "term": "faire des recherches",
+     "def": "to do research"
+    },
+    {
+     "term": "jouer à des jeux vidéo",
+     "def": "to play video games"
+    },
+    {
+     "term": "écouter de la musique",
+     "def": "to listen to music"
+    },
+    {
+     "term": "faire des achats en ligne",
+     "def": "to shop online"
+    },
+    {
+     "term": "rester en contact",
+     "def": "to stay in touch"
+    },
+    {
+     "term": "le harcèlement en ligne",
+     "def": "online bullying"
+    },
+    {
+     "term": "être accro à",
+     "def": "to be addicted to"
+    },
+    {
+     "term": "l'avantage, c'est que",
+     "def": "the advantage is that"
+    },
+    {
+     "term": "l'inconvénient, c'est que",
+     "def": "the disadvantage is that"
+    },
+    {
+     "term": "pratique",
+     "def": "practical, handy"
+    },
+    {
+     "term": "utile",
+     "def": "useful"
+    }
+   ],
+   "tip": "Never just list activities. Add how often (tous les jours), an opinion with a reason (parce que c'est utile) and one sentence in the past (hier soir, j'ai...) and one in the future (ce week-end, je vais...)."
+  },
+  {
+   "id": "u1-02",
+   "code": "1.2",
+   "title": "Say if you have an active lifestyle",
+   "overview": "Say whether you are active, which sports you do, how long you have done them and what you think of exercise. The key grammar is jouer à for games and faire de for activities, and depuis with the present tense.",
+   "notes": [
+    {
+     "h": "Jouer à or faire de?",
+     "bullets": [
+      "**jouer à** for games and ball sports: à + le = **au** (je joue **au** foot), à + la = **à la** (je joue **à la** pétanque), à + les = **aux** (je joue **aux** cartes).",
+      "**faire de** for other activities: de + le = **du** (je fais **du** vélo), de + la = **de la** (je fais **de la** natation), before a vowel **de l'** (je fais **de l'**équitation).",
+      "In a negative, du, de la and de l' all become **de** or **d'**: Je ne fais **pas de** sport. Je ne fais **pas d'**équitation."
+     ]
+    },
+    {
+     "h": "Depuis: for how long",
+     "bullets": [
+      "French uses the **present tense** with depuis: **Je joue au tennis depuis trois ans.** I have been playing tennis for three years.",
+      "**Je suis membre d'un club de** natation **depuis** l'âge de dix ans. I have been a member of a swimming club since I was ten."
+     ]
+    },
+    {
+     "h": "Are you active?",
+     "bullets": [
+      "**Je suis assez actif** (boy) / **assez active** (girl). I am quite active.",
+      "**Je ne suis pas très sportif / sportive**, mais je vais au collège à pied. I am not very sporty, but I walk to school.",
+      "**Pour être en forme, il faut** manger sainement et bien dormir. To be fit, you must eat healthily and sleep well."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Tu es sportive?",
+     "text": "Oui, je suis assez sportive. Je joue au netball le lundi et je fais de la natation le samedi. J'aime le sport parce que c'est bon pour la santé. Je n'aime pas le rugby parce que c'est violent.",
+     "en": "Yes, I am quite sporty. I play netball on Mondays and I go swimming on Saturdays. I like sport because it's good for your health. I don't like rugby because it's violent.",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Est-ce que tu as un mode de vie actif?",
+     "text": "Je pense que j'ai un mode de vie assez actif. Je fais de la danse depuis cinq ans et je suis membre d'une équipe de netball au collège. Le week-end dernier, j'ai fait une longue promenade à vélo avec ma famille et c'était fatigant mais génial. Pour moi, le sport est important parce que ça réduit le stress. Cependant, je passe trop de temps sur mon portable, donc l'année prochaine, je vais essayer l'escalade.",
+     "en": "I think I have quite an active lifestyle. I have been dancing for five years and I am a member of a netball team at school. Last weekend I went on a long bike ride with my family and it was tiring but great. For me sport is important because it reduces stress. However, I spend too much time on my phone, so next year I am going to try climbing.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Je fais de la natation depuis trois ans.",
+     "ref": "I have been swimming for three years.",
+     "use": "depuis with the present tense"
+    },
+    {
+     "text": "Je ne fais pas de sport, mais je promène le chien tous les jours.",
+     "ref": "I don't do sport, but I walk the dog every day.",
+     "use": "if you are not sporty"
+    },
+    {
+     "text": "Le sport est bon pour la santé et ça réduit le stress.",
+     "ref": "Sport is good for your health and it reduces stress.",
+     "use": "reasons for being active"
+    },
+    {
+     "text": "Je voudrais essayer l'escalade.",
+     "ref": "I would like to try climbing.",
+     "use": "adding a conditional"
+    }
+   ],
+   "terms": [
+    {
+     "term": "un mode de vie actif",
+     "def": "an active lifestyle"
+    },
+    {
+     "term": "sportif / sportive",
+     "def": "sporty (m / f)"
+    },
+    {
+     "term": "actif / active",
+     "def": "active (m / f)"
+    },
+    {
+     "term": "paresseux / paresseuse",
+     "def": "lazy (m / f)"
+    },
+    {
+     "term": "en forme",
+     "def": "fit, in good shape"
+    },
+    {
+     "term": "la santé",
+     "def": "health"
+    },
+    {
+     "term": "jouer au foot",
+     "def": "to play football"
+    },
+    {
+     "term": "jouer au tennis",
+     "def": "to play tennis"
+    },
+    {
+     "term": "faire de la natation",
+     "def": "to go swimming"
+    },
+    {
+     "term": "faire du vélo",
+     "def": "to cycle"
+    },
+    {
+     "term": "faire de la danse",
+     "def": "to dance (as an activity)"
+    },
+    {
+     "term": "faire de l'équitation",
+     "def": "to go horse riding"
+    },
+    {
+     "term": "faire de l'escalade",
+     "def": "to go climbing"
+    },
+    {
+     "term": "faire de la gymnastique",
+     "def": "to do gymnastics"
+    },
+    {
+     "term": "faire une promenade",
+     "def": "to go for a walk"
+    },
+    {
+     "term": "aller à la salle de sport",
+     "def": "to go to the gym"
+    },
+    {
+     "term": "s'entraîner",
+     "def": "to train"
+    },
+    {
+     "term": "une équipe",
+     "def": "a team"
+    },
+    {
+     "term": "être membre de",
+     "def": "to be a member of"
+    },
+    {
+     "term": "depuis",
+     "def": "for, since (with the present tense)"
+    },
+    {
+     "term": "fatigant",
+     "def": "tiring"
+    },
+    {
+     "term": "ça réduit le stress",
+     "def": "it reduces stress"
+    }
+   ],
+   "tip": "Depuis is a quick Higher-level win: Je joue au foot depuis six ans. Do not write j'ai joué with depuis for something you still do."
+  },
+  {
+   "id": "u1-03",
+   "code": "1.3",
+   "title": "Discuss what you watch",
+   "overview": "Talk about the films, series and programmes you like, where you watch them and why. Use a range of opinion adjectives and describe something you watched recently.",
+   "notes": [
+    {
+     "h": "Saying what you like",
+     "bullets": [
+      "**J'adore** les comédies. **Je préfère** les séries. **Je ne supporte pas** les films d'horreur. (I can't stand)",
+      "After aimer, adorer, préférer and détester use **le, la, les**, not du or des: j'aime **les** documentaires.",
+      "**Ma série préférée, c'est**... My favourite series is... **Mon film préféré, c'est**..."
+     ]
+    },
+    {
+     "h": "Where and how",
+     "bullets": [
+      "**à la télé** on TV, **en streaming** on streaming, **sur mon portable** on my phone, **au cinéma** at the cinema.",
+      "**en version originale** in the original language, **avec des sous-titres** with subtitles."
+     ]
+    },
+    {
+     "h": "Describing something you watched",
+     "bullets": [
+      "**Le week-end dernier, je suis allé(e) au cinéma** pour voir un film d'action.",
+      "**C'était** passionnant / drôle / ennuyeux. It was exciting / funny / boring.",
+      "**Ça parle de**... It's about... (Ça parle d'une fille qui...)",
+      "Higher: **Je viens de voir** un film génial. I have just seen a great film."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Qu'est-ce que tu aimes regarder?",
+     "text": "J'aime regarder des séries en streaming. Ma série préférée est une comédie parce que c'est très drôle. Je n'aime pas les informations parce que c'est ennuyeux. Le samedi, je vais au cinéma avec mes amis.",
+     "en": "I like watching series on streaming. My favourite series is a comedy because it's very funny. I don't like the news because it's boring. On Saturdays I go to the cinema with my friends.",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Qu'est-ce que tu as regardé récemment?",
+     "text": "Je viens de voir un film de science-fiction au cinéma avec ma sœur. Ça parle d'une fille qui voyage dans le temps. Les effets spéciaux étaient incroyables et l'histoire était émouvante. D'habitude, je préfère regarder des séries en streaming parce que je peux les regarder quand je veux. Par contre, je trouve que les émissions de télé-réalité sont nulles. Ce week-end, je vais regarder un documentaire sur les animaux.",
+     "en": "I have just seen a science-fiction film at the cinema with my sister. It's about a girl who travels in time. The special effects were incredible and the story was moving. Usually I prefer to watch series on streaming because I can watch them when I want. On the other hand, I find reality TV shows rubbish. This weekend I am going to watch a documentary about animals.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Ma série préférée, c'est une comédie parce que c'est vraiment drôle.",
+     "ref": "My favourite series is a comedy because it's really funny.",
+     "use": "favourites with a reason"
+    },
+    {
+     "text": "Je ne supporte pas les films d'horreur parce qu'ils sont trop effrayants.",
+     "ref": "I can't stand horror films because they are too scary.",
+     "use": "a strong negative opinion"
+    },
+    {
+     "text": "Ça parle d'une fille qui voyage dans le temps.",
+     "ref": "It's about a girl who travels in time.",
+     "use": "describing a plot"
+    },
+    {
+     "text": "Je viens de voir un film génial.",
+     "ref": "I have just seen a great film.",
+     "use": "Higher structure: venir de + infinitive"
+    }
+   ],
+   "terms": [
+    {
+     "term": "la télé",
+     "def": "TV"
+    },
+    {
+     "term": "un film",
+     "def": "a film"
+    },
+    {
+     "term": "une série",
+     "def": "a series"
+    },
+    {
+     "term": "une émission",
+     "def": "a programme"
+    },
+    {
+     "term": "les informations (les infos)",
+     "def": "the news"
+    },
+    {
+     "term": "un documentaire",
+     "def": "a documentary"
+    },
+    {
+     "term": "une comédie",
+     "def": "a comedy"
+    },
+    {
+     "term": "un dessin animé",
+     "def": "a cartoon"
+    },
+    {
+     "term": "un film d'horreur",
+     "def": "a horror film"
+    },
+    {
+     "term": "un film d'action",
+     "def": "an action film"
+    },
+    {
+     "term": "un film de science-fiction",
+     "def": "a science-fiction film"
+    },
+    {
+     "term": "une émission de télé-réalité",
+     "def": "a reality TV show"
+    },
+    {
+     "term": "un jeu télévisé",
+     "def": "a game show"
+    },
+    {
+     "term": "en streaming",
+     "def": "on streaming"
+    },
+    {
+     "term": "au cinéma",
+     "def": "at the cinema"
+    },
+    {
+     "term": "un acteur / une actrice",
+     "def": "an actor / an actress"
+    },
+    {
+     "term": "drôle",
+     "def": "funny"
+    },
+    {
+     "term": "passionnant",
+     "def": "exciting, gripping"
+    },
+    {
+     "term": "ennuyeux",
+     "def": "boring"
+    },
+    {
+     "term": "effrayant",
+     "def": "scary"
+    },
+    {
+     "term": "émouvant",
+     "def": "moving"
+    },
+    {
+     "term": "nul",
+     "def": "rubbish"
+    },
+    {
+     "term": "je ne supporte pas",
+     "def": "I can't stand"
+    }
+   ],
+   "tip": "Vary your adjectives. Instead of c'est bien every time, try passionnant, émouvant, effrayant or nul, and add an intensifier: vraiment, trop, assez."
+  },
+  {
+   "id": "u1-04",
+   "code": "1.4",
+   "title": "Planning a future day out",
+   "overview": "Arrange to go out: suggest an activity, agree or refuse, fix a time and place, and say what you are going to do. The key grammar is the near future: aller + infinitive.",
+   "notes": [
+    {
+     "h": "The near future (futur proche)",
+     "bullets": [
+      "Present tense of **aller** + infinitive: **je vais** aller, **tu vas** jouer, **il / elle / on va** manger, **nous allons** voir, **vous allez** faire, **ils / elles vont** prendre.",
+      "**Samedi prochain, je vais aller** au parc d'attractions avec mes amis.",
+      "Negative: **Je ne vais pas** prendre le bus. The ne... pas goes round vais."
+     ]
+    },
+    {
+     "h": "Making plans",
+     "bullets": [
+      "Suggest: **Ça te dit d'aller** à la plage? Do you fancy going to the beach? **Tu veux venir** au cinéma? Do you want to come to the cinema?",
+      "Agree: **D'accord!** **Bonne idée!** **Avec plaisir!**",
+      "Refuse: **Désolé(e), je ne peux pas.** Sorry, I can't. **Je dois** faire mes devoirs. I have to do my homework.",
+      "Arrange: **On se retrouve où?** Where shall we meet? **Rendez-vous à dix heures devant la gare.** Meet at ten o'clock outside the station."
+     ]
+    },
+    {
+     "h": "Weather and conditions",
+     "bullets": [
+      "**S'il fait beau, on va** faire un pique-nique. If the weather is nice, we are going to have a picnic.",
+      "**S'il pleut, on va** aller au musée. If it rains, we are going to go to the museum.",
+      "Si + present tense, then the near future. Never use the future straight after si."
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Qu'est-ce que tu vas faire le week-end prochain?",
+     "text": "Samedi prochain, je vais aller en ville avec mes amis. On va prendre le bus à dix heures. On va faire du shopping et on va manger une pizza. Ça va être génial!",
+     "en": "Next Saturday I am going to go into town with my friends. We are going to take the bus at ten o'clock. We are going to go shopping and we are going to eat a pizza. It's going to be great!",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Décris une sortie que tu vas faire",
+     "text": "Pendant les vacances, je vais aller au parc d'attractions avec ma meilleure amie parce que nous adorons les montagnes russes. On va se retrouver devant la gare à huit heures, puis on va prendre le train. S'il fait beau, on va faire un pique-nique. Le parc est assez cher, donc je vais utiliser l'argent que j'ai reçu pour mon anniversaire. L'année dernière, j'y suis allée avec ma famille et c'était inoubliable.",
+     "en": "During the holidays I am going to go to the theme park with my best friend because we love roller coasters. We are going to meet outside the station at eight o'clock, then we are going to take the train. If the weather is nice we are going to have a picnic. The park is quite expensive, so I am going to use the money I got for my birthday. Last year I went there with my family and it was unforgettable.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Ça te dit d'aller au cinéma samedi?",
+     "ref": "Do you fancy going to the cinema on Saturday?",
+     "use": "suggesting a plan (role play)"
+    },
+    {
+     "text": "Rendez-vous à deux heures devant le centre commercial.",
+     "ref": "Meet at two o'clock outside the shopping centre.",
+     "use": "arranging a time and place"
+    },
+    {
+     "text": "S'il fait beau, on va faire un pique-nique au parc.",
+     "ref": "If the weather is nice, we are going to have a picnic in the park.",
+     "use": "si + present, then near future"
+    },
+    {
+     "text": "Désolée, je ne peux pas, je dois faire mes devoirs.",
+     "ref": "Sorry, I can't, I have to do my homework.",
+     "use": "refusing politely"
+    }
+   ],
+   "terms": [
+    {
+     "term": "samedi prochain",
+     "def": "next Saturday"
+    },
+    {
+     "term": "le week-end prochain",
+     "def": "next weekend"
+    },
+    {
+     "term": "demain",
+     "def": "tomorrow"
+    },
+    {
+     "term": "pendant les vacances",
+     "def": "during the holidays"
+    },
+    {
+     "term": "le parc d'attractions",
+     "def": "the theme park"
+    },
+    {
+     "term": "les montagnes russes",
+     "def": "roller coaster"
+    },
+    {
+     "term": "la plage",
+     "def": "the beach"
+    },
+    {
+     "term": "le centre commercial",
+     "def": "the shopping centre"
+    },
+    {
+     "term": "la patinoire",
+     "def": "the ice rink"
+    },
+    {
+     "term": "le musée",
+     "def": "the museum"
+    },
+    {
+     "term": "un concert",
+     "def": "a concert"
+    },
+    {
+     "term": "faire du shopping",
+     "def": "to go shopping"
+    },
+    {
+     "term": "faire un pique-nique",
+     "def": "to have a picnic"
+    },
+    {
+     "term": "prendre le bus / le train",
+     "def": "to take the bus / the train"
+    },
+    {
+     "term": "se retrouver",
+     "def": "to meet up"
+    },
+    {
+     "term": "Ça te dit de...?",
+     "def": "Do you fancy...?"
+    },
+    {
+     "term": "Tu veux venir?",
+     "def": "Do you want to come?"
+    },
+    {
+     "term": "d'accord",
+     "def": "OK, agreed"
+    },
+    {
+     "term": "je ne peux pas",
+     "def": "I can't"
+    },
+    {
+     "term": "je dois",
+     "def": "I have to, I must"
+    },
+    {
+     "term": "devant",
+     "def": "in front of, outside"
+    },
+    {
+     "term": "un billet",
+     "def": "a ticket"
+    },
+    {
+     "term": "Ça coûte combien?",
+     "def": "How much does it cost?"
+    },
+    {
+     "term": "s'il fait beau",
+     "def": "if the weather is nice"
+    },
+    {
+     "term": "s'il pleut",
+     "def": "if it rains"
+    }
+   ],
+   "tip": "Every verb in a future plan needs je vais / on va + infinitive. Check your infinitives end in -er, -ir or -re: on va manger, not on va mange."
+  },
+  {
+   "id": "u1-05",
+   "code": "1.5",
+   "title": "Describe last weekend",
+   "overview": "Describe what you did last weekend in the perfect tense (passé composé), say who you were with and give an opinion in the past with c'était. This is the topic where accurate past tenses earn the most marks.",
+   "notes": [
+    {
+     "h": "Perfect tense with avoir",
+     "bullets": [
+      "Present tense of **avoir** + past participle: **j'ai joué**, **j'ai regardé**, **j'ai mangé**.",
+      "-er verbs: -er becomes **-é** (jouer, j'ai joué). -ir verbs: **-i** (finir, j'ai fini). -re verbs: **-u** (attendre, j'ai attendu).",
+      "Irregular: **j'ai fait** (faire), **j'ai vu** (voir), **j'ai bu** (boire), **j'ai lu** (lire), **j'ai pris** (prendre), **j'ai eu** (avoir), **j'ai écrit** (écrire)."
+     ]
+    },
+    {
+     "h": "Perfect tense with être",
+     "bullets": [
+      "Movement verbs use **être**: **je suis allé(e)** I went, **je suis sorti(e)** I went out, **je suis resté(e)** I stayed, **je suis rentré(e)** I came home, **je suis arrivé(e)** I arrived, **je suis parti(e)** I left.",
+      "Add **-e** if you are female: **Je suis allée** au cinéma. Add **-s** for plural: **Nous sommes allés** en ville.",
+      "With on: **on est allés** au parc (we went to the park)."
+     ]
+    },
+    {
+     "h": "Sequencing and opinions",
+     "bullets": [
+      "**d'abord** first, **ensuite** / **puis** then, **après** afterwards, **plus tard** later, **enfin** finally, **le soir** in the evening.",
+      "Opinion in the past: **C'était** génial / amusant / nul. It was great / fun / rubbish.",
+      "Higher: **Il faisait beau.** The weather was nice. **Il y avait** beaucoup de monde. There were lots of people. (imperfect tense)"
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Foundation answer: Qu'est-ce que tu as fait le week-end dernier?",
+     "text": "Le week-end dernier, je suis allée en ville avec ma mère. J'ai acheté un tee-shirt. Ensuite, on a mangé dans un café. Le soir, j'ai regardé un film. C'était super!",
+     "en": "Last weekend I went into town with my mum. I bought a T-shirt. Then we ate in a café. In the evening I watched a film. It was great!",
+     "say": true
+    },
+    {
+     "label": "Higher answer: Raconte ton week-end",
+     "text": "Samedi dernier, je me suis levée tard parce que j'étais fatiguée. D'abord, j'ai fait mes devoirs, puis je suis sortie avec mes amies. Nous sommes allées au centre commercial où j'ai acheté un cadeau pour mon frère. Il faisait beau, donc après on a fait une promenade au bord du lac. Dimanche, je suis restée à la maison et j'ai lu un roman. C'était un week-end reposant, mais le week-end prochain, je vais faire quelque chose de plus actif.",
+     "en": "Last Saturday I got up late because I was tired. First I did my homework, then I went out with my friends. We went to the shopping centre where I bought a present for my brother. The weather was nice, so afterwards we went for a walk by the lake. On Sunday I stayed at home and read a novel. It was a relaxing weekend, but next weekend I am going to do something more active.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Le week-end dernier, je suis allé(e) au cinéma avec mes amis.",
+     "ref": "Last weekend I went to the cinema with my friends.",
+     "use": "être verb in the perfect tense"
+    },
+    {
+     "text": "D'abord, j'ai fait mes devoirs, puis j'ai joué au foot.",
+     "ref": "First I did my homework, then I played football.",
+     "use": "sequencing words"
+    },
+    {
+     "text": "Il faisait beau, donc on a fait un pique-nique.",
+     "ref": "The weather was nice, so we had a picnic.",
+     "use": "mixing imperfect and perfect (Higher)"
+    },
+    {
+     "text": "C'était vraiment amusant.",
+     "ref": "It was really fun.",
+     "use": "opinion in the past"
+    }
+   ],
+   "terms": [
+    {
+     "term": "le week-end dernier",
+     "def": "last weekend"
+    },
+    {
+     "term": "samedi dernier",
+     "def": "last Saturday"
+    },
+    {
+     "term": "hier",
+     "def": "yesterday"
+    },
+    {
+     "term": "j'ai joué",
+     "def": "I played"
+    },
+    {
+     "term": "j'ai regardé",
+     "def": "I watched"
+    },
+    {
+     "term": "j'ai mangé",
+     "def": "I ate"
+    },
+    {
+     "term": "j'ai acheté",
+     "def": "I bought"
+    },
+    {
+     "term": "j'ai fait",
+     "def": "I did, I made"
+    },
+    {
+     "term": "j'ai vu",
+     "def": "I saw"
+    },
+    {
+     "term": "j'ai bu",
+     "def": "I drank"
+    },
+    {
+     "term": "j'ai lu",
+     "def": "I read"
+    },
+    {
+     "term": "j'ai pris",
+     "def": "I took"
+    },
+    {
+     "term": "je suis allé(e)",
+     "def": "I went"
+    },
+    {
+     "term": "je suis sorti(e)",
+     "def": "I went out"
+    },
+    {
+     "term": "je suis resté(e)",
+     "def": "I stayed"
+    },
+    {
+     "term": "je suis rentré(e)",
+     "def": "I came home"
+    },
+    {
+     "term": "d'abord",
+     "def": "first"
+    },
+    {
+     "term": "ensuite",
+     "def": "next, then"
+    },
+    {
+     "term": "après",
+     "def": "afterwards"
+    },
+    {
+     "term": "enfin",
+     "def": "finally"
+    },
+    {
+     "term": "c'était",
+     "def": "it was"
+    },
+    {
+     "term": "il faisait beau",
+     "def": "the weather was nice"
+    },
+    {
+     "term": "il y avait",
+     "def": "there was, there were"
+    }
+   ],
+   "tip": "Check every past verb has two parts: j'ai + participle or je suis + participle. Je allé or j'ai allé are both wrong: it is je suis allé(e)."
+  },
+  {
+   "id": "u1-06",
+   "code": "1.6",
+   "title": "Understand questions",
+   "overview": "Recognise question words and the tense of a question so you can answer it properly in the conversation, the role play and the reading and listening papers. The tense of the question tells you the tense of your answer.",
+   "notes": [
+    {
+     "h": "Question words",
+     "bullets": [
+      "**Qu'est-ce que**... ? What...? **Qui**? Who? **Où**? Where? **Quand**? When? **Comment**? How? What... like?",
+      "**Pourquoi**? Why? (answer with **parce que**) **Combien (de)**? How much / how many? **À quelle heure**? At what time?",
+      "**Quel / Quelle / Quels / Quelles**? Which? What? It agrees with the noun: **Quelle** est ta matière préférée?",
+      "**Avec qui**? With whom? **Depuis quand**? Since when? **Est-ce que**... ? turns a statement into a yes/no question."
+     ]
+    },
+    {
+     "h": "Spot the tense, answer in the same tense",
+     "bullets": [
+      "Present: Qu'est-ce que tu **fais** le week-end? Answer: Le week-end, **je fais**...",
+      "Past: Qu'est-ce que tu **as fait** le week-end dernier? Answer: **J'ai fait**...",
+      "Future: Qu'est-ce que tu **vas faire** le week-end prochain? Answer: **Je vais faire**...",
+      "Conditional: Qu'est-ce que tu **voudrais** faire? Answer: **Je voudrais**..."
+     ]
+    },
+    {
+     "h": "Three ways to ask the same question",
+     "bullets": [
+      "Intonation: **Tu aimes le sport?**",
+      "Est-ce que: **Est-ce que tu aimes le sport?**",
+      "Inversion (formal, Higher): **Aimes-tu le sport?** **Que fais-tu?** **Où vas-tu?**"
+     ]
+    }
+   ],
+   "views": [
+    {
+     "label": "Question and answer: Pourquoi?",
+     "text": "Pourquoi aimes-tu la natation? J'aime la natation parce que c'est relaxant et parce que je peux nager avec mes amis.",
+     "en": "Why do you like swimming? I like swimming because it's relaxing and because I can swim with my friends.",
+     "say": true
+    },
+    {
+     "label": "Question and answer: Avec qui?",
+     "text": "Avec qui es-tu allée au cinéma? Je suis allée au cinéma avec ma cousine et sa meilleure amie.",
+     "en": "Who did you go to the cinema with? I went to the cinema with my cousin and her best friend.",
+     "say": true
+    }
+   ],
+   "sources": [
+    {
+     "text": "Qu'est-ce que tu fais pendant ton temps libre?",
+     "ref": "What do you do in your free time?",
+     "use": "present tense question"
+    },
+    {
+     "text": "Qu'est-ce que tu as fait le week-end dernier?",
+     "ref": "What did you do last weekend?",
+     "use": "past tense question"
+    },
+    {
+     "text": "Qu'est-ce que tu vas faire ce soir?",
+     "ref": "What are you going to do this evening?",
+     "use": "future tense question"
+    },
+    {
+     "text": "Quel est ton passe-temps préféré?",
+     "ref": "What is your favourite hobby?",
+     "use": "quel agreeing with a masculine noun"
+    },
+    {
+     "text": "Depuis combien de temps joues-tu du piano?",
+     "ref": "How long have you been playing the piano?",
+     "use": "depuis question (answer in the present)"
+    }
+   ],
+   "terms": [
+    {
+     "term": "Qu'est-ce que...?",
+     "def": "What...?"
+    },
+    {
+     "term": "Que...?",
+     "def": "What...? (with inversion)"
+    },
+    {
+     "term": "Qui?",
+     "def": "Who?"
+    },
+    {
+     "term": "Où?",
+     "def": "Where?"
+    },
+    {
+     "term": "Quand?",
+     "def": "When?"
+    },
+    {
+     "term": "Comment?",
+     "def": "How? What is... like?"
+    },
+    {
+     "term": "Pourquoi?",
+     "def": "Why?"
+    },
+    {
+     "term": "parce que",
+     "def": "because"
+    },
+    {
+     "term": "Combien?",
+     "def": "How much? How many?"
+    },
+    {
+     "term": "À quelle heure?",
+     "def": "At what time?"
+    },
+    {
+     "term": "Quel / Quelle?",
+     "def": "Which? What?"
+    },
+    {
+     "term": "Avec qui?",
+     "def": "With whom?"
+    },
+    {
+     "term": "Est-ce que...?",
+     "def": "(turns a sentence into a yes/no question)"
+    },
+    {
+     "term": "Depuis quand?",
+     "def": "Since when?"
+    },
+    {
+     "term": "Lequel / Laquelle?",
+     "def": "Which one?"
+    },
+    {
+     "term": "Qu'est-ce qu'il y a?",
+     "def": "What is there? What's the matter?"
+    },
+    {
+     "term": "C'est comment?",
+     "def": "What's it like?"
+    }
+   ],
+   "tip": "In the conversation, repeat the verb from the question in your answer. If you hear as-tu fait, start your answer with j'ai fait. It keeps you in the right tense."
+  }
+ ],
+ "flashcards": [
+  {
+   "topic": "u1-01",
+   "q": "How do you say: I spend two hours a day online.",
+   "a": "Je passe deux heures par jour en ligne.",
+   "say": "Je passe deux heures par jour en ligne."
+  },
+  {
+   "topic": "u1-01",
+   "q": "How do you say: I use my phone to send messages.",
+   "a": "J'utilise mon portable pour envoyer des messages.",
+   "say": "J'utilise mon portable pour envoyer des messages."
+  },
+  {
+   "topic": "u1-01",
+   "q": "Give a balanced opinion on social media in French.",
+   "a": "L'avantage, c'est que c'est pratique, mais l'inconvénient, c'est que c'est addictif.",
+   "say": "L'avantage, c'est que c'est pratique, mais l'inconvénient, c'est que c'est addictif."
+  },
+  {
+   "topic": "u1-01",
+   "q": "How do you say: Last night I posted photos.",
+   "a": "Hier soir, j'ai posté des photos.",
+   "say": "Hier soir, j'ai posté des photos."
+  },
+  {
+   "topic": "u1-02",
+   "q": "jouer à or faire de? Football, swimming, cycling, tennis.",
+   "a": "**jouer au** foot, **faire de la** natation, **faire du** vélo, **jouer au** tennis."
+  },
+  {
+   "topic": "u1-02",
+   "q": "How do you say: I have been dancing for five years.",
+   "a": "Je fais de la danse depuis cinq ans. (present tense with depuis)",
+   "say": "Je fais de la danse depuis cinq ans."
+  },
+  {
+   "topic": "u1-02",
+   "q": "How do you say: I don't do any sport.",
+   "a": "Je ne fais pas de sport.",
+   "say": "Je ne fais pas de sport."
+  },
+  {
+   "topic": "u1-02",
+   "q": "How do you say: Sport is good for your health.",
+   "a": "Le sport est bon pour la santé.",
+   "say": "Le sport est bon pour la santé."
+  },
+  {
+   "topic": "u1-03",
+   "q": "How do you say: My favourite series is a comedy.",
+   "a": "Ma série préférée, c'est une comédie.",
+   "say": "Ma série préférée, c'est une comédie."
+  },
+  {
+   "topic": "u1-03",
+   "q": "How do you say: I can't stand horror films.",
+   "a": "Je ne supporte pas les films d'horreur.",
+   "say": "Je ne supporte pas les films d'horreur."
+  },
+  {
+   "topic": "u1-03",
+   "q": "How do you say: It's about a boy who...",
+   "a": "Ça parle d'un garçon qui...",
+   "say": "Ça parle d'un garçon qui"
+  },
+  {
+   "topic": "u1-03",
+   "q": "How do you say: I have just seen a great film.",
+   "a": "Je viens de voir un film génial.",
+   "say": "Je viens de voir un film génial."
+  },
+  {
+   "topic": "u1-04",
+   "q": "Form the near future: we are going to eat (with on).",
+   "a": "On va manger.",
+   "say": "On va manger."
+  },
+  {
+   "topic": "u1-04",
+   "q": "How do you ask: Do you fancy going to the beach?",
+   "a": "Ça te dit d'aller à la plage?",
+   "say": "Ça te dit d'aller à la plage?"
+  },
+  {
+   "topic": "u1-04",
+   "q": "How do you say: Meet at ten o'clock outside the station.",
+   "a": "Rendez-vous à dix heures devant la gare.",
+   "say": "Rendez-vous à dix heures devant la gare."
+  },
+  {
+   "topic": "u1-04",
+   "q": "How do you say: If it rains, we are going to go to the museum.",
+   "a": "S'il pleut, on va aller au musée.",
+   "say": "S'il pleut, on va aller au musée."
+  },
+  {
+   "topic": "u1-05",
+   "q": "Perfect tense of aller for a girl: I went.",
+   "a": "Je suis allée.",
+   "say": "Je suis allée."
+  },
+  {
+   "topic": "u1-05",
+   "q": "Past participles of: faire, voir, boire, lire, prendre.",
+   "a": "fait, vu, bu, lu, pris"
+  },
+  {
+   "topic": "u1-05",
+   "q": "How do you say: First I did my homework, then I went out.",
+   "a": "D'abord, j'ai fait mes devoirs, puis je suis sorti(e).",
+   "say": "D'abord, j'ai fait mes devoirs, puis je suis sortie."
+  },
+  {
+   "topic": "u1-05",
+   "q": "How do you say: The weather was nice and there were lots of people.",
+   "a": "Il faisait beau et il y avait beaucoup de monde.",
+   "say": "Il faisait beau et il y avait beaucoup de monde."
+  },
+  {
+   "topic": "u1-06",
+   "q": "Which tense is this question in? Qu'est-ce que tu vas faire demain?",
+   "a": "Near future (vas faire). Answer with je vais + infinitive."
+  },
+  {
+   "topic": "u1-06",
+   "q": "Which tense is this question in? Où es-tu allé(e) en vacances?",
+   "a": "Perfect tense (es allé). Answer with je suis allé(e)..."
+  },
+  {
+   "topic": "u1-06",
+   "q": "Turn into a question three ways: Tu joues au foot.",
+   "a": "Tu joues au foot? / Est-ce que tu joues au foot? / Joues-tu au foot?",
+   "say": "Tu joues au foot? Est-ce que tu joues au foot? Joues-tu au foot?"
+  },
+  {
+   "topic": "u1-06",
+   "q": "What does this mean? Depuis combien de temps habites-tu ici?",
+   "a": "How long have you been living here? (Answer: J'habite ici depuis...)",
+   "say": "Depuis combien de temps habites-tu ici?"
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "u1-01",
+   "q": "Which means 'to download'?",
+   "options": [
+    "télécharger",
+    "partager",
+    "envoyer",
+    "poster"
+   ],
+   "answer": 0,
+   "why": "Télécharger is to download. Partager is to share, envoyer is to send, poster is to post."
+  },
+  {
+   "topic": "u1-01",
+   "q": "Complete: J'utilise mon portable ___ envoyer des messages.",
+   "options": [
+    "pour",
+    "par",
+    "de",
+    "à"
+   ],
+   "answer": 0,
+   "why": "Utiliser quelque chose pour + infinitive: to use something to do something."
+  },
+  {
+   "topic": "u1-01",
+   "q": "What does 'le harcèlement en ligne' mean?",
+   "options": [
+    "online bullying",
+    "online shopping",
+    "an online game",
+    "an online lesson"
+   ],
+   "answer": 0,
+   "why": "Le harcèlement is bullying or harassment. Online shopping is faire des achats en ligne."
+  },
+  {
+   "topic": "u1-01",
+   "q": "Which sentence is in the past tense?",
+   "options": [
+    "J'ai posté des photos.",
+    "Je poste des photos.",
+    "Je vais poster des photos.",
+    "Je voudrais poster des photos."
+   ],
+   "answer": 0,
+   "why": "J'ai posté uses avoir plus the past participle, so it is the perfect tense."
+  },
+  {
+   "topic": "u1-01",
+   "q": "'Je passe trois heures par jour en ligne' means:",
+   "options": [
+    "I spend three hours a day online.",
+    "I go online three times a day.",
+    "I passed three tests online.",
+    "I spent three days online."
+   ],
+   "answer": 0,
+   "why": "Passer du temps means to spend time. Par jour means per day."
+  },
+  {
+   "topic": "u1-02",
+   "q": "Complete: Je fais ___ natation.",
+   "options": [
+    "de la",
+    "du",
+    "au",
+    "à la"
+   ],
+   "answer": 0,
+   "why": "Natation is feminine, and activities use faire de, so faire de la natation."
+  },
+  {
+   "topic": "u1-02",
+   "q": "Complete: Je joue ___ tennis.",
+   "options": [
+    "au",
+    "du",
+    "de la",
+    "à le"
+   ],
+   "answer": 0,
+   "why": "Games use jouer à, and à + le always becomes au."
+  },
+  {
+   "topic": "u1-02",
+   "q": "Which is correct for 'I have been playing football for two years'?",
+   "options": [
+    "Je joue au foot depuis deux ans.",
+    "J'ai joué au foot depuis deux ans.",
+    "Je joue au foot pour deux ans.",
+    "Je vais jouer au foot depuis deux ans."
+   ],
+   "answer": 0,
+   "why": "With depuis, French uses the present tense for something still happening."
+  },
+  {
+   "topic": "u1-02",
+   "q": "Which is the correct negative?",
+   "options": [
+    "Je ne fais pas de sport.",
+    "Je ne fais pas du sport.",
+    "Je fais ne pas du sport.",
+    "Je ne fais du sport pas."
+   ],
+   "answer": 0,
+   "why": "After a negative, du, de la and de l' become de."
+  },
+  {
+   "topic": "u1-02",
+   "q": "A girl describes herself as sporty. She writes:",
+   "options": [
+    "Je suis sportive.",
+    "Je suis sportif.",
+    "Je suis sportifs.",
+    "Je suis sporte."
+   ],
+   "answer": 0,
+   "why": "Adjectives ending in -if become -ive in the feminine: sportif, sportive."
+  },
+  {
+   "topic": "u1-03",
+   "q": "What is 'un dessin animé'?",
+   "options": [
+    "a cartoon",
+    "a drawing lesson",
+    "an action film",
+    "a documentary"
+   ],
+   "answer": 0,
+   "why": "Un dessin animé is a cartoon (literally an animated drawing)."
+  },
+  {
+   "topic": "u1-03",
+   "q": "Which adjective means 'scary'?",
+   "options": [
+    "effrayant",
+    "émouvant",
+    "ennuyeux",
+    "passionnant"
+   ],
+   "answer": 0,
+   "why": "Effrayant is scary, émouvant is moving, ennuyeux is boring, passionnant is exciting."
+  },
+  {
+   "topic": "u1-03",
+   "q": "Complete: J'adore ___ comédies.",
+   "options": [
+    "les",
+    "des",
+    "de",
+    "du"
+   ],
+   "answer": 0,
+   "why": "After verbs of liking and disliking (aimer, adorer, détester, préférer) use the definite article le, la, les."
+  },
+  {
+   "topic": "u1-03",
+   "q": "'Je viens de voir un film' means:",
+   "options": [
+    "I have just seen a film.",
+    "I come to see a film.",
+    "I am going to see a film.",
+    "I saw a film yesterday."
+   ],
+   "answer": 0,
+   "why": "Venir de + infinitive means to have just done something."
+  },
+  {
+   "topic": "u1-03",
+   "q": "Which question asks what a film is about?",
+   "options": [
+    "Ça parle de quoi?",
+    "Ça coûte combien?",
+    "C'est à quelle heure?",
+    "Tu viens avec qui?"
+   ],
+   "answer": 0,
+   "why": "Ça parle de quoi? means what is it about? Answer: Ça parle de..."
+  },
+  {
+   "topic": "u1-04",
+   "q": "Which is the near future?",
+   "options": [
+    "Je vais aller au parc.",
+    "Je suis allé au parc.",
+    "Je vais au parc.",
+    "J'allais au parc."
+   ],
+   "answer": 0,
+   "why": "Aller in the present plus an infinitive: je vais aller. Je vais au parc is the present tense (I go to the park)."
+  },
+  {
+   "topic": "u1-04",
+   "q": "'Ça te dit d'aller à la patinoire?' is:",
+   "options": [
+    "a suggestion to go to the ice rink",
+    "a question about the price",
+    "a refusal",
+    "directions to the ice rink"
+   ],
+   "answer": 0,
+   "why": "Ça te dit de...? means do you fancy...? La patinoire is the ice rink."
+  },
+  {
+   "topic": "u1-04",
+   "q": "Complete: S'il ___ beau, on va faire un pique-nique.",
+   "options": [
+    "fait",
+    "va faire",
+    "fera",
+    "faisait"
+   ],
+   "answer": 0,
+   "why": "After si use the present tense: s'il fait beau. The near future goes in the other half of the sentence."
+  },
+  {
+   "topic": "u1-04",
+   "q": "Which is a polite refusal?",
+   "options": [
+    "Désolé, je ne peux pas.",
+    "Bonne idée!",
+    "Avec plaisir!",
+    "D'accord, à demain."
+   ],
+   "answer": 0,
+   "why": "Désolé(e), je ne peux pas means sorry, I can't. The others all accept."
+  },
+  {
+   "topic": "u1-04",
+   "q": "What does 'On se retrouve devant la gare' mean?",
+   "options": [
+    "We'll meet outside the station.",
+    "We'll find the station.",
+    "We're going home by train.",
+    "We get lost at the station."
+   ],
+   "answer": 0,
+   "why": "Se retrouver is to meet up. Devant is in front of or outside."
+  },
+  {
+   "topic": "u1-05",
+   "q": "Which verb takes être in the perfect tense?",
+   "options": [
+    "sortir",
+    "manger",
+    "regarder",
+    "faire"
+   ],
+   "answer": 0,
+   "why": "Sortir is a movement verb: je suis sorti(e). The others take avoir."
+  },
+  {
+   "topic": "u1-05",
+   "q": "A girl writes 'I went to the cinema'. Which is correct?",
+   "options": [
+    "Je suis allée au cinéma.",
+    "J'ai allé au cinéma.",
+    "Je suis allé au cinéma.",
+    "Je allée au cinéma."
+   ],
+   "answer": 0,
+   "why": "Aller takes être, and the past participle agrees with a female subject, so allée."
+  },
+  {
+   "topic": "u1-05",
+   "q": "What is the past participle of 'prendre'?",
+   "options": [
+    "pris",
+    "prendu",
+    "prené",
+    "prit"
+   ],
+   "answer": 0,
+   "why": "Prendre is irregular: j'ai pris (I took). Compare apprendre, j'ai appris, and comprendre, j'ai compris."
+  },
+  {
+   "topic": "u1-05",
+   "q": "'Il y avait beaucoup de monde' means:",
+   "options": [
+    "There were lots of people.",
+    "There is a big world.",
+    "He had lots of friends.",
+    "It was very busy at home."
+   ],
+   "answer": 0,
+   "why": "Il y avait is the imperfect of il y a (there is / there are). Beaucoup de monde means lots of people."
+  },
+  {
+   "topic": "u1-05",
+   "q": "Which word means 'finally'?",
+   "options": [
+    "enfin",
+    "ensuite",
+    "d'abord",
+    "puis"
+   ],
+   "answer": 0,
+   "why": "Enfin is finally. D'abord is first, ensuite and puis mean then."
+  },
+  {
+   "topic": "u1-06",
+   "q": "What does 'Pourquoi?' mean?",
+   "options": [
+    "Why?",
+    "Where?",
+    "When?",
+    "Who?"
+   ],
+   "answer": 0,
+   "why": "Pourquoi means why. Answer with parce que (because)."
+  },
+  {
+   "topic": "u1-06",
+   "q": "Which question is about the future?",
+   "options": [
+    "Qu'est-ce que tu vas faire samedi?",
+    "Qu'est-ce que tu as fait samedi?",
+    "Qu'est-ce que tu fais le samedi?",
+    "Qu'est-ce que tu faisais samedi?"
+   ],
+   "answer": 0,
+   "why": "Vas faire is the near future. As fait is perfect, fais is present, faisais is imperfect."
+  },
+  {
+   "topic": "u1-06",
+   "q": "Complete: ___ est ta matière préférée?",
+   "options": [
+    "Quelle",
+    "Quel",
+    "Qui",
+    "Que"
+   ],
+   "answer": 0,
+   "why": "Matière is feminine, so quel becomes quelle."
+  },
+  {
+   "topic": "u1-06",
+   "q": "'Combien de frères as-tu?' asks:",
+   "options": [
+    "how many brothers you have",
+    "how old your brothers are",
+    "where your brothers live",
+    "which brother you like most"
+   ],
+   "answer": 0,
+   "why": "Combien de means how many. As-tu is the inverted form of tu as."
+  },
+  {
+   "topic": "u1-06",
+   "q": "Which is a correct inversion question?",
+   "options": [
+    "Aimes-tu le sport?",
+    "Tu-aimes le sport?",
+    "Aimes tu-le sport?",
+    "Est-ce aimes tu le sport?"
+   ],
+   "answer": 0,
+   "why": "In inversion the verb comes first, joined to the pronoun with a hyphen: aimes-tu?"
+  }
+ ],
+ "exam": [
+  {
+   "topic": "u1-01",
+   "marks": 5,
+   "type": "conversation",
+   "q": "Answer aloud in French: Qu'est-ce que tu fais en ligne? (What do you do online?) Aim for 4 to 6 sentences.",
+   "model": "J'utilise mon portable tous les jours, surtout pour tchatter avec mes amis et regarder des vidéos. Je passe environ deux heures par jour en ligne. Hier soir, j'ai regardé des vidéos de cuisine et j'ai partagé des photos. À mon avis, Internet est très utile pour les devoirs, mais je pense que c'est facile de devenir accro. Ce week-end, je vais essayer de passer moins de temps sur mon portable.",
+   "en": "I use my phone every day, especially to chat with my friends and watch videos. I spend about two hours a day online. Last night I watched cooking videos and I shared photos. In my opinion the internet is very useful for homework, but I think it's easy to become addicted. This weekend I am going to try to spend less time on my phone.",
+   "say": true,
+   "points": [
+    "Said what you do online with at least two activities",
+    "Said how often or how long",
+    "Gave an opinion with a reason (parce que...)",
+    "Used a past tense (hier soir, j'ai...)",
+    "Used a future tense (je vais...)",
+    "Used a connective such as mais, aussi, cependant"
+   ]
+  },
+  {
+   "topic": "u1-01",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French:\n1. I have a mobile phone and a tablet.\n2. I often send messages to my friends.\n3. My brother plays video games every evening.\n4. Yesterday I watched a film on my computer.\n5. Social media is useful but it is addictive.",
+   "model": "1. J'ai un portable et une tablette.\n2. J'envoie souvent des messages à mes amis.\n3. Mon frère joue à des jeux vidéo tous les soirs.\n4. Hier, j'ai regardé un film sur mon ordinateur.\n5. Les réseaux sociaux sont utiles mais ils sont addictifs.",
+   "say": true,
+   "points": [
+    "1. un portable, une tablette (correct genders)",
+    "2. souvent after the verb: j'envoie souvent",
+    "3. joue à des jeux vidéo, tous les soirs",
+    "4. Perfect tense: j'ai regardé, sur mon ordinateur",
+    "5. Plural: les réseaux sociaux sont utiles / addictifs"
+   ]
+  },
+  {
+   "topic": "u1-02",
+   "marks": 5,
+   "type": "conversation",
+   "q": "Answer aloud in French: Est-ce que tu as un mode de vie actif? (Do you have an active lifestyle?)",
+   "model": "Oui, je pense que je suis assez active. Je fais de la natation deux fois par semaine et je joue au netball pour l'équipe du collège. Je fais de la natation depuis six ans. Samedi dernier, j'ai fait du vélo avec mon père et c'était fatigant mais amusant. À l'avenir, je voudrais essayer l'escalade parce que ça a l'air passionnant.",
+   "en": "Yes, I think I am quite active. I go swimming twice a week and I play netball for the school team. I have been swimming for six years. Last Saturday I went cycling with my dad and it was tiring but fun. In the future I would like to try climbing because it looks exciting.",
+   "say": true,
+   "points": [
+    "Said whether you are active, with correct adjective ending",
+    "Used jouer à and faire de correctly (au, du, de la)",
+    "Used depuis with the present tense",
+    "Gave a past example in the perfect tense",
+    "Used a future or conditional (je vais / je voudrais)"
+   ]
+  },
+  {
+   "topic": "u1-03",
+   "marks": 5,
+   "type": "conversation",
+   "q": "Answer aloud in French: Qu'est-ce que tu aimes regarder à la télé ou en streaming? Pourquoi?",
+   "model": "J'adore regarder des séries en streaming, surtout les comédies, parce qu'elles sont drôles et relaxantes. Par contre, je ne supporte pas les émissions de télé-réalité parce que je les trouve nulles. Le week-end dernier, j'ai regardé un documentaire sur les océans qui était fascinant. Ce soir, je vais regarder un film avec ma famille.",
+   "en": "I love watching series on streaming, especially comedies, because they are funny and relaxing. On the other hand, I can't stand reality TV shows because I find them rubbish. Last weekend I watched a documentary about the oceans which was fascinating. This evening I am going to watch a film with my family.",
+   "say": true,
+   "points": [
+    "Named types of programme or film",
+    "Gave reasons with parce que",
+    "Gave a contrasting opinion (par contre, mais)",
+    "Described something you watched in the past",
+    "Said what you are going to watch"
+   ]
+  },
+  {
+   "topic": "u1-03",
+   "marks": 10,
+   "type": "translate-en",
+   "q": "Translate into English:\nLe week-end dernier, je suis allée au cinéma avec ma meilleure amie. Nous avons vu un film d'horreur. Mon amie a trouvé le film effrayant, mais moi, je l'ai trouvé un peu ennuyeux. Après, on a mangé une glace. Normalement, je préfère regarder des comédies à la maison.",
+   "model": "Last weekend I went to the cinema with my best friend. We saw a horror film. My friend found the film scary, but I found it a bit boring. Afterwards we ate an ice cream. Normally I prefer to watch comedies at home.",
+   "points": [
+    "Last weekend I went to the cinema with my best friend",
+    "We saw (or watched) a horror film",
+    "My friend found the film scary",
+    "but I found it a bit boring",
+    "Afterwards we ate (had) an ice cream",
+    "Normally I prefer to watch comedies at home"
+   ]
+  },
+  {
+   "topic": "u1-04",
+   "marks": 10,
+   "type": "roleplay",
+   "q": "Role play. You are arranging a day out with a French friend. In French: (1) suggest going to the beach on Saturday, (2) say what time to meet, (3) say where to meet, (4) say what you will do if it rains, (5) ask how much the train ticket costs.",
+   "model": "Ça te dit d'aller à la plage samedi? On se retrouve à neuf heures. Rendez-vous devant la gare. S'il pleut, on va aller au musée. Le billet de train coûte combien?",
+   "en": "Do you fancy going to the beach on Saturday? Let's meet at nine o'clock. Meet in front of the station. If it rains, we are going to go to the museum. How much does the train ticket cost?",
+   "say": true,
+   "points": [
+    "Suggestion: Ça te dit de... / Tu veux...",
+    "Time with à + heures",
+    "Place with devant / à",
+    "S'il pleut + near future",
+    "Question with combien"
+   ]
+  },
+  {
+   "topic": "u1-04",
+   "marks": 15,
+   "type": "write-90",
+   "q": "You are writing to your French friend about a day out. Write about 90 words in French. You must write something about each bullet point. Mention:\n- your plans for a day out (where and with whom)\n- what you are going to do there\n- a day out you went on in the past.",
+   "model": "Salut Léa! Samedi prochain, je vais aller à Londres avec ma tante et ma sœur. On va prendre le train de bonne heure parce que c'est plus rapide que la voiture. D'abord, on va visiter un musée, puis on va faire du shopping. S'il fait beau, on va faire un pique-nique dans un parc. Je suis très contente parce que j'adore les grandes villes. L'année dernière, je suis allée à York avec ma classe. Nous avons visité la cathédrale et il faisait très froid, mais c'était génial. Et toi, qu'est-ce que tu vas faire ce week-end? Bisous, Emma",
+   "en": "Hi Léa! Next Saturday I am going to go to London with my aunt and my sister. We are going to take the train early because it's quicker than the car. First we are going to visit a museum, then we are going to go shopping. If the weather is nice we are going to have a picnic in a park. I am very happy because I love big cities. Last year I went to York with my class. We visited the cathedral and it was very cold, but it was great. And you, what are you going to do this weekend? Love, Emma",
+   "say": true,
+   "points": [
+    "All three bullet points covered",
+    "Near future used accurately (je vais / on va + infinitive)",
+    "Perfect tense for the past day out (je suis allée, nous avons visité)",
+    "Opinions with reasons (parce que...)",
+    "Connectives and time phrases (d'abord, puis, l'année dernière)",
+    "A more complex structure: si + present, comparative, il faisait"
+   ]
+  },
+  {
+   "topic": "u1-05",
+   "marks": 5,
+   "type": "conversation",
+   "q": "Answer aloud in French: Qu'est-ce que tu as fait le week-end dernier?",
+   "model": "Samedi matin, j'ai fait la grasse matinée parce que j'étais fatiguée. L'après-midi, je suis allée en ville avec mes amies et j'ai acheté un pull. Le soir, on a mangé au restaurant pour l'anniversaire de mon père. Dimanche, je suis restée à la maison et j'ai fait mes devoirs. C'était un bon week-end.",
+   "en": "On Saturday morning I had a lie-in because I was tired. In the afternoon I went into town with my friends and I bought a jumper. In the evening we ate at a restaurant for my dad's birthday. On Sunday I stayed at home and did my homework. It was a good weekend.",
+   "say": true,
+   "points": [
+    "Several different verbs in the perfect tense",
+    "At least one être verb with correct agreement (je suis allée)",
+    "Time phrases (samedi matin, le soir, dimanche)",
+    "An opinion in the past (c'était...)",
+    "An imperfect (j'étais, il faisait) for a higher mark"
+   ]
+  },
+  {
+   "topic": "u1-05",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French:\n1. Last weekend I went to the park.\n2. I played tennis with my brother.\n3. Then we ate a pizza.\n4. In the evening I watched a series.\n5. It was great but I was tired.",
+   "model": "1. Le week-end dernier, je suis allé(e) au parc.\n2. J'ai joué au tennis avec mon frère.\n3. Ensuite, on a mangé (nous avons mangé) une pizza.\n4. Le soir, j'ai regardé une série.\n5. C'était génial mais j'étais fatigué(e).",
+   "say": true,
+   "points": [
+    "1. je suis allé(e) (être, agreement), au parc",
+    "2. j'ai joué au tennis",
+    "3. on a mangé / nous avons mangé",
+    "4. Le soir, j'ai regardé une série",
+    "5. c'était, j'étais fatigué(e) (imperfect)"
+   ]
+  },
+  {
+   "topic": "u1-05",
+   "marks": 25,
+   "type": "write-150",
+   "q": "Higher. Write about 150 words in French about your free time. Mention:\n- what you did last weekend and your opinion of it\n- your plans for a day out in the future.",
+   "model": "Le week-end dernier était vraiment chargé! Samedi matin, je me suis levée tôt parce que j'avais un match de netball. Malheureusement, mon équipe a perdu, mais on a bien joué et je me suis bien amusée. L'après-midi, je suis allée au centre commercial avec mes amies, où j'ai acheté un cadeau pour ma mère. Il y avait trop de monde, donc on n'est pas restées longtemps. Dimanche, il faisait mauvais, alors j'ai regardé une série en streaming et j'ai fini mes devoirs. À mon avis, c'était un week-end équilibré.\n\nPendant les vacances de février, je vais aller à Londres avec ma famille. Nous allons prendre le train, ce qui sera plus rapide que la voiture. Je voudrais voir une comédie musicale parce que j'adore la musique. S'il fait beau, on va se promener le long de la Tamise. J'ai hâte d'y aller!",
+   "en": "Last weekend was really busy! On Saturday morning I got up early because I had a netball match. Unfortunately my team lost, but we played well and I had a good time. In the afternoon I went to the shopping centre with my friends, where I bought a present for my mum. There were too many people, so we didn't stay long. On Sunday the weather was bad, so I watched a series on streaming and finished my homework. In my opinion it was a balanced weekend. During the February holidays I am going to go to London with my family. We are going to take the train, which will be quicker than the car. I would like to see a musical because I love music. If the weather is nice we are going to walk along the Thames. I can't wait to go!",
+   "say": true,
+   "points": [
+    "Both bullet points covered in detail",
+    "Accurate perfect tense including être verbs and a reflexive (je me suis levée)",
+    "Imperfect used for description (il faisait, il y avait, j'avais)",
+    "Near future and conditional (je vais, je voudrais)",
+    "Justified opinions (parce que, à mon avis)",
+    "Complex structures: où, ce qui, si + present, negative in the past",
+    "Range of vocabulary and connectives, no repetition of the same adjective"
+   ]
+  },
+  {
+   "topic": "u1-06",
+   "marks": 5,
+   "type": "conversation",
+   "q": "Conversation practice. Answer each question aloud in French in a full sentence, in the same tense as the question:\n1. Qu'est-ce que tu fais le week-end?\n2. Qu'est-ce que tu as fait hier soir?\n3. Qu'est-ce que tu vas faire pendant les vacances?\n4. Quel est ton passe-temps préféré? Pourquoi?\n5. Depuis quand fais-tu ce passe-temps?",
+   "model": "1. Le week-end, je retrouve mes amis et je fais du sport.\n2. Hier soir, j'ai fait mes devoirs et j'ai regardé la télé.\n3. Pendant les vacances, je vais aller chez mes grands-parents.\n4. Mon passe-temps préféré, c'est la musique parce que ça me détend.\n5. Je joue du violon depuis quatre ans.",
+   "en": "1. At the weekend I meet my friends and I do sport. 2. Last night I did my homework and watched TV. 3. During the holidays I am going to go to my grandparents' house. 4. My favourite hobby is music because it relaxes me. 5. I have been playing the violin for four years.",
+   "say": true,
+   "points": [
+    "1. Present tense answer",
+    "2. Perfect tense answer",
+    "3. Near future answer",
+    "4. Opinion with parce que",
+    "5. depuis with the present tense"
+   ]
+  },
+  {
+   "topic": "u1-02",
+   "marks": 10,
+   "type": "write-short",
+   "q": "Write about 50 words in French about sport. You must write something about each bullet point. Mention:\n- which sports you do\n- how often\n- where you do sport\n- your opinion of sport\n- a sport you would like to try.",
+   "model": "Je fais de la natation et je joue au badminton. Je vais à la piscine deux fois par semaine et je joue au badminton le vendredi au centre sportif. J'adore le sport parce que c'est bon pour la santé et c'est amusant. Je voudrais essayer l'équitation parce que j'adore les chevaux.",
+   "en": "I go swimming and I play badminton. I go to the pool twice a week and I play badminton on Fridays at the sports centre. I love sport because it's good for your health and it's fun. I would like to try horse riding because I love horses.",
+   "say": true,
+   "points": [
+    "Sports named with jouer à / faire de correctly",
+    "Frequency expression",
+    "Where (à la piscine, au centre sportif)",
+    "Opinion with a reason",
+    "Je voudrais + infinitive",
+    "All five bullet points covered"
+   ]
+  },
+  {
+   "topic": "u1-01",
+   "marks": 15,
+   "type": "read-aloud",
+   "q": "Read this text aloud, then answer the questions in French.\n\nLe soir, j'utilise souvent mon portable pour parler avec mes amis. Je regarde aussi des vidéos amusantes. Mes parents pensent que je passe trop de temps sur les réseaux sociaux. Hier, j'ai laissé mon téléphone dans ma chambre et j'ai lu un livre.\n\nQuestions: 1. Tu utilises ton portable le soir? 2. Qu'est-ce que tu as fait en ligne hier?",
+   "model": "Le soir, j'utilise souvent mon portable pour parler avec mes amis. Je regarde aussi des vidéos amusantes. Mes parents pensent que je passe trop de temps sur les réseaux sociaux. Hier, j'ai laissé mon téléphone dans ma chambre et j'ai lu un livre.",
+   "listen": true,
+   "en": "In the evening I often use my phone to talk to my friends. I also watch funny videos. My parents think I spend too much time on social media. Yesterday I left my phone in my bedroom and read a book. Sample answers: 1. Oui, le soir je regarde des vidéos et j'envoie des messages. 2. Hier, j'ai regardé des vidéos de musique et j'ai tchatté avec ma cousine.",
+   "points": [
+    "Silent letters not pronounced: souvent, amis, vidéos, pensent, temps",
+    "Nasal sounds: souvent, pensent, temps, mon, chambre",
+    "The -ent of pensent is silent",
+    "'ll' in laissé and the é sounds",
+    "Answered both questions in full sentences, question 2 in the perfect tense"
+   ]
+  },
+  {
+   "topic": "u1-05",
+   "marks": 8,
+   "type": "dictation",
+   "q": "Dictation. Tap the speaker to hear the sentences (as often as you like), write them down in French, then check.",
+   "model": "Samedi, je suis allée au parc. Il faisait beau. J'ai joué au foot avec mon frère. Le soir, on a regardé un film.",
+   "listen": true,
+   "en": "On Saturday I went to the park. The weather was nice. I played football with my brother. In the evening we watched a film.",
+   "points": [
+    "Samedi, je suis allée au parc.",
+    "Il faisait beau.",
+    "J'ai joué au foot avec mon frère.",
+    "Le soir, on a regardé un film."
+   ]
+  },
+  {
+   "topic": "u1-02",
+   "marks": 8,
+   "type": "dictation",
+   "q": "Dictation. Tap the speaker to hear the sentences, write them down in French, then check.",
+   "model": "Je fais de la natation depuis trois ans. Mon frère joue au tennis. Le sport est bon pour la santé. Je voudrais essayer l'escalade.",
+   "listen": true,
+   "en": "I have been swimming for three years. My brother plays tennis. Sport is good for your health. I would like to try climbing.",
+   "points": [
+    "Je fais de la natation depuis trois ans.",
+    "Mon frère joue au tennis.",
+    "Le sport est bon pour la santé.",
+    "Je voudrais essayer l'escalade."
+   ]
+  },
+  {
+   "topic": "u1-01",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I spend three hours a day on my phone.\n2. I use the internet to do my homework.\n3. My friends post photos on social media.\n4. I never play video games.\n5. Yesterday I downloaded a new game.",
+   "model": "1. Je passe trois heures par jour sur mon portable.\n2. J'utilise Internet pour faire mes devoirs.\n3. Mes amis postent des photos sur les réseaux sociaux.\n4. Je ne joue jamais aux jeux vidéo.\n5. Hier, j'ai téléchargé un nouveau jeu.",
+   "say": true,
+   "points": [
+    "1. passer + time + par jour, sur mon portable",
+    "2. utiliser... pour + infinitive (pour faire)",
+    "3. ils form: postent, les réseaux sociaux",
+    "4. ne... jamais round the verb",
+    "5. perfect tense: j'ai téléchargé; nouveau before the noun (BAGS)"
+   ]
+  },
+  {
+   "topic": "u1-02",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I play football on Saturdays.\n2. My sister goes swimming.\n3. I don't do any sport.\n4. I have been cycling for two years.\n5. Sport is good for your health.",
+   "model": "1. Je joue au foot le samedi.\n2. Ma sœur fait de la natation.\n3. Je ne fais pas de sport.\n4. Je fais du vélo depuis deux ans.\n5. Le sport est bon pour la santé.",
+   "say": true,
+   "points": [
+    "1. jouer au foot; le samedi for every Saturday",
+    "2. faire de la natation (not 'va nager')",
+    "3. pas de after a negative",
+    "4. present tense + depuis (not j'ai fait)",
+    "5. le sport, bon pour la santé"
+   ]
+  },
+  {
+   "topic": "u1-03",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. I like watching films at the cinema.\n2. My favourite series is a comedy.\n3. I can't stand the news because it is boring.\n4. Last night I watched a documentary.\n5. Tomorrow I am going to watch a horror film.",
+   "model": "1. J'aime regarder des films au cinéma.\n2. Ma série préférée est une comédie.\n3. Je ne supporte pas les informations parce que c'est ennuyeux.\n4. Hier soir, j'ai regardé un documentaire.\n5. Demain, je vais regarder un film d'horreur.",
+   "say": true,
+   "points": [
+    "1. j'aime + infinitive; au cinéma",
+    "2. ma série préférée (feminine agreement)",
+    "3. je ne supporte pas les informations; parce que c'est",
+    "4. hier soir + j'ai regardé",
+    "5. near future: je vais regarder; un film d'horreur"
+   ]
+  },
+  {
+   "topic": "u1-04",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. Next Saturday I am going to go to the beach.\n2. We are going to take the train.\n3. Do you want to come?\n4. Meet at nine o'clock outside the station.\n5. If it rains, we are going to go to the museum.",
+   "model": "1. Samedi prochain, je vais aller à la plage.\n2. Nous allons prendre le train. (On va prendre le train.)\n3. Tu veux venir?\n4. Rendez-vous à neuf heures devant la gare.\n5. S'il pleut, on va aller au musée.",
+   "say": true,
+   "points": [
+    "1. samedi prochain + je vais aller à la plage",
+    "2. nous allons / on va + prendre",
+    "3. tu veux + infinitive",
+    "4. à neuf heures, devant la gare",
+    "5. si + present (s'il pleut), then near future; au musée"
+   ]
+  },
+  {
+   "topic": "u1-05",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. On Saturday I stayed at home.\n2. My parents went to the supermarket.\n3. I read a book and drank a hot chocolate.\n4. On Sunday we went out with my cousins.\n5. The weather was bad but it was fun.",
+   "model": "1. Samedi, je suis resté(e) à la maison.\n2. Mes parents sont allés au supermarché.\n3. J'ai lu un livre et j'ai bu un chocolat chaud.\n4. Dimanche, nous sommes sortis avec mes cousins.\n5. Il faisait mauvais mais c'était amusant.",
+   "say": true,
+   "points": [
+    "1. être verb: je suis resté(e)",
+    "2. sont allés: plural agreement",
+    "3. irregular participles lu and bu",
+    "4. nous sommes sortis (on est sortis)",
+    "5. imperfect: il faisait mauvais, c'était"
+   ]
+  },
+  {
+   "topic": "u1-06",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Foundation):\n1. What do you do at the weekend?\n2. Where did you go last summer?\n3. Why do you like music?\n4. What time does the film start?\n5. Who are you going to go out with?",
+   "model": "1. Qu'est-ce que tu fais le week-end?\n2. Où es-tu allé(e) l'été dernier? (Où est-ce que tu es allé(e) l'été dernier?)\n3. Pourquoi aimes-tu la musique? (Pourquoi est-ce que tu aimes la musique?)\n4. À quelle heure commence le film? (Le film commence à quelle heure?)\n5. Avec qui vas-tu sortir? (Avec qui est-ce que tu vas sortir?)",
+   "say": true,
+   "points": [
+    "1. qu'est-ce que + present",
+    "2. où + perfect tense with être",
+    "3. pourquoi + inversion or est-ce que",
+    "4. à quelle heure",
+    "5. avec qui + near future"
+   ]
+  },
+  {
+   "topic": "u1-01",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nI spend too much time online. Every evening, I watch videos or chat with my friends. Last night, I watched a series until midnight, so I was tired at school. My parents think that social media is dangerous, but in my opinion it is useful for staying in touch. Next week, I am going to try to use my phone less often.",
+   "model": "Je passe trop de temps en ligne. Tous les soirs, je regarde des vidéos ou je tchatte avec mes amis. Hier soir, j'ai regardé une série jusqu'à minuit, donc j'étais fatigué(e) au collège. Mes parents pensent que les réseaux sociaux sont dangereux, mais à mon avis, c'est utile pour rester en contact. La semaine prochaine, je vais essayer d'utiliser mon portable moins souvent.",
+   "say": true,
+   "points": [
+    "trop de temps, tous les soirs",
+    "perfect tense j'ai regardé plus imperfect j'étais fatigué(e)",
+    "pensent que; les réseaux sociaux sont dangereux (plural agreement)",
+    "à mon avis, pour rester en contact",
+    "near future + essayer de + infinitive"
+   ]
+  },
+  {
+   "topic": "u1-02",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nI have been doing gymnastics for six years and I train twice a week. Last weekend, I took part in a competition in Nottingham. I was nervous, but I won a medal! In the future, I would like to try climbing because it looks exciting. However, I don't have much free time because of my homework.",
+   "model": "Je fais de la gymnastique depuis six ans et je m'entraîne deux fois par semaine. Le week-end dernier, j'ai participé à une compétition à Nottingham. J'étais nerveuse (nerveux), mais j'ai gagné une médaille! À l'avenir, je voudrais essayer l'escalade parce que ça a l'air passionnant. Cependant, je n'ai pas beaucoup de temps libre à cause de mes devoirs.",
+   "say": true,
+   "points": [
+    "depuis + present; je m'entraîne; deux fois par semaine",
+    "perfect j'ai participé, j'ai gagné; imperfect j'étais",
+    "je voudrais + infinitive; ça a l'air",
+    "cependant; pas beaucoup de",
+    "à cause de mes devoirs"
+   ]
+  },
+  {
+   "topic": "u1-04",
+   "marks": 10,
+   "type": "translate-fr",
+   "q": "Translate into French (Higher, about 50 words):\nNext summer, my friends and I are going to spend a day in London. We are going to leave early by train. First we will visit a museum, then we will go shopping. If the weather is nice, we will have a picnic in the park. Last year, I went there with my family and it was unforgettable.",
+   "model": "L'été prochain, mes amis et moi allons passer une journée à Londres. Nous allons partir tôt en train. D'abord, nous visiterons un musée, puis nous ferons du shopping. S'il fait beau, nous ferons un pique-nique dans le parc. L'année dernière, j'y suis allé(e) avec ma famille et c'était inoubliable.",
+   "say": true,
+   "points": [
+    "mes amis et moi takes the nous form: allons passer",
+    "en train; partir tôt",
+    "simple future: nous visiterons, nous ferons (near future also accepted)",
+    "si + present: s'il fait beau",
+    "j'y suis allé(e); c'était inoubliable"
+   ]
+  }
+ ]
+}

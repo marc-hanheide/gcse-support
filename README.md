@@ -12,6 +12,7 @@ app/                  generic engine, shared by every subject
   app.css             styles
   app.js              the app (routing, cards, quiz, write, glossary, search)
   build.py            compiles one subject into a single HTML file
+  site.py             builds every subject plus the GitHub Pages index page
 re/                   GCSE Religious Studies (AQA 8062), first subject
   subject.json        title, colours, section order, about text, question structures
   data/*.json         one file per section (topics, flashcards, quiz, exam)
@@ -38,6 +39,16 @@ python3 app/build.py fr                 # writes fr/dist/index.html
 ```
 
 The build validates the data (unknown topic ids, quiz options, missing model answers, em or en dashes) and exits non-zero if anything is wrong. Open the output file directly in a browser to test; it works from `file://`.
+
+## GitHub Pages
+
+`.github/workflows/pages.yml` publishes every subject to GitHub Pages on each push to `main` (or when run manually). It runs
+
+```
+python3 app/site.py _site
+```
+
+which builds every top-level folder that has a `subject.json` into `_site/<subject>/index.html` and generates `_site/index.html`, a page linking each app with an "Open online" button and a "Download" button for the single-file version. New subjects appear on the page automatically. In the repository settings, set Pages to deploy from "GitHub Actions".
 
 ## Adding another subject
 
@@ -85,4 +96,9 @@ Optional `subject.json` settings (see `fr/subject.json`):
 - Writing style: British English, no em or en dashes (the build rejects them).
 - The school's own revision pack that the RE content was built from is not included in this repository. Questions and model answers are written for revision and are not real past-paper questions.
 - `re/glossary.json` uses AQA's published subject vocabulary definitions.
+- The information in these apps is not guaranteed to be correct.
 - Content was drafted with AI help and checked against the AQA specification, but some details are flagged as unverified in `re/NOTES.md`. Check anything doubtful with the teacher.
+
+## Licence
+
+Copyright Marc Hanheide. Licensed under the Apache License 2.0, see [LICENSE](LICENSE).

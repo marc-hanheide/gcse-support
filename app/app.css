@@ -111,3 +111,10 @@ table.t th{background:var(--acbg)}
 .fc .say{display:inline-block;margin:10px 0 0}
 details.en{margin-top:6px;border:0;background:none;padding:0}
 details.en summary{font-size:.85rem;color:var(--mut);cursor:pointer}
+.opt.sel{border-color:var(--ac);background:var(--acbg)}
+.tip.warn{background:var(--badbg);color:var(--bad)}
+.tip.warn ul{margin:6px 0 0;padding-left:20px;color:var(--tx)}
+.pill.bad{background:var(--badbg);color:var(--bad)}
+.pill.warnp{background:var(--warnbg);color:var(--warn)}
+.card input[type=text]{width:100%;font:inherit;font-size:16px;padding:11px 12px;border-radius:12px;border:1px solid var(--bd);background:var(--card);color:var(--tx)}
+.chk .tick{margin-top:2px}

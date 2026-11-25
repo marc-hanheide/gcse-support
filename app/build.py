@@ -48,7 +48,7 @@ def main():
             continue
         d = json.loads(read(p))
         tids = {t['id'] for t in d['topics']}
-        for key in ('flashcards', 'quiz', 'exam'):
+        for key in ('flashcards', 'quiz', 'exam', 'truefalse', 'short'):
             for i, x in enumerate(d.get(key, [])):
                 if x.get('topic') not in tids:
                     problems.append(f'{sid} {key}[{i}] unknown topic {x.get("topic")}')
@@ -65,6 +65,15 @@ def main():
                 problems.append(f'{sid} exam[{i}] missing model/points')
             if x.get('type') == 'evaluate' and not (x.get('for') and x.get('against') and x.get('conclusion')):
                 problems.append(f'{sid} exam[{i}] evaluate item missing for/against/conclusion')
+        for i, x in enumerate(d.get('truefalse', [])):
+            if not x.get('s') or not isinstance(x.get('answer'), bool) or not x.get('why'):
+                problems.append(f'{sid} truefalse[{i}] needs s, answer (true or false) and why')
+        for i, x in enumerate(d.get('short', [])):
+            if not x.get('q') or not x.get('a'):
+                problems.append(f'{sid} short[{i}] needs q and a')
+        for i, x in enumerate(d.get('spec', [])):
+            if not x.get('point') or not x.get('topics') or any(t not in tids for t in x['topics']):
+                problems.append(f'{sid} spec[{i}] needs a point and known topic ids')
         for path, s in walk(d):
             if '\u2014' in s or '\u2013' in s:
                 problems.append(f'{sid}{path} has an em or en dash')
@@ -103,7 +112,8 @@ def main():
     for d in secs:
         nv = sum(len(t.get('terms', [])) for t in d['topics']) if meta.get('termCards') else 0
         print(' ', d['section']['id'], 'topics', len(d['topics']), 'cards', len(d['flashcards']) + nv,
-              'quiz', len(d['quiz']), 'exam', len(d['exam']))
+              'quiz', len(d['quiz']), 'exam', len(d['exam']),
+              *(x for k in ('truefalse', 'short', 'spec') if d.get(k) for x in (k, len(d[k]))))
     print('PROBLEMS', len(problems))
     for p in problems[:60]:
         print('  ', p)

@@ -25,6 +25,11 @@ SECS.forEach(function(s){
   if(META.termCards)s.topics.forEach(function(t){(t.terms||[]).forEach(function(x,i){s.cards.push({id:id+':v'+t.id+':'+i,sec:id,topic:t.id,q:x.def,a:x.term,say:x.term})})});
   s.qz=(s.quiz||[]).map(function(c,i){return {id:id+':q'+i,sec:id,topic:c.topic,q:c.q,options:c.options,answer:c.answer,why:c.why}});
   s.ex=(s.exam||[]).map(function(c,i){var o=Object.assign({},c);o.id=id+':e'+i;o.sec=id;return o});
+  s.tf=(s.truefalse||[]).map(function(c,i){return {id:id+':t'+i,sec:id,topic:c.topic,q:c.s,options:['True','False'],answer:c.answer?0:1,why:c.why,fixed:1}});
+  s.sh=(s.short||[]).map(function(c,i){return {id:id+':s'+i,sec:id,topic:c.topic,q:c.q,a:c.a}});
+  s.sh.forEach(function(c){s.cards.push({id:c.id,sec:id,topic:c.topic,q:c.q,a:c.a})});
+  s.wb=[];if(META.viewsQuiz)s.topics.forEach(function(t){var vs=t.views||[],labels=[];vs.forEach(function(v){if(labels.indexOf(v.label)<0)labels.push(v.label)});if(labels.length<2)return;
+    vs.forEach(function(v,vi){var others=shuffle(labels.filter(function(l){return l!==v.label})).slice(0,3),opts=[v.label].concat(others);s.wb.push({id:id+':b'+t.id+':'+vi,sec:id,topic:t.id,q:'Who holds this view?\n\n\u201c'+v.text+'\u201d',options:opts,answer:0,why:'This is the **'+v.label+'** view. '+(t.title?'Topic: '+t.title+'.':'')})})});
 });
 var LBL=Object.assign({views:'Different views',sources:'Sources of wisdom and authority',use:'Use it for',terms:'Key terms',quoteBank:'Quote bank',quoteBankSub:'Sources of wisdom and authority',quoteSearch:'Search quotes or references',paper:'Paper'},META.labels||{});
 var SPEAK=META.speak||'',VOICE=null;
@@ -54,7 +59,7 @@ function pill(t,c){return '<span class="pill'+(c?' c':'')+'"'+(c?' style="--c:'+
 function pct(a,b){return b?Math.round(100*a/b):0}
 var ICON={home:'<path d="M3 11l9-8 9 8M5 10v10h5v-6h4v6h5V10"/>',cards:'<rect x="3" y="6" width="14" height="14" rx="2"/><path d="M7 3h12a2 2 0 0 1 2 2v12"/>',quiz:'<circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.7.4-1 .9-1 1.7M12 17h.01"/>',write:'<path d="M4 20h4L19 9a2.8 2.8 0 0 0-4-4L4 16z"/>',guide:'<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2zM4 19V5"/>',more:'<circle cx="5" cy="12" r="1.2"/><circle cx="12" cy="12" r="1.2"/><circle cx="19" cy="12" r="1.2"/>'};
 function renderNav(h){var items=[['home','Home','#/'],['cards','Cards','#/cards'],['quiz','Quiz','#/quiz'],['write','Write','#/write'],['guide','Guide','#/guide'],['more','More','#/more']];
-  var cur=h.indexOf('#/cards')===0?'cards':h.indexOf('#/quiz')===0?'quiz':(h.indexOf('#/write')===0||h.indexOf('#/w/')===0)?'write':h.indexOf('#/guide')===0?'guide':(h.indexOf('#/more')===0||h.indexOf('#/glossary')===0||h.indexOf('#/quotes')===0||h.indexOf('#/search')===0)?'more':'home';
+  var cur=h.indexOf('#/cards')===0?'cards':h.indexOf('#/quiz')===0?'quiz':(h.indexOf('#/write')===0||h.indexOf('#/w/')===0||h.indexOf('#/mock')===0)?'write':h.indexOf('#/guide')===0?'guide':(h.indexOf('#/more')===0||h.indexOf('#/glossary')===0||h.indexOf('#/quotes')===0||h.indexOf('#/search')===0||h.indexOf('#/spec')===0)?'more':'home';
   $('#nav').innerHTML='<div class="in">'+items.map(function(i){return '<a href="'+i[2]+'" class="'+(i[0]===cur?'on':'')+'"'+(i[0]===cur?' aria-current="page"':'')+'><svg viewBox="0 0 24 24" aria-hidden="true">'+ICON[i[0]]+'</svg>'+i[1]+'</a>'}).join('')+'</div>'}
 function view(html){var v=$('#view');v.innerHTML=html;window.scrollTo(0,0)}
 
@@ -74,7 +79,7 @@ function home(){
   var wrong=Object.keys(S.wrong).length;
   var h=hdr(META.title||'Revision',META.subtitle||'');
   h+='<div class="card"><div class="row" style="align-items:center"><div><div class="big">'+pct(doneT,totT)+'%</div><div class="mut small">topics revised ('+doneT+' of '+totT+')</div></div><div><div class="big">'+pct(knownC,totC)+'%</div><div class="mut small">cards learnt ('+knownC+' of '+totC+')</div></div></div></div>';
-  h+='<div class="card"><b>Today</b><div class="row" style="margin-top:10px"><a class="btn pri" href="#/cards" data-act="quickCards">Flashcards: '+(due>0?due+' due':Math.min(newC,20)+' new')+'</a><a class="btn" href="#/quiz" data-act="quickQuiz">Quick quiz (10)</a>'+(SECS.some(function(s){return s.vq.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="vq">'+esc(META.vocabQuizLabel||'Vocabulary')+' (10)</a>':'')+'</div>'+(wrong?'<p class="small mut" style="margin-top:10px">'+wrong+' question'+(wrong>1?'s':'')+' to revisit in the Quiz tab.</p>':'')+'</div>';
+  h+='<div class="card"><b>Today</b><div class="row" style="margin-top:10px"><a class="btn pri" href="#/cards" data-act="quickCards">Flashcards: '+(due>0?due+' due':Math.min(newC,20)+' new')+'</a><a class="btn" href="#/quiz" data-act="quickQuiz">Quick quiz (10)</a>'+(SECS.some(function(s){return s.vq.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="vq">'+esc(META.vocabQuizLabel||'Vocabulary')+' (10)</a>':'')+'</div>'+(KINDS.length>1||META.mock?'<div class="row" style="margin-top:8px">'+(SECS.some(function(s){return s.tf.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="tf">True or false (10)</a>':'')+(SECS.some(function(s){return s.wb.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="wb">Who believes this? (10)</a>':'')+(META.mock?'<a class="btn" href="#/mock">'+(S.mock?(S.mock.done?'Finish marking mock':'Continue mock'):'Timed mock')+'</a>':'')+'</div>':'')+(wrong?'<p class="small mut" style="margin-top:10px">'+wrong+' question'+(wrong>1?'s':'')+' to revisit in the Quiz tab.</p>':'')+'</div>';
   PAPERS.forEach(function(p){
     h+='<h2>'+esc(paperName(p))+'</h2><div class="grid">';
     SECS.filter(function(s){return s.section.paper===p}).forEach(function(s){
@@ -87,7 +92,7 @@ function home(){
 function secPage(id){
   var s=SEC[id];if(!s)return notFound();
   var h=hdr(s.section.title,paperName(s.section.paper),true);
-  h+='<div class="card c" style="--c:'+s.color+'"><p>'+esc(s.section.blurb||'')+'</p>'+bar(pct(secDone(s),s.topics.length),s.color)+'<div class="row" style="margin-top:12px"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+id+'">Flashcards ('+s.cards.length+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+id+'">Quiz ('+s.qz.length+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+id+'">Write ('+s.ex.length+')</a>'+(s.vq.length?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="vq" data-sec="'+id+'" data-start="1">Vocab quiz ('+s.vq.length+')</a>':'')+'</div></div>';
+  h+='<div class="card c" style="--c:'+s.color+'"><p>'+esc(s.section.blurb||'')+'</p>'+bar(pct(secDone(s),s.topics.length),s.color)+'<div class="row" style="margin-top:12px"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+id+'">Flashcards ('+s.cards.length+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+id+'">Quiz ('+s.qz.length+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+id+'">Write ('+s.ex.length+')</a>'+(s.vq.length?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="vq" data-sec="'+id+'" data-start="1">Vocab quiz ('+s.vq.length+')</a>':'')+(s.tf.length?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="tf" data-sec="'+id+'" data-start="1">True or false ('+s.tf.length+')</a>':'')+(s.wb.length?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="wb" data-sec="'+id+'" data-start="1">Who believes this? ('+s.wb.length+')</a>':'')+(META.mock?'<a class="btn" href="#/mock" data-act="goMock" data-sec="'+id+'">Timed mock (24 marks)</a>':'')+'</div></div>'+specHtml(s);
   h+='<h2>Topics</h2><div class="list">';
   s.topics.forEach(function(t){var d=S.done[id+':'+t.id];h+='<a class="item" href="#/t/'+id+'/'+t.id+'"><span class="tick'+(d?' on':'')+'" aria-label="'+(d?'Revised':'Not yet revised')+'">'+(d?'✓':'')+'</span><span class="t"><small>'+esc(t.code)+'</small>'+esc(t.title)+'</span><span class="mut">›</span></a>'});
   h+='</div>';view(h)}
@@ -101,8 +106,9 @@ function topicPage(sid,tid){
   if(t.sources&&t.sources.length){h+='<h2>'+esc(LBL.sources)+'</h2>'+t.sources.map(function(q){return '<div class="quote" style="--c:'+c+'"><q>'+fmt(q.text)+sayBtn(q.text)+'</q><div class="ref">'+esc(q.ref||'')+'</div>'+(q.use?'<div class="use">'+esc(LBL.use)+': '+esc(q.use)+'</div>':'')+'</div>'}).join('')}
   if(t.terms&&t.terms.length){h+='<h2>'+esc(LBL.terms)+'</h2><div class="terms" style="--c:'+c+'">'+t.terms.map(function(x){return '<div><b>'+esc(x.term)+'</b>: '+fmt(x.def)+sayBtn(x.term)+'</div>'}).join('')+'</div>'}
   if(t.tip)h+='<div class="tip"><b>Exam tip.</b> '+fmt(t.tip)+'</div>';
-  var nc=s.cards.filter(function(x){return x.topic===tid}).length,nq=s.qz.filter(function(x){return x.topic===tid}).length,ne=s.ex.filter(function(x){return x.topic===tid}).length,nv=s.vq.filter(function(x){return x.topic===tid}).length;
-  h+='<h2>Test yourself</h2><div class="row"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Cards ('+nc+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Quiz ('+nq+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+sid+'" data-topic="'+tid+'">Write ('+ne+')</a>'+(nv?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="vq" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Vocab quiz ('+nv+')</a>':'')+'</div>';
+  if(t.pitfalls&&t.pitfalls.length)h+='<div class="tip warn"><b>Common mistakes</b><ul class="b">'+t.pitfalls.map(function(x){return '<li>'+fmt(x)+'</li>'}).join('')+'</ul></div>';
+  var nc=s.cards.filter(function(x){return x.topic===tid}).length,nq=s.qz.filter(function(x){return x.topic===tid}).length,ne=s.ex.filter(function(x){return x.topic===tid}).length,nv=s.vq.filter(function(x){return x.topic===tid}).length,nt=s.tf.filter(function(x){return x.topic===tid}).length,nw=s.wb.filter(function(x){return x.topic===tid}).length;
+  h+='<h2>Test yourself</h2><div class="row"><a class="btn pri" href="#/cards" data-act="goCards" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Cards ('+nc+')</a><a class="btn" href="#/quiz" data-act="goQuiz" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Quiz ('+nq+')</a><a class="btn" href="#/write" data-act="goWrite" data-sec="'+sid+'" data-topic="'+tid+'">Write ('+ne+')</a>'+(nv?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="vq" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Vocab quiz ('+nv+')</a>':'')+(nt?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="tf" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">True or false ('+nt+')</a>':'')+(nw?'<a class="btn" href="#/quiz" data-act="goQuiz" data-kind="wb" data-sec="'+sid+'" data-topic="'+tid+'" data-start="1">Who believes this? ('+nw+')</a>':'')+'</div>';
   h+='<div style="margin:16px 0"><button class="btn '+(done?'':'ok')+'" style="width:100%" data-act="toggleDone" data-key="'+sid+':'+tid+'">'+(done?'✓ Marked as revised (tap to undo)':'Mark as revised')+'</button></div>';
   var prev=s.topics[t._i-1],next=s.topics[t._i+1];
   h+='<div class="row">'+(prev?'<a class="btn" href="#/t/'+sid+'/'+prev.id+'">‹ '+esc(prev.code)+'</a>':'')+(next?'<a class="btn" href="#/t/'+sid+'/'+next.id+'">'+esc(next.code)+' ›</a>':'')+'</div>';
@@ -151,11 +157,11 @@ function cardAns(v){
 /* ----- quiz ----- */
 var QS=null,quizSetup={sec:'all',topic:'all',n:'10',wrongOnly:false};
 function quizPage(){
-  QS=null;var wc=Object.keys(S.wrong).length,all=pool(qkind(),quizSetup).length,hasV=SECS.some(function(s){return s.vq.length});
+  QS=null;var wc=Object.keys(S.wrong).length,all=pool(qkind(),quizSetup).length,hasV=KINDS.length>1;
   var h=hdr('Quiz','Multiple choice, with an explanation after each answer');
-  h+='<div class="card">'+(hasV?'<label class="f" for="qz-kind">Question type</label><select id="qz-kind"><option value="qz"'+(qkind()==='qz'?' selected':'')+'>Topic questions</option><option value="vq"'+(qkind()==='vq'?' selected':'')+'>'+esc(META.vocabQuizLabel||'Vocabulary')+'</option></select>':'')+scopeUI(quizSetup)+'<label class="f" for="qz-n">How many questions?</label><select id="qz-n"><option value="5"'+(quizSetup.n==='5'?' selected':'')+'>5</option><option value="10"'+(quizSetup.n==='10'?' selected':'')+'>10</option><option value="20"'+(quizSetup.n==='20'?' selected':'')+'>20</option><option value="999"'+(quizSetup.n==='999'?' selected':'')+'>All of them</option></select>'+
+  h+='<div class="card">'+(hasV?'<label class="f" for="qz-kind">Question type</label><select id="qz-kind">'+KINDS.map(function(k){return '<option value="'+k[0]+'"'+(qkind()===k[0]?' selected':'')+'>'+esc(k[1])+'</option>'}).join('')+'</select>':'')+scopeUI(quizSetup)+'<label class="f" for="qz-n">How many questions?</label><select id="qz-n"><option value="5"'+(quizSetup.n==='5'?' selected':'')+'>5</option><option value="10"'+(quizSetup.n==='10'?' selected':'')+'>10</option><option value="20"'+(quizSetup.n==='20'?' selected':'')+'>20</option><option value="999"'+(quizSetup.n==='999'?' selected':'')+'>All of them</option></select>'+
    '<label class="chk" style="margin-top:10px"><input type="checkbox" id="qz-wrong"'+(quizSetup.wrongOnly?' checked':'')+'><span>Only questions I got wrong before ('+wc+')</span></label><p class="small mut" id="qz-info">'+all+' questions in this selection.</p><button class="btn pri" style="width:100%" data-act="startQuiz">Start quiz</button></div>';
-  var rec=[];SECS.forEach(function(s){if(S.quiz[s.section.id])rec.push({s:s,k:s.section.id,l:s.section.title});if(S.quiz[s.section.id+':vocab'])rec.push({s:s,k:s.section.id+':vocab',l:s.section.title+' (vocabulary)'})});
+  var rec=[];SECS.forEach(function(s){KINDS.forEach(function(k){var kk=scoreKey(s.section.id,k[0]);if(S.quiz[kk])rec.push({s:s,k:kk,l:s.section.title+(k[0]==='qz'?'':' ('+k[1].toLowerCase()+')')})})});
   if(rec.length){h+='<h2>Your best scores</h2><div class="list">'+rec.map(function(o){var s=o.s,q=S.quiz[o.k];return '<div class="item"><span class="t">'+esc(o.l)+'<small>Last '+q.last+'%</small></span>'+pill('Best '+q.best+'%',s.color)+'</div>'}).join('')+'</div>'}
   view(h)}
 function startQuiz(){
@@ -167,18 +173,21 @@ function vocabOpts(x){
   /* skip distractors that share any meaning with the answer, so only one option is right */
   shuffle(near).concat(shuffle(far)).forEach(function(y){if(opts.length<4&&!seen[y.term]&&!senses(y.def).some(function(z){return used.indexOf(z)>=0})){opts.push(y.term);seen[y.term]=1}});
   return {options:opts,answer:0}}
-function qkind(){return quizSetup.kind==='vq'?'vq':'qz'}
+var KINDS=[['qz','Topic questions'],['tf','True or false'],['wb','Who believes this?'],['vq',META.vocabQuizLabel||'Vocabulary']].filter(function(k){return SECS.some(function(s){return s[k[0]]&&s[k[0]].length})});
+function qkind(){var k=quizSetup.kind||'qz';return KINDS.some(function(x){return x[0]===k})?k:'qz'}
+function kindName(k){var x=KINDS.filter(function(y){return y[0]===k})[0];return x?x[1]:''}
+function scoreKey(sec,k){return sec+(k==='vq'?':vocab':k==='qz'?'':':'+k)}
 function beginQuiz(items){
   var q=items;
   if(!q){q=pool(qkind(),quizSetup);if(quizSetup.wrongOnly)q=q.filter(function(x){return S.wrong[x.id]});q=shuffle(q).slice(0,parseInt(quizSetup.n,10)||10)}
   if(!q.length){view(hdr('Quiz','',true)+'<div class="card"><p><b>No questions to show.</b></p><p class="mut">Nothing matches this selection yet (you may have no mistakes saved). Change the selection and try again.</p><a class="btn pri" href="#/quiz" data-act="resetQuizRoute">Back</a></div>');return}
   q=q.map(function(x){return x.vocab?Object.assign({},x,vocabOpts(x)):x});
-  QS={kind:qkind(),items:q.map(function(x){var idx=shuffle(x.options.map(function(_,i){return i}));return {id:x.id,sec:x.sec,topic:x.topic,q:x.q,why:x.why,say:x.term,opts:idx.map(function(i){return {t:x.options[i],ok:i===x.answer}})}}),i:0,score:0,pick:null,wrong:[]};renderQuiz()}
+  QS={kind:qkind(),items:q.map(function(x){var idx=x.fixed?x.options.map(function(_,i){return i}):shuffle(x.options.map(function(_,i){return i}));return {id:x.id,sec:x.sec,topic:x.topic,q:x.q,why:x.why,say:x.term,opts:idx.map(function(i){return {t:x.options[i],ok:i===x.answer}})}}),i:0,score:0,pick:null,wrong:[]};renderQuiz()}
 function renderQuiz(){
   if(!QS)return;
   if(QS.i>=QS.items.length){var tot=QS.items.length,p=pct(QS.score,tot);
     var secs={};QS.items.forEach(function(x){secs[x.sec]=1});
-    Object.keys(secs).forEach(function(k){var its=QS.items.filter(function(x){return x.sec===k}),sc=its.filter(function(x){return QS.wrong.indexOf(x.id)<0}).length,pp=pct(sc,its.length),kk=k+(QS.kind==='vq'?':vocab':''),r=S.quiz[kk]||{best:0,last:0};r.last=pp;r.best=Math.max(r.best,pp);S.quiz[kk]=r});save();
+    Object.keys(secs).forEach(function(k){var its=QS.items.filter(function(x){return x.sec===k}),sc=its.filter(function(x){return QS.wrong.indexOf(x.id)<0}).length,pp=pct(sc,its.length),kk=scoreKey(k,QS.kind),r=S.quiz[kk]||{best:0,last:0};r.last=pp;r.best=Math.max(r.best,pp);S.quiz[kk]=r});save();
     var h=hdr('Quiz complete');h+='<div class="card"><div class="big">'+QS.score+' / '+tot+'</div><p class="mut">'+p+'%. '+(p>=80?'Excellent work.':p>=60?'Good, keep going.':'Worth another go after a look at the notes.')+'</p></div>';
     if(QS.wrong.length){h+='<h2>To review</h2>'+QS.items.filter(function(x){return QS.wrong.indexOf(x.id)>=0}).map(function(x){var ok=x.opts.filter(function(o){return o.ok})[0];return '<div class="card c" style="--c:'+col(x.sec)+'"><p><b>'+fmt(x.q)+'</b></p><p>Answer: '+fmt(ok.t)+'</p><p class="small mut">'+fmt(x.why)+'</p><a class="small" href="#/t/'+x.sec+'/'+x.topic+'">Open topic: '+esc(tname(x.sec,x.topic))+'</a></div>'}).join('')}
     h+='<div class="row">'+(QS.wrong.length?'<button class="btn pri" data-act="retryWrong">Retry the ones I missed</button>':'')+'<a class="btn" href="#/quiz" data-act="resetQuizRoute">New quiz</a></div>';
@@ -195,6 +204,7 @@ function renderQuiz(){
 var W={sec:'all',topic:'all',marks:'all'},cur=null,MARKS=[];SECS.forEach(function(s){s.ex.forEach(function(e){var m=String(e.marks);if(MARKS.indexOf(m)<0)MARKS.push(m)})});MARKS.sort(function(a,b){return a-b});
 function writeList(){
   var h=hdr('Write','Exam questions with model answers and mark points');
+  if(META.mock)h+='<a class="btn pri" style="width:100%;margin-bottom:6px" href="#/mock">'+(S.mock?(S.mock.done?'Finish marking your mock paper':'Continue your timed mock paper'):'Timed mock paper')+'</a>';
   var items=[];SECS.forEach(function(s){if(!inScope(s,W))return;s.ex.forEach(function(e){if(W.topic!=='all'&&e.topic!==W.topic)return;if(W.marks!=='all'&&String(e.marks)!==W.marks)return;items.push(e)})});
   h+='<div class="card">'+scopeUI(W)+'<label class="f">Question size</label><div class="chips" id="w-marks">'+['all'].concat(MARKS).map(function(m){return '<button class="chip'+(W.marks===m?' on':'')+'" data-act="setMarks" data-m="'+m+'">'+(m==='all'?'All':m+' marks')+'</button>'}).join('')+'</div><p class="small mut">'+items.length+' questions. '+items.filter(function(e){return S.exam[e.id]}).length+' attempted.</p>'+(items.length?'<a class="btn pri" style="width:100%" href="#/w/'+shuffle(items)[0].id+'">Random question</a>':'')+'</div>';
   h+='<div class="list">'+items.map(function(e){var d=S.exam[e.id];return '<a class="item" href="#/w/'+e.id+'"><span class="t"><small>'+esc(SEC[e.sec].section.short||SEC[e.sec].section.title)+' · '+esc(tname(e.sec,e.topic))+'</small>'+esc(e.q.length>120?e.q.slice(0,117)+'...':e.q)+'</span>'+pill(e.marks+' marks',col(e.sec))+(d?'<span class="tick on">✓</span>':'')+'</a>'}).join('')+'</div>';
@@ -222,11 +232,81 @@ function revealHtml(e,st){
   h+='<h2>Model answer</h2><div class="model" style="--c:'+c+'">'+esc(e.model||'')+'</div>'+(e.say?sayBtn(e.model):'')+(e.en?'<details class="en"><summary>English</summary><div>'+fmt(e.en)+'</div></details>':'')+'<p class="small mut" style="margin-top:8px">A model answer is one good way to answer, not the only one. Different correct points can earn marks too.</p>';
   return h}
 
+/* ----- specification checklist ----- */
+function specRows(s){var id=s.section.id;return (s.spec||[]).map(function(x){var ts=(x.topics||[]).filter(function(t){return TOP[id][t]}),ok=ts.length&&ts.every(function(t){return S.done[id+':'+t]});
+  return '<div class="chk"><span class="tick'+(ok?' on':'')+'" aria-label="'+(ok?'Topics revised':'Not yet revised')+'">'+(ok?'✓':'')+'</span><span>'+fmt(x.point)+'<br><span class="small">'+ts.map(function(t){return '<a href="#/t/'+id+'/'+t+'">'+esc(TOP[id][t].code||t)+'</a>'}).join(' · ')+'</span></span></div>'}).join('')}
+function specHtml(s){if(!s.spec||!s.spec.length)return '';var id=s.section.id,n=s.spec.filter(function(x){return (x.topics||[]).length&&x.topics.every(function(t){return S.done[id+':'+t]})}).length;
+  return '<details><summary>'+esc(META.specLabel||'Specification checklist')+' ('+n+' of '+s.spec.length+')</summary><div>'+specRows(s)+'</div></details>'}
+function specPage(){var h=hdr(META.specLabel||'Specification checklist','Every specification point, linked to its topic. A tick means you marked those topics as revised.',true);
+  SECS.forEach(function(s){if(s.spec&&s.spec.length)h+='<h2>'+esc(s.section.title)+'</h2><div class="card c" style="--c:'+s.color+'">'+specRows(s)+'</div>'});view(h)}
+
+/* ----- timed mock paper ----- */
+function pick(a,pref){if(!a.length)return null;var p=pref?a.filter(pref):[];return shuffle(p.length?p:a)[0]}
+function mockQs(s){
+  var id=s.section.id,fmtList=(META.mock&&META.mock.format)||[{kind:'mcq',marks:1},{kind:'short',marks:1},{kind:'exam',marks:4},{kind:'exam',marks:6},{kind:'exam',marks:12}],out=[];
+  fmtList.forEach(function(f,i){var it=null;
+    if(f.kind==='mcq')it=pick(s.qz,function(x){return /^Which/.test(x.q)});
+    else if(f.kind==='short')it=pick(s.sh)||pick(s.cards);
+    else it=pick(s.ex.filter(function(e){return e.marks===f.marks}),function(e){return !S.exam[e.id]});
+    if(it)out.push({k:f.kind,marks:f.marks,id:it.id,sec:id,n:i+1})});
+  return out}
+function itemById(id){var sid=id.split(':')[0],s=SEC[sid];if(!s)return null;var all=s.qz.concat(s.sh,s.cards,s.ex);return all.filter(function(x){return x.id===id})[0]||null}
+function mockSetup(){
+  var M=S.mock;if(M)return mockRun();
+  var mm=(META.mock&&META.mock.minutes)||105,h=hdr('Timed mock paper','Exam conditions: one five-part question per section');
+  h+='<div class="card"><p class="small mut">Questions are picked at random from the app (unattempted ones first). Answer on screen or on paper, then mark yourself with the model answers.</p>';
+  PAPERS.forEach(function(p){var ss=SECS.filter(function(s){return s.section.paper===p});h+='<button class="btn pri" style="width:100%;margin:6px 0" data-act="startMock" data-p="'+p+'">'+esc(paperName(p))+' ('+ss.length*24+' marks, '+mm+' min)</button>'});
+  h+='<label class="f" for="mk-sec">Or one section (24 marks, about '+Math.round(mm/4)+' min)</label><select id="mk-sec">'+SECS.map(function(s){return '<option value="'+s.section.id+'"'+(MOCKSEC===s.section.id?' selected':'')+'>'+esc(s.section.title)+'</option>'}).join('')+'</select><button class="btn" style="width:100%;margin-top:8px" data-act="startMock">Start this section</button>';
+  if(META.mock&&META.mock.note)h+='<p class="small mut" style="margin-top:10px">'+fmt(META.mock.note)+'</p>';
+  h+='</div>';
+  var hist=S.mocks||[];if(hist.length)h+='<h2>Your mocks</h2><div class="list">'+hist.slice(-10).reverse().map(function(r){return '<div class="item"><span class="t">'+esc(r.title)+'<small>'+esc(new Date(r.date).toLocaleDateString('en-GB'))+(r.mins?' · '+r.mins+' min':'')+'</small></span>'+pill(r.score+' / '+r.max+' ('+pct(r.score,r.max)+'%)')+'</div>'}).join('')+'</div>';
+  view(h)}
+var MOCKSEC=null,TICK=null;
+function startMock(p,sid){
+  var ss=sid?[SEC[sid]]:SECS.filter(function(s){return s.section.paper===+p}),qs=[],mm=(META.mock&&META.mock.minutes)||105;
+  ss.forEach(function(s,i){mockQs(s).forEach(function(q){q.sn=i+1;qs.push(q)})});
+  S.mock={title:sid?SEC[sid].section.title:paperName(+p),qs:qs,start:Date.now(),mins:sid?Math.round(mm/4):mm,ans:{},self:{},done:false};save();mockRun()}
+function timeLeft(M){return M.start+M.mins*60000-Date.now()}
+function clock(ms){var neg=ms<0;ms=Math.abs(ms);var m=Math.floor(ms/60000),s=Math.floor(ms%60000/1000);return (neg?'+':'')+m+':'+(s<10?'0':'')+s}
+function tick(){var el=$('#mclock'),M=S.mock;if(!el||!M||M.done){clearInterval(TICK);TICK=null;return}var t=timeLeft(M);el.textContent=t>=0?clock(t)+' left':'Time up '+clock(t);el.className='pill'+(t<0?' bad':t<300000?' warnp':'')}
+function qnum(q){return '0'+q.sn+'.'+q.n}
+function mockRun(){
+  var M=S.mock;if(!M)return mockSetup();if(M.done)return mockReview();
+  var h='<header class="top"><button class="ib" data-act="back" aria-label="Back">‹</button><div style="flex:1;min-width:0"><h1>'+esc(M.title)+'</h1><p class="sub"><span id="mclock" class="pill"></span> · '+M.qs.reduce(function(a,q){return a+q.marks},0)+' marks</p></div>'+HOMEBTN+'</header>';
+  var last=null;
+  M.qs.forEach(function(q,qi){var it=itemById(q.id);if(!it)return;var s=SEC[q.sec];
+    if(q.sec!==last){h+='<h2 style="color:'+s.color+'">'+esc(s.section.title)+'</h2>';last=q.sec}
+    h+='<div class="card c" style="--c:'+s.color+'"><div class="small mut">'+qnum(q)+' · '+q.marks+' mark'+(q.marks>1?'s':'')+'</div><p style="font-weight:700;margin:6px 0" id="mq'+qi+'">'+fmt(it.q)+'</p>';
+    if(q.k==='mcq'){var ord=M['o'+qi]||(M['o'+qi]=shuffle(it.options.map(function(_,i){return i})));h+='<div role="group" aria-labelledby="mq'+qi+'">'+ord.map(function(oi,j){return '<button class="opt'+(M.ans[qi]===oi?' sel':'')+'" aria-pressed="'+(M.ans[qi]===oi?'true':'false')+'" data-act="mockPick" data-q="'+qi+'" data-o="'+oi+'"><b>'+'ABCD'[j]+'.</b> '+fmt(it.options[oi])+'</button>'}).join('')+'</div>'}
+    else if(q.k==='short')h+='<input type="text" data-mock="'+qi+'" value="'+esc(M.ans[qi]||'')+'" aria-label="Your answer" placeholder="One word or short phrase">';
+    else h+='<textarea data-mock="'+qi+'" aria-label="Your answer" placeholder="Write your answer, or write on paper">'+esc(M.ans[qi]||'')+'</textarea>';
+    h+='</div>'});
+  h+='<button class="btn pri" style="width:100%;margin-top:12px" data-act="finishMock">Finish and mark</button><button class="btn" style="width:100%;margin-top:8px" data-act="abandonMock">Abandon this mock</button>';
+  save();view(h);tick();if(!TICK)TICK=setInterval(tick,1000)}
+function mockReview(){
+  var M=S.mock,score=0,max=0,h=hdr('Mark your mock',M.title,true);
+  h+='<div class="card"><div class="big" id="mscore"></div><p class="small mut">Multiple choice is marked automatically. Mark the rest yourself using the model answers and mark points. '+(META.mock&&META.mock.spag?esc(META.mock.spag):'')+'</p></div>';
+  var last=null;
+  M.qs.forEach(function(q,qi){var it=itemById(q.id);if(!it)return;var s=SEC[q.sec],mine=M.ans[qi];max+=q.marks;
+    if(q.sec!==last){h+='<h2 style="color:'+s.color+'">'+esc(s.section.title)+'</h2>';last=q.sec}
+    h+='<div class="card c" style="--c:'+s.color+'"><div class="small mut">'+qnum(q)+' · '+q.marks+' mark'+(q.marks>1?'s':'')+'</div><p style="font-weight:700;margin:6px 0">'+fmt(it.q)+'</p>';
+    if(q.k==='mcq'){var ok=mine===it.answer;if(ok)score++;M.self[qi]=ok?1:0;h+='<div class="fb '+(ok?'ok':'bad')+'"><b>'+(ok?'Correct.':(mine==null?'Not answered.':'Not quite.'))+'</b><p>Answer: '+fmt(it.options[it.answer])+'. '+fmt(it.why||'')+'</p></div>'}
+    else{h+='<p class="small"><b>Your answer:</b> '+(mine?fmt(mine):'<span class="mut">(on paper or blank)</span>')+'</p>';
+      if(q.k==='short')h+='<div class="model">'+fmt(it.a)+'</div>';
+      else{var pts=it.points||[];h+='<details><summary>Model answer'+(pts.length?' and mark points':'')+'</summary><div>'+(pts.length?'<ul class="b">'+pts.map(function(x){return '<li>'+fmt(x)+'</li>'}).join('')+'</ul>':'')+(it.type==='evaluate'&&STRUCT.evaluate?'<p class="small mut">Levels: '+esc((META.mock&&META.mock.levels)||'')+'</p>':'')+'<div class="model">'+esc(it.model||'')+'</div></div></details>'}
+      h+='<label class="f">Your mark</label><div class="chips">';for(var m=0;m<=q.marks;m++)h+='<button class="chip'+(M.self[qi]===m?' on':'')+'" data-act="mockSelf" data-q="'+qi+'" data-m="'+m+'">'+m+'</button>';h+='</div>';
+      if(M.self[qi]!=null)score+=M.self[qi]}
+    h+='</div>'});
+  M.score=score;M.max=max;save();
+  h+='<button class="btn pri" style="width:100%;margin-top:12px" data-act="saveMock">Save result and finish</button>';
+  view(h);$('#mscore').textContent=score+' / '+max}
+
 /* ----- guide / more / glossary / quotes / search ----- */
 function guide(){view(hdr('Exam guide','How the papers work and how to answer each question')+(typeof TECH_GUIDE!=='undefined'?TECH_GUIDE:'<div class="card">No guide has been added for this subject yet.</div>'))}
 function more(){
   var h=hdr('More');
-  h+='<div class="list"><a class="item" href="#/glossary"><span class="t">Glossary<small>'+DATA.glossary.length+' '+esc(META.glossaryLabel||'key terms')+'</small></span><span class="mut">›</span></a><a class="item" href="#/quotes"><span class="t">'+esc(LBL.quoteBank)+'<small>'+esc(LBL.quoteBankSub)+'</small></span><span class="mut">›</span></a><a class="item" href="#/search"><span class="t">Search<small>Topics, terms and cards</small></span><span class="mut">›</span></a><a class="item" href="#/guide"><span class="t">Exam guide<small>Structure, timing, how to answer</small></span><span class="mut">›</span></a></div>';
+  h+='<div class="list"><a class="item" href="#/glossary"><span class="t">Glossary<small>'+DATA.glossary.length+' '+esc(META.glossaryLabel||'key terms')+'</small></span><span class="mut">›</span></a><a class="item" href="#/quotes"><span class="t">'+esc(LBL.quoteBank)+'<small>'+esc(LBL.quoteBankSub)+'</small></span><span class="mut">›</span></a><a class="item" href="#/search"><span class="t">Search<small>Topics, terms and cards</small></span><span class="mut">›</span></a><a class="item" href="#/guide"><span class="t">Exam guide<small>Structure, timing, how to answer</small></span><span class="mut">›</span></a>'+(SECS.some(function(s){return s.spec&&s.spec.length})?'<a class="item" href="#/spec"><span class="t">'+esc(META.specLabel||'Specification checklist')+'<small>Every point you need to know</small></span><span class="mut">›</span></a>':'')+(META.mock?'<a class="item" href="#/mock"><span class="t">Timed mock paper<small>Full paper or one section, self-marked</small></span><span class="mut">›</span></a>':'')+'</div>';
+  if(META.links&&META.links.length)h+='<h2>Official resources</h2><div class="list">'+META.links.map(function(l){return '<a class="item" href="'+esc(l.url)+'" target="_blank" rel="noopener"><span class="t">'+esc(l.label)+(l.note?'<small>'+esc(l.note)+'</small>':'')+'</span><span class="mut">↗</span></a>'}).join('')+'</div>';
   h+='<h2>Settings</h2><div class="card"><label class="f" for="theme">Appearance</label><select id="theme" data-act-change="theme"><option value="auto"'+(S.theme==='auto'?' selected':'')+'>Match my phone</option><option value="light"'+(S.theme==='light'?' selected':'')+'>Light</option><option value="dark"'+(S.theme==='dark'?' selected':'')+'>Dark</option></select>';
   h+='<p class="small mut" style="margin-top:12px">Progress is saved in this browser on this device only. To keep the app on your phone: open it in your browser, tap Share, then Add to Home Screen.</p><button class="btn" style="width:100%" data-act="reset" id="resetbtn">Reset all my progress</button></div>';
   h+='<h2>About this app</h2><div class="card small">'+(META.about||'')+'<p><strong>Disclaimer:</strong> this app is provided for revision only. The information in it is not guaranteed to be correct or complete; check anything important against the exam board specification and with your teacher.</p><p>&copy; Marc Hanheide. Source code and licence (Apache 2.0): <a href="https://github.com/marc-hanheide/gcse-support" target="_blank" rel="noopener">github.com/marc-hanheide/gcse-support</a></p><p class="mut">Version: '+esc(DATA.built||'')+'</p></div>';
@@ -262,8 +342,10 @@ function route(){
   if(m=h.match(/^#\/s\/([\w-]+)$/))return secPage(m[1]);
   if(m=h.match(/^#\/t\/([\w-]+)\/([\w-]+)$/))return topicPage(m[1],m[2]);
   if(h==='#/cards')return CS?renderCard():cardsSetup();
-  if(h==='#/quiz')return QS?renderQuiz():quizPage();
+  if(h==='#/quiz'){if(QS&&QS.i>=QS.items.length)QS=null;return QS?renderQuiz():quizPage()}
   if(h==='#/write')return writeList();
+  if(h==='#/mock')return META.mock?mockSetup():notFound();
+  if(h==='#/spec')return specPage();
   if(m=h.match(/^#\/w\/(.+)$/))return writeItem(decodeURIComponent(m[1]));
   if(h==='#/guide')return guide();
   if(h==='#/more')return more();
@@ -281,7 +363,7 @@ var ACT={
  quickCards:function(){cardSetup={sec:'all',topic:'all',mode:'due',n:'20'};CS=null;setTimeout(beginCards,0)},
  quickQuiz:function(t){quizSetup={sec:'all',topic:'all',n:'10',wrongOnly:false,kind:t&&t.dataset&&t.dataset.kind||'qz'};QS=null;setTimeout(beginQuiz,0)},
  goCards:function(t){cardSetup={sec:t.dataset.sec,topic:t.dataset.topic||'all',mode:t.dataset.start?'all':'due',n:t.dataset.start?'999':'20'};CS=null;if(t.dataset.start)setTimeout(beginCards,0)},
- goQuiz:function(t){quizSetup={sec:t.dataset.sec,topic:t.dataset.topic||'all',n:t.dataset.start?(t.dataset.kind==='vq'?'20':'999'):'10',wrongOnly:false,kind:t.dataset.kind||'qz'};QS=null;if(t.dataset.start)setTimeout(beginQuiz,0)},
+ goQuiz:function(t){quizSetup={sec:t.dataset.sec,topic:t.dataset.topic||'all',n:t.dataset.start?((t.dataset.kind==='vq'||((t.dataset.kind==='tf'||t.dataset.kind==='wb')&&!t.dataset.topic))?'20':'999'):'10',wrongOnly:false,kind:t.dataset.kind||'qz'};QS=null;if(t.dataset.start)setTimeout(beginQuiz,0)},
  goWrite:function(t){W={sec:t.dataset.sec,topic:t.dataset.topic||'all',marks:'all'}},
  startCards:startCards,
  startCardsAgain:function(){beginCards()},
@@ -291,18 +373,28 @@ var ACT={
  flip:function(){if(CS){CS.flip=!CS.flip;renderCard()}},
  cardAns:function(t){cardAns(t.dataset.v==='1')},
  startQuiz:startQuiz,
+ goMock:function(t){MOCKSEC=t.dataset.sec},
+ startMock:function(t){if(t.dataset.p)startMock(t.dataset.p);else startMock(null,$('#mk-sec').value)},
+ mockPick:function(t){var M=S.mock;M.ans[+t.dataset.q]=+t.dataset.o;save();$$('[data-q="'+t.dataset.q+'"].opt').forEach(function(b){b.classList.toggle('sel',b===t);b.setAttribute('aria-pressed',b===t?'true':'false')})},
+ finishMock:function(t){if(!t.dataset.sure){t.dataset.sure='1';t.textContent='Tap again to finish and see the answers';return}var M=S.mock;M.done=true;M.used=Math.round((Date.now()-M.start)/60000);save();mockReview()},
+ abandonMock:function(t){if(!t.dataset.sure){t.dataset.sure='1';t.textContent='Tap again to abandon (answers are lost)';t.className='btn bad';t.style.width='100%';return}S.mock=null;save();mockSetup()},
+ mockSelf:function(t){var M=S.mock,y=window.scrollY;M.self[+t.dataset.q]=+t.dataset.m;save();mockReview();window.scrollTo(0,y)},
+ saveMock:function(){var M=S.mock;S.mocks=(S.mocks||[]).concat([{title:M.title,date:M.start,score:M.score,max:M.max,mins:M.used}]);S.mock=null;save();mockSetup()},
  resetQuizRoute:function(){QS=null;if(location.hash==='#/quiz')setTimeout(quizPage,0)},
  endQuiz:function(){QS=null;history.length>1?history.back():(location.hash='#/quiz');if(location.hash==='#/quiz')quizPage()},
  quizPick:function(t){if(QS.pick!==null)return;var i=+t.dataset.i,it=QS.items[QS.i];QS.pick=i;var ok=it.opts[i].ok;if(ok){QS.score++;if(S.wrong[it.id]){S.wrong[it.id]--;if(S.wrong[it.id]<=0)delete S.wrong[it.id]}}else{QS.wrong.push(it.id);S.wrong[it.id]=(S.wrong[it.id]||0)+1}save();renderQuiz();var f=$('.fb');if(f)f.scrollIntoView({block:'nearest'})},
  quizNext:function(){QS.i++;QS.pick=null;renderQuiz()},
- retryWrong:function(){var ids=QS.wrong.slice(),all=[];SECS.forEach(function(s){s.qz.concat(s.vq).forEach(function(x){if(ids.indexOf(x.id)>=0)all.push(x)})});beginQuiz(shuffle(all))},
+ retryWrong:function(){var ids=QS.wrong.slice(),all=[];SECS.forEach(function(s){s.qz.concat(s.vq,s.tf,s.wb).forEach(function(x){if(ids.indexOf(x.id)>=0)all.push(x)})});beginQuiz(shuffle(all))},
  setMarks:function(t){var sc=readScope();W.sec=sc.sec;W.topic=sc.topic;W.marks=t.dataset.m;writeList()},
  reveal:function(){var st=S.exam[cur.id]||{};st.shown=true;S.exam[cur.id]=st;save();$('#reveal').innerHTML=revealHtml(cur,st)},
  gGroup:function(t){GF.g=t.dataset.g;glossary()},
  qSec:function(t){QF.sec=t.dataset.s;quotes()},
- reset:function(t){if(t.dataset.sure){S={cards:{},wrong:{},quiz:{},done:{},exam:{},drafts:{},theme:S.theme};save();CS=null;QS=null;location.hash='#/';return}t.dataset.sure='1';t.textContent='Tap again to erase all progress';t.className='btn bad';t.style.width='100%'}
+ reset:function(t){if(t.dataset.sure){S={cards:{},wrong:{},quiz:{},done:{},exam:{},drafts:{},mocks:[],mock:null,theme:S.theme};save();CS=null;QS=null;location.hash='#/';return}t.dataset.sure='1';t.textContent='Tap again to erase all progress';t.className='btn bad';t.style.width='100%'}
 };
-document.addEventListener('click',function(e){var t=e.target.closest('[data-act]');if(!t)return;var a=ACT[t.dataset.act];if(a){a(t,e)}});
+document.addEventListener('click',function(e){
+  /* tapping the tab for the page already shown does not fire hashchange: reset a finished quiz and re-render */
+  var nl=e.target.closest('#nav a');if(nl&&nl.getAttribute('href')===(location.hash||'#/')){e.preventDefault();if(QS&&QS.i>=QS.items.length)QS=null;route();return}
+  var t=e.target.closest('[data-act]');if(!t)return;var a=ACT[t.dataset.act];if(a){a(t,e)}});
 document.addEventListener('keydown',function(e){var t=e.target;if(t&&t.classList&&t.classList.contains('fc')&&(e.key===' '||e.key==='Enter')){e.preventDefault();ACT.flip()}
   if(CS&&CS.flip&&!/INPUT|TEXTAREA|SELECT/.test(e.target.tagName)){if(e.key==='1')ACT.cardAns({dataset:{v:'0'}});if(e.key==='2')ACT.cardAns({dataset:{v:'1'}})}});
 document.addEventListener('change',function(e){var t=e.target;
@@ -314,11 +406,14 @@ document.addEventListener('change',function(e){var t=e.target;
 function refreshInfo(){
   var sc=readScope();
   if($('#cd-info')){var now=Date.now(),all=pool('cards',sc),d=all.filter(function(c){return isDue(c,now)}).length,n=all.filter(function(c){return !S.cards[c.id]}).length;$('#cd-info').textContent=all.length+' cards in this selection: '+d+' due, '+n+' new.'}
-  if($('#qz-info')){var q=pool($('#qz-kind')&&$('#qz-kind').value==='vq'?'vq':'qz',sc);if($('#qz-wrong')&&$('#qz-wrong').checked)q=q.filter(function(x){return S.wrong[x.id]});$('#qz-info').textContent=q.length+' questions in this selection.'}}
+  if($('#qz-info')){var q=pool($('#qz-kind')?$('#qz-kind').value:'qz',sc);if($('#qz-wrong')&&$('#qz-wrong').checked)q=q.filter(function(x){return S.wrong[x.id]});$('#qz-info').textContent=q.length+' questions in this selection.'}}
 document.addEventListener('input',function(e){var t=e.target;
+  if(t.dataset&&t.dataset.mock!=null&&S.mock){S.mock.ans[+t.dataset.mock]=t.value;clearTimeout(window._ms);window._ms=setTimeout(save,400)}
   if(t.id==='draft'){S.drafts[t.dataset.id]=t.value;var st=S.exam[t.dataset.id]||{};st.started=1;S.exam[t.dataset.id]=st;clearTimeout(window._ds);window._ds=setTimeout(save,400)}
   if(t.id==='gq'){GF.q=t.value;glist()}
   if(t.id==='qq'){QF.q=t.value;qlist()}
   if(t.id==='sq')doSearch(t.value)});
+window.addEventListener('pagehide',save);
+document.addEventListener('visibilitychange',function(){if(document.visibilityState==='hidden')save()});
 route();
 })();

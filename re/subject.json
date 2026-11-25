@@ -71,5 +71,57 @@
     "Reached a justified conclusion",
     "Spelled key terms correctly and wrote in clear paragraphs (SPaG)"
   ],
-  "about": "<p>Built from the school’s revision pack for Year 10 RE (The Priory Academy LSST) and checked against the AQA GCSE Religious Studies A (8062) specification and the 2026 exam format. Questions and model answers were written for revision, they are not real past-paper questions.</p><p>Always check anything you are unsure about with your teacher. The official specification is at <a href=\"https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-a-8062\" target=\"_blank\" rel=\"noopener\">aqa.org.uk</a>. AQA’s own glossary definitions are used in the Glossary.</p>"
+  "about": "<p>Built from the school’s revision pack for Year 10 RE (The Priory Academy LSST) and checked against the AQA GCSE Religious Studies A (8062) specification and the 2026 exam format. Questions and model answers were written for revision, they are not real past-paper questions.</p><p>Always check anything you are unsure about with your teacher. The official specification is at <a href=\"https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-a-8062\" target=\"_blank\" rel=\"noopener\">aqa.org.uk</a>. AQA’s own glossary definitions are used in the Glossary.</p>",
+  "viewsQuiz": true,
+  "specLabel": "AQA specification checklist",
+  "mock": {
+    "minutes": 105,
+    "format": [
+      {
+        "kind": "mcq",
+        "marks": 1
+      },
+      {
+        "kind": "short",
+        "marks": 1
+      },
+      {
+        "kind": "exam",
+        "marks": 4
+      },
+      {
+        "kind": "exam",
+        "marks": 6
+      },
+      {
+        "kind": "exam",
+        "marks": 12
+      }
+    ],
+    "note": "A full paper has four five-part questions: Paper 1 is Christianity beliefs and practices plus Judaism beliefs and practices; Paper 2 is Themes A, B, D and E. 1 hour 45 minutes, about 25 minutes per question.",
+    "spag": "In the real exam up to 3 extra marks for spelling, punctuation and grammar are added for the 12-mark answers.",
+    "levels": "Level 4 (10 to 12): well argued, two developed sides, religious teaching, justified conclusion. Level 3 (7 to 9): both sides with some development and teaching. Level 2 (4 to 6): one side developed, or both sides simple. Level 1 (1 to 3): a simple point or opinion."
+  },
+  "links": [
+    {
+      "label": "AQA 8062 specification",
+      "url": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification",
+      "note": "What you need to know, from the exam board"
+    },
+    {
+      "label": "AQA past papers and mark schemes",
+      "url": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/assessment-resources",
+      "note": "Paper 1: Christianity (8062/13) and Judaism (8062/16). Paper 2: 8062/2A, Themes A, B, D and E"
+    },
+    {
+      "label": "AQA summary of the 2026 changes",
+      "url": "https://www.aqa.org.uk/news/update-gcse-religious-studies-summer-2026",
+      "note": "Why older papers have 2 and 5-mark questions"
+    },
+    {
+      "label": "BBC Bitesize: AQA GCSE Religious Studies A",
+      "url": "https://www.bbc.co.uk/bitesize/examspecs/zjgx47h",
+      "note": "Free revision notes and videos"
+    }
+  ]
 }

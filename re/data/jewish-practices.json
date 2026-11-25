@@ -7,6 +7,114 @@
   "religion": "Judaism",
   "blurb": "Jewish practices: the synagogue and worship, Shabbat, home worship and the written and oral law, life-cycle ceremonies, dietary laws, and the festivals of Rosh Hashanah, Yom Kippur and Pesach."
  },
+ "spec": [
+  {
+   "point": "The synagogue and its importance",
+   "topics": [
+    "jp-01"
+   ]
+  },
+  {
+   "point": "Design and religious features of synagogues: bimah (reading platform), aron hakodesh (ark), ner tamid (ever burning light) and associated practices",
+   "topics": [
+    "jp-02"
+   ]
+  },
+  {
+   "point": "Differences between Orthodox and Reform synagogues",
+   "topics": [
+    "jp-02",
+    "jp-03"
+   ]
+  },
+  {
+   "point": "Public acts of worship: synagogue services in both Orthodox and Reform synagogues",
+   "topics": [
+    "jp-03",
+    "jp-05"
+   ]
+  },
+  {
+   "point": "The significance of prayer, including the Amidah, the standing prayer",
+   "topics": [
+    "jp-04"
+   ]
+  },
+  {
+   "point": "Shabbat in the home and synagogue and its significance",
+   "topics": [
+    "jp-05",
+    "jp-06"
+   ]
+  },
+  {
+   "point": "Worship in the home and private prayer",
+   "topics": [
+    "jp-07",
+    "jp-04"
+   ]
+  },
+  {
+   "point": "Tenakh (the written law) and Talmud (the oral law): their study, use and significance in daily life",
+   "topics": [
+    "jp-07"
+   ]
+  },
+  {
+   "point": "Rituals and their significance: ceremonies associated with birth, including Brit Milah",
+   "topics": [
+    "jp-08"
+   ]
+  },
+  {
+   "point": "Rituals and their significance: Bar and Bat Mitzvah",
+   "topics": [
+    "jp-09"
+   ]
+  },
+  {
+   "point": "Rituals and their significance: the marriage ceremony",
+   "topics": [
+    "jp-10"
+   ]
+  },
+  {
+   "point": "Rituals and their significance: mourning rituals",
+   "topics": [
+    "jp-11"
+   ]
+  },
+  {
+   "point": "Dietary laws and their significance, including different Jewish views about their importance",
+   "topics": [
+    "jp-12"
+   ]
+  },
+  {
+   "point": "Dietary laws: kosher and trefah",
+   "topics": [
+    "jp-12"
+   ]
+  },
+  {
+   "point": "Dietary laws: separation of milk and meat",
+   "topics": [
+    "jp-12"
+   ]
+  },
+  {
+   "point": "Festivals and their importance for Jews in Great Britain today: origins and meaning of Rosh Hashanah and Yom Kippur",
+   "topics": [
+    "jp-13"
+   ]
+  },
+  {
+   "point": "Festivals and their importance for Jews in Great Britain today: origins and meaning of Pesach",
+   "topics": [
+    "jp-14"
+   ]
+  }
+ ],
  "topics": [
   {
    "id": "jp-01",
@@ -39,16 +147,33 @@
       "Jews believe God is everywhere, so prayer is possible at home, at work or outdoors.",
       "Private prayer is valued, but communal prayer is generally seen as more important because it needs a minyan."
      ]
+    },
+    {
+     "h": "How the synagogue is used",
+     "bullets": [
+      "**Worship**: daily services, Shabbat and festival services, and special prayers that need a minyan, such as Kaddish and the Torah reading.",
+      "**Rites of passage**: baby naming, Bar and Bat Mitzvah, weddings and prayers for mourners.",
+      "**Education**: cheder (religion school) for children, Hebrew classes, adult Torah study (shiur) and a library.",
+      "**Community**: youth clubs, groups for older people, kosher meals, charity collections and social action. It is a place where Jews in Britain, a small minority, can meet and support each other.",
+      "The synagogue building itself is not believed to be holier than other places in the way the Temple was. It is the Torah scrolls, the worship and the community that make it special. It is called a **mikdash me'at** ('small sanctuary')."
+     ]
+    },
+    {
+     "h": "Synagogues in Britain",
+     "bullets": [
+      "There are Orthodox synagogues (many belong to the United Synagogue), strictly Orthodox (Haredi) communities, Masorti, Reform and Liberal synagogues.",
+      "In Britain the Reform and Liberal movements merged to form **Progressive Judaism** (members voted in 2025; the union took effect at the start of 2026). Many synagogues still call themselves Reform or Liberal, and AQA uses the word Reform."
+     ]
     }
    ],
    "views": [
     {
      "label": "Orthodox",
-     "text": "Daily synagogue attendance is a duty for men, and communal prayer with a minyan is highly valued. Synagogues are also centres of intense Torah study."
+     "text": "Men are expected to pray with a minyan three times a day, so the synagogue is used every day. It is also a centre of intense Torah and Talmud study."
     },
     {
      "label": "Reform",
-     "text": "Synagogues are community centres for everyone. Many Reform Jews attend mainly on Shabbat and festivals, and may pray more privately at other times."
+     "text": "The synagogue is a community centre for everyone, with men and women taking part equally. Many members attend mainly on Shabbat and festivals and pray more privately at other times."
     }
    ],
    "terms": [
@@ -71,6 +196,14 @@
     {
      "term": "rabbi",
      "def": "a trained Jewish teacher and leader of the community"
+    },
+    {
+     "term": "mikdash me'at",
+     "def": "'small sanctuary': a name for the synagogue, which took the place of the Temple"
+    },
+    {
+     "term": "cheder",
+     "def": "religion school, often held at the synagogue, where children learn Hebrew and Judaism"
     }
    ],
    "sources": [
@@ -93,9 +226,19 @@
      "text": "God asks, 'Why when I come to the synagogue is no one there?'",
      "ref": "Talmud, Berakhot 6b (paraphrase)",
      "use": "Use to show God values communal prayer."
+    },
+    {
+     "text": "'My house will be called a house of prayer for all peoples.'",
+     "ref": "Isaiah 56:7",
+     "use": "Use for the synagogue as a house of prayer (Bet Tefillah) open to all."
     }
    ],
-   "tip": "Name all three roles (prayer, study, assembly). For 'Jews should always worship in the synagogue', argue both: the minyan and Shekhinah versus God being everywhere and private prayer."
+   "tip": "Name all three roles (prayer, study, assembly). For 'Jews should always worship in the synagogue', argue both: the minyan and Shekhinah versus God being everywhere and private prayer.",
+   "pitfalls": [
+    "In 2022 a question asked how the synagogue is used, and many students described furniture instead. 'Used' means activities: worship, study, community, ceremonies.",
+    "In 2023 weaker answers said the synagogue is literally 'God's house' where God hears prayers better. Jews believe God is everywhere; the synagogue matters because of the community, minyan and Torah.",
+    "Do not call a synagogue a church or mosque, or describe Christian ceremonies happening there."
+   ]
   },
   {
    "id": "jp-02",
@@ -127,6 +270,27 @@
       "The Ark and Torah show the Torah is the centre of Jewish life.",
       "The Ner Tamid reminds Jews that God is always present.",
       "The bimah shows the Torah reading is the high point of the service."
+     ]
+    },
+    {
+     "h": "Practices associated with the features",
+     "bullets": [
+      "The congregation **stands** when the Aron Hakodesh is opened, out of respect for the Torah. The Ark is opened for special prayers such as Avinu Malkeinu.",
+      "Being asked to open the Ark is an honour. The curtain (**parochet**) recalls the curtain in front of the Holy of Holies in the Temple.",
+      "The Torah scroll is carried in a **procession** round the synagogue to the bimah. Worshippers touch it with the fringes of their tallit or their siddur and then kiss these, showing love for the Torah (compare Ezekiel 3:3: the scroll 'tasted as sweet as honey').",
+      "After the reading the open scroll is lifted high (**hagbah**) so everyone can see the writing.",
+      "The reader follows the words with a **yad** (pointer) so that hands do not touch the parchment.",
+      "The **Ner Tamid** is never allowed to go out (today it is often electric). It recalls the lamp kept burning in the Tabernacle (Exodus 27:20) and the Temple menorah."
+     ]
+    },
+    {
+     "h": "Orthodox and Reform synagogue design",
+     "bullets": [
+      "**Bimah**: usually in the centre in Orthodox synagogues, showing the Torah is for everyone and should be heard by all. In Reform synagogues it is usually at the front, in front of the Ark.",
+      "**Leader's direction**: in Orthodox synagogues the leader faces the Ark (towards Jerusalem) with the congregation. In Reform synagogues the leader often faces the congregation so they can hear and follow.",
+      "**Seating**: Orthodox synagogues have separate seating, with a women's gallery or a **mechitzah** (screen), to avoid distraction. Reform synagogues have mixed seating, with families together.",
+      "**Music**: many Reform synagogues have an organ; Orthodox synagogues do not use instruments on Shabbat and festivals.",
+      "Neither has statues or pictures of God. Decoration uses patterns, Hebrew words, the Ten Commandments and the Star of David."
      ]
     }
    ],
@@ -164,6 +328,14 @@
     {
      "term": "mechitzah",
      "def": "a screen separating men and women in Orthodox synagogues"
+    },
+    {
+     "term": "parochet",
+     "def": "the curtain covering the Aron Hakodesh"
+    },
+    {
+     "term": "hagbah",
+     "def": "lifting the open Torah scroll so the congregation can see it"
     }
    ],
    "sources": [
@@ -181,9 +353,24 @@
      "text": "Ezra the scribe stood on a wooden platform to read the law to the people.",
      "ref": "Nehemiah 8:4",
      "use": "Use for the origin of the bimah."
+    },
+    {
+     "text": "'Let them make Me a sanctuary that I may dwell among them.'",
+     "ref": "Exodus 25:8",
+     "use": "Use for why the synagogue and the Ark recall the Tabernacle where God's presence dwelt."
+    },
+    {
+     "text": "'I ate it, and it tasted as sweet as honey to me.'",
+     "ref": "Ezekiel 3:3",
+     "use": "Use for the custom of touching and kissing the Torah scroll: the Torah is loved and 'sweet'."
     }
    ],
-   "tip": "For a feature question, give the name, what it is and what it means (for example Ner Tamid: ever-burning light, shows God is always present)."
+   "tip": "For a feature question, give the name, what it is and what it means (for example Ner Tamid: ever-burning light, shows God is always present).",
+   "pitfalls": [
+    "In 2023 some students called the Ner Tamid 'everlasting candles'. It is a single light (lamp) that is kept burning, not a candle that is lit for services.",
+    "For a 'Give' question name the feature briefly. Do not give clothes (tallit, kippah) or people (rabbi, cantor): these are not features of the building.",
+    "In 2024 some students said Orthodox synagogues are 'fancy' and Reform 'plain', or wrote about women rabbis. Design differences are layout: bimah position, seating, which way the leader faces, organ."
+   ]
   },
   {
    "id": "jp-03",
@@ -217,6 +404,22 @@
       "Both use the Torah reading, the Shema and the Amidah.",
       "Both believe in one God and respect the Tenakh, though they interpret it differently."
      ]
+    },
+    {
+     "h": "Leaders and other traditions",
+     "bullets": [
+      "A **rabbi** ('my teacher') is a teacher and expert in Jewish law who preaches and guides the community. Any adult Jew who knows the prayers can lead a service.",
+      "A **chazan** (cantor) often sings the prayers in Orthodox synagogues; in Reform synagogues the cantor may be a woman.",
+      "Other British groups include **Masorti** (traditional, but with some modern changes, such as mixed seating in some communities) and **Liberal** Judaism. In Britain, Reform and Liberal Judaism voted in 2025 to merge as Progressive Judaism (in effect from 2026)."
+     ]
+    },
+    {
+     "h": "Why they differ",
+     "bullets": [
+      "Orthodox Jews believe the Torah and its traditional interpretation come from God, so worship should be kept as it has been for centuries: Hebrew is the holy language, and men and women have different roles.",
+      "Reform Jews believe Judaism should adapt to modern life, so they use English so everyone understands, stress equality between men and women, and allow instruments to help worship.",
+      "Both see communal worship as important and share the same core prayers."
+     ]
     }
    ],
    "views": [
@@ -249,6 +452,14 @@
     {
      "term": "mechitzah",
      "def": "a screen separating men and women"
+    },
+    {
+     "term": "chazan",
+     "def": "cantor: the person who sings and leads the prayers"
+    },
+    {
+     "term": "rabbi",
+     "def": "'my teacher': a teacher and expert in Jewish law who leads a community"
     }
    ],
    "sources": [
@@ -266,9 +477,19 @@
      "text": "'Hear, O Israel...' read in the synagogue in Hebrew or the local language.",
      "ref": "Deuteronomy 6:4",
      "use": "Use to show both groups share the Shema."
+    },
+    {
+     "text": "'Gather the people: men, women, children and the strangers in your communities, that they may hear and learn.'",
+     "ref": "Deuteronomy 31:12",
+     "use": "Use for including everyone in hearing the Torah, often used to support mixed seating and English."
     }
    ],
-   "tip": "For a 'different' question give one Orthodox and one Reform difference, each with a developed point (for example seating, language, instruments, leadership)."
+   "tip": "For a 'different' question give one Orthodox and one Reform difference, each with a developed point (for example seating, language, instruments, leadership).",
+   "pitfalls": [
+    "For an Orthodox and Reform 'different' question, make each point a clear contrast, for example 'In Orthodox... whereas in Reform...'. Two similar points only score once.",
+    "Explain why each group does what it does (tradition and holy language, or equality and understanding). This turns a 1-mark point into a 2-mark point.",
+    "Do not say Reform Jews do not use Hebrew at all. Reform services use both Hebrew and English."
+   ]
   },
   {
    "id": "jp-04",
@@ -299,6 +520,26 @@
       "Orthodox men wear a **tallit**, and **tefillin** (small leather boxes containing Torah verses) on weekday mornings.",
       "Prayer must be sincere: **kavanah** means focus and intention.",
       "Prayer is a mitzvah, helps Jews feel close to God and brings comfort and strength."
+     ]
+    },
+    {
+     "h": "The Amidah in detail",
+     "bullets": [
+      "The Amidah is also called **HaTefillah** ('the Prayer') because it is the central prayer of every service. It is sometimes called the Shemoneh Esrei ('eighteen'), its original number of blessings; a nineteenth was added later.",
+      "Worshippers stand with feet together, face Jerusalem, take three small steps forward at the start and three back at the end, and bow at set points, like standing before a king.",
+      "It is said quietly, following the example of Hannah, whose lips moved but whose voice was not heard (1 Samuel 1:13). With a minyan, the leader then repeats it aloud.",
+      "Weekday structure: 3 blessings of **praise**, 13 **requests** (for example wisdom, forgiveness, healing, a good harvest, justice, the coming of the Messiah, rebuilding Jerusalem) and 3 of **thanks** (ending with a prayer for peace).",
+      "On Shabbat and festivals the 13 requests are replaced by one blessing about the holiness of the day, because Shabbat is a day of rest from everyday worries.",
+      "Some Reform prayer books add the matriarchs (Sarah, Rebecca, Rachel and Leah) to the first blessing and change wording about resurrection and a personal Messiah."
+     ]
+    },
+    {
+     "h": "Why Jews pray",
+     "bullets": [
+      "To praise and thank God, to ask for help and forgiveness, and to keep a close relationship with God.",
+      "It is a mitzvah: the rabbis link the three daily services to the Patriarchs and to the daily offerings in the Temple (Talmud, Berakhot 26b). Since the Temple was destroyed, prayer replaces sacrifice: 'we will offer the words of our lips' (Hosea 14:2).",
+      "Praying together strengthens the community and reminds Jews of what they believe every day.",
+      "Prayer may help a Jew feel God's presence, but feeling the Shekhinah is not the only reason for praying."
      ]
     }
    ],
@@ -332,6 +573,14 @@
     {
      "term": "siddur",
      "def": "the Jewish prayer book"
+    },
+    {
+     "term": "HaTefillah",
+     "def": "'the Prayer': another name for the Amidah, the central prayer"
+    },
+    {
+     "term": "Shacharit, Minchah, Maariv",
+     "def": "the morning, afternoon and evening services"
     }
    ],
    "sources": [
@@ -354,9 +603,19 @@
      "text": "'Bind them as a sign on your hand and let them be symbols on your forehead.'",
      "ref": "Deuteronomy 6:8",
      "use": "Use for tefillin."
+    },
+    {
+     "text": "'Take words with you and return to the Lord... we will offer the words of our lips instead of bulls.'",
+     "ref": "Hosea 14:2 (14:3 in Hebrew Bibles)",
+     "use": "Use to explain why prayer replaced Temple sacrifices."
     }
    ],
-   "tip": "Know the three services and the Amidah structure (3, 13, 3). A good 'significance of prayer' answer links to talking with God, community, and kavanah."
+   "tip": "Know the three services and the Amidah structure (3, 13, 3). A good 'significance of prayer' answer links to talking with God, community, and kavanah.",
+   "pitfalls": [
+    "In 2024 almost a third of students could not pick the definition of the Amidah. Learn it as 'the standing prayer'.",
+    "Do not say Jews pray only to experience the Shekhinah (a 2025 mistake). Give reasons like praise, thanks, asking for help, forgiveness and obeying a mitzvah.",
+    "For the significance of prayer, explain why, not just what: for example the Amidah is said standing because the worshipper stands before God the King."
+   ]
   },
   {
    "id": "jp-05",
@@ -388,16 +647,27 @@
       "Orthodox: no instruments or electrical items, mostly Hebrew, men lead the reading and the service is longer.",
       "Reform: organ or choir may be used, English alongside Hebrew, shorter service, women may read from the Torah."
      ]
+    },
+    {
+     "h": "Grade 9 detail",
+     "bullets": [
+      "Lekha Dodi welcomes Shabbat 'like a bride', and the congregation turns to face the door for the last verse to greet her.",
+      "Before the Torah reading, the Ark is opened and the congregation sings as the scroll is carried round. Seven people are called for an **aliyah** on Shabbat morning.",
+      "Because the same portion is read in every synagogue in the world each week, Jews everywhere are studying the same text, which unites them.",
+      "A Bar or Bat Mitzvah often happens in the Shabbat morning service, as the young person reads from the Torah for the first time.",
+      "A shorter afternoon service (Minchah) includes the start of the next week's Torah portion.",
+      "Shabbat worship links to the creation (Genesis 2:2-3) and to the Exodus (Deuteronomy 5:15), the two reasons the Torah gives for Shabbat."
+     ]
     }
    ],
    "views": [
     {
      "label": "Orthodox",
-     "text": "Services are in Hebrew, men and women sit separately, no music, and electricity and driving are avoided on Shabbat."
+     "text": "Services are in Hebrew, men and women sit separately, there is no instrumental music, and worshippers walk to the synagogue because driving and electricity are avoided on Shabbat."
     },
     {
      "label": "Reform",
-     "text": "Services may include music, English readings and women reading the Torah. Some Reform Jews drive to the synagogue on Shabbat."
+     "text": "Services may include music, English readings and women reading from the Torah. Some members drive to the synagogue on Shabbat so they can attend worship."
     }
    ],
    "terms": [
@@ -420,6 +690,10 @@
     {
      "term": "Kiddush",
      "def": "blessing said over wine to sanctify Shabbat"
+    },
+    {
+     "term": "Lekha Dodi",
+     "def": "'Come, my beloved': the Friday night hymn welcoming Shabbat as a bride"
     }
    ],
    "sources": [
@@ -437,9 +711,19 @@
      "text": "Ezra read the law to the assembled people.",
      "ref": "Nehemiah 8:1-8",
      "use": "Use as the origin of public Torah reading."
+    },
+    {
+     "text": "'Observe the Sabbath day and keep it holy, as the Lord your God commanded you.'",
+     "ref": "Deuteronomy 5:12",
+     "use": "Use for Shabbat worship as a command; the Deuteronomy version links Shabbat to freedom from slavery (5:15)."
     }
    ],
-   "tip": "Mention the Torah reading as the high point of the Saturday service and give at least one Orthodox/Reform difference."
+   "tip": "Mention the Torah reading as the high point of the Saturday service and give at least one Orthodox/Reform difference.",
+   "pitfalls": [
+    "In 2024 nearly half of students scored under 2 on 'reasons why Jews worship on Shabbat'. Prepare reasons, not just descriptions: commandment, creation, covenant sign, hearing Torah, community.",
+    "Keep synagogue and home separate when a question asks for one. In 2022 some answers about Shabbat at home wrote about not driving to synagogue.",
+    "Name a source for the source mark: 'Exodus 20:8 says...' or 'The Torah says...'."
+   ]
   },
   {
    "id": "jp-06",
@@ -470,16 +754,36 @@
       "**Havdalah** ('separation') is said after nightfall on Saturday.",
       "It uses a plaited candle, a cup of wine and a spice box. The spice symbolises the sweetness of Shabbat carried into the week."
      ]
+    },
+    {
+     "h": "More customs and their meaning",
+     "bullets": [
+      "The **two candles** recall the two forms of the commandment: 'Remember' (Exodus 20:8) and 'Observe' (Deuteronomy 5:12). The woman lighting them covers her eyes while saying the blessing.",
+      "The **two challah loaves** recall the double portion of manna God gave in the wilderness on Fridays, so the Israelites did not have to gather food on Shabbat (Exodus 16).",
+      "Before eating bread, hands are washed with a blessing. After the meal, **Birkat Hamazon** (grace after meals) is said.",
+      "Parents bless their children, and many husbands sing Proverbs 31 ('A woman of valour') to their wives.",
+      "An **eruv** (a boundary, often a wire around an area) allows Orthodox Jews to carry things outside the home on Shabbat; there are eruvim in parts of London and Manchester.",
+      "Havdalah ends with wishing each other 'Shavua tov' ('a good week')."
+     ]
+    },
+    {
+     "h": "Why Shabbat matters",
+     "bullets": [
+      "It is one of the Ten Commandments and the **sign of the covenant** at Sinai (Exodus 31:16-17).",
+      "It remembers **creation** (God rested, Genesis 2:2-3) and **freedom** from slavery (Deuteronomy 5:15): slaves cannot rest, so resting shows freedom.",
+      "It gives time for family, study and prayer away from work and technology. The writer Ahad Ha'am said: 'More than the Jews have kept Shabbat, Shabbat has kept the Jews.'",
+      "Pikuach Nefesh allows Shabbat to be broken to save a life."
+     ]
     }
    ],
    "views": [
     {
      "label": "Orthodox",
-     "text": "The 39 melachot are kept strictly: no cooking, driving or electricity. Meals are prepared beforehand and kept warm."
+     "text": "The 39 melachot are kept strictly: no cooking, driving or switching on electricity. Food is prepared beforehand and kept warm, and timers may be set before Shabbat begins."
     },
     {
      "label": "Reform",
-     "text": "Shabbat is kept more flexibly. Some Reform Jews drive to synagogue or use electricity, seeing 'work' as what stops rest and spiritual renewal."
+     "text": "Shabbat is kept more flexibly. Some members drive to synagogue or use electricity, seeing 'work' as whatever stops rest and spiritual renewal."
     }
    ],
    "terms": [
@@ -502,6 +806,14 @@
     {
      "term": "melachot",
      "def": "the 39 categories of work forbidden on Shabbat"
+    },
+    {
+     "term": "Birkat Hamazon",
+     "def": "grace after meals"
+    },
+    {
+     "term": "eruv",
+     "def": "a boundary that turns an area into one 'shared space' so Orthodox Jews can carry items on Shabbat"
     }
    ],
    "sources": [
@@ -526,7 +838,12 @@
      "use": "Use to explain why Jews rest on Shabbat."
     }
    ],
-   "tip": "Describe what happens at the Friday meal (candles, Kiddush, challah) and Havdalah, then say why: a gift from God, rest, family and the covenant."
+   "tip": "Describe what happens at the Friday meal (candles, Kiddush, challah) and Havdalah, then say why: a gift from God, rest, family and the covenant.",
+   "pitfalls": [
+    "Some students in 2022 thought the blessings were for the candles, wine and bread. The blessings praise God for these things.",
+    "Do not say Jews 'cannot do anything' on Shabbat. Rest, prayer, study, family meals and walks are encouraged; it is a joyful day (Isaiah 58:13 calls it a 'delight').",
+    "For a 'home' question keep to the home: candles, Kiddush, challah, meal, songs, Havdalah, not doing work."
+   ]
   },
   {
    "id": "jp-07",
@@ -557,6 +874,27 @@
       "It explains how to keep laws, for example what counts as work on Shabbat, and extends the law to new situations.",
       "Orthodox Jews believe the Oral Law was given to Moses at Sinai alongside the Written Law.",
       "Reform Jews value the Talmud but see it as guidance written by humans, not binding law."
+     ]
+    },
+    {
+     "h": "More on worship in the home",
+     "bullets": [
+      "On waking, many Jews say **Modeh Ani**, thanking God for returning their soul. Before sleep they say the bedtime Shema.",
+      "Blessings (berakhot) are said before eating, after meals (Birkat Hamazon), and on seeing or hearing special things such as lightning or a rainbow.",
+      "The home is sometimes called a **mikdash me'at** (small sanctuary): the table is like the altar, and Shabbat and festival meals are acts of worship.",
+      "Parents have a duty to teach their children: 'Impress them on your children' (Deuteronomy 6:7). Children learn Judaism mainly through home life.",
+      "Private prayer can be in any language and in a person's own words, as Hannah's heartfelt prayer shows (1 Samuel 1:13)."
+     ]
+    },
+    {
+     "h": "Tenakh, Talmud and daily life",
+     "bullets": [
+      "A Torah scroll (**Sefer Torah**) is handwritten in Hebrew on parchment by a trained scribe (**sofer**); one mistake can make it unfit for use.",
+      "The Torah often states a law without the details. Example: it commands tefillin ('bind them as a sign on your hand', Deuteronomy 6:8), but the Talmud explains what goes inside them and how to wear them.",
+      "The Talmud (Shabbat 73a) lists the **39 melachot**, the types of work forbidden on Shabbat, which the Torah does not list.",
+      "The Talmud records **different opinions** and debates, teaching Jews to question and discuss. Later codes of Jewish law (Maimonides' Mishneh Torah, the Shulchan Arukh) are based on it.",
+      "Many Jews study a page of Talmud each day (**Daf Yomi**), finishing the whole Talmud in about seven and a half years. Children start learning Torah young: Pirkei Avot 5:21 says scripture at five and Mishnah at ten.",
+      "Rabbi Adin Steinsaltz wrote that if the Tenakh is the cornerstone of Judaism, the Talmud is the central pillar."
      ]
     }
    ],
@@ -594,6 +932,18 @@
     {
      "term": "halakhah",
      "def": "Jewish law"
+    },
+    {
+     "term": "sofer",
+     "def": "a scribe who handwrites Torah scrolls, mezuzot and tefillin"
+    },
+    {
+     "term": "Daf Yomi",
+     "def": "'daily page': studying one page of Talmud each day"
+    },
+    {
+     "term": "Nevi'im and Ketuvim",
+     "def": "the Prophets and the Writings: the second and third parts of the Tenakh"
     }
    ],
    "sources": [
@@ -621,9 +971,19 @@
      "text": "Hannah prayed silently, speaking from her heart.",
      "ref": "1 Samuel 1:13",
      "use": "Use for private prayer."
+    },
+    {
+     "text": "'Let not this Book of the Teaching cease from your lips, but recite it day and night.'",
+     "ref": "Joshua 1:8",
+     "use": "Use for the importance of daily Torah study."
     }
    ],
-   "tip": "AQA mark schemes for the Talmud reward: Mishnah and Gemara, applying law to new situations, oral tradition, and a named rabbi or source."
+   "tip": "AQA mark schemes for the Talmud reward: Mishnah and Gemara, applying law to new situations, oral tradition, and a named rabbi or source.",
+   "pitfalls": [
+    "In 2025 about 40% of students could not identify the Tenakh as the Written Law. Learn: Written Law = Tenakh (especially Torah); Oral Law = Talmud (Mishnah plus Gemara).",
+    "In 2023 some students thought the Talmud was the Torah or the Ner Tamid. The Talmud is a separate collection of rabbinic discussion explaining the Torah.",
+    "For the source mark on Talmud questions, name a specific example: the 39 melachot, the Mishnah and Gemara, or a named rabbi (Steinsaltz, Linzer)."
+   ]
   },
   {
    "id": "jp-08",
@@ -651,8 +1011,28 @@
     {
      "h": "Pidyon Haben",
      "bullets": [
-      "The 'redemption of the firstborn son' is held on the 31st day for a first-born son, if his mother is not a daughter of a kohen or levi.",
+      "The 'redemption of the firstborn son' is held on the 31st day for a first-born son, if he was born naturally (not by caesarean) and neither parent is from a priestly (kohen) or Levite family.",
       "The father gives five silver coins to a kohen to 'buy back' the child (Exodus 13:13; Numbers 18:16)."
+     ]
+    },
+    {
+     "h": "More detail",
+     "bullets": [
+      "Brit Milah ideally needs a minyan. A chair is set aside for the prophet **Elijah**, seen as the guardian of the covenant.",
+      "The father says a blessing for bringing his son into the covenant of Abraham, and those present reply: 'May he enter into Torah, into marriage (chuppah) and into good deeds.'",
+      "If the baby is unwell, the Brit Milah is **delayed** until he is healthy, because Pikuach Nefesh (saving life) comes first.",
+      "Some families hold a **Shalom Zachar** ('welcome to the male') gathering at home on the first Friday night after a boy is born.",
+      "Some parents whisper the Shema into a newborn baby's ear.",
+      "Reform and Liberal Jews also practise Brit Milah, and many hold a **Brit Bat** or Simchat Bat (covenant or celebration for a daughter), which can happen at any time after the birth and may include both parents leading prayers.",
+      "A small number of Jews in Britain and elsewhere question circumcision and choose a non-surgical naming ceremony instead, but the great majority of Jewish families keep Brit Milah."
+     ]
+    },
+    {
+     "h": "Why birth ceremonies matter",
+     "bullets": [
+      "They bring the child into the **covenant** God made with Abraham (Genesis 17).",
+      "They give the child a **Hebrew name**, linking them to family and Jewish history.",
+      "They welcome the child into the community and express thanks to God for new life ('Children are a heritage from the Lord', Psalm 127:3)."
      ]
     }
    ],
@@ -686,6 +1066,14 @@
     {
      "term": "Pidyon Haben",
      "def": "the redemption of the firstborn son with five silver coins"
+    },
+    {
+     "term": "Shalom Zachar",
+     "def": "a gathering on the first Friday night after a baby boy's birth to welcome him"
+    },
+    {
+     "term": "Brit Bat",
+     "def": "'covenant of a daughter': a ceremony welcoming a baby girl"
     }
    ],
    "sources": [
@@ -710,7 +1098,12 @@
      "use": "Use for the importance of family and children."
     }
    ],
-   "tip": "For Brit Milah, say what happens, the day (eighth), and why (sign of the covenant with Abraham, Genesis 17). Note the difference between boys' and girls' ceremonies."
+   "tip": "For Brit Milah, say what happens, the day (eighth), and why (sign of the covenant with Abraham, Genesis 17). Note the difference between boys' and girls' ceremonies.",
+   "pitfalls": [
+    "In 2025 some students said Jews baptise babies. Baptism is Christian; Jewish birth ceremonies are Brit Milah, naming, Simchat Bat, Shalom Zachar and Pidyon Haben.",
+    "In 2023 about 30% of students did not link Brit Milah with birth. Brit Milah = circumcision on the eighth day after birth.",
+    "Develop each point: not just 'they have a party' but what happens and why (for example the chair of Elijah, the blessing, the covenant)."
+   ]
   },
   {
    "id": "jp-09",
@@ -745,6 +1138,17 @@
       "It links the young person to the covenant and the community.",
       "Jews believe it reflects Pirkei Avot: 'at thirteen, the age for observing the commandments'."
      ]
+    },
+    {
+     "h": "Grade 9 detail",
+     "bullets": [
+      "A boy becomes Bar Mitzvah automatically at 13 (and a girl Bat Mitzvah at 12) whether or not there is a ceremony. The ceremony celebrates and marks this change.",
+      "The young person may give a **d'var Torah** (a short talk on the week's Torah portion). In some synagogues the congregation throws soft sweets after the reading, wishing them a sweet life.",
+      "The father says a blessing ('Barukh shepatarani') thanking God that he is no longer responsible for his child's wrongdoing: the young person now answers for their own actions.",
+      "The age of 12 for girls is based on the Mishnah (Niddah 5:6), which treats a girl's vows as valid from twelve years and a day.",
+      "Some Reform and Liberal synagogues also hold a **Kabbalat Torah** or confirmation ceremony at about 15 or 16, when teenagers can understand their faith more deeply.",
+      "Afterwards the young person counts in the minyan (in Orthodox Judaism, boys only), may be called up to the Torah and must fast on Yom Kippur."
+     ]
     }
    ],
    "views": [
@@ -777,6 +1181,14 @@
     {
      "term": "aliyah",
      "def": "being called up to read from the Torah"
+    },
+    {
+     "term": "d'var Torah",
+     "def": "a short talk explaining the week's Torah portion"
+    },
+    {
+     "term": "Bat Chayil",
+     "def": "'daughter of worth': a celebration for a girl's coming of age in some Orthodox communities"
     }
    ],
    "sources": [
@@ -791,12 +1203,22 @@
      "use": "The blessing often said at the ceremony."
     },
     {
-     "text": "Rabbi Weinberg: girls now have equality in everything, so Bat Mitzvah gives full equality (paraphrase).",
-     "ref": "Rabbi Weinberg",
-     "use": "Use to explain the Reform view of Bat Mitzvah."
+     "text": "From the age of twelve years and one day, a girl's vows are valid without being examined.",
+     "ref": "Mishnah Niddah 5:6",
+     "use": "Use to explain why girls traditionally reach religious adulthood (Bat Mitzvah) at 12, a year before boys."
+    },
+    {
+     "text": "'All that the Lord has spoken we will do.'",
+     "ref": "Exodus 24:7",
+     "use": "Use to show that at Bar or Bat Mitzvah a young Jew personally accepts the covenant the people accepted at Sinai."
     }
    ],
-   "tip": "For a 'different' question, one difference could be Orthodox (no Torah reading by girls) versus Reform (same as boys). Also mention tallit and tefillin for boys."
+   "tip": "For a 'different' question, one difference could be Orthodox (no Torah reading by girls) versus Reform (same as boys). Also mention tallit and tefillin for boys.",
+   "pitfalls": [
+    "In 2024 the mark scheme credited only what happens during the ceremony, not preparation such as months of study. Read the question carefully.",
+    "Be accurate on ages: Bar Mitzvah at 13; Bat Mitzvah at 12 in Orthodox Judaism and often 12 or 13 in Reform.",
+    "Do not say a child becomes Jewish at Bar Mitzvah. They are already Jewish; they become responsible for keeping the mitzvot."
+   ]
   },
   {
    "id": "jp-10",
@@ -829,16 +1251,36 @@
       "It is a mitzvah (Genesis 1:28, 'be fruitful and multiply') and the basis for family and Jewish continuity.",
       "The Talmud teaches that a person without a spouse lives without joy."
      ]
+    },
+    {
+     "h": "The two stages of the ceremony",
+     "bullets": [
+      "Jewish marriage traditionally has two parts, now joined in one ceremony: **kiddushin** (betrothal, 'making holy'), when the ring is given before two witnesses, and **nisuin** (the marriage itself), under the chuppah with the Seven Blessings.",
+      "Before the ceremony the groom covers the bride's face with her veil (**bedeken**), recalling Rebecca covering her face when she met Isaac (Genesis 24:65).",
+      "The **ketubah** is signed by witnesses and read aloud under the chuppah. It protects the wife, for example her financial rights if the marriage ends.",
+      "After the glass is broken, everyone shouts '**Mazel tov**' (good luck / congratulations).",
+      "In Orthodox families the couple celebrate with Sheva Berakhot meals for seven days after the wedding."
+     ]
+    },
+    {
+     "h": "Why marriage matters",
+     "bullets": [
+      "'It is not good for the man to be alone' (Genesis 2:18): companionship is part of God's plan.",
+      "The Jewish home is where children learn Judaism, so marriage helps the faith continue.",
+      "Marriage is called kiddushin ('holiness'): the couple are set apart for each other, and God is part of the relationship.",
+      "Orthodox Judaism only conducts marriages where both partners are Jewish; views on mixed-faith marriages vary in Progressive communities.",
+      "In Britain the Reform and Liberal movements agreed in 2025 to merge as Progressive Judaism; these communities hold same-sex weddings, which Orthodox Judaism does not."
+     ]
     }
    ],
    "views": [
     {
      "label": "Orthodox",
-     "text": "Marriage is between a man and a woman, with traditions such as the bride circling, men and women dancing separately, and the groom giving the ring. Both must be Jewish."
+     "text": "Marriage is between a Jewish man and a Jewish woman. Traditions such as the bride circling the groom and separate dancing are kept, and only the groom gives a ring as part of the legal act."
     },
     {
-     "label": "Reform",
-     "text": "Practices are more flexible: the bride may also give a ring, circling is optional and men and women celebrate together. Reform and Liberal synagogues in Britain also hold same-sex weddings, which Orthodox Judaism does not."
+     "label": "Progressive (Reform and Liberal)",
+     "text": "Practices are more flexible: both partners may give rings and make declarations, circling is optional or done by both, and same-sex couples can marry in these synagogues in Britain."
     }
    ],
    "terms": [
@@ -861,6 +1303,14 @@
     {
      "term": "kiddushin",
      "def": "the betrothal part of the ceremony: 'sanctification'"
+    },
+    {
+     "term": "nisuin",
+     "def": "the second stage of marriage, under the chuppah"
+    },
+    {
+     "term": "bedeken",
+     "def": "the veiling of the bride by the groom before the ceremony"
     }
    ],
    "sources": [
@@ -883,9 +1333,24 @@
      "text": "Blessings thanking God who created joy and gladness, bride and groom, love and companionship.",
      "ref": "The Seven Blessings (Sheva Berakhot)",
      "use": "Use to show marriage is a religious event as well as a celebration."
+    },
+    {
+     "text": "'It is not good for the man to be alone; I will make a fitting helper for him.'",
+     "ref": "Genesis 2:18",
+     "use": "Use for marriage as companionship, part of God's plan for humans."
+    },
+    {
+     "text": "Any man who has no wife lives without joy, without blessing and without goodness.",
+     "ref": "Talmud, Yevamot 62b",
+     "use": "Use for the importance the rabbis give to marriage."
     }
    ],
-   "tip": "Know four or five symbols and what they mean (chuppah, ring, glass, ketubah, Seven Blessings). Don't mix up the glass (Temple) and the chuppah (home)."
+   "tip": "Know four or five symbols and what they mean (chuppah, ring, glass, ketubah, Seven Blessings). Don't mix up the glass (Temple) and the chuppah (home).",
+   "pitfalls": [
+    "Do not mix up the symbols: the chuppah stands for the couple's new home; breaking the glass remembers the destruction of the Temple.",
+    "Avoid Christian wedding details (vows 'till death us do part', a priest, a church aisle). In a Jewish wedding there is a chuppah, ketubah, ring before witnesses and the Seven Blessings.",
+    "When asked about differences, compare Orthodox and Reform practice clearly (rings, circling, same-sex marriage, separate dancing)."
+   ]
   },
   {
    "id": "jp-11",
@@ -907,16 +1372,37 @@
      "bullets": [
       "**Shiva** ('seven'): seven days of intense mourning at home. Mourners sit on low stools, cover mirrors, do not work or wear leather shoes, and receive visitors. A memorial candle is lit and prayers are said at home.",
       "**Sheloshim** ('thirty'): the 30 days after the funeral, with fewer restrictions.",
-      "**Avelut**: for a parent, mourning continues for a year, and the child says Kaddish daily.",
+      "**Avelut**: for a parent, mourning continues for twelve months, and the child says Kaddish daily for eleven months.",
       "**Yahrzeit**: the yearly anniversary of the death, when a candle is lit and Kaddish is said.",
       "A gravestone is placed after about a year and an **unveiling** is held."
+     ]
+    },
+    {
+     "h": "From death to burial",
+     "bullets": [
+      "When they hear of a death, Jews say '**Barukh Dayan HaEmet**' ('Blessed is the true Judge'), accepting God's judgement even in grief (compare Job 1:21, 'The Lord gave and the Lord has taken away; blessed be the name of the Lord').",
+      "**Aninut**: the time between death and burial. Close relatives are excused from some mitzvot so they can arrange the funeral.",
+      "The body is never left alone: a watcher (**shomer**) stays with it and recites Psalms.",
+      "The Torah says a body should be buried 'the same day' (Deuteronomy 21:23), which is why burial is so quick.",
+      "At the graveside, mourners and friends shovel earth onto the coffin themselves, as a final act of kindness that cannot be repaid.",
+      "Flowers are not usually used. Visitors to a grave leave a small **stone** to show they have been there."
+     ]
+    },
+    {
+     "h": "Meaning and purpose",
+     "bullets": [
+      "The rituals show respect for the body, which was created by God, and many link burial to belief in resurrection.",
+      "The stages let mourners grieve fully at first (shiva) and then return gradually to normal life.",
+      "The community supports mourners: visitors bring food, the first meal after the funeral (often including round eggs, a symbol of the cycle of life) is provided by others, and a minyan gathers at the shiva house so Kaddish can be said.",
+      "The **Kaddish** does not mention death: it praises God, showing faith even at a time of loss.",
+      "Mourners are greeted with: 'May God comfort you among the mourners of Zion and Jerusalem.'"
      ]
     }
    ],
    "views": [
     {
      "label": "Orthodox",
-     "text": "Burial only, never cremation. Strict observance of shiva and sheloshim. Often only men go to the graveside and say Kaddish."
+     "text": "Burial only, never cremation. Strict observance of shiva and sheloshim. Traditionally only men say Kaddish in the synagogue, though some communities now welcome women saying it too."
     },
     {
      "label": "Reform",
@@ -943,6 +1429,14 @@
     {
      "term": "keriah",
      "def": "tearing clothes as a sign of grief"
+    },
+    {
+     "term": "aninut",
+     "def": "the period between death and burial"
+    },
+    {
+     "term": "sheloshim",
+     "def": "the first thirty days of mourning"
     }
    ],
    "sources": [
@@ -965,9 +1459,19 @@
      "text": "'May God comfort you among all the mourners of Zion and Jerusalem.'",
      "ref": "Words said to mourners",
      "use": "Use to show the community supports the bereaved."
+    },
+    {
+     "text": "'The Lord gave, and the Lord has taken away; blessed be the name of the Lord.'",
+     "ref": "Job 1:21",
+     "use": "Use for accepting God's will in grief, reflected in the words said on hearing of a death."
     }
    ],
-   "tip": "Remember the stages in order: shiva (7 days), sheloshim (30), avelut (year for a parent), yahrzeit (every year). Explain one custom and why for each mark."
+   "tip": "Remember the stages in order: shiva (7 days), sheloshim (30), avelut (year for a parent), yahrzeit (every year). Explain one custom and why for each mark.",
+   "pitfalls": [
+    "In 2023 some students wrote everything about funerals when asked about life after death. In a mourning question, describe the rituals and explain their meaning; in a beliefs question, link rituals to a belief.",
+    "Learn the order: aninut, funeral, shiva (7 days), sheloshim (30 days), twelve months for a parent with Kaddish for 11 months, then yahrzeit each year.",
+    "Kaddish is not a prayer to or for the dead in the Christian sense; it praises God."
+   ]
   },
   {
    "id": "jp-12",
@@ -997,6 +1501,27 @@
      "bullets": [
       "Animals must be killed by a trained **shochet** with a very sharp knife in one quick cut, with a blessing, so it does not suffer (**shechitah**).",
       "Reasons for keeping kosher: obedience to God, self-discipline, holiness, Jewish identity and unity, respect for life."
+     ]
+    },
+    {
+     "h": "More rules and terms",
+     "bullets": [
+      "Meat dishes are called **fleishig**, dairy dishes **milchig**, and neutral foods **pareve**. Fish is pareve, so it can be eaten with dairy, but it is not 'meat'.",
+      "Only birds on the permitted list are eaten (for example chicken, turkey, duck); birds of prey are forbidden. Most insects are not kosher.",
+      "The rule 'do not boil a kid in its mother's milk' appears three times in the Torah (Exodus 23:19, Exodus 34:26, Deuteronomy 14:21); the rabbis explain this as a full separation of meat and milk.",
+      "Packaged food is checked by rabbinic authorities and carries a **hechsher** (kosher certification symbol); in Britain the London Beth Din (KLBD) and other bodies certify foods.",
+      "Wine and grape juice must also be kosher. During Pesach extra rules apply (no chametz)."
+     ]
+    },
+    {
+     "h": "Reasons and different views on importance",
+     "bullets": [
+      "The Torah gives the laws as a **chok** (a law to be obeyed even without a stated reason) and links them to holiness: 'Be holy, for I am holy' (Leviticus 11:44).",
+      "Keeping kosher brings God into every meal, builds self-control (Maimonides) and gives Jews a distinct identity.",
+      "**Orthodox**: kashrut is binding for all Jews; homes have separate sets of dishes and many eat only in kosher restaurants.",
+      "**Reform and Liberal**: a personal choice. Some keep a 'kosher-style' home (no pork or shellfish, no mixing meat and milk), some keep none. The Reform Pittsburgh Platform (1885) said diet laws belonged to an earlier age, but many Reform Jews today choose some kashrut to express identity.",
+      "Some Jews practise **ethical kashrut**, caring about animal welfare, fair trade and the environment, and some become vegetarian or vegan, which makes keeping kosher simpler.",
+      "In UK law, as of 2026, religious slaughter without pre-stunning (shechitah) is permitted as an exemption. Some animal welfare groups argue animals should be stunned first; Jewish organisations argue shechitah is humane. Present both views in an answer about this."
      ]
     }
    ],
@@ -1030,6 +1555,14 @@
     {
      "term": "shechitah",
      "def": "the kosher method of slaughter"
+    },
+    {
+     "term": "hechsher",
+     "def": "a symbol on food packaging showing it is certified kosher"
+    },
+    {
+     "term": "fleishig and milchig",
+     "def": "meat foods and dairy foods (Yiddish terms)"
     }
    ],
    "sources": [
@@ -1052,9 +1585,19 @@
      "text": "'Do not eat the blood of any bird or animal.'",
      "ref": "Leviticus 7:26-27",
      "use": "Use for why blood is forbidden."
+    },
+    {
+     "text": "'Be holy, for I am holy.'",
+     "ref": "Leviticus 11:44",
+     "use": "Use for the main reason for the food laws: holiness and obedience to God."
     }
    ],
-   "tip": "For different views on dietary laws, contrast strict Orthodox keeping with Reform personal choice, and say why each group thinks that way."
+   "tip": "For different views on dietary laws, contrast strict Orthodox keeping with Reform personal choice, and say why each group thinks that way.",
+   "pitfalls": [
+    "In 2022 weaker answers just named animals ('cow, chicken') or said kosher animals 'don't chew the cud'. Give the rule: chews the cud and has split hooves; fish with fins and scales.",
+    "Do not describe shechitah simply as a 'painless death'. Say it is carried out by a trained shochet with a very sharp knife in one swift cut, intended to minimise suffering and drain the blood.",
+    "In 2024 many 12-mark answers just described the rules. If asked whether dietary laws are important, evaluate: give reasons for and against importance and different Jewish views."
+   ]
   },
   {
    "id": "jp-13",
@@ -1088,6 +1631,33 @@
       "Services start with **Kol Nidre**, include confession of sins (**Vidui**) and the **Book of Jonah** (God's forgiveness), and end with **Neilah** (closing) and a long blast of the shofar.",
       "Yom Kippur forgives sins against God. For sins against other people, Jews must first apologise to the person."
      ]
+    },
+    {
+     "h": "Origins",
+     "bullets": [
+      "The Torah calls Rosh Hashanah a day of 'loud blasts' on the first day of the seventh month (Leviticus 23:24; Numbers 29:1). The rabbis taught it is the anniversary of the creation of the world (or of humanity) and the day of judgement (**Yom HaDin**).",
+      "Yom Kippur comes from Leviticus 16 and 23:27: on the tenth day of the seventh month the High Priest entered the Holy of Holies to make atonement for the people, and the people practised 'self-denial'. Today prayer, repentance and charity replace the Temple rituals.",
+      "Tradition says three books are opened on Rosh Hashanah: for the righteous, the wicked and the in-between (Talmud, Rosh Hashanah 16b). Jews greet each other with 'May you be written and sealed for a good year' (Shanah tovah)."
+     ]
+    },
+    {
+     "h": "More customs",
+     "bullets": [
+      "The shofar is blown with set patterns of notes (tekiah, shevarim, teruah). It is not blown when Rosh Hashanah falls on Shabbat.",
+      "Some eat pomegranate seeds (hoping for as many good deeds as there are seeds) or the head of a fish ('to be the head and not the tail').",
+      "Torah readings include the birth of Isaac and the binding of Isaac (Genesis 21 and 22).",
+      "On Yom Kippur the confession (**Vidui**) is said in the plural ('we have sinned'), showing shared responsibility. The prayer **Avinu Malkeinu** ('Our Father, our King') is said with the Ark open.",
+      "Many people who are ill, pregnant women at risk, and children under Bar or Bat Mitzvah age do not fast, because of Pikuach Nefesh."
+     ]
+    },
+    {
+     "h": "Importance for Jews in Great Britain today",
+     "bullets": [
+      "The High Holy Days are the busiest days in British synagogues; many Jews who rarely attend at other times go to services, and some synagogues need extra venues or tickets.",
+      "Schools and employers in Britain often allow Jewish pupils and staff time off; Jewish schools close.",
+      "Synagogues run High Holy Day charity appeals, linking repentance with tzedakah.",
+      "The festivals give Jews a yearly chance to reflect, put relationships right and start again, which many value even if they are not strictly observant."
+     ]
     }
    ],
    "views": [
@@ -1097,7 +1667,7 @@
     },
     {
      "label": "Reform",
-     "text": "Rosh Hashanah is usually one day. Services are shorter and may include English readings, and the emphasis is often on personal reflection and ethics."
+     "text": "Rosh Hashanah is often kept for one day. Services are shorter and may include English readings, and the emphasis is often on personal reflection and ethics."
     }
    ],
    "terms": [
@@ -1124,6 +1694,14 @@
     {
      "term": "Kol Nidre",
      "def": "prayer that begins Yom Kippur"
+    },
+    {
+     "term": "Yom HaDin",
+     "def": "'Day of Judgement': a name for Rosh Hashanah"
+    },
+    {
+     "term": "Vidui",
+     "def": "the confession of sins said on Yom Kippur"
     }
    ],
    "sources": [
@@ -1146,9 +1724,19 @@
      "text": "'Seek the Lord while He may be found.'",
      "ref": "Isaiah 55:6",
      "use": "Use for the Ten Days of Awe: a time to return to God."
+    },
+    {
+     "text": "'For on this day atonement shall be made for you to purify you of all your sins; you shall be pure before the Lord.'",
+     "ref": "Leviticus 16:30",
+     "use": "Use for the origin and meaning of Yom Kippur as the Day of Atonement."
     }
    ],
-   "tip": "Use the words judgement, repentance, forgiveness and one symbol (shofar, white clothes, fast) with its meaning for each festival."
+   "tip": "Use the words judgement, repentance, forgiveness and one symbol (shofar, white clothes, fast) with its meaning for each festival.",
+   "pitfalls": [
+    "In 2023 many students mixed up Rosh Hashanah and Yom Kippur. Rosh Hashanah: new year, shofar, apples and honey, tashlich, judgement written. Yom Kippur: fast, white, Kol Nidre, Neilah, judgement sealed.",
+    "Yom HaDin means judgement for the coming year, not judgement after death (a 2022 confusion). And Rosh Hashanah is not like secular New Year's Eve.",
+    "Tashlich uses breadcrumbs (or emptying pockets) thrown into flowing water, not stones."
+   ]
   },
   {
    "id": "jp-14",
@@ -1186,6 +1774,35 @@
       "It reminds Jews that God saves His people and gives hope for the future.",
       "It teaches children about their history and identity. It is a family and community celebration."
      ]
+    },
+    {
+     "h": "Origins in more detail",
+     "bullets": [
+      "The Israelites were slaves in Egypt. God called Moses at the burning bush and sent him to Pharaoh with the demand 'Let my people go'.",
+      "God sent ten plagues. Before the tenth, the death of the firstborn, each Israelite family killed a lamb, marked the doorposts with its blood and ate it in haste with matzah and bitter herbs (Exodus 12). God 'passed over' their houses.",
+      "Pharaoh let the people go; they crossed the Sea of Reeds and were free. God commanded that the festival be kept 'for all time' (Exodus 12:14) and that parents tell their children the story (Exodus 13:8).",
+      "In Temple times Pesach was a pilgrimage festival when a lamb was sacrificed; today the shank bone (zeroa) recalls this."
+     ]
+    },
+    {
+     "h": "More customs",
+     "bullets": [
+      "**Bedikat chametz**: the night before Pesach, families search the house for chametz by candlelight, often with a feather and spoon; ten pieces are hidden for children to find. Remaining chametz is burned the next morning or sold to a non-Jew.",
+      "The **afikoman**: half of the middle matzah is hidden and children search for it; the meal cannot end until it is found and eaten.",
+      "The Haggadah describes **four children** (wise, wicked, simple and the one who does not know how to ask), showing the story must be taught to everyone in a way they understand.",
+      "Drops of wine are removed from the cup for each plague, so joy is lessened by remembering the suffering of the Egyptians.",
+      "The Seder ends with '**Next year in Jerusalem**', expressing hope for the future and the Messianic Age.",
+      "Pesach also begins the **counting of the Omer**, 49 days leading to Shavuot, when the Torah was given."
+     ]
+    },
+    {
+     "h": "Importance for Jews in Great Britain today",
+     "bullets": [
+      "Pesach is one of the most widely kept Jewish festivals in Britain: many Jews who keep few other rituals attend a family Seder.",
+      "It strengthens family and identity, as each generation tells the story 'as if they personally came out of Egypt' (Mishnah Pesachim 10:5).",
+      "Many families add readings about freedom today, such as refugees and modern slavery, and some synagogues and charities hold communal Seders so no one is alone.",
+      "Kosher-for-Pesach food is widely available in British supermarkets in areas with Jewish communities."
+     ]
     }
    ],
    "views": [
@@ -1222,6 +1839,14 @@
     {
      "term": "maror",
      "def": "bitter herbs symbolising slavery"
+    },
+    {
+     "term": "afikoman",
+     "def": "the piece of matzah hidden during the Seder and found by the children"
+    },
+    {
+     "term": "bedikat chametz",
+     "def": "the search for leavened food the night before Pesach"
     }
    ],
    "sources": [
@@ -1244,9 +1869,19 @@
      "text": "'The Lord took us out of Egypt with a mighty hand and an outstretched arm.'",
      "ref": "Deuteronomy 26:8",
      "use": "Use to show God as saviour in the story."
+    },
+    {
+     "text": "'And you shall explain to your child on that day: It is because of what the Lord did for me when I went free from Egypt.'",
+     "ref": "Exodus 13:8",
+     "use": "Use for why the Seder is centred on telling the story to children."
     }
    ],
-   "tip": "Know the Seder plate items and what each symbolises. For 'different' questions, you could contrast preparation (cleaning the home) with the Seder itself, or Orthodox and Reform practice."
+   "tip": "Know the Seder plate items and what each symbolises. For 'different' questions, you could contrast preparation (cleaning the home) with the Seder itself, or Orthodox and Reform practice.",
+   "pitfalls": [
+    "In 2025 many students quoted Exodus but did not name it, losing the source mark. Say 'Exodus 12:14 says...'.",
+    "Explain why Pesach is important (freedom, God saving the people, identity, passing on to children), not just describe the Seder plate. Link each symbol to a reason.",
+    "Do not confuse Pesach with Easter or say Jews celebrate Jesus at Pesach; Pesach remembers the Exodus from Egypt."
+   ]
   }
  ],
  "flashcards": [
@@ -1599,6 +2234,316 @@
    "topic": "jp-14",
    "q": "What is Elijah's cup?",
    "a": "A cup of wine left for the prophet Elijah, who Jews believe will announce the Messiah. The door is opened for him."
+  },
+  {
+   "q": "Give four ways a synagogue is used.",
+   "a": "Worship (services, minyan), education (cheder, Torah study), community and social events, and ceremonies such as Bar Mitzvah and weddings.",
+   "topic": "jp-01"
+  },
+  {
+   "q": "What does 'mikdash me'at' mean?",
+   "a": "'Small sanctuary': the synagogue as a replacement for the Temple in Jerusalem.",
+   "topic": "jp-01"
+  },
+  {
+   "q": "Which prayers need a minyan?",
+   "a": "Communal prayers such as Kaddish, the public reading of the Torah and the repetition of the Amidah.",
+   "topic": "jp-01"
+  },
+  {
+   "q": "Why is the synagogue important for Jews in Britain?",
+   "a": "Jews are a small minority, so it gives them a place to meet, support each other, educate children and keep Jewish identity.",
+   "topic": "jp-01"
+  },
+  {
+   "q": "What do worshippers do when the Torah is carried round the synagogue?",
+   "a": "Touch it with their tallit fringes or prayer book and kiss them, showing love and respect for the Torah.",
+   "topic": "jp-02"
+  },
+  {
+   "q": "Where is the bimah in Orthodox and Reform synagogues?",
+   "a": "Orthodox: usually in the centre. Reform: usually at the front, in front of the Ark.",
+   "topic": "jp-02"
+  },
+  {
+   "q": "What is the parochet?",
+   "a": "The curtain over the Ark, recalling the curtain before the Holy of Holies in the Temple.",
+   "topic": "jp-02"
+  },
+  {
+   "q": "Why do worshippers stand when the Ark is opened?",
+   "a": "Out of respect for the Torah scrolls, the holiest objects in the synagogue.",
+   "topic": "jp-02"
+  },
+  {
+   "q": "What is a chazan?",
+   "a": "A cantor who sings and leads the prayers in the synagogue.",
+   "topic": "jp-03"
+  },
+  {
+   "q": "Why do Orthodox Jews keep services in Hebrew?",
+   "a": "Hebrew is the holy language of the Torah and prayer, and it unites Jews worldwide.",
+   "topic": "jp-03"
+  },
+  {
+   "q": "Why do Reform synagogues use English as well as Hebrew?",
+   "a": "So that everyone can understand and pray with kavanah (concentration).",
+   "topic": "jp-03"
+  },
+  {
+   "q": "What happened to Reform and Liberal Judaism in Britain in 2025?",
+   "a": "They merged to form Progressive Judaism. Many synagogues still call themselves Reform or Liberal.",
+   "topic": "jp-03"
+  },
+  {
+   "q": "Why is the Amidah said standing with feet together?",
+   "a": "As if standing before God the King; feet together copies the angels in Ezekiel's vision. Worshippers face Jerusalem.",
+   "topic": "jp-04"
+  },
+  {
+   "q": "Why is the Amidah said quietly?",
+   "a": "Following Hannah, who prayed silently with only her lips moving (1 Samuel 1:13); it shows prayer is personal and sincere.",
+   "topic": "jp-04"
+  },
+  {
+   "q": "How does the Shabbat Amidah differ from the weekday one?",
+   "a": "The 13 requests are replaced by one blessing about the holiness of Shabbat, so worshippers rest from everyday worries.",
+   "topic": "jp-04"
+  },
+  {
+   "q": "Which verse shows prayer replacing Temple sacrifice?",
+   "a": "Hosea 14:2: 'we will offer the words of our lips' instead of bulls.",
+   "topic": "jp-04"
+  },
+  {
+   "q": "Give three reasons why Jews pray.",
+   "a": "To praise and thank God, to ask for help or forgiveness, and because it is a mitzvah that builds the relationship with God and the community.",
+   "topic": "jp-04"
+  },
+  {
+   "q": "How many people are called up for an aliyah on Shabbat morning?",
+   "a": "Seven (plus one for the Haftarah reading).",
+   "topic": "jp-05"
+  },
+  {
+   "q": "Why do Orthodox Jews walk to the synagogue on Shabbat?",
+   "a": "Driving involves lighting a fire (the engine), one of the 39 forbidden kinds of work.",
+   "topic": "jp-05"
+  },
+  {
+   "q": "Why does reading the same Torah portion each week matter?",
+   "a": "Jews all over the world study the same passage, which unites the Jewish people.",
+   "topic": "jp-05"
+  },
+  {
+   "q": "What two events does Shabbat remember, according to the Torah?",
+   "a": "Creation, when God rested (Exodus 20:11), and freedom from slavery in Egypt (Deuteronomy 5:15).",
+   "topic": "jp-05"
+  },
+  {
+   "q": "What do the two Shabbat candles represent?",
+   "a": "The two commands about Shabbat: 'Remember' (Exodus 20:8) and 'Observe' (Deuteronomy 5:12).",
+   "topic": "jp-06"
+  },
+  {
+   "q": "Why are there two challah loaves?",
+   "a": "To remember the double portion of manna God provided on Fridays in the wilderness (Exodus 16).",
+   "topic": "jp-06"
+  },
+  {
+   "q": "What is an eruv?",
+   "a": "A boundary around an area that allows Orthodox Jews to carry things outside on Shabbat; there are eruvim in parts of London and Manchester.",
+   "topic": "jp-06"
+  },
+  {
+   "q": "Why does Deuteronomy link Shabbat to Egypt?",
+   "a": "Because the Israelites were slaves and God freed them; resting on Shabbat celebrates freedom (Deuteronomy 5:15).",
+   "topic": "jp-06"
+  },
+  {
+   "q": "What is Modeh Ani?",
+   "a": "A short prayer said on waking, thanking God for returning one's soul.",
+   "topic": "jp-07"
+  },
+  {
+   "q": "What is a sofer?",
+   "a": "A trained scribe who handwrites Torah scrolls, mezuzot and tefillin on parchment.",
+   "topic": "jp-07"
+  },
+  {
+   "q": "Give an example of the Talmud explaining a Torah law.",
+   "a": "The Torah forbids work on Shabbat; the Talmud lists the 39 melachot. The Torah commands tefillin; the Talmud explains how to make and wear them.",
+   "topic": "jp-07"
+  },
+  {
+   "q": "What is Daf Yomi?",
+   "a": "Studying one page of Talmud a day, completing it in about seven and a half years.",
+   "topic": "jp-07"
+  },
+  {
+   "q": "What did Rabbi Adin Steinsaltz say about the Talmud?",
+   "a": "If the Tenakh is the cornerstone of Judaism, the Talmud is the central pillar.",
+   "topic": "jp-07"
+  },
+  {
+   "q": "What do people say to the baby's family at a Brit Milah?",
+   "a": "'May he enter into Torah, into marriage (chuppah) and into good deeds.'",
+   "topic": "jp-08"
+  },
+  {
+   "q": "Why might a Brit Milah be delayed?",
+   "a": "If the baby is unwell: Pikuach Nefesh (health and life) comes first.",
+   "topic": "jp-08"
+  },
+  {
+   "q": "What is a Shalom Zachar?",
+   "a": "A gathering on the first Friday night after a boy is born to welcome him into the community.",
+   "topic": "jp-08"
+  },
+  {
+   "q": "What is a Brit Bat?",
+   "a": "A 'covenant of a daughter' ceremony welcoming a baby girl, common in Reform and Liberal Judaism.",
+   "topic": "jp-08"
+  },
+  {
+   "q": "Does a boy need a ceremony to become Bar Mitzvah?",
+   "a": "No. He becomes Bar Mitzvah automatically at 13; the ceremony celebrates this.",
+   "topic": "jp-09"
+  },
+  {
+   "q": "What is a d'var Torah?",
+   "a": "A short talk on the week's Torah portion, often given by the Bar or Bat Mitzvah.",
+   "topic": "jp-09"
+  },
+  {
+   "q": "Why are sweets sometimes thrown at a Bar or Bat Mitzvah?",
+   "a": "To wish the young person a sweet life after they read from the Torah.",
+   "topic": "jp-09"
+  },
+  {
+   "q": "What does the father's blessing at a Bar Mitzvah mean?",
+   "a": "He thanks God he is no longer responsible for his son's wrongdoing; the son is now responsible himself.",
+   "topic": "jp-09"
+  },
+  {
+   "q": "What are kiddushin and nisuin?",
+   "a": "The two stages of a Jewish marriage: kiddushin (betrothal with the ring before witnesses) and nisuin (the marriage under the chuppah with the Seven Blessings).",
+   "topic": "jp-10"
+  },
+  {
+   "q": "What is the bedeken and why is it done?",
+   "a": "The groom veils the bride before the ceremony, recalling Rebecca covering her face when she met Isaac (Genesis 24:65).",
+   "topic": "jp-10"
+  },
+  {
+   "q": "Why is the ketubah important?",
+   "a": "It is the marriage contract, signed by witnesses, that protects the wife's rights, including financially if the marriage ends.",
+   "topic": "jp-10"
+  },
+  {
+   "q": "What does 'kiddushin' mean and why is it used for marriage?",
+   "a": "'Holiness' or 'making holy': the couple are set apart for each other, making marriage a holy relationship.",
+   "topic": "jp-10"
+  },
+  {
+   "q": "What do Jews say when they hear of a death?",
+   "a": "'Barukh Dayan HaEmet': 'Blessed is the true Judge'.",
+   "topic": "jp-11"
+  },
+  {
+   "q": "Why do mourners and friends shovel earth onto the coffin?",
+   "a": "It is a final act of kindness (chesed) for someone who can never repay it.",
+   "topic": "jp-11"
+  },
+  {
+   "q": "Why do Jewish visitors leave a stone on a grave?",
+   "a": "To show they have visited and remembered the person; stones last, unlike flowers.",
+   "topic": "jp-11"
+  },
+  {
+   "q": "What does the Kaddish prayer actually say?",
+   "a": "It praises God's greatness and asks for peace; it does not mention death, showing faith in God even in grief.",
+   "topic": "jp-11"
+  },
+  {
+   "q": "What is aninut?",
+   "a": "The time between death and burial, when close relatives are excused some mitzvot to arrange the funeral.",
+   "topic": "jp-11"
+  },
+  {
+   "q": "What do fleishig, milchig and pareve mean?",
+   "a": "Meat foods, dairy foods and neutral foods (such as fruit, vegetables, eggs and fish).",
+   "topic": "jp-12"
+  },
+  {
+   "q": "What is a hechsher?",
+   "a": "A kosher certification symbol on packaged food, for example from the London Beth Din (KLBD).",
+   "topic": "jp-12"
+  },
+  {
+   "q": "What does Leviticus 11:44 give as the reason for food laws?",
+   "a": "'Be holy, for I am holy': keeping kashrut sets Jews apart for God.",
+   "topic": "jp-12"
+  },
+  {
+   "q": "What is 'ethical kashrut'?",
+   "a": "Applying Jewish values to food choices, such as animal welfare, fair trade and the environment, sometimes leading to vegetarianism.",
+   "topic": "jp-12"
+  },
+  {
+   "q": "How do many Reform Jews approach kashrut?",
+   "a": "As a personal choice: some keep a kosher-style home (no pork, shellfish or mixing meat and milk), others keep none.",
+   "topic": "jp-12"
+  },
+  {
+   "q": "What happened on Yom Kippur in the Temple?",
+   "a": "The High Priest entered the Holy of Holies to make atonement for the people (Leviticus 16).",
+   "topic": "jp-13"
+  },
+  {
+   "q": "Why do Jews eat pomegranate seeds at Rosh Hashanah?",
+   "a": "To hope their good deeds in the year ahead will be as many as the seeds.",
+   "topic": "jp-13"
+  },
+  {
+   "q": "Why is the Yom Kippur confession said as 'we have sinned'?",
+   "a": "It is in the plural, showing the community shares responsibility and prays together.",
+   "topic": "jp-13"
+  },
+  {
+   "q": "Who does not have to fast on Yom Kippur?",
+   "a": "People who are ill, those whose health would be at risk, and children: Pikuach Nefesh comes first.",
+   "topic": "jp-13"
+  },
+  {
+   "q": "Why are the High Holy Days important for Jews in Britain today?",
+   "a": "Synagogues are fullest then; they are a time for reflection, putting things right, charity appeals and starting again.",
+   "topic": "jp-13"
+  },
+  {
+   "q": "What is bedikat chametz?",
+   "a": "The search for chametz by candlelight on the night before Pesach; leftover chametz is burned or sold.",
+   "topic": "jp-14"
+  },
+  {
+   "q": "What is the afikoman?",
+   "a": "Half of the middle matzah, hidden during the Seder; children search for it and the meal ends with eating it.",
+   "topic": "jp-14"
+  },
+  {
+   "q": "Why are drops of wine removed for each plague?",
+   "a": "To lessen joy by remembering the suffering of the Egyptians: no one should rejoice fully at others' suffering.",
+   "topic": "jp-14"
+  },
+  {
+   "q": "Which verse commands parents to tell their children the Pesach story?",
+   "a": "Exodus 13:8: 'You shall explain to your child on that day...'",
+   "topic": "jp-14"
+  },
+  {
+   "q": "What does 'Next year in Jerusalem' express?",
+   "a": "Hope for the future, the return to Jerusalem and the coming of the Messianic Age.",
+   "topic": "jp-14"
   }
  ],
  "quiz": [
@@ -1985,6 +2930,1108 @@
    ],
    "answer": 3,
    "why": "Deuteronomy 16:3 says matzah is 'the bread of affliction' because the Israelites left in haste."
+  },
+  {
+   "q": "Which Hebrew term means 'house of assembly'?",
+   "options": [
+    "Bet Midrash",
+    "Bet Tefillah",
+    "Bet Din",
+    "Bet Knesset"
+   ],
+   "answer": 3,
+   "why": "Bet Knesset (house of assembly) refers to the synagogue as a community meeting place. Bet Din is a Jewish court.",
+   "topic": "jp-01"
+  },
+  {
+   "q": "A synagogue runs a Sunday class where children learn Hebrew. Which role of the synagogue does this show?",
+   "options": [
+    "Bet Tefillah",
+    "Bet Knesset",
+    "Mikdash",
+    "Bet Midrash"
+   ],
+   "answer": 3,
+   "why": "Bet Midrash means house of study, the synagogue's role in education.",
+   "topic": "jp-01"
+  },
+  {
+   "q": "Which one of these is a reason why the synagogue replaced the Temple?",
+   "options": [
+    "The Temple was too small",
+    "Moses commanded synagogues",
+    "The Talmud banned the Temple",
+    "The Temple was destroyed in 70 CE"
+   ],
+   "answer": 3,
+   "why": "After the Romans destroyed the Temple, synagogue prayer took the place of Temple worship.",
+   "topic": "jp-01"
+  },
+  {
+   "q": "In many Reform synagogues, which way does the person leading the service face?",
+   "options": [
+    "Towards the Ark only",
+    "Towards the women's gallery",
+    "Towards the door",
+    "Towards the congregation"
+   ],
+   "answer": 3,
+   "why": "Reform leaders often face the congregation so people can hear and follow; Orthodox leaders face the Ark.",
+   "topic": "jp-02"
+  },
+  {
+   "q": "Which word describes the lifting of the open Torah scroll after the reading?",
+   "options": [
+    "Aliyah",
+    "Havdalah",
+    "Kiddush",
+    "Hagbah"
+   ],
+   "answer": 3,
+   "why": "Hagbah means lifting; it lets the congregation see the words of the Torah.",
+   "topic": "jp-02"
+  },
+  {
+   "q": "Which of these is NOT a religious feature of the synagogue building?",
+   "options": [
+    "Bimah",
+    "Ner Tamid",
+    "Aron Hakodesh",
+    "Tallit"
+   ],
+   "answer": 3,
+   "why": "A tallit is a prayer shawl worn by a worshipper, not a feature of the building.",
+   "topic": "jp-02"
+  },
+  {
+   "q": "Which statement is true of many Orthodox synagogues?",
+   "options": [
+    "Women lead services",
+    "An organ is played on Shabbat",
+    "Services are mainly in English",
+    "Men and women sit separately"
+   ],
+   "answer": 3,
+   "why": "Orthodox synagogues have separate seating, with a gallery or mechitzah.",
+   "topic": "jp-03"
+  },
+  {
+   "q": "Which reason would a Reform Jew most likely give for mixed seating?",
+   "options": [
+    "Men and women are equal in worship",
+    "Hebrew is holy",
+    "It follows the Talmud exactly",
+    "To avoid distraction"
+   ],
+   "answer": 0,
+   "why": "Reform Judaism stresses equality between men and women.",
+   "topic": "jp-03"
+  },
+  {
+   "q": "Which prayers are shared by both Orthodox and Reform services?",
+   "options": [
+    "Only the Kaddish",
+    "None",
+    "The Shema and the Amidah",
+    "Only English hymns"
+   ],
+   "answer": 2,
+   "why": "Both use the core prayers such as the Shema and the Amidah and read from the Torah.",
+   "topic": "jp-03"
+  },
+  {
+   "q": "Which one of the following best describes the Amidah?",
+   "options": [
+    "The standing prayer",
+    "A cup of wine",
+    "An ever-burning light",
+    "A reading platform"
+   ],
+   "answer": 0,
+   "why": "The Amidah is the standing prayer, the central prayer of every service.",
+   "topic": "jp-04"
+  },
+  {
+   "q": "Whose silent prayer is the model for saying the Amidah quietly?",
+   "options": [
+    "Sarah",
+    "Miriam",
+    "Ruth",
+    "Hannah"
+   ],
+   "answer": 3,
+   "why": "1 Samuel 1:13: Hannah's lips moved but her voice was not heard.",
+   "topic": "jp-04"
+  },
+  {
+   "q": "How many times a day do Orthodox Jews hold services?",
+   "options": [
+    "Three times",
+    "Once",
+    "Twice",
+    "Five times"
+   ],
+   "answer": 0,
+   "why": "Shacharit, Minchah and Maariv: morning, afternoon and evening.",
+   "topic": "jp-04"
+  },
+  {
+   "q": "Which hymn welcomes Shabbat like a bride on Friday evening?",
+   "options": [
+    "Avinu Malkeinu",
+    "Kol Nidre",
+    "Lekha Dodi",
+    "Dayenu"
+   ],
+   "answer": 2,
+   "why": "Lekha Dodi ('Come, my beloved') is sung at Kabbalat Shabbat.",
+   "topic": "jp-05"
+  },
+  {
+   "q": "What is the reading from the Prophets after the Torah reading called?",
+   "options": [
+    "Haftarah",
+    "Parashah",
+    "Havdalah",
+    "Hagbah"
+   ],
+   "answer": 0,
+   "why": "The Haftarah is a passage from the Nevi'im (Prophets) linked to the week's Torah portion.",
+   "topic": "jp-05"
+  },
+  {
+   "q": "Which of these would you NOT expect in an Orthodox Shabbat service?",
+   "options": [
+    "Torah reading",
+    "A sermon",
+    "An organ",
+    "Kiddush afterwards"
+   ],
+   "answer": 2,
+   "why": "Orthodox synagogues do not play instruments on Shabbat.",
+   "topic": "jp-05"
+  },
+  {
+   "q": "What do the two challah loaves remember?",
+   "options": [
+    "The double portion of manna",
+    "The two tablets of stone",
+    "Abraham and Sarah",
+    "The two Temples"
+   ],
+   "answer": 0,
+   "why": "God gave a double portion of manna on Fridays so the Israelites did not gather food on Shabbat.",
+   "topic": "jp-06"
+  },
+  {
+   "q": "What is said at the end of a meal to thank God?",
+   "options": [
+    "Kaddish",
+    "Kol Nidre",
+    "Birkat Hamazon",
+    "Aleinu"
+   ],
+   "answer": 2,
+   "why": "Birkat Hamazon is the grace after meals.",
+   "topic": "jp-06"
+  },
+  {
+   "q": "Which source calls Shabbat a 'delight'?",
+   "options": [
+    "Genesis 17:10",
+    "Leviticus 11:3",
+    "Daniel 12:2",
+    "Isaiah 58:13"
+   ],
+   "answer": 3,
+   "why": "Isaiah 58:13 says 'if you call the Sabbath a delight'.",
+   "topic": "jp-06"
+  },
+  {
+   "q": "Which one of the following do Jews consider to be the written law?",
+   "options": [
+    "Tenakh",
+    "Talmud",
+    "Amidah",
+    "Kashrut"
+   ],
+   "answer": 0,
+   "why": "The Tenakh (especially the Torah) is the Written Law; the Talmud is the Oral Law.",
+   "topic": "jp-07"
+  },
+  {
+   "q": "Which text lists the 39 categories of work forbidden on Shabbat?",
+   "options": [
+    "The Talmud",
+    "The Torah",
+    "The Book of Psalms",
+    "The Haggadah"
+   ],
+   "answer": 0,
+   "why": "The Talmud (Shabbat 73a, based on the Mishnah) lists the 39 melachot.",
+   "topic": "jp-07"
+  },
+  {
+   "q": "Which prayer do many Jews say on waking?",
+   "options": [
+    "Kaddish",
+    "Kol Nidre",
+    "Modeh Ani",
+    "Havdalah"
+   ],
+   "answer": 2,
+   "why": "Modeh Ani thanks God for returning the soul in the morning.",
+   "topic": "jp-07"
+  },
+  {
+   "q": "Which one of the following events in life is Brit Milah associated with?",
+   "options": [
+    "Coming of age",
+    "Marriage",
+    "Birth",
+    "Death"
+   ],
+   "answer": 2,
+   "why": "Brit Milah is the circumcision of a baby boy on his eighth day.",
+   "topic": "jp-08"
+  },
+  {
+   "q": "For whom is a chair set aside at a Brit Milah?",
+   "options": [
+    "Moses",
+    "Elijah",
+    "Abraham",
+    "David"
+   ],
+   "answer": 1,
+   "why": "The chair of Elijah: the prophet is seen as guardian of the covenant.",
+   "topic": "jp-08"
+  },
+  {
+   "q": "A family gives five silver coins to a kohen 31 days after their first son is born. What is this?",
+   "options": [
+    "Brit Milah",
+    "Simchat Bat",
+    "Pidyon Haben",
+    "Shalom Zachar"
+   ],
+   "answer": 2,
+   "why": "Pidyon Haben is the redemption of the firstborn son.",
+   "topic": "jp-08"
+  },
+  {
+   "q": "What does Bat Mitzvah mean?",
+   "options": [
+    "Daughter of the covenant",
+    "Daughter of the commandment",
+    "Daughter of worth",
+    "Daughter of the law-giver"
+   ],
+   "answer": 1,
+   "why": "Bat Mitzvah means 'daughter of the commandment'. Bat Chayil means 'daughter of worth'.",
+   "topic": "jp-09"
+  },
+  {
+   "q": "Which source says thirteen is the age for the commandments?",
+   "options": [
+    "Pirkei Avot 5:21",
+    "Genesis 17:12",
+    "Exodus 20:8",
+    "Leviticus 11:3"
+   ],
+   "answer": 0,
+   "why": "Pirkei Avot 5:21 lists ages for stages of Jewish life, including thirteen for the commandments.",
+   "topic": "jp-09"
+  },
+  {
+   "q": "Which of these happens DURING a Bar Mitzvah ceremony?",
+   "options": [
+    "Months of Hebrew lessons",
+    "Reading from the Torah",
+    "Buying a tallit",
+    "Choosing a party venue"
+   ],
+   "answer": 1,
+   "why": "Reading from the Torah happens in the ceremony; the others are preparation.",
+   "topic": "jp-09"
+  },
+  {
+   "q": "What is the Jewish marriage contract called?",
+   "options": [
+    "Kiddush",
+    "Ketubah",
+    "Kaddish",
+    "Kashrut"
+   ],
+   "answer": 1,
+   "why": "The ketubah sets out the husband's duties and protects the wife.",
+   "topic": "jp-10"
+  },
+  {
+   "q": "Why does the bride circle the groom seven times in many Orthodox weddings?",
+   "options": [
+    "To show she is building their home together around him",
+    "To remember the plagues",
+    "To count the guests",
+    "To remember the Temple"
+   ],
+   "answer": 0,
+   "why": "Circling symbolises creating a new family circle and home together; seven recalls the days of creation.",
+   "topic": "jp-10"
+  },
+  {
+   "q": "Which of these happens at a Jewish wedding?",
+   "options": [
+    "Havdalah",
+    "Breaking a glass",
+    "Tashlich",
+    "Lighting the Ner Tamid"
+   ],
+   "answer": 1,
+   "why": "The groom breaks a glass to remember the destruction of the Temple.",
+   "topic": "jp-10"
+  },
+  {
+   "q": "What do Jews traditionally leave on a grave when they visit?",
+   "options": [
+    "Flowers",
+    "A candle",
+    "A small stone",
+    "Bread"
+   ],
+   "answer": 2,
+   "why": "A stone shows the grave has been visited and the person remembered.",
+   "topic": "jp-11"
+  },
+  {
+   "q": "Which verse supports burying the dead quickly?",
+   "options": [
+    "Exodus 20:8",
+    "Genesis 12:2",
+    "Deuteronomy 21:23",
+    "Isaiah 2:4"
+   ],
+   "answer": 2,
+   "why": "Deuteronomy 21:23 says the body must be buried the same day.",
+   "topic": "jp-11"
+  },
+  {
+   "q": "During which period do mourners sit on low stools and receive visitors at home?",
+   "options": [
+    "Shiva",
+    "Sheloshim",
+    "Yahrzeit",
+    "Aninut"
+   ],
+   "answer": 0,
+   "why": "Shiva is the seven days of intense mourning at home.",
+   "topic": "jp-11"
+  },
+  {
+   "q": "Which of these could be eaten with a dairy meal in a kosher home?",
+   "options": [
+    "Roast chicken",
+    "Beef burger",
+    "Salmon",
+    "Lamb chops"
+   ],
+   "answer": 2,
+   "why": "Fish with fins and scales is pareve, so it can be eaten with dairy; meat and poultry cannot.",
+   "topic": "jp-12"
+  },
+  {
+   "q": "Who performs shechitah?",
+   "options": [
+    "A mohel",
+    "A shochet",
+    "A sofer",
+    "A chazan"
+   ],
+   "answer": 1,
+   "why": "A shochet is trained in kosher slaughter.",
+   "topic": "jp-12"
+  },
+  {
+   "q": "Which group would most likely see kashrut as binding on all Jews?",
+   "options": [
+    "Reform",
+    "Liberal",
+    "Orthodox",
+    "Secular"
+   ],
+   "answer": 2,
+   "why": "Orthodox Jews see the food laws as God's commandments that must be kept.",
+   "topic": "jp-12"
+  },
+  {
+   "q": "Which festival is called Yom HaDin, the Day of Judgement?",
+   "options": [
+    "Rosh Hashanah",
+    "Pesach",
+    "Shavuot",
+    "Purim"
+   ],
+   "answer": 0,
+   "why": "Rosh Hashanah is the day God judges the world for the coming year.",
+   "topic": "jp-13"
+  },
+  {
+   "q": "Which service begins Yom Kippur?",
+   "options": [
+    "Neilah",
+    "Kol Nidre",
+    "Havdalah",
+    "Kabbalat Shabbat"
+   ],
+   "answer": 1,
+   "why": "Kol Nidre is sung on the evening Yom Kippur begins; Neilah closes the day.",
+   "topic": "jp-13"
+  },
+  {
+   "q": "What is thrown into flowing water at Tashlich?",
+   "options": [
+    "Stones",
+    "Coins",
+    "Breadcrumbs",
+    "Flowers"
+   ],
+   "answer": 2,
+   "why": "Breadcrumbs represent sins being cast away (Micah 7:19). Examiners noted confusion with stones.",
+   "topic": "jp-13"
+  },
+  {
+   "q": "What does charoset on the Seder plate represent?",
+   "options": [
+    "The mortar used by the slaves",
+    "Tears",
+    "The Passover lamb",
+    "Spring"
+   ],
+   "answer": 0,
+   "why": "Charoset is a sweet paste that looks like the mortar the Israelites used to make bricks.",
+   "topic": "jp-14"
+  },
+  {
+   "q": "Which book of the Tenakh tells the story of the first Passover?",
+   "options": [
+    "Genesis",
+    "Exodus",
+    "Leviticus",
+    "Daniel"
+   ],
+   "answer": 1,
+   "why": "Exodus 12 describes the Passover lamb, the tenth plague and leaving Egypt.",
+   "topic": "jp-14"
+  },
+  {
+   "q": "Who asks the Four Questions at the Seder?",
+   "options": [
+    "The rabbi",
+    "The youngest child",
+    "The oldest man",
+    "Elijah"
+   ],
+   "answer": 1,
+   "why": "The youngest child asks 'Why is this night different?', so the story is passed on.",
+   "topic": "jp-14"
+  }
+ ],
+ "truefalse": [
+  {
+   "s": "Jews believe God can only hear prayers said in a synagogue.",
+   "answer": false,
+   "why": "Jews believe God is everywhere and hears prayer anywhere; the synagogue matters for communal worship.",
+   "topic": "jp-01"
+  },
+  {
+   "s": "A synagogue has three main roles: prayer, study and assembly.",
+   "answer": true,
+   "why": "Bet Tefillah, Bet Midrash and Bet Knesset.",
+   "topic": "jp-01"
+  },
+  {
+   "s": "Kaddish can be said by a mourner praying alone at home.",
+   "answer": false,
+   "why": "Kaddish needs a minyan of ten, so mourners go to the synagogue to say it.",
+   "topic": "jp-01"
+  },
+  {
+   "s": "Many synagogues run charity and social action projects.",
+   "answer": true,
+   "why": "As a Bet Knesset the synagogue organises community activities such as food bank collections.",
+   "topic": "jp-01"
+  },
+  {
+   "s": "Orthodox and Reform Jews both count women in a minyan.",
+   "answer": false,
+   "why": "Orthodox Jews count only men aged 13 and over; Reform Jews count men and women.",
+   "topic": "jp-01"
+  },
+  {
+   "s": "The Aron Hakodesh is usually on the wall facing Jerusalem.",
+   "answer": true,
+   "why": "So that worshippers facing the Ark also face Jerusalem and the site of the Temple.",
+   "topic": "jp-02"
+  },
+  {
+   "s": "The Ner Tamid is lit only during services.",
+   "answer": false,
+   "why": "It is an ever-burning light that is never allowed to go out, showing God's constant presence.",
+   "topic": "jp-02"
+  },
+  {
+   "s": "Orthodox synagogues usually have an organ for Shabbat services.",
+   "answer": false,
+   "why": "Orthodox worship on Shabbat is unaccompanied; organs are found in many Reform synagogues.",
+   "topic": "jp-02"
+  },
+  {
+   "s": "The yad is used so that the reader does not touch the Torah parchment.",
+   "answer": true,
+   "why": "The scroll is handwritten and holy, so a pointer is used to follow the text.",
+   "topic": "jp-02"
+  },
+  {
+   "s": "A mechitzah separates men and women in Orthodox synagogues.",
+   "answer": true,
+   "why": "It is a screen or barrier, used so worshippers can concentrate on prayer.",
+   "topic": "jp-02"
+  },
+  {
+   "s": "Reform services use only English.",
+   "answer": false,
+   "why": "They use a mix of Hebrew and English (the local language).",
+   "topic": "jp-03"
+  },
+  {
+   "s": "In Reform synagogues women can be rabbis.",
+   "answer": true,
+   "why": "Reform Judaism has ordained women rabbis for decades and counts women in the minyan.",
+   "topic": "jp-03"
+  },
+  {
+   "s": "Orthodox and Reform Jews both read from the Torah scroll in Shabbat services.",
+   "answer": true,
+   "why": "The Torah reading is central in both traditions.",
+   "topic": "jp-03"
+  },
+  {
+   "s": "Orthodox men often wear a kippah and tallit in services.",
+   "answer": true,
+   "why": "Covering the head and wearing a prayer shawl are traditional for men at prayer.",
+   "topic": "jp-03"
+  },
+  {
+   "s": "Orthodox services are usually shorter than Reform ones.",
+   "answer": false,
+   "why": "Orthodox services are usually longer, with more prayers in Hebrew.",
+   "topic": "jp-03"
+  },
+  {
+   "s": "The Amidah is said facing Jerusalem.",
+   "answer": true,
+   "why": "Jews outside Israel face Jerusalem, the site of the Temple, when they pray.",
+   "topic": "jp-04"
+  },
+  {
+   "s": "On Shabbat the Amidah contains all 13 requests.",
+   "answer": false,
+   "why": "On Shabbat the requests are replaced by one blessing for the holiness of the day.",
+   "topic": "jp-04"
+  },
+  {
+   "s": "Kavanah means saying prayers as quickly as possible.",
+   "answer": false,
+   "why": "Kavanah means concentration and sincere intention.",
+   "topic": "jp-04"
+  },
+  {
+   "s": "The rabbis linked the three daily services to the daily offerings in the Temple.",
+   "answer": true,
+   "why": "The Talmud (Berakhot 26b) connects the prayers to the Patriarchs and the Temple offerings.",
+   "topic": "jp-04"
+  },
+  {
+   "s": "Jews may pray in their own words as well as using the siddur.",
+   "answer": true,
+   "why": "Fixed prayers are central, but personal prayer in any language is also valued.",
+   "topic": "jp-04"
+  },
+  {
+   "s": "The whole Torah is read in synagogue over the course of a year.",
+   "answer": true,
+   "why": "It is divided into weekly portions (parashot), finishing at Simchat Torah.",
+   "topic": "jp-05"
+  },
+  {
+   "s": "The main Shabbat service is on Friday morning.",
+   "answer": false,
+   "why": "Shabbat begins on Friday evening; the main service is Saturday morning.",
+   "topic": "jp-05"
+  },
+  {
+   "s": "In many Reform synagogues women can be called up to read from the Torah.",
+   "answer": true,
+   "why": "Reform Judaism gives men and women equal roles in worship.",
+   "topic": "jp-05"
+  },
+  {
+   "s": "The Torah is read from the Aron Hakodesh itself.",
+   "answer": false,
+   "why": "It is kept in the Ark but read from the bimah.",
+   "topic": "jp-05"
+  },
+  {
+   "s": "Shabbat candles are lit after sunset on Friday.",
+   "answer": false,
+   "why": "They are lit shortly before sunset, since lighting a fire is not allowed once Shabbat has begun.",
+   "topic": "jp-06"
+  },
+  {
+   "s": "Havdalah uses wine, spices and a plaited candle.",
+   "answer": true,
+   "why": "These mark the separation between Shabbat and the working week.",
+   "topic": "jp-06"
+  },
+  {
+   "s": "Shabbat may be broken to save a life.",
+   "answer": true,
+   "why": "Pikuach Nefesh overrides Shabbat laws.",
+   "topic": "jp-06"
+  },
+  {
+   "s": "Shabbat is meant to be a sad and serious day.",
+   "answer": false,
+   "why": "It is a joyful day of rest, family, good food and song.",
+   "topic": "jp-06"
+  },
+  {
+   "s": "The Talmud is made up of the Mishnah and the Gemara.",
+   "answer": true,
+   "why": "The Mishnah (c. 200 CE) and the Gemara (later commentary) together form the Talmud.",
+   "topic": "jp-07"
+  },
+  {
+   "s": "The Torah is the third part of the Tenakh.",
+   "answer": false,
+   "why": "The Torah is the first part; then Nevi'im (Prophets) and Ketuvim (Writings).",
+   "topic": "jp-07"
+  },
+  {
+   "s": "Orthodox Jews believe the Oral Law was given to Moses at Sinai.",
+   "answer": true,
+   "why": "They believe it was passed down by word of mouth before being written in the Mishnah and Talmud.",
+   "topic": "jp-07"
+  },
+  {
+   "s": "Jewish prayer can only happen in a synagogue.",
+   "answer": false,
+   "why": "Much prayer happens at home: blessings, Shema, Modeh Ani and private prayer.",
+   "topic": "jp-07"
+  },
+  {
+   "s": "A Torah scroll used in synagogue is printed by machine.",
+   "answer": false,
+   "why": "It is handwritten on parchment by a sofer.",
+   "topic": "jp-07"
+  },
+  {
+   "s": "Brit Milah can take place on Shabbat if it is the eighth day.",
+   "answer": true,
+   "why": "The commandment of the eighth day overrides Shabbat, unless the baby is unwell.",
+   "topic": "jp-08"
+  },
+  {
+   "s": "Jewish babies are baptised in the synagogue.",
+   "answer": false,
+   "why": "Baptism is a Christian practice. Jewish boys have Brit Milah and girls have naming ceremonies.",
+   "topic": "jp-08"
+  },
+  {
+   "s": "Girls in Reform communities may have a Brit Bat or Simchat Bat ceremony.",
+   "answer": true,
+   "why": "These welcome girls into the covenant and community.",
+   "topic": "jp-08"
+  },
+  {
+   "s": "Brit Milah must go ahead on the eighth day even if the baby is ill.",
+   "answer": false,
+   "why": "It is delayed until the baby is healthy because protecting life comes first.",
+   "topic": "jp-08"
+  },
+  {
+   "s": "In Orthodox Judaism a girl becomes Bat Mitzvah at 12.",
+   "answer": true,
+   "why": "Girls are traditionally considered mature a year earlier (Mishnah Niddah 5:6).",
+   "topic": "jp-09"
+  },
+  {
+   "s": "A boy becomes Jewish at his Bar Mitzvah.",
+   "answer": false,
+   "why": "He is already Jewish; he becomes responsible for keeping the mitzvot.",
+   "topic": "jp-09"
+  },
+  {
+   "s": "After his Bar Mitzvah an Orthodox boy counts in the minyan.",
+   "answer": true,
+   "why": "He is now treated as an adult for religious purposes.",
+   "topic": "jp-09"
+  },
+  {
+   "s": "In many Reform synagogues Bar and Bat Mitzvah ceremonies are the same.",
+   "answer": true,
+   "why": "Reform Judaism stresses equality, so girls read from the Torah just like boys.",
+   "topic": "jp-09"
+  },
+  {
+   "s": "Every Orthodox girl reads from the Torah in the main Shabbat service for her Bat Mitzvah.",
+   "answer": false,
+   "why": "In most Orthodox communities women do not read from the Torah in the main service; girls may give a talk or hold a Bat Chayil.",
+   "topic": "jp-09"
+  },
+  {
+   "s": "The chuppah symbolises the couple's new home.",
+   "answer": true,
+   "why": "The canopy open on all sides recalls Abraham's tent and the couple's future home.",
+   "topic": "jp-10"
+  },
+  {
+   "s": "Orthodox synagogues in Britain conduct same-sex weddings.",
+   "answer": false,
+   "why": "Orthodox Judaism does not; Progressive (Reform and Liberal) synagogues do.",
+   "topic": "jp-10"
+  },
+  {
+   "s": "The Seven Blessings thank God for creation, joy and love.",
+   "answer": true,
+   "why": "The Sheva Berakhot praise God for creating humanity, joy, gladness and love.",
+   "topic": "jp-10"
+  },
+  {
+   "s": "Jewish weddings often take place on Shabbat.",
+   "answer": false,
+   "why": "Weddings are not held on Shabbat or major festivals.",
+   "topic": "jp-10"
+  },
+  {
+   "s": "Jewish funerals usually take place within a few days of death, often within 24 hours.",
+   "answer": true,
+   "why": "Quick burial shows respect for the dead (Deuteronomy 21:23).",
+   "topic": "jp-11"
+  },
+  {
+   "s": "The Kaddish prayer is mainly about death and the afterlife.",
+   "answer": false,
+   "why": "It praises God and does not mention death.",
+   "topic": "jp-11"
+  },
+  {
+   "s": "Shiva lasts for thirty days.",
+   "answer": false,
+   "why": "Shiva lasts seven days; sheloshim is thirty days.",
+   "topic": "jp-11"
+  },
+  {
+   "s": "Mourners may tear a garment or wear a torn ribbon (keriah).",
+   "answer": true,
+   "why": "Keriah is a sign of grief, following biblical examples such as Jacob and David.",
+   "topic": "jp-11"
+  },
+  {
+   "s": "Fish counts as meat in Jewish food laws.",
+   "answer": false,
+   "why": "Fish is pareve (neutral) and can be eaten with dairy.",
+   "topic": "jp-12"
+  },
+  {
+   "s": "To be kosher, a land animal must chew the cud and have split hooves.",
+   "answer": true,
+   "why": "Both signs are needed (Leviticus 11:3), which is why the pig is not kosher.",
+   "topic": "jp-12"
+  },
+  {
+   "s": "All Jews keep the dietary laws in the same way.",
+   "answer": false,
+   "why": "Orthodox Jews keep them strictly; Reform and Liberal Jews treat them as a personal choice.",
+   "topic": "jp-12"
+  },
+  {
+   "s": "Kosher meat must have the blood removed.",
+   "answer": true,
+   "why": "The Torah forbids eating blood because 'the life is in the blood' (Leviticus 17:11).",
+   "topic": "jp-12"
+  },
+  {
+   "s": "Shellfish such as prawns are kosher.",
+   "answer": false,
+   "why": "Only water creatures with fins and scales are kosher.",
+   "topic": "jp-12"
+  },
+  {
+   "s": "Judgement is written on Rosh Hashanah and sealed on Yom Kippur.",
+   "answer": true,
+   "why": "This traditional teaching explains why the Ten Days of Awe are for repentance.",
+   "topic": "jp-13"
+  },
+  {
+   "s": "Yom HaDin refers to judgement after death.",
+   "answer": false,
+   "why": "It refers to God's judgement for the coming year at Rosh Hashanah.",
+   "topic": "jp-13"
+  },
+  {
+   "s": "Yom Kippur is a joyful feast day with special meals.",
+   "answer": false,
+   "why": "It is a 25-hour fast spent in prayer and repentance, though it ends with hope of forgiveness.",
+   "topic": "jp-13"
+  },
+  {
+   "s": "Many Jews wear white on Yom Kippur.",
+   "answer": true,
+   "why": "White symbolises purity and forgiveness (Isaiah 1:18).",
+   "topic": "jp-13"
+  },
+  {
+   "s": "The shofar is a ram's horn.",
+   "answer": true,
+   "why": "It recalls the ram sacrificed instead of Isaac and is a call to repent.",
+   "topic": "jp-13"
+  },
+  {
+   "s": "Chametz is leavened food, such as bread made with yeast.",
+   "answer": true,
+   "why": "It is removed from the home before Pesach.",
+   "topic": "jp-14"
+  },
+  {
+   "s": "Pesach remembers the giving of the Torah at Sinai.",
+   "answer": false,
+   "why": "Pesach remembers the Exodus from Egypt; Shavuot remembers the giving of the Torah.",
+   "topic": "jp-14"
+  },
+  {
+   "s": "The Seder is mainly held in the synagogue.",
+   "answer": false,
+   "why": "The Seder is a home-based family meal, though some communities hold communal Seders.",
+   "topic": "jp-14"
+  },
+  {
+   "s": "Elijah's cup is linked to hope for the Messiah.",
+   "answer": true,
+   "why": "Elijah is believed to announce the coming of the Messiah, so a cup is poured and the door opened.",
+   "topic": "jp-14"
+  }
+ ],
+ "short": [
+  {
+   "q": "Give one way a synagogue is used by Jews.",
+   "a": "For prayer / services (accept: study, education, community events, Bar or Bat Mitzvah, weddings, charity work)",
+   "topic": "jp-01"
+  },
+  {
+   "q": "Give the meaning of Bet Tefillah.",
+   "a": "House of prayer",
+   "topic": "jp-01"
+  },
+  {
+   "q": "Name the group of ten adults needed for some prayers.",
+   "a": "Minyan",
+   "topic": "jp-01"
+  },
+  {
+   "q": "Give one religious feature of a synagogue.",
+   "a": "Aron Hakodesh / Ark (accept: bimah, Ner Tamid, Torah scrolls, menorah, Ten Commandments, Star of David, mechitzah)",
+   "topic": "jp-02"
+  },
+  {
+   "q": "Give the meaning of Ner Tamid.",
+   "a": "Ever-burning light (eternal light)",
+   "topic": "jp-02"
+  },
+  {
+   "q": "Name the raised reading platform in a synagogue.",
+   "a": "Bimah",
+   "topic": "jp-02"
+  },
+  {
+   "q": "Give one difference between Orthodox and Reform synagogue services.",
+   "a": "Orthodox separate seating, Reform mixed seating (accept: language, instruments, women leading, length, frequency of services)",
+   "topic": "jp-03"
+  },
+  {
+   "q": "Name the language used for most of an Orthodox service.",
+   "a": "Hebrew",
+   "topic": "jp-03"
+  },
+  {
+   "q": "Give one item of clothing many Jewish men wear in the synagogue.",
+   "a": "Kippah (accept: tallit, tefillin on weekday mornings)",
+   "topic": "jp-03"
+  },
+  {
+   "q": "Give one reason why Jews pray.",
+   "a": "To praise God (accept: thank God, ask for help, ask forgiveness, feel close to God, because it is a mitzvah, to strengthen the community)",
+   "topic": "jp-04"
+  },
+  {
+   "q": "Name the 'standing prayer'.",
+   "a": "The Amidah",
+   "topic": "jp-04"
+  },
+  {
+   "q": "Name one of the three daily services.",
+   "a": "Shacharit (accept: Minchah, Maariv)",
+   "topic": "jp-04"
+  },
+  {
+   "q": "Give one thing that happens in the synagogue on Shabbat morning.",
+   "a": "The Torah is read (accept: Haftarah reading, aliyah, sermon, Amidah, Kiddush after the service, a Bar or Bat Mitzvah)",
+   "topic": "jp-05"
+  },
+  {
+   "q": "Name the Friday evening service that welcomes Shabbat.",
+   "a": "Kabbalat Shabbat",
+   "topic": "jp-05"
+  },
+  {
+   "q": "Give one reason why Jews worship on Shabbat.",
+   "a": "It is a commandment (accept: to remember creation, to remember the Exodus, it is a sign of the covenant, to hear the Torah, to worship as a community)",
+   "topic": "jp-05"
+  },
+  {
+   "q": "Give one thing Jews do in the home to welcome Shabbat.",
+   "a": "Light two candles (accept: say Kiddush, bless challah, share a family meal, bless the children)",
+   "topic": "jp-06"
+  },
+  {
+   "q": "Name the ceremony that ends Shabbat.",
+   "a": "Havdalah",
+   "topic": "jp-06"
+  },
+  {
+   "q": "Give one type of work forbidden on Shabbat.",
+   "a": "Cooking (accept: lighting a fire, writing, building, carrying outside, any of the 39 melachot)",
+   "topic": "jp-06"
+  },
+  {
+   "q": "Name the Oral Law in Judaism.",
+   "a": "The Talmud",
+   "topic": "jp-07"
+  },
+  {
+   "q": "Give one way Jews worship at home.",
+   "a": "Saying blessings before food (accept: Shema before sleep, Modeh Ani, mezuzah, Shabbat meal, private prayer, Torah study)",
+   "topic": "jp-07"
+  },
+  {
+   "q": "Name the three parts of the Tenakh.",
+   "a": "Torah, Nevi'im and Ketuvim (accept: Law, Prophets, Writings)",
+   "topic": "jp-07"
+  },
+  {
+   "q": "Give one reason why Jews celebrate Brit Milah.",
+   "a": "It is the sign of the covenant with Abraham (accept: commanded by God in Genesis 17, welcomes the boy into the Jewish community, gives the baby his Hebrew name)",
+   "topic": "jp-08"
+  },
+  {
+   "q": "Name the person who performs a Brit Milah.",
+   "a": "Mohel",
+   "topic": "jp-08"
+  },
+  {
+   "q": "Give one ceremony for welcoming a baby girl.",
+   "a": "Simchat Bat (accept: Brit Bat, Zeved Habat, naming in the synagogue on Shabbat)",
+   "topic": "jp-08"
+  },
+  {
+   "q": "Give one thing that happens during a Bar Mitzvah ceremony.",
+   "a": "The boy reads from the Torah (accept: reads the Haftarah, wears a tallit, gives a d'var Torah, father's blessing, rabbi blesses him, sweets thrown)",
+   "topic": "jp-09"
+  },
+  {
+   "q": "Give the age at which a Jewish boy becomes Bar Mitzvah.",
+   "a": "13",
+   "topic": "jp-09"
+  },
+  {
+   "q": "Give the meaning of Bar Mitzvah.",
+   "a": "Son of the commandment",
+   "topic": "jp-09"
+  },
+  {
+   "q": "Give one thing that happens at a Jewish wedding.",
+   "a": "The couple stand under the chuppah (accept: ring given, ketubah read, Seven Blessings, glass broken, bride circles groom, yichud)",
+   "topic": "jp-10"
+  },
+  {
+   "q": "Name the canopy used at a Jewish wedding.",
+   "a": "Chuppah",
+   "topic": "jp-10"
+  },
+  {
+   "q": "Give one reason why marriage is important in Judaism.",
+   "a": "It is a mitzvah to 'be fruitful and multiply' (accept: companionship, Genesis 2:18, continuing the Jewish faith, a holy relationship)",
+   "topic": "jp-10"
+  },
+  {
+   "q": "Give one Jewish mourning ritual.",
+   "a": "Sitting shiva (accept: keriah, saying Kaddish, covering mirrors, low stools, lighting a yahrzeit candle, unveiling the gravestone)",
+   "topic": "jp-11"
+  },
+  {
+   "q": "Name the prayer said by mourners that praises God.",
+   "a": "Kaddish",
+   "topic": "jp-11"
+  },
+  {
+   "q": "Give the length of shiva.",
+   "a": "Seven days",
+   "topic": "jp-11"
+  },
+  {
+   "q": "Give one thing required for meat to be kosher.",
+   "a": "Slaughtered by a trained shochet (accept: animal chews the cud and has split hooves, blood removed, not eaten with dairy, not a bird of prey)",
+   "topic": "jp-12"
+  },
+  {
+   "q": "Give the meaning of trefah.",
+   "a": "Forbidden / not fit to eat (accept: 'torn')",
+   "topic": "jp-12"
+  },
+  {
+   "q": "Give one reason why Jews keep the dietary laws.",
+   "a": "They are commanded by God (accept: holiness, self-discipline, Jewish identity, reminds them of God at every meal)",
+   "topic": "jp-12"
+  },
+  {
+   "q": "Give one way Jews celebrate Rosh Hashanah.",
+   "a": "Hearing the shofar (accept: apples dipped in honey, round challah, tashlich, synagogue services, festive meal)",
+   "topic": "jp-13"
+  },
+  {
+   "q": "Give one thing Jews avoid on Yom Kippur.",
+   "a": "Eating and drinking (accept: work, leather shoes, washing for pleasure, perfume, marital relations)",
+   "topic": "jp-13"
+  },
+  {
+   "q": "Name the ram's horn blown at Rosh Hashanah.",
+   "a": "Shofar",
+   "topic": "jp-13"
+  },
+  {
+   "q": "Give one item on the Seder plate.",
+   "a": "Maror (accept: charoset, karpas, zeroa / shank bone, beitzah / roasted egg, chazeret)",
+   "topic": "jp-14"
+  },
+  {
+   "q": "Give one reason why Pesach is important for Jews.",
+   "a": "It remembers God freeing the Israelites from slavery (accept: commanded by God, passes faith to children, family celebration, hope for the future)",
+   "topic": "jp-14"
+  },
+  {
+   "q": "Name the book read at the Seder meal.",
+   "a": "The Haggadah",
+   "topic": "jp-14"
   }
  ],
  "exam": [
@@ -2038,7 +4085,7 @@
    "marks": 4,
    "type": "different",
    "q": "Explain two different ways in which Jews mourn the dead. (4 marks)",
-   "model": "One way is shiva, seven days of intense mourning at home after the funeral. Mourners sit on low stools, cover mirrors and do not work, which shows grief and allows the community to comfort them.\n\nAnother way is saying Kaddish and marking the yahrzeit. Children say the Kaddish prayer daily for a year after a parent dies, and light a candle on each anniversary, to praise God and remember the person.",
+   "model": "One way is shiva, seven days of intense mourning at home after the funeral. Mourners sit on low stools, cover mirrors and do not work, which shows grief and allows the community to comfort them.\n\nAnother way is saying Kaddish and marking the yahrzeit. Children say the Kaddish prayer daily for eleven months after a parent dies, and light a candle on each anniversary, to praise God and remember the person.",
    "points": [
     "Burial within 24 hours, simple shroud and coffin, Chevra Kadisha",
     "Tearing clothes (keriah) or wearing a black ribbon",
@@ -2171,7 +4218,7 @@
    "topic": "jp-01",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Jews should always worship in the synagogue.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Jews should always worship in the synagogue.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "Some key prayers, such as the Kaddish, need a minyan of ten, and Jews believe the Shekhinah is present when people pray together (Pirkei Avot 3:6).",
     "The synagogue holds the Torah scrolls and provides a holy, quiet place with the Ark and Ner Tamid, which helps Jews concentrate.",
@@ -2189,7 +4236,7 @@
    "topic": "jp-06",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Keeping Shabbat is the most important way of practising Judaism.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Keeping Shabbat is the most important way of practising Judaism.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "Shabbat is one of the Ten Commandments (Exodus 20:8) and a sign of the covenant (Exodus 31:16-17), so it is a direct command from God.",
     "It happens every week, shaping family life, prayer and rest, so it keeps Jews close to God and each other.",
@@ -2207,7 +4254,7 @@
    "topic": "jp-12",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Dietary laws are no longer important for Jews today.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Dietary laws are no longer important for Jews today.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "Many Reform Jews see kashrut as a personal choice and focus instead on ethical mitzvot such as justice and charity (Micah 6:8).",
     "Some argue the laws were for health and hygiene in ancient times, which modern food safety has replaced.",
@@ -2225,7 +4272,7 @@
    "topic": "jp-13",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Yom Kippur is the most important day in the Jewish year.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Yom Kippur is the most important day in the Jewish year.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "Yom Kippur is the Day of Atonement, the holiest day. Leviticus 16:29-30 says atonement will be made to cleanse Jews of sin.",
     "It is the day God seals judgement for the year, so Jews fast, repent and ask forgiveness. Many Jews who do not keep other practices fast and attend synagogue.",
@@ -2243,9 +4290,9 @@
    "topic": "jp-09",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Bat Mitzvah should be celebrated in exactly the same way as Bar Mitzvah.' Evaluate this statement. In your answer you should: refer to Jewish teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Bat Mitzvah should be celebrated in exactly the same way as Bar Mitzvah.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
-    "Reform Jews believe men and women are equal before God, so girls should read from the Torah and lead the service just as boys do. Rabbi Weinberg said Bat Mitzvah gives girls full equality.",
+    "Reform Jews believe men and women are equal before God, so girls should read from the Torah and lead the service just as boys do. For them an identical ceremony expresses full equality.",
     "Girls become responsible for the mitzvot as boys do, so they should have the same recognition and public ceremony.",
     "Equal ceremonies show that girls' Jewish education and contribution are valued by the community."
    ],
@@ -2255,7 +4302,409 @@
     "Boys wear tallit and tefillin and join the minyan, which girls do not do in Orthodox practice."
    ],
    "conclusion": "For Reform Jews equality means the ceremonies should be the same, but for Orthodox Jews tradition gives different roles, so the answer depends on the tradition, though equal recognition is persuasive in modern society.",
-   "model": "Many Reform Jews would agree with this statement. They believe men and women are equal before God, so girls should have the same ceremony as boys, including reading from the Torah and leading parts of the service. Rabbi Weinberg argued that girls now have equality in everything, so a Bat Mitzvah gives girls full equality. Girls take on responsibility for the mitzvot as boys do, so they should receive the same recognition. In many Reform synagogues the ceremonies are indeed identical, with a Torah reading, a speech and a celebration. This is a strong argument, because it matches modern values and recognises the girl's religious maturity.\n\nHowever, Orthodox Jews would disagree. They believe men and women have different religious roles, so women are not called to read from the Torah in the main service or count in a minyan. In the past, Bat Mitzvah did not exist, because girls were thought to learn their faith at home, and some Orthodox rabbis still consider it unnecessary. Also, girls traditionally celebrate at 12 and boys at 13, and only boys wear tefillin and a tallit for the first time. Many Orthodox communities hold a Bat Chayil celebration, with a speech and a meal, that honours the girl in a different way. This is a strong argument because it follows long-standing tradition and sees difference as respect rather than inequality.\n\nIn conclusion, the answer depends on the tradition. For Reform Jews, equality is a fundamental belief, so the ceremonies should be the same. For Orthodox Jews, the ceremonies are different because roles are different. I think the argument for equal recognition is more persuasive in modern society, but the strongest answer recognises that both approaches reflect sincere beliefs about how to follow God's law."
+   "model": "Many Reform Jews would agree with this statement. They believe men and women are equal before God, so girls should have the same ceremony as boys, including reading from the Torah and leading parts of the service. The Mishnah (Niddah 5:6) treats a girl as responsible for her own vows from the age of 12, so she takes on the mitzvot just as a boy does at 13. Girls take on responsibility for the mitzvot as boys do, so they should receive the same recognition. In many Reform synagogues the ceremonies are indeed identical, with a Torah reading, a speech and a celebration. This is a strong argument, because it matches modern values and recognises the girl's religious maturity.\n\nHowever, Orthodox Jews would disagree. They believe men and women have different religious roles, so women are not called to read from the Torah in the main service or count in a minyan. In the past, Bat Mitzvah did not exist, because girls were thought to learn their faith at home, and some Orthodox rabbis still consider it unnecessary. Also, girls traditionally celebrate at 12 and boys at 13, and only boys wear tefillin and a tallit for the first time. Many Orthodox communities hold a Bat Chayil celebration, with a speech and a meal, that honours the girl in a different way. This is a strong argument because it follows long-standing tradition and sees difference as respect rather than inequality.\n\nIn conclusion, the answer depends on the tradition. For Reform Jews, equality is a fundamental belief, so the ceremonies should be the same. For Orthodox Jews, the ceremonies are different because roles are different. I think the argument for equal recognition is more persuasive in modern society, but the strongest answer recognises that both approaches reflect sincere beliefs about how to follow God's law."
+  },
+  {
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which a synagogue is used by Jews. (4 marks)",
+   "model": "One way is as a house of prayer (Bet Tefillah). Jews gather for daily, Shabbat and festival services, and prayers such as Kaddish and the Torah reading can only take place when a minyan of ten is present.\n\nA different way is as a house of study (Bet Midrash). Children attend cheder to learn Hebrew and about Judaism so they can follow the prayers, and adults meet to study the Torah and Talmud, often with the rabbi.",
+   "points": [
+    "Prayer: daily and Shabbat services, minyan, Torah reading (Bet Tefillah)",
+    "Study: cheder, Hebrew classes, adult Torah and Talmud study, library (Bet Midrash)",
+    "Community: social events, youth clubs, charity, kosher meals (Bet Knesset)",
+    "Life-cycle ceremonies: baby naming, Bar/Bat Mitzvah, weddings",
+    "Festivals: Yom Kippur services, Simchat Torah, communal Seders",
+    "Each way: 1 mark simple, 2 marks detailed; the two ways must be different"
+   ],
+   "topic": "jp-01"
+  },
+  {
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different practices associated with the Torah scrolls in the synagogue. (4 marks)",
+   "model": "One practice is that the congregation stands when the Aron Hakodesh is opened and the scroll is taken out. This shows respect, because the Torah is believed to be God's word and is the holiest object in the synagogue.\n\nA different practice is that the scroll is read from the bimah using a yad (pointer). The reader does not touch the parchment with their hand because the scroll is handwritten and holy, and afterwards the open scroll is lifted up (hagbah) so everyone can see the words.",
+   "points": [
+    "Standing when the Ark is opened; opening the Ark is an honour",
+    "Procession round the synagogue; touching and kissing with tallit or siddur (Ezekiel 3:3)",
+    "Reading from the bimah with a yad; members called up for an aliyah",
+    "Hagbah: lifting the scroll; dressing it in its mantle and crown",
+    "Kept in the Aron Hakodesh behind the parochet, facing Jerusalem",
+    "Each way: 1 mark simple, 2 marks detailed; practices must be different"
+   ],
+   "topic": "jp-02"
+  },
+  {
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'The bimah is the most important feature of the synagogue.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "The Torah is read from the bimah, so it is where God's word is heard by the community, the high point of the Shabbat service (compare Ezra reading the law from a platform, Nehemiah 8:4).",
+    "In Orthodox synagogues it stands in the centre, showing the Torah is at the heart of the community and meant for the whole world.",
+    "Bar and Bat Mitzvah readings and aliyot happen there, so key moments in Jewish life take place on the bimah."
+   ],
+   "against": [
+    "The Aron Hakodesh holds the Torah scrolls, faces Jerusalem and recalls the Ark of the Covenant; the bimah is only used when the scrolls are taken from the Ark.",
+    "The Ner Tamid is a constant reminder of God's presence and recalls the lamp in the Tabernacle (Exodus 27:20).",
+    "Jewish teaching says it is the Torah and the community (the minyan) that matter, not any piece of furniture; a synagogue can work in any room."
+   ],
+   "conclusion": "The bimah is important because the Torah is read there, but its value comes from the Torah kept in the Ark, so the Aron Hakodesh (or the Torah itself) is more important.",
+   "model": "Some Jews would agree that the bimah is the most important feature. It is the raised platform from which the Torah is read, and the Torah reading is the high point of the Shabbat morning service. This follows an ancient practice: Nehemiah 8:4 describes Ezra standing on a wooden platform to read the law to all the people. In Orthodox synagogues the bimah is often in the centre, which shows that the Torah is at the heart of the community and should be heard by everyone. Many of the most important moments in a Jew's life, such as reading from the Torah at a Bar or Bat Mitzvah, happen on the bimah. This is a strong argument, because the Torah is meant to be read and lived, not just stored.\n\nHowever, others would argue that the Aron Hakodesh is more important. It holds the Torah scrolls, the holiest objects in Judaism, and it recalls the Ark of the Covenant in the Holy of Holies. It is placed on the wall facing Jerusalem, so it shows the direction of prayer, and the whole congregation stands when it is opened. The bimah is only used when the scrolls are brought out of the Ark. Some might choose the Ner Tamid, which reminds Jews of God's constant presence and recalls the lamp kept burning in the Tabernacle (Exodus 27:20). Others would say no feature is most important, because a minyan can pray anywhere and the building is not holy in itself.\n\nIn conclusion, I disagree with the statement. The bimah has an important purpose, but its importance depends on the Torah, which is kept in the Aron Hakodesh. Since the Torah scrolls are what give both features their meaning, I think the Ark, as the place where the Torah is kept, is the most important feature, while recognising that Jews value each feature for its role in worship.",
+   "topic": "jp-02"
+  },
+  {
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two ways in which Jews worship together in the synagogue. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One way is by reading from the Torah. On Shabbat the scroll is taken from the Ark and a portion is read from the bimah, with members called up for an aliyah to say blessings. This follows Deuteronomy 31:12, which commands the people to gather so they can hear and learn the Torah. This means the community hears God's word together every week.\n\nAnother way is by saying set prayers with a minyan, such as the Shema and the Amidah. In Orthodox synagogues these are said in Hebrew with men and women seated separately, while Reform synagogues use Hebrew and English and may use music. The Talmud (Berakhot 6a) teaches that when ten people pray together the divine presence is with them, so Jews value praying as a community.",
+   "points": [
+    "Torah reading from the bimah, aliyah, Haftarah (Deuteronomy 31:12, Nehemiah 8)",
+    "Set prayers: Shema (Deuteronomy 6:4), Amidah; need for a minyan (Berakhot 6a)",
+    "Singing led by chazan; Reform use of organ or choir (Psalm 150)",
+    "Sermon by rabbi; Kiddush after the service",
+    "Orthodox and Reform differences in language, seating and leadership",
+    "Marks: 2 per developed way, 1 for naming a source, 1 for applying it"
+   ],
+   "topic": "jp-03"
+  },
+  {
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Synagogue services should be in English, not Hebrew.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "Prayer needs kavanah (sincere concentration); Maimonides taught prayer without devotion is not prayer, which is hard if people do not understand the words.",
+    "Deuteronomy 31:12 says the people should gather so they 'may hear and learn': understanding is part of worship. The Mishnah allows the Shema and Amidah to be said in any language.",
+    "Many British Jews do not read Hebrew well; English helps young people and converts feel included, which is why Reform services use a lot of English."
+   ],
+   "against": [
+    "Hebrew is the holy language of the Torah; reading God's words in the original keeps their exact meaning.",
+    "Hebrew unites Jews across the world and through history: a Jew can join a service anywhere and recognise the prayers.",
+    "Learning Hebrew for Bar and Bat Mitzvah keeps Jewish identity strong; most Reform services still keep key prayers like the Shema in Hebrew, and the Torah is always read in Hebrew."
+   ],
+   "conclusion": "A mix may be best: understanding matters for kavanah, but Hebrew links Jews to the Torah and each other, so replacing it completely would lose something important.",
+   "model": "Some Jews would agree that services should be in English. Prayer in Judaism must be said with kavanah, sincere concentration, and Maimonides taught that prayer without devotion is not really prayer. It is hard to concentrate on words you do not understand, and many Jews in Britain do not read Hebrew fluently. Deuteronomy 31:12 commands the people to gather so that they 'may hear and learn', suggesting understanding is part of worship, and the Mishnah allows the Shema and the Amidah to be said in any language. This is why Reform synagogues use a lot of English, which also helps children, converts and visitors feel included. This is a strong argument, because worship that people do not understand risks becoming empty words.\n\nHowever, many Jews, especially Orthodox Jews, would disagree. Hebrew is the holy language in which the Torah was given, so reading and praying in it keeps the exact meaning of God's words, which can be lost in translation. Hebrew also unites Jews across the world and across history: a Jew from Manchester can walk into a synagogue in Jerusalem or New York and join in. Learning Hebrew for a Bar or Bat Mitzvah connects young people to their tradition and identity. Even Reform services keep key prayers like the Shema in Hebrew, and the Torah scroll is always read in Hebrew. This is a convincing argument, because Hebrew is part of what makes Jewish worship Jewish.\n\nIn conclusion, I do not fully agree. Understanding is important, so English translations and some English prayers help worshippers pray with kavanah. But replacing Hebrew completely would weaken the link to the Torah and to Jews everywhere. A mix, with translations available, seems the most balanced approach, which is what many British synagogues already do in different ways.",
+   "topic": "jp-03"
+  },
+  {
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which Jews pray. (4 marks)",
+   "model": "One way is praying together in the synagogue with a minyan. Orthodox men aim to attend the three daily services, where the Amidah is said silently and then repeated aloud by the leader, and Kaddish can be said.\n\nA different way is private prayer at home. Jews say the Modeh Ani prayer on waking, the Shema before going to sleep and blessings before and after food, and they can also speak to God in their own words in any language.",
+   "points": [
+    "Communal prayer with a minyan in synagogue: three daily services, repetition of the Amidah",
+    "Private prayer at home: Modeh Ani, bedtime Shema, personal prayer",
+    "Standing silent Amidah versus the Shema said aloud as a declaration",
+    "Use of tallit and tefillin (weekday mornings) by Orthodox men",
+    "Orthodox in Hebrew versus Reform in Hebrew and English",
+    "Each way: 1 mark simple, 2 marks detailed; ways must be different"
+   ],
+   "topic": "jp-04"
+  },
+  {
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'The Amidah is the most important Jewish prayer.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "It is called HaTefillah, 'the Prayer', and is the centre of every service, said three times a day.",
+    "It covers every kind of prayer: praise, requests (wisdom, healing, forgiveness, the Messiah, Jerusalem) and thanks, so it expresses the whole of Jewish faith.",
+    "It replaces the Temple offerings (Berakhot 26b; Hosea 14:2) and is said standing as before a king, showing its special status."
+   ],
+   "against": [
+    "The Shema (Deuteronomy 6:4) is a command in the Torah itself and declares the most basic belief, that God is One; it is said morning and night and traditionally before death.",
+    "Kaddish has great importance for mourners and the community, and personal prayer from the heart may matter more than any fixed text: Maimonides said prayer without devotion is not prayer.",
+    "Reform Jews have changed parts of the Amidah, so its exact form is not agreed by all Jews."
+   ],
+   "conclusion": "The Amidah is the central prayer of worship, but the Shema is the central declaration of belief, so each is most important in a different way.",
+   "model": "Many Jews would agree that the Amidah is the most important prayer. The rabbis call it HaTefillah, 'the Prayer', because it is the centre of every service, said three times a day. It contains every type of prayer: blessings of praise, requests for wisdom, forgiveness, healing, justice and the coming of the Messiah, and finally thanks and a prayer for peace. The Talmud (Berakhot 26b) links the daily services to the offerings in the Temple, and since the Temple was destroyed prayer has replaced sacrifice, as Hosea 14:2 says, 'we will offer the words of our lips'. Worshippers stand, face Jerusalem and bow as if before a king, which shows how seriously it is taken. This is a strong argument because no other prayer covers so much of Jewish belief and life.\n\nHowever, others would say the Shema is more important. Unlike the Amidah, the Shema is a passage from the Torah itself (Deuteronomy 6:4-9), and it declares the most basic Jewish belief, that God is One. It is said morning and night, placed in the mezuzah and tefillin, and traditionally said as a Jew's last words. Some would also point to Kaddish, which mourners say to praise God even in grief. Others argue that no fixed prayer is most important, because prayer must have kavanah: Maimonides taught that prayer without devotion is not prayer, so a sincere private prayer could matter more. Also, Reform prayer books have changed parts of the Amidah, showing not all Jews agree on its exact words.\n\nIn conclusion, I think the Amidah is the most important prayer of worship, because it is the heart of every service and includes all kinds of prayer. However, the Shema is the most important statement of belief. Since they do different jobs, it is fairer to say both are central, and both only have value when said with kavanah.",
+   "topic": "jp-04"
+  },
+  {
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which Orthodox and Reform Jews may celebrate Shabbat in the synagogue. (4 marks)",
+   "model": "One difference is in music and language. In Orthodox synagogues the service is mostly in Hebrew and is sung without instruments, because playing music counts as work on Shabbat; in many Reform synagogues English is used alongside Hebrew and an organ or choir may accompany the singing.\n\nAnother difference is who takes part. In Orthodox synagogues only men are called up to read from the Torah and men and women sit separately, while in Reform synagogues women can read from the Torah, lead the service and sit with their families, because Reform Judaism stresses equality.",
+   "points": [
+    "Language: mostly Hebrew (Orthodox) versus Hebrew and English (Reform)",
+    "Music: unaccompanied singing (Orthodox) versus organ or choir (Reform)",
+    "Roles: only men read Torah (Orthodox) versus women read and lead (Reform)",
+    "Seating: separate versus mixed",
+    "Travel: walking (Orthodox) versus some driving (Reform); length of service",
+    "Each way: 1 mark simple, 2 marks detailed; must be different"
+   ],
+   "topic": "jp-05"
+  },
+  {
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two ways in which the Torah is honoured during the Shabbat service. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One way is the procession. The Ark is opened, the congregation stands, and the scroll is carried round the synagogue to the bimah while people sing. Worshippers touch it with their tallit fringes or prayer book and kiss them, as the prophet Ezekiel said God's scroll 'tasted as sweet as honey' (Ezekiel 3:3). This shows Jews love the Torah as God's precious gift.\n\nAnother way is how it is read. Members of the community are called up for an aliyah to say blessings before and after each section, and the reader uses a yad so the parchment is not touched. Afterwards the scroll is lifted high so everyone can see the words. This follows Ezra, who read the law to the people from a platform while they stood (Nehemiah 8:4-5), showing that the Torah is God's word for the whole community.",
+   "points": [
+    "Standing when the Ark is opened; procession; touching and kissing (Ezekiel 3:3)",
+    "Aliyah blessings; reading with a yad; hagbah lifting the scroll",
+    "Read from the raised bimah so all can hear (Nehemiah 8:4-5)",
+    "Weekly parashah so the whole Torah is read each year (Joshua 1:8: recite it day and night)",
+    "Sermon explaining the portion; Bar/Bat Mitzvah reading",
+    "Marks: 2 per developed way, 1 for naming a source, 1 for applying it"
+   ],
+   "topic": "jp-05"
+  },
+  {
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Going to the synagogue is the most important part of keeping Shabbat.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "The Torah is read in the synagogue each Shabbat, so the community hears God's word together; this only happens with a minyan.",
+    "Communal prayer brings the Shekhinah (Berakhot 6a) and makes Shabbat feel different from the rest of the week.",
+    "It strengthens the community: Kiddush after the service, Bar and Bat Mitzvah, and support for those who live alone."
+   ],
+   "against": [
+    "Shabbat began as a day of rest at home: 'Remember the Sabbath day to keep it holy' (Exodus 20:8) is about rest from work for the whole household, which happens in the home.",
+    "The home rituals (candles, Kiddush, challah, family meal, Havdalah) are where families pass on traditions, and many say the Jewish home is a small sanctuary.",
+    "Orthodox women are not required to attend services; some Jews cannot attend due to illness or distance, yet keep Shabbat fully. Not working (the 39 melachot) is the core command."
+   ],
+   "conclusion": "Synagogue worship is a vital part of Shabbat, but rest and home life are the core of the commandment, so the home is at least equally important.",
+   "model": "Some Jews would agree that going to the synagogue is the most important part of Shabbat. The Torah is read publicly every Shabbat morning, and this can only happen with a minyan, so the community hears God's word together and every synagogue in the world reads the same portion. The Talmud (Berakhot 6a) teaches that the divine presence is with ten who pray together, so communal worship helps Jews feel close to God. The synagogue is also where young people celebrate their Bar or Bat Mitzvah, and where the Kiddush after the service brings the community together. This is a strong argument because Shabbat is a sign of the covenant with the whole people, not just individuals.\n\nHowever, there are strong reasons to disagree. The commandment says 'Remember the Sabbath day to keep it holy. Six days you shall labour... but the seventh day is a Sabbath to the Lord your God' (Exodus 20:8-10), which is mainly about rest from work, and it includes the whole household. Much of Shabbat happens in the home: lighting candles, Kiddush over wine, blessing the challah and children, a family meal with songs, and Havdalah at the end. These rituals pass on Jewish traditions to children. In Orthodox Judaism women are not obliged to attend synagogue services, and people who are ill or live far from a synagogue can still keep Shabbat fully by resting and celebrating at home. This is a convincing argument because the heart of Shabbat is rest and holiness, which can happen anywhere.\n\nIn conclusion, I disagree with the statement. Synagogue worship is an important part of Shabbat, especially hearing the Torah, but the core of the commandment is rest and making the day holy, which is centred on the home. Most Jews would see the home and the synagogue as working together to make Shabbat special.",
+   "topic": "jp-05"
+  },
+  {
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why Shabbat is important for Jews. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that keeping Shabbat is commanded by God and remembers creation. Exodus 20:8-11 says 'Remember the Sabbath day by keeping it holy' and explains that God rested on the seventh day after creating the world. This means Jews stop work from Friday sunset to Saturday night to copy God's rest and to thank God as Creator.\n\nAnother reason is that Shabbat is the sign of the covenant between God and the Jewish people. Exodus 31:16 says the Israelites shall keep the Sabbath 'as a lasting covenant'. This means that by lighting candles, saying Kiddush and resting each week, Jews show their special relationship with God and pass this identity on to their children.",
+   "points": [
+    "Commanded in the Ten Commandments (Exodus 20:8-11; Deuteronomy 5:12)",
+    "Remembers creation (Genesis 2:2-3) and freedom from slavery (Deuteronomy 5:15)",
+    "Sign of the covenant (Exodus 31:16-17)",
+    "Time for family, rest, prayer and study; 'a delight' (Isaiah 58:13)",
+    "Unites Jews and preserves identity ('Shabbat has kept the Jews')",
+    "Marks: 2 per developed reason, 1 for naming a source, 1 for applying it"
+   ],
+   "topic": "jp-06"
+  },
+  {
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which Jews worship in the home. (4 marks)",
+   "model": "One way is through daily prayers and blessings. Many Jews say Modeh Ani on waking and the Shema before sleeping, and they say blessings before and after food to thank God for providing it.\n\nA different way is through Shabbat and festival rituals at the table. On Friday night the family lights candles, says Kiddush over wine and blesses the challah, and at Pesach the family holds the Seder, so the home becomes a 'small sanctuary' where children learn their faith.",
+   "points": [
+    "Daily prayers: Modeh Ani, bedtime Shema, private prayer",
+    "Blessings over food and Birkat Hamazon",
+    "Mezuzah on doorposts, touched when passing",
+    "Shabbat and festival rituals: candles, Kiddush, Seder, Havdalah",
+    "Torah study at home; teaching children (Deuteronomy 6:7)",
+    "Each way: 1 mark simple, 2 marks detailed; ways must be different"
+   ],
+   "topic": "jp-07"
+  },
+  {
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'The Talmud is just as important as the Torah for Jews today.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "Orthodox Jews believe the Oral Law was given to Moses at Sinai with the Written Law (Pirkei Avot 1:1), so both come from God.",
+    "The Torah cannot be kept without the Talmud: it explains the 39 melachot, how to make tefillin and how to keep kashrut.",
+    "The Talmud applies the law to new situations and its debates are studied daily (Daf Yomi); Steinsaltz called it the 'central pillar' of Judaism."
+   ],
+   "against": [
+    "The Torah is the direct word of God, written in the Sefer Torah, kept in the Ark and read in every synagogue; the Talmud is the words of rabbis about it.",
+    "The Talmud depends on the Torah: it is commentary, so it cannot be equal to its source.",
+    "Many Reform Jews see the Talmud as valuable human guidance, not binding law, while the Torah's ethical teaching stays central."
+   ],
+   "conclusion": "The Torah has the higher status as God's word, but for many Jews, especially Orthodox, it can only be lived out through the Talmud, so in practice both are essential.",
+   "model": "Many Jews, especially Orthodox Jews, would agree with this statement. They believe that when Moses received the Written Torah at Sinai he also received the Oral Torah, which was passed down by word of mouth and later written as the Mishnah and Gemara. Pirkei Avot 1:1 traces this chain from Moses to Joshua and onwards. In practice the Torah cannot be kept without the Talmud. The Torah says not to work on Shabbat, but it is the Talmud that lists the 39 melachot. The Torah says to bind God's words on your hand, but the Talmud explains how to make and wear tefillin. The Talmud also shows rabbis debating, which helps Jews apply the law to new situations. Rabbi Adin Steinsaltz called it the 'central pillar' of Judaism, and many Jews study it every day through Daf Yomi. This is a strong argument, because daily Jewish life depends on it.\n\nHowever, others would argue the Torah is more important. It is believed to be the direct word of God, handwritten by a scribe on a scroll that is kept in the Aron Hakodesh, carried in procession and read in every synagogue. The Talmud is a record of what rabbis said about the Torah, so it depends on the Torah and cannot be greater than its source. Many Reform Jews see the Talmud as wise human guidance that can be reinterpreted, while the Torah, especially its ethical teaching, remains central. This is a convincing argument because the Talmud itself constantly quotes the Torah as its authority.\n\nIn conclusion, I think the Torah has the higher status, because it is God's word and the source of everything else. However, for many Jews, especially Orthodox Jews, the Torah can only be lived through the Talmud's explanations, so in daily practice they are both essential, even if they are not exactly equal.",
+   "topic": "jp-07"
+  },
+  {
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ceremonies associated with the birth of a Jewish child. (4 marks)",
+   "model": "One ceremony is Brit Milah, for baby boys on the eighth day after birth. A trained mohel circumcises the baby while he is held by the sandek, the father thanks God for bringing his son into the covenant of Abraham, and the boy is given his Hebrew name.\n\nA different ceremony is the naming of a baby girl. In Orthodox communities the father is called up to the Torah on Shabbat and the girl's name is announced with a prayer for mother and baby, while many Reform families hold a Simchat Bat at any time, where both parents say prayers and family and friends celebrate.",
+   "points": [
+    "Brit Milah: eighth day, mohel, sandek, chair of Elijah, Hebrew name, sign of covenant",
+    "Girls: naming in synagogue on Shabbat (Orthodox); Simchat Bat or Brit Bat (Reform)",
+    "Pidyon Haben for a firstborn son on day 31",
+    "Shalom Zachar on the first Friday night after a boy's birth",
+    "Whispering the Shema to a newborn",
+    "Each way: 1 mark simple, 2 marks detailed; ceremonies must be different"
+   ],
+   "topic": "jp-08"
+  },
+  {
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Brit Milah is the most important Jewish ceremony.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "It is commanded directly by God in the Torah (Genesis 17:10-12) as the sign of the covenant with Abraham, carried out on the eighth day even on Shabbat.",
+    "It marks a Jewish boy permanently as part of the covenant, and is kept even by many Jews who keep few other practices.",
+    "It begins Jewish life; the blessing hopes the child will enter Torah, marriage and good deeds, so it opens the way to all later ceremonies."
+   ],
+   "against": [
+    "It applies only to boys, so it cannot be the most important ceremony for all Jews; girls' ceremonies and Bat Mitzvah matter equally to many Reform Jews.",
+    "Bar and Bat Mitzvah may be more important because the young person chooses to accept the mitzvot for themselves (Pirkei Avot 5:21), while a baby has no choice.",
+    "Weekly Shabbat or yearly Yom Kippur shape faith more often; marriage is a mitzvah (Genesis 1:28) that builds Jewish families, and mourning rituals honour life and God."
+   ],
+   "conclusion": "Brit Milah is the most important ceremony for many Jewish families because it is a direct command and the sign of the covenant, but because it applies only to boys and is not chosen, others see Bar/Bat Mitzvah or weekly practices as equally important.",
+   "model": "Many Jews would agree that Brit Milah is the most important ceremony. It is commanded directly by God in the Torah: 'Every male among you shall be circumcised... at eight days old' (Genesis 17:10-12). It is the sign of the covenant between God and Abraham, so it marks a Jewish boy as part of God's people for life. It is so important that it takes place on the eighth day even if that day is Shabbat or Yom Kippur. Many Jews who do not keep other mitzvot still have their sons circumcised, which shows how deeply it is connected to Jewish identity. The blessing said at the ceremony hopes the boy will enter 'into Torah, into marriage and into good deeds', so it is the start of every other stage of Jewish life. This is a strong argument because it comes straight from the covenant with Abraham.\n\nHowever, others would disagree. Brit Milah only applies to boys, so it cannot be the most important ceremony for every Jew. Many Reform Jews would point to ceremonies such as Brit Bat and Bat Mitzvah to show girls are equally part of the covenant. A baby has no say in Brit Milah, whereas at a Bar or Bat Mitzvah a young person personally takes on the mitzvot, which Pirkei Avot 5:21 links to the age of thirteen. Marriage could also be seen as more important, because it fulfils the mitzvah to 'be fruitful and multiply' (Genesis 1:28) and creates the Jewish home where faith is passed on. This is a convincing argument because it shows that different ceremonies matter at different points in life.\n\nIn conclusion, I think Brit Milah is the most important ceremony in one sense, because it is a direct command from God and the sign of the covenant. However, as it only applies to boys and is not chosen by the person, I would say it is one of several equally important stages, with Bar and Bat Mitzvah and marriage also central to Jewish life.",
+   "topic": "jp-08"
+  },
+  {
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why Bar Mitzvah is important for Jews. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that it marks the point when a boy becomes responsible for keeping the mitzvot himself. Pirkei Avot 5:21 teaches that thirteen is the age for the commandments. This means that from now on he must fast on Yom Kippur and keep the laws, and his father thanks God that he is no longer responsible for his son's wrongdoing.\n\nAnother reason is that it shows the young person taking on the covenant and joining the adult community. He reads from the Torah in front of the congregation for the first time, wears a tallit and is counted in the minyan. The Torah was given to the whole people at Sinai, when they said 'All that the Lord has spoken we will do' (Exodus 24:7), so each Bar Mitzvah is like a young Jew making that promise personally.",
+   "points": [
+    "Responsibility for the mitzvot at 13 (Pirkei Avot 5:21); father's blessing",
+    "Joining the adult community: counted in minyan, called up for aliyah",
+    "Personally accepting the covenant made at Sinai (Exodus 24:7)",
+    "Continuing Jewish identity and tradition; study of Torah and Hebrew",
+    "Celebration with family and community; wearing tallit and tefillin",
+    "Marks: 2 per developed reason, 1 for naming a source, 1 for applying it"
+   ],
+   "topic": "jp-09"
+  },
+  {
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which Jewish weddings may be celebrated. (4 marks)",
+   "model": "One way is the Orthodox tradition where the bride circles the groom seven times under the chuppah and only the groom gives a ring, saying 'You are consecrated to me by this ring according to the law of Moses and Israel'. Afterwards men and women often dance separately.\n\nA different way is in Reform or Liberal synagogues, where the ceremony is more equal. Both partners may give rings and make the declaration to each other, circling may be shared or left out, and same-sex couples can also marry.",
+   "points": [
+    "Orthodox: bride circles seven times, groom gives ring, separate dancing, fasting beforehand",
+    "Reform/Progressive: exchange of rings, equal declarations, same-sex weddings possible",
+    "Ceremony symbols: chuppah (home), ketubah, Seven Blessings, breaking glass (Temple), yichud",
+    "Before: aufruf, bedeken (veiling)",
+    "After: Sheva Berakhot week of celebration (Orthodox)",
+    "Each way: 1 mark simple, 2 marks detailed; ways must be different"
+   ],
+   "topic": "jp-10"
+  },
+  {
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Marriage is the most important stage in Jewish life.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "Marriage fulfils the first mitzvah in the Torah, 'Be fruitful and multiply' (Genesis 1:28), and God said 'It is not good for the man to be alone' (Genesis 2:18).",
+    "The Jewish home is where the faith is passed on: Shabbat, festivals and kashrut are mainly kept at home, so marriage protects the future of Judaism.",
+    "The rabbis call marriage kiddushin (holiness), and the Talmud says a man without a wife lives without joy or blessing (Yevamot 62b)."
+   ],
+   "against": [
+    "Brit Milah is a direct command and the sign of the covenant (Genesis 17), so it could be more important.",
+    "Bar and Bat Mitzvah is when a Jew personally accepts the mitzvot; this matters for every Jew, married or not.",
+    "Not everyone marries, and a single person can live a full Jewish life by keeping the mitzvot and caring for others; some argue death and mourning rituals are equally important for honouring life."
+   ],
+   "conclusion": "Marriage is extremely important because it builds Jewish homes and families, but it is one of several life stages, and Jews who do not marry still live complete Jewish lives.",
+   "model": "Many Jews would agree that marriage is the most important stage of life. The first command in the Torah is 'Be fruitful and multiply' (Genesis 1:28), and after creating Adam God said, 'It is not good for the man to be alone' (Genesis 2:18). The rabbis call marriage kiddushin, meaning holiness, because the couple are set apart for each other in a relationship that includes God. The Talmud even says that a man without a wife lives without joy, without blessing and without goodness (Yevamot 62b). Most importantly, much of Jewish life happens in the home: Shabbat meals, Pesach Seders and keeping kosher. Marriage creates the home where children learn their faith, so it is vital for the survival of Judaism. This is a strong argument because without Jewish families the tradition could not continue.\n\nHowever, other stages could be seen as just as important. Brit Milah is commanded directly by God as the sign of the covenant with Abraham (Genesis 17:10-12), so it marks a Jewish boy's entry into the covenant. Bar and Bat Mitzvah is when a young person personally takes on the mitzvot, which Pirkei Avot 5:21 links to age thirteen, and this applies to every Jew whether or not they marry. Not everyone marries, and a single Jew can still live a full and holy life by keeping Shabbat, giving tzedakah and studying Torah. Mourning rituals are also important because they honour the dead and comfort the living. This is a convincing argument because Jewish law is for everyone, not just married people.\n\nIn conclusion, I partly agree. Marriage is one of the most important stages because it builds the Jewish home, where faith is lived and passed on. However, I would not call it the most important, because Brit Milah and Bar or Bat Mitzvah mark a person's relationship with the covenant itself, and Jews who do not marry are still fully part of the Jewish people.",
+   "topic": "jp-10"
+  },
+  {
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two Jewish mourning rituals. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One ritual is quick burial. The body is washed by the Chevra Kadisha, wrapped in a plain shroud and buried in a simple coffin, usually within 24 hours. Deuteronomy 21:23 says a body should be buried the same day. This shows respect for the body that God created, and for many Orthodox Jews it is linked to belief in the resurrection, which is why they do not cremate.\n\nAnother ritual is sitting shiva for seven days after the funeral. Mourners stay at home, sit on low stools and cover mirrors, while the community visits, brings food and forms a minyan so the mourners can say Kaddish. On hearing of the death they will have said 'Blessed is the true Judge', echoing Job 1:21, 'The Lord gave and the Lord has taken away'. This means mourners are supported to grieve while still praising God.",
+   "points": [
+    "Quick burial, Chevra Kadisha, plain shroud and coffin (Deuteronomy 21:23; Genesis 3:19)",
+    "Keriah: tearing clothes as a sign of grief",
+    "Shiva: seven days at home, low stools, covered mirrors, visitors",
+    "Kaddish said with a minyan for 11 months for a parent; yahrzeit",
+    "Barukh Dayan HaEmet on hearing of death (Job 1:21)",
+    "Marks: 2 per developed ritual, 1 for naming a source, 1 for applying it"
+   ],
+   "topic": "jp-11"
+  },
+  {
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Jewish mourning rituals are more for the living than for the dead.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "Shiva, sheloshim and the year of mourning are designed to let mourners grieve in stages and return slowly to normal life.",
+    "The community surrounds mourners with support: visits, meals, a minyan at home, and the words 'May God comfort you among the mourners of Zion and Jerusalem'.",
+    "Kaddish praises God rather than mentioning the dead, helping the mourner keep faith during grief."
+   ],
+   "against": [
+    "Quick burial, washing by the Chevra Kadisha and a watcher staying with the body show respect for the dead person, made in God's image.",
+    "Burying rather than cremating, for Orthodox Jews, prepares for the resurrection (Daniel 12:2), so it is for the dead.",
+    "Many believe saying Kaddish helps the soul of the dead person, which is why it is said for 11 months; shovelling earth is called the truest kindness because the dead cannot repay it."
+   ],
+   "conclusion": "The rituals serve both: they honour the dead and support the living, and Judaism sees these as linked acts of chesed (kindness).",
+   "model": "Some Jews would agree that mourning rituals are mainly for the living. The stages of mourning are carefully designed to help people grieve: seven days of shiva at home, then the thirty days of sheloshim, then a year for a parent, allowing mourners to return gradually to normal life. During shiva the community visits, brings food and forms a minyan at the mourner's home, so the bereaved are never alone. Visitors say, 'May God comfort you among the mourners of Zion and Jerusalem'. The Kaddish, which mourners say daily, does not mention death at all but praises God, helping the mourner keep faith in a time of loss. This is a strong argument because these practices clearly focus on the wellbeing of those left behind.\n\nHowever, other Jews would say the rituals are just as much for the dead. The body is washed with care by the Chevra Kadisha, dressed in a simple shroud and never left alone before the funeral, because it was created in the image of God. Burial happens quickly, following Deuteronomy 21:23, and many Orthodox Jews refuse cremation because they believe in the resurrection of the dead (Daniel 12:2). Many Jews believe that saying Kaddish helps the soul of the person who has died, which is why it is said for eleven months. Shovelling earth onto the coffin is seen as the purest act of kindness, because the dead person can never repay it. This is a convincing argument because it shows the rituals express respect and duty towards the dead.\n\nIn conclusion, I disagree that the rituals are more for the living. Jewish mourning practices are an act of chesed in two directions: they honour the dead person, and they comfort and support the mourners. Most Jews would see these purposes as joined together rather than one being more important than the other.",
+   "topic": "jp-11"
+  },
+  {
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why many Jews keep the dietary laws. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that the dietary laws are commanded by God in the Torah. Leviticus 11 sets out which animals may be eaten, such as those that chew the cud and have split hooves, and Exodus 23:19 says 'You shall not boil a kid in its mother's milk'. Many Jews, especially Orthodox Jews, keep these laws simply because God commanded them, even without a stated reason, so they keep separate dishes for meat and dairy.\n\nAnother reason is that keeping kosher makes everyday life holy. Leviticus 11:44 says 'Be holy, for I am holy'. This means every meal becomes a reminder of God and of the covenant, and it gives Jews a shared identity, because keeping kosher sets them apart and connects them to Jews all over the world.",
+   "points": [
+    "Commanded by God (Leviticus 11; Deuteronomy 14; Exodus 23:19)",
+    "Holiness: 'Be holy, for I am holy' (Leviticus 11:44)",
+    "Self-discipline and control of appetite (Maimonides)",
+    "Identity and unity; reminder of God at every meal",
+    "Respect for life: no blood (Leviticus 17:11), shechitah",
+    "Marks: 2 per developed reason, 1 for naming a source, 1 for applying it"
+   ],
+   "topic": "jp-12"
+  },
+  {
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why Yom Kippur is important for Jews. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that Yom Kippur is the Day of Atonement, when Jews believe God forgives the sins of those who sincerely repent. Leviticus 16:30 says 'on this day atonement shall be made for you to purify you of all your sins'. This is why Jews fast for 25 hours, wear white as a symbol of purity and spend the day confessing their sins in the synagogue.\n\nAnother reason is that Jews believe God's judgement for the year, written on Rosh Hashanah, is sealed at the end of Yom Kippur. The Talmud (Rosh Hashanah 16b) describes books being opened for the righteous, the wicked and those in between. This means Jews use the final service, Neilah, as a last chance to return to God before the Ark is closed and the shofar is sounded.",
+   "points": [
+    "Day of Atonement: forgiveness for sincere repentance (Leviticus 16:30; Leviticus 23:27)",
+    "Judgement sealed; Neilah as the last chance (Rosh Hashanah 16b)",
+    "Holiest day: fasting, white clothes, day in synagogue, Vidui",
+    "Reconciliation with others first (Mishnah Yoma 8:9)",
+    "Jonah reading shows God forgives all who repent",
+    "Marks: 2 per developed reason, 1 for naming a source, 1 for applying it"
+   ],
+   "topic": "jp-13"
+  },
+  {
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which Jews prepare for and celebrate Pesach. (4 marks)",
+   "model": "One way is by removing chametz from the home before the festival. Families clean the house thoroughly and search for the last crumbs by candlelight the night before, then burn or sell what is left, because the Israelites left Egypt so quickly that their bread could not rise.\n\nA different way is by holding the Seder meal. The family reads the Haggadah, the youngest child asks the Four Questions, and they eat symbolic foods such as maror (bitter herbs) for the bitterness of slavery and matzah for the haste of leaving Egypt, so the story is passed to the next generation.",
+   "points": [
+    "Preparation: cleaning, bedikat chametz, burning or selling chametz, Pesach dishes",
+    "Seder: Haggadah, Four Questions, Seder plate symbols, four cups of wine",
+    "Afikoman hunt; Elijah's cup; 'Next year in Jerusalem'",
+    "Eating matzah for the whole festival (7 or 8 days)",
+    "Orthodox: two Seders and 8 days outside Israel; Reform: often one Seder, 7 days",
+    "Each way: 1 mark simple, 2 marks detailed; ways must be different"
+   ],
+   "topic": "jp-14"
+  },
+  {
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two ways in which the Seder meal helps Jews remember the Exodus. Refer to sacred writings or another source of Jewish belief and teaching in your answer. (6 marks)",
+   "model": "One way is through retelling the story. The family reads the Haggadah, and the youngest child asks the Four Questions beginning 'Why is this night different from all other nights?'. Exodus 13:8 commands parents to explain to their children what God did when the Israelites went free from Egypt. This means the story is passed on to every new generation, so children grow up knowing God saved their ancestors.\n\nAnother way is through the symbolic foods. Rabban Gamaliel taught in the Mishnah (Pesachim 10:5) that anyone who has not explained the Passover offering, the matzah and the maror has not done their duty. Matzah recalls the haste of leaving Egypt, maror the bitterness of slavery and charoset the mortar the slaves used. Tasting these foods helps Jews feel 'as if they personally came out of Egypt'.",
+   "points": [
+    "Retelling with the Haggadah and the Four Questions (Exodus 13:8; Exodus 12:26-27)",
+    "Symbolic foods: matzah, maror, charoset, karpas in salt water, zeroa, beitzah (Mishnah Pesachim 10:5)",
+    "Four cups of wine linked to God's promises of freedom (Exodus 6:6-7)",
+    "Removing drops of wine for the plagues; Elijah's cup; 'Next year in Jerusalem'",
+    "Seeing oneself as personally freed from Egypt",
+    "Marks: 2 per developed way, 1 for naming a source, 1 for applying it"
+   ],
+   "topic": "jp-14"
+  },
+  {
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Pesach is the most important festival for Jews in Britain today.' Evaluate this statement. In your answer you should: refer to Jewish teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "for": [
+    "Pesach remembers the Exodus, when God freed the Israelites and made them a people; it is commanded 'for all time' (Exodus 12:14).",
+    "It is one of the most widely kept festivals in Britain: many Jews who keep little else attend a family Seder, so it unites the community.",
+    "It passes faith to children (Exodus 13:8) and its message of freedom is relevant today, with readings about refugees and modern slavery."
+   ],
+   "against": [
+    "Yom Kippur is called the holiest day of the year; many British Jews who rarely attend synagogue go on Yom Kippur to seek forgiveness (Leviticus 16:30).",
+    "Rosh Hashanah begins the year with judgement and the Ten Days of Awe, shaping a Jew's relationship with God for the whole year.",
+    "Shabbat happens every week and is one of the Ten Commandments, so for observant Jews it shapes life more than any yearly festival."
+   ],
+   "conclusion": "Pesach may be the most widely celebrated festival in Britain because of its family focus and message of freedom, but in terms of holiness Yom Kippur is usually seen as the most important, so it depends whether importance means popularity or holiness.",
+   "model": "Some Jews would agree that Pesach is the most important festival. It remembers the Exodus, when God freed the Israelites from slavery and turned them into a people, which is the foundation of Jewish identity. The Torah commands Jews to keep it 'for all time' (Exodus 12:14), and Exodus 13:8 tells parents to explain the story to their children. In Britain, Pesach is one of the most widely kept festivals: many Jews who rarely go to synagogue still attend a family Seder, read the Haggadah and eat matzah. Its message of freedom also speaks to modern Britain, and many families add readings about refugees or modern slavery. This is a strong argument because Pesach reaches the most people and passes the faith to the next generation.\n\nHowever, others would argue that Yom Kippur is more important. It is the Day of Atonement, when Leviticus 16:30 says atonement is made to purify the people of their sins, and Jews believe God's judgement for the year is sealed. It is called the holiest day of the year, and British synagogues are at their fullest, with many Jews fasting for 25 hours. Rosh Hashanah could also be seen as more important because it starts the Ten Days of Awe and celebrates the creation of the world. Others would point out that Shabbat, one of the Ten Commandments, happens every week, so for observant Jews it shapes life far more than a yearly festival. This is a convincing argument because it focuses on the relationship with God rather than on family tradition.\n\nIn conclusion, I think it depends on what 'important' means. If it means the festival most widely celebrated by British Jews, Pesach has a strong claim because of its family focus. But in terms of holiness and the relationship with God, Yom Kippur is usually seen as the most important day, so I would not fully agree with the statement.",
+   "topic": "jp-14"
   }
  ]
 }

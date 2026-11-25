@@ -11,57 +11,78 @@
   {
    "id": "te-01",
    "code": "Crime.1",
-   "title": "Crime and punishment: good and evil intentions and actions",
-   "overview": "Before the detailed topics, know what a crime is, how punishment works in the UK, and how religious people see good and evil intentions and actions.",
+   "title": "Crime, good and evil intentions and actions",
+   "overview": "Know what a crime is, how religious and non-religious people judge good and evil intentions and actions, and why they think intentions matter. The question of whether it can ever be good to cause suffering is covered in its own topic.",
    "notes": [
     {
      "h": "Crime and law",
      "bullets": [
-      "A **crime** is an action that breaks the law and can be punished by the state. Crimes can be against a person (murder), property (theft) or the state (treason).",
-      "In the UK, someone found guilty by a court can be punished by a fine, community sentence or prison. The most serious crimes, such as murder, carry a life sentence. The UK does not use the death penalty or corporal punishment as sentences.",
-      "Some actions are wrong but legal, such as lying or adultery. Some actions are good but not required by law, such as giving to charity."
+      "A **crime** is an offence which is punishable by law, for example stealing or murder. Crimes can be against a person (murder, assault), against property (theft, vandalism) or against the state (terrorism, treason).",
+      "A **law** is a rule that a country makes and everyone must keep. A **religious moral law** is a rule from God or a religion, such as the Ten Commandments ('You shall not steal', 'You shall not murder').",
+      "Some actions are crimes and also sins (murder, theft). Some are sins for many believers but not crimes (lying in most situations, adultery). Some good actions are not required by law (giving to charity).",
+      "In the UK, someone found guilty by a court can be fined, given a community sentence or sent to prison. Murder carries a mandatory life sentence. The UK does not use the death penalty or corporal punishment."
      ]
     },
     {
-     "h": "Good and evil",
+     "h": "Good and evil intentions and actions",
      "bullets": [
-      "**Evil** actions cause suffering or harm. **Evil intentions** mean deliberately wanting to harm. Many religious people say intentions matter as well as actions.",
-      "Christians believe humans are made in God's image but affected by sin, so everyone is capable of good and evil. Many say 'hate the sin, love the sinner'.",
-      "Christians link evil to Satan's temptation and the Fall. Jews also link evil to temptation, but teach that each person has a good inclination (yetzer hatov) and an evil inclination (yetzer hara) and can choose between them.",
-      "Jews do not believe in original sin. God is just, so people must face the consequences of wrong choices but can repent."
+      "**Good** means morally right or beneficial; **evil** means extremely wicked and immoral, causing harm or suffering.",
+      "An **intention** is what a person means or plans to do. The same action can be judged differently depending on intention: killing someone deliberately (murder) is treated far more seriously than killing someone by accident (manslaughter). UK law also asks whether a person had a 'guilty mind'.",
+      "Christians believe intentions matter as well as actions. Jesus taught that anger and lust in the heart are already sinful (Matthew 5:21-22, 5:28), and that 'from within, out of the hearts of men, proceed evil thoughts... murders, thefts' (Mark 7:21). God judges the heart.",
+      "Christians believe humans are made in God's image (Genesis 1:27) but affected by **original sin**, so everyone is capable of evil: 'all have sinned' (Romans 3:23). Paul admitted, 'the evil which I don't desire, that I practise' (Romans 7:19). So Christians say 'hate the sin, love the sinner'.",
+      "Many Christians also link evil to temptation by Satan (the devil), though they say people are still responsible for their choices because God gave free will.",
+      "Jews do not believe in original sin. Every person has a **yetzer hatov** (inclination to do good) and a **yetzer hara** (inclination to do evil), and has free will to choose. Ecclesiastes 7:20 says no one is so good that they never do wrong.",
+      "In Judaism actions matter most, but intention (**kavanah**) also counts. When Rabbi Meir prayed for some troublemakers to die, his wife Beruriah told him to pray that their sins would end, not the sinners (Talmud, Berakhot 10a)."
+     ]
+    },
+    {
+     "h": "Non-religious views",
+     "bullets": [
+      "Humanists judge actions by their effects on human well-being and by reason and empathy, not by God's commands. Most accept that intentions matter: a person who meant well but caused harm is judged differently from one who meant harm.",
+      "A **utilitarian** judges an action mainly by its consequences: does it bring the greatest good for the greatest number? On this view a good intention does not make a harmful action right.",
+      "The philosopher Immanuel Kant argued the opposite: what matters most is acting from a good will and doing your duty, whatever the consequences.",
+      "Many non-religious people (and religious ones) argue that social causes, such as poverty, poor education or abuse, help explain why people commit crime, though people are still responsible for what they do."
      ]
     }
    ],
    "views": [
     {
      "label": "Christian",
-     "text": "Intentions matter because Jesus said wrong thoughts can be sinful as well as wrong actions. Christians believe all humans can do evil because of original sin, but God offers forgiveness."
+     "text": "Intentions matter as well as actions, because Jesus said evil starts in the heart. All humans can do evil because of original sin, but God offers forgiveness, so believers hate the sin but love the sinner."
     },
     {
      "label": "Jewish",
-     "text": "Jews teach free will: people can choose the good or evil inclination. Actions matter greatly, and repentance (teshuvah) is always possible."
+     "text": "There is no original sin. Each person has a good and an evil inclination and the free will to choose between them. Actions matter greatly, and repentance (teshuvah) is always possible."
     },
     {
-     "label": "Non-religious",
-     "text": "Many say people become criminals because of social causes. Some say that intentions matter in deciding how serious a crime is."
+     "label": "Utilitarian",
+     "text": "An action is good or evil because of its consequences, the amount of happiness or suffering it produces, rather than because of the intention behind it."
+    },
+    {
+     "label": "Humanist",
+     "text": "Morality comes from reason and empathy, not God. Intentions and consequences both matter, and society should tackle the social causes that lead people to do harm."
     }
    ],
    "terms": [
     {
      "term": "crime",
-     "def": "an action that breaks the law"
+     "def": "an offence which is punishable by law, for example stealing or murder"
+    },
+    {
+     "term": "good",
+     "def": "morally right or beneficial"
     },
     {
      "term": "evil",
-     "def": "actions or intentions that cause suffering or harm"
+     "def": "extremely wicked and immoral, causing harm or suffering"
     },
     {
      "term": "intention",
-     "def": "what a person means to do or aims to achieve"
+     "def": "what a person means or plans to do"
     },
     {
      "term": "law",
-     "def": "rules a country makes that people must follow"
+     "def": "a rule that a country makes and everyone must keep"
     },
     {
      "term": "original sin",
@@ -69,158 +90,241 @@
     },
     {
      "term": "yetzer hara",
-     "def": "the Jewish idea of the evil inclination"
+     "def": "the Jewish idea of the inclination to do evil"
+    },
+    {
+     "term": "yetzer hatov",
+     "def": "the Jewish idea of the inclination to do good"
     }
    ],
    "sources": [
     {
-     "text": "'Anyone who looks at a woman lustfully has already committed adultery with her in his heart.'",
+     "text": "Everyone who gazes at a woman to lust after her has committed adultery with her already in his heart.",
      "ref": "Matthew 5:28",
-     "use": "Use to show that intentions matter, not just actions."
+     "use": "Use to show that, for Christians, evil intentions are already sinful."
     },
     {
-     "text": "'A good man brings good things out of the good stored up in him.'",
+     "text": "The good man out of his good treasure brings out good things, and the evil man out of his evil treasure brings out evil things.",
      "ref": "Matthew 12:35",
-     "use": "Use for the link between a person's heart and their actions."
+     "use": "Use to show that actions come from what is in a person's heart."
     },
     {
-     "text": "'All have sinned and fall short of the glory of God.'",
+     "text": "All have sinned, and fall short of the glory of God.",
      "ref": "Romans 3:23",
-     "use": "Use to explain why Christians say everyone can do wrong."
+     "use": "Use for original sin: everyone is capable of evil."
     },
     {
-     "text": "'You intended to harm me, but God intended it for good.'",
+     "text": "You meant evil against me, but God meant it for good.",
      "ref": "Genesis 50:20",
-     "use": "Use to discuss whether good can come from evil."
+     "use": "Use to show the difference between evil intentions and good outcomes (Joseph and his brothers)."
+    },
+    {
+     "text": "For from within, out of the hearts of men, proceed evil thoughts... murders, thefts.",
+     "ref": "Mark 7:21",
+     "use": "Use to show Jesus taught that crime begins with evil intentions."
+    },
+    {
+     "text": "There is not one good person on earth who does what is best and doesn't err.",
+     "ref": "Ecclesiastes 7:20",
+     "use": "A Jewish (and Christian) source showing that everyone does wrong at times."
     }
    ],
-   "tip": "Do not say Christians think anyone is simply 'evil'. Use ideas such as original sin and 'hate the sin, love the sinner'."
+   "tip": "Do not say Christians think anyone is simply 'evil'. Use ideas such as original sin, free will and 'hate the sin, love the sinner'. For Judaism, use the two inclinations.",
+   "pitfalls": [
+    "Do not say Jews believe in original sin. Judaism teaches the good and evil inclinations and free will.",
+    "If asked for an example of a religious moral law that criminals break, give a specific one such as 'You shall not steal' (Exodus 20:15), not just 'the Bible'.",
+    "Do not confuse intentions with reasons for crime. An intention is what someone means to do; a reason (such as poverty) explains why."
+   ]
   },
   {
    "id": "te-02",
    "code": "Crime.2",
-   "title": "Reasons for crime",
-   "overview": "AQA lists seven reasons for crime and expects you to link religious teaching to each.",
+   "title": "Reasons for crime and views about people who break the law",
+   "overview": "AQA lists poverty and upbringing, mental health problems and addiction, greed and hate, and opposition to an unjust law as reasons for crime. For each, know how it can lead to crime and what religious and non-religious people think about people who break the law for that reason.",
    "notes": [
     {
-     "h": "Reasons",
+     "h": "Poverty and upbringing",
      "bullets": [
-      "**Poverty**: people who cannot afford basics may steal to survive. **Upbringing**: children who grow up around crime may copy it.",
-      "**Mental illness**: some conditions can lead to criminal behaviour, and offenders may need treatment as well as punishment. **Addiction**: people may steal to pay for drugs or alcohol.",
-      "**Greed**: wanting more wealth or status, which can lead to theft or fraud. **Hate**: prejudice can lead to hate crime or violence.",
-      "**Opposition to an unjust law**: some break a law they believe is morally wrong, for example Rosa Parks refusing to give up her bus seat, or the Suffragettes."
+      "**Poverty** means being without money, food or other basic needs. Some people steal to survive or are drawn into crime such as drug dealing to earn money.",
+      "**Upbringing** is the way a child is raised and the environment they grow up in. Children who experience neglect, abuse or family members involved in crime may copy what they see or never learn right from wrong.",
+      "Religious views: theft is still wrong, but it can be understandable. 'Men don't despise a thief, if he steals to satisfy himself when he is hungry' (Proverbs 6:30), though the verse goes on to say he must still repay. Christians and Jews believe society has a duty to help the poor so people do not need to steal: Jews give **tzedakah**, and churches and synagogues run food banks (for example through the Trussell network). Christians stress good parenting (Ephesians 6:4), and Judaism teaches parents to bring up children in the mitzvot."
      ]
     },
     {
-     "h": "Religious views",
+     "h": "Mental health problems and addiction",
      "bullets": [
-      "Christians say society should help the poor so people do not need to steal. Greed is condemned, and drunkenness is a sin, but addicts need support.",
-      "Hatred goes against love of neighbour, and prejudice is wrong because God made everyone equal.",
-      "On unjust laws, Christians are usually told to obey authority (Romans 13:1) but must put God first (Acts 5:29). Protest should be peaceful.",
-      "Jews stress tzedakah (charity) to reduce poverty, strong family teaching, and justice. Jews accept breaking a law only to save life or oppose clear injustice, and not for greed or hate."
+      "Some **mental health problems** can affect judgement or self-control, and in rare cases lead to crime. A court may decide a person needs treatment in a secure hospital rather than prison.",
+      "**Addiction** is a physical or mental dependency on a substance or activity, such as drugs, alcohol or gambling. People may steal to pay for their addiction, or commit crimes while under the influence.",
+      "Religious views: believers should show compassion and support recovery, because every person is made in God's image. Christians see drunkenness as wrong (Ephesians 5:18) but many churches run addiction support. Jews see the body as a gift from God that must be looked after. Both say offenders still have some responsibility and need help to change."
+     ]
+    },
+    {
+     "h": "Greed and hate",
+     "bullets": [
+      "**Greed** is the selfish desire for more than you need, for example money, possessions or power. It can lead to theft, fraud or robbery. 'The love of money is a root of all kinds of evil' (1 Timothy 6:10); the Ten Commandments forbid coveting (Exodus 20:17).",
+      "**Hate** is intense dislike of someone. It can lead to violence, and to **hate crimes** targeting people because of race, religion, sexual orientation, disability or gender identity.",
+      "Religious views: greed and hate are condemned because they put self before God and neighbour. Most believers say these are the hardest reasons to sympathise with, because the crime is usually chosen and planned rather than forced by need."
+     ]
+    },
+    {
+     "h": "Opposition to an unjust law",
+     "bullets": [
+      "An **unjust law** is a law that is unfair, for example because it discriminates or denies human rights. Some people break such laws as a protest (**civil disobedience**), usually openly and peacefully, accepting the punishment.",
+      "Examples: Rosa Parks, a Christian, refused to give up her bus seat in Montgomery, Alabama, in 1955; Martin Luther King broke segregation laws peacefully and was jailed. In the Bible the Hebrew midwives disobeyed Pharaoh's order to kill baby boys (Exodus 1:17), and Shadrach, Meshach and Abednego refused to worship the king's statue (Daniel 3:18).",
+      "Christian teaching: obey the authorities because God allows them (Romans 13:1), but 'We must obey God rather than men' (Acts 5:29) when a law is against God's law. Jesus said, 'Render to Caesar the things that are Caesar's, and to God the things that are God's' (Mark 12:17).",
+      "Jewish teaching: 'the law of the land is the law' (dina d'malchuta dina), so Jews obey the law of the country they live in, except where it requires them to break God's commandments. The Talmud teaches that anyone who could protest against wrongdoing and does not shares responsibility for it (Shabbat 54b).",
+      "Most religious people say breaking an unjust law should be non-violent, a last resort, and done openly with willingness to accept the consequences."
+     ]
+    },
+    {
+     "h": "Views about people who break the law for these reasons",
+     "bullets": [
+      "Christians condemn the crime but not the person: 'Don't judge, so that you won't be judged' (Matthew 7:1). They often feel more sympathy for crime caused by poverty, mental illness or addiction than by greed or hate, but still believe in justice.",
+      "Jews are taught, 'Do not judge your fellow until you have reached his place' (Pirkei Avot 2:4): consider a person's situation before condemning them. But offenders must still make restitution and do teshuvah.",
+      "Non-religious views: many humanists and criminologists argue that tackling poverty, poor education, mental illness and addiction prevents more crime than harsh punishment does. Others stress personal responsibility: many poor people never commit crime.",
+      "In UK courts, reasons can affect the sentence: mental illness or addiction may lead to treatment orders, while hate is an aggravating factor that makes a sentence harsher."
      ]
     }
    ],
    "views": [
     {
      "label": "Christian",
-     "text": "Christians understand that some people are driven to crime by poverty or illness, so society should help them. They still believe people have free will and must face the consequences, while being offered forgiveness."
+     "text": "Some people are driven to crime by poverty, illness or addiction, so society should help them and offenders should be treated with compassion. People still have free will and must face the consequences, while being offered forgiveness."
     },
     {
      "label": "Jewish",
-     "text": "Jews say communities must prevent crime through tzedakah and good education. Criminals are responsible for their actions, but community support should reduce temptation."
+     "text": "Communities must prevent crime through tzedakah, education and strong families. Do not judge someone until you have stood in their place, but criminals are responsible and must make restitution and repent."
     },
     {
      "label": "Non-religious",
-     "text": "Many point to social causes such as poverty, poor upbringing and lack of opportunity. Some say punishment alone does not work unless the causes are tackled."
+     "text": "Social causes such as poverty, poor upbringing and lack of opportunity explain much crime. Punishment alone does not work unless the causes are tackled, though individuals remain responsible for their choices."
     }
    ],
    "terms": [
     {
      "term": "poverty",
-     "def": "not having enough for a reasonable standard of living"
+     "def": "being without money, food or other basic needs of life"
     },
     {
      "term": "upbringing",
-     "def": "the way a person is raised, including the environment around them"
+     "def": "the way a child is raised, including the environment they grow up in"
     },
     {
      "term": "addiction",
-     "def": "being dependent on a substance such as drugs or alcohol"
+     "def": "a physical or mental dependency on a substance or activity, such as drugs, alcohol or gambling"
     },
     {
      "term": "greed",
-     "def": "wanting more than you need"
+     "def": "the selfish desire for something, such as money or possessions"
     },
     {
      "term": "hate crime",
-     "def": "a crime committed because of prejudice against a group"
+     "def": "a crime, often violent, motivated by prejudice against someone because of their race, religion, sexual orientation, disability or gender identity"
     },
     {
      "term": "unjust law",
-     "def": "a law believed to be morally wrong"
+     "def": "a law that is unfair, for example because it discriminates or denies human rights"
+    },
+    {
+     "term": "civil disobedience",
+     "def": "deliberately and openly breaking a law, usually peacefully, as a protest"
     }
    ],
    "sources": [
     {
-     "text": "'The love of money is a root of all kinds of evil.'",
+     "text": "The love of money is a root of all kinds of evil.",
      "ref": "1 Timothy 6:10",
-     "use": "Use for greed as a cause of crime."
+     "use": "Use for greed as a reason for crime."
     },
     {
-     "text": "'Everyone must submit themselves to the governing authorities.'",
+     "text": "Everyone must submit themselves to the governing authorities.",
      "ref": "Romans 13:1",
-     "use": "Use to show Christians should normally obey the law."
+     "use": "Use for the Christian duty to obey the law."
     },
     {
-     "text": "'We must obey God rather than human beings!'",
+     "text": "We must obey God rather than human beings!",
      "ref": "Acts 5:29",
-     "use": "Use for breaking an unjust law."
+     "use": "Use for breaking a law that goes against God's law."
     },
     {
-     "text": "'You shall not steal.'",
+     "text": "You shall not steal.",
      "ref": "Exodus 20:15",
-     "use": "Use for theft, from poverty or greed."
+     "use": "Use as a religious moral law broken by theft."
+    },
+    {
+     "text": "Men don't despise a thief, if he steals to satisfy himself when he is hungry.",
+     "ref": "Proverbs 6:30",
+     "use": "Use to show sympathy (but not approval) for crime caused by poverty."
+    },
+    {
+     "text": "Do not judge your fellow until you have reached his place.",
+     "ref": "Pirkei Avot 2:4 (Hillel)",
+     "use": "Use for Jewish views about people who break the law because of their circumstances."
     }
    ],
-   "tip": "Explain how and why a reason leads to crime and what a religious believer would say. 'People steal because of poverty' only gets full marks if you add the religious response."
+   "tip": "Explain how and why a reason leads to crime and what a religious believer would say. 'People steal because of poverty' only gets full marks if you add the religious response.",
+   "pitfalls": [
+    "Examiners noted students saying Christians think stealing is 'fine' if you are poor. Theft is always wrong, but it may be understandable, and help such as food banks is available.",
+    "When asked about breaking an unjust law, many students did not give a source. Use Acts 5:29, Romans 13:1, Exodus 1:17 or Mark 12:17.",
+    "If a statement is about greed, keep linking greed to committing crime. Examiners saw answers about greed in general."
+   ]
   },
   {
    "id": "te-03",
    "code": "Crime.3",
-   "title": "Attitudes to lawbreakers and different types of crime",
-   "overview": "Learn how religious people treat people who break the law and how they view murder, theft and hate crime.",
+   "title": "Types of crime: hate crime, theft and murder",
+   "overview": "AQA asks for views about different types of crime, including hate crimes, theft and murder. Know why religious and non-religious people see each as wrong, how the UK law deals with them, and recent examples and statistics.",
    "notes": [
     {
-     "h": "Lawbreakers",
+     "h": "Hate crime",
      "bullets": [
-      "Christians say people who break the law should face justice but still be treated with respect and compassion. Jesus said 'I was in prison and you came to visit me' (Matthew 25:36).",
-      "Christians want offenders to repent and change. They separate the crime from the person.",
-      "Jews believe lawbreakers must face consequences and make things right (restitution), but can be forgiven if they repent.",
-      "Both traditions accept that law is needed for order but that offenders have rights and deserve fair treatment."
+      "A **hate crime** is a crime, often violent, motivated by hostility towards someone because of their race, religion, sexual orientation, disability or transgender identity. It can include assault, harassment, criminal damage and abuse online.",
+      "In England and Wales police recorded 146,825 hate crimes in the year to March 2026, up 7% on the year before. Religious hate crimes rose 13% to 11,419, the highest on record; Jews were by far the most targeted group relative to the size of their community (3,162 antisemitic offences, a rate about nine times that for Muslims). Source: Home Office figures published October 2026.",
+      "In UK law hostility is an aggravating factor, so courts give longer sentences.",
+      "Christian views: hate crime is wrong because all people are made in God's image (Genesis 1:27) and 'you are all one in Christ Jesus' (Galatians 3:28). 'If a man says, \"I love God,\" and hates his brother, he is a liar' (1 John 4:20). The parable of the Good Samaritan shows love across religious and ethnic divides.",
+      "Example of a Christian response: in 2005 Anthony Walker, a Black teenager, was murdered in a racist attack in Liverpool. His mother, Gee Walker, a Christian, said publicly that she forgave the killers, and the Anthony Walker Foundation works against racism.",
+      "Jewish views: every person is made in God's image; the Torah commands love of the stranger (Leviticus 19:34). Jews have experienced centuries of hate crime, including the Holocaust and recent attacks such as at Heaton Park synagogue in 2025, so many Jewish organisations (for example the Community Security Trust) work against all hate crime.",
+      "Non-religious views: hate crime attacks human dignity and equality, which humanists defend for everyone."
      ]
     },
     {
-     "h": "Types of crime",
+     "h": "Theft",
      "bullets": [
-      "**Murder**: condemned by Christians and Jews because of 'You shall not murder', sanctity of life and Genesis 9:6.",
-      "**Theft**: wrong (Exodus 20:15), but religious people may feel sympathy where it is driven by need. Jews say the thief must repay (Exodus 22:1).",
-      "**Hate crime**: wrong because all humans are equal in God's eyes. Christians point to Galatians 3:28 and love of neighbour. Jews say all people are made in God's image and kindness to others is a key moral principle."
+      "**Theft** is stealing, taking something that belongs to someone else without permission. It is the most common type of crime against property.",
+      "Religious views: 'You shall not steal' (Exodus 20:15). Theft breaks trust and harms victims. Some theft is driven by need, which believers find understandable, but they still say it is wrong.",
+      "Jewish law requires **restitution**: a thief must repay, and in some cases pay back double or more (Exodus 22:1 to 4). Zacchaeus, a tax collector who had cheated people, promised Jesus to pay back four times as much (Luke 19:8)."
+     ]
+    },
+    {
+     "h": "Murder",
+     "bullets": [
+      "**Murder** is the unlawful, deliberate killing of another person. In the UK it carries a mandatory life sentence; for the very worst murders a judge can give a **whole life order**, meaning the person will never be released.",
+      "Religious views: murder is seen as the worst crime because it destroys a life made in God's image and breaks 'You shall not murder' (Exodus 20:13). Only God should give and take life (sanctity of life). Judaism teaches that destroying one life is like destroying a whole world (Mishnah Sanhedrin 4:5). Jesus went further, saying even anger can be sinful (Matthew 5:21-22).",
+      "Even so, Christians and Jews believe a murderer can repent and be forgiven by God, though they still face punishment."
+     ]
+    },
+    {
+     "h": "How believers treat people who commit crimes",
+     "bullets": [
+      "Christians separate the crime from the person: 'hate the sin, love the sinner'. Jesus said, 'I was in prison, and you came to me' (Matthew 25:36), so Christians visit prisoners and support them on release.",
+      "Christian organisations: Prison Fellowship runs the Sycamore Tree victim awareness course in prisons; Street Pastors patrol town centres at night to help keep people safe; prison chaplains of many faiths, including Jewish chaplains, visit prisoners.",
+      "Jews believe lawbreakers must be held accountable and make restitution, but can be forgiven if they do teshuvah.",
+      "Both traditions accept that laws are needed for order, and that offenders still have rights and deserve fair treatment."
      ]
     }
    ],
    "views": [
     {
      "label": "Christian",
-     "text": "Christians condemn crime but call for compassion. They separate hating the sin from loving the sinner, and say criminals should be given a chance to reform."
+     "text": "Crime is condemned but the criminal is still loved by God, so believers hate the sin but love the sinner, visit prisoners and hope offenders will repent and change."
     },
     {
      "label": "Jewish",
-     "text": "Jews say lawbreakers should be held accountable and make restitution to those they have harmed. Repentance (teshuvah) allows a fresh start."
+     "text": "Lawbreakers must be held accountable and make restitution to those they have harmed. Repentance (teshuvah) gives a fresh start, and hatred of any person made in God's image is forbidden."
     },
     {
      "label": "Non-religious",
-     "text": "Many support fair trials and rehabilitation. Some stress protecting society, while others focus on the causes of crime."
+     "text": "Supports fair trials, equal protection for every group and rehabilitation. Some stress protecting society, while others focus on tackling the causes of crime."
     }
    ],
    "terms": [
@@ -230,100 +334,150 @@
     },
     {
      "term": "murder",
-     "def": "unlawfully killing another person"
+     "def": "the unlawful, deliberate killing of another person"
     },
     {
      "term": "theft",
-     "def": "taking something without the owner's permission"
+     "def": "stealing, taking something that belongs to someone else without permission"
     },
     {
      "term": "hate crime",
-     "def": "a crime motivated by prejudice"
+     "def": "a crime motivated by hostility because of someone's race, religion, sexual orientation, disability or transgender identity"
     },
     {
      "term": "restitution",
-     "def": "paying back or putting right a wrong"
+     "def": "paying back or putting right the harm caused"
     },
     {
      "term": "repentance",
      "def": "being truly sorry and changing your behaviour"
+    },
+    {
+     "term": "whole life order",
+     "def": "a sentence for the most serious murders meaning the offender will never be released"
     }
    ],
    "sources": [
     {
-     "text": "'I was in prison and you came to visit me.'",
+     "text": "I was in prison, and you came to me.",
      "ref": "Matthew 25:36",
-     "use": "Use for Christian compassion towards prisoners."
+     "use": "Use for Christian care for prisoners."
     },
     {
-     "text": "'Whoever sheds human blood, by humans shall their blood be shed.'",
+     "text": "Whoever sheds man's blood, his blood will be shed by man, for God made man in his own image.",
      "ref": "Genesis 9:6",
-     "use": "Use for murder; it also shows life is made in God's image."
+     "use": "Use to show why murder is so serious: humans are made in God's image."
     },
     {
-     "text": "'There is neither Jew nor Gentile, neither slave nor free, nor is there male and female.'",
+     "text": "There is neither Jew nor Greek, there is neither slave nor free man, there is neither male nor female; for you are all one in Christ Jesus.",
      "ref": "Galatians 3:28",
-     "use": "Use against hate crime and discrimination."
+     "use": "Use to argue against hate crime: all people are equal."
     },
     {
-     "text": "'Whoever steals an ox or a sheep... must pay back five head of cattle.'",
+     "text": "Whoever steals an ox or a sheep... must pay back five head of cattle.",
      "ref": "Exodus 22:1",
-     "use": "Use for Jewish teaching that thieves must make restitution."
+     "use": "Use for restitution after theft in Jewish (and Christian) answers."
+    },
+    {
+     "text": "If a man says, 'I love God,' and hates his brother, he is a liar.",
+     "ref": "1 John 4:20",
+     "use": "Use to argue that hate crime cannot fit with Christian faith."
+    },
+    {
+     "text": "You shall love him as yourself; for you lived as foreigners in the land of Egypt.",
+     "ref": "Leviticus 19:34",
+     "use": "Use for Jewish teaching against hatred of outsiders."
     }
    ],
-   "tip": "Be specific about the crime type. 'Christians oppose hate crime because Galatians 3:28 says all are one in Christ' is far better than 'it is wrong'."
+   "tip": "Be specific about the crime type. 'Christians oppose hate crime because Galatians 3:28 says all are one in Christ' is far better than 'it is wrong'.",
+   "pitfalls": [
+    "A question on types of crime wants crimes (theft, murder, hate crime, fraud), not causes (poverty, greed). Examiners saw students mix these up.",
+    "When two similar views are asked for, do not switch to contrasting views; for theft, both Christianity and Judaism say it is wrong.",
+    "Avoid stereotypes about how other religions punish crime. Show the range of views within each religion."
+   ]
   },
   {
    "id": "te-04",
    "code": "Crime.4",
-   "title": "The aims of punishment",
-   "overview": "The three AQA aims are retribution, deterrence and reformation. Know what each means and what Christians and Jews think.",
+   "title": "The aims of punishment: retribution, deterrence and reformation",
+   "overview": "The three AQA aims are retribution, deterrence and reformation. Know what each means, its strengths and weaknesses, and what Christians, Jews and non-religious people (including utilitarians) think about each.",
    "notes": [
     {
-     "h": "The three aims",
+     "h": "Why punish?",
      "bullets": [
-      "**Retribution**: making the offender suffer in return for their crime, like 'an eye for an eye'. It gives the victim and society a sense of justice.",
-      "**Deterrence**: using punishment to put the offender and others off committing crimes.",
-      "**Reformation**: helping the offender change their behaviour so they will not reoffend, for example through education or therapy.",
-      "Extra aims sometimes used: **protection** (keeping society safe) and **reparation** (making amends to victims)."
+      "**Punishment** is something legally done to somebody as a result of being found guilty of breaking the law.",
+      "Most people agree punishment is needed: to show that crime is wrong, to protect the public, to give victims justice and to keep order. Religious believers add that God is just, and that justice is part of a fair society (Amos 5:24, Deuteronomy 16:20)."
      ]
     },
     {
-     "h": "Religious views",
+     "h": "The three aims",
      "bullets": [
-      "Many Christians prefer reformation and mercy, but accept that wrongdoing must have consequences. Retribution alone can become revenge, which Jesus rejected.",
-      "The Old Testament 'eye for an eye' (Exodus 21:24) is read as a limit on punishment, not as a licence for revenge.",
-      "Jews accept deterrence and justice because God is just. Rabbis explained 'eye for an eye' as payment of compensation. Repentance is the route to reform.",
-      "Strengths and weaknesses: retribution satisfies justice but can increase hatred; deterrence may reduce crime but does not help offenders; reformation helps society but may seem too soft to victims."
+      "**Retribution**: an aim of punishment meaning 'getting your own back': the offender should suffer in proportion to the harm done. Strength: it feels fair and satisfies victims. Weakness: it can become revenge and does nothing to change the offender.",
+      "**Deterrence**: an aim of punishment intended to put people off committing crimes, both the offender (individual deterrence) and others (general deterrence). Strength: it may prevent future victims. Weakness: many crimes are committed on impulse or under the influence, without thinking of punishment.",
+      "**Reformation**: an aim of punishment which seeks to change a criminal's behaviour for the better, through education, therapy, training or restorative justice. Strength: if it works, there are fewer future victims. Weakness: victims may see it as too soft, and not every offender wants to change.",
+      "Other aims: **protection** of the public (for example keeping dangerous people in prison) and **reparation** (the offender making amends to the victim or community).",
+      "**Restorative justice** brings victims and offenders together, with their agreement, so the offender understands the harm done and can make amends. Many Christians, including the Quakers, support it."
+     ]
+    },
+    {
+     "h": "Christian views",
+     "bullets": [
+      "Most Christians see **reformation** as the most important aim, because Jesus came to call sinners to repentance, taught forgiveness and gave people second chances (the woman caught in adultery, John 8:7-11; the penitent thief, Luke 23:42-43). God says 'I have no pleasure in the death of the wicked; but that the wicked turn from his way and live' (Ezekiel 33:11).",
+      "Christians accept that punishment is right and that the state has authority to punish wrongdoers (Romans 13:4). Many accept deterrence and protection.",
+      "Christians are wary of retribution because Jesus replaced 'eye for eye' with 'turn the other cheek' (Matthew 5:38-39) and Paul said 'Don't seek revenge yourselves' (Romans 12:19). Some Christians still argue that a fair, proportionate punishment is a form of justice, not revenge."
+     ]
+    },
+    {
+     "h": "Jewish views",
+     "bullets": [
+      "Judaism teaches that justice must be done: 'Justice, justice you shall pursue' (Deuteronomy 16:20). Punishment shows that God's law matters.",
+      "'Eye for eye, tooth for tooth' (Exodus 21:24) set a limit: punishment must fit the crime and no more. The rabbis taught it meant paying **financial compensation**, not physically injuring the offender (Talmud, Bava Kamma 84a).",
+      "Judaism also stresses restitution and teshuvah (repentance), so reformation matters too. Some Torah punishments were meant to deter: 'all the people shall hear, and fear' (Deuteronomy 17:13)."
+     ]
+    },
+    {
+     "h": "Non-religious views",
+     "bullets": [
+      "A **utilitarian** (following Jeremy Bentham) supports punishment only if it produces more good than harm overall, so deterrence, protection and reformation matter more than retribution for its own sake.",
+      "Others, following Kant, argue that offenders deserve punishment because they chose to do wrong, which supports retribution.",
+      "Many humanists support evidence-based policies that reduce reoffending: in recent years more than half of adults released from prison sentences of under 12 months in England and Wales reoffended within a year, which is one reason the Sentencing Act 2026 created a presumption that short sentences are suspended and served in the community."
      ]
     }
    ],
    "views": [
     {
      "label": "Christian",
-     "text": "Most Christians say reformation should be the main aim because Jesus taught forgiveness and love, though justice and protection matter too. Some support retribution as a fair response to serious crimes."
+     "text": "Reformation should usually be the main aim because Jesus taught forgiveness and second chances and God wants the wicked to turn and live. Justice and protection matter too, but punishment must not become revenge."
     },
     {
      "label": "Jewish",
-     "text": "Jews support justice and deterrence because God's law must be followed. They also stress repentance, restitution and giving offenders a way back."
+     "text": "Justice must be done and punishment must fit the crime, but 'eye for eye' was understood as fair compensation. Restitution and repentance (teshuvah) are central so the offender can return to the community."
     },
     {
-     "label": "Non-religious",
-     "text": "Some say punishment should protect the public and deter. Others stress rehabilitation because it can reduce reoffending."
+     "label": "Utilitarian",
+     "text": "Punishment is only justified by its results: deterring crime, protecting the public and reforming offenders so that the greatest number are better off. Suffering for its own sake is pointless."
+    },
+    {
+     "label": "Kantian",
+     "text": "Offenders deserve to be punished because they freely chose to do wrong; justice requires that the punishment matches the crime, whatever the consequences."
     }
    ],
    "terms": [
     {
+     "term": "punishment",
+     "def": "something legally done to somebody as a result of being found guilty of breaking the law"
+    },
+    {
      "term": "retribution",
-     "def": "punishment as payback for a crime"
+     "def": "an aim of punishment meaning 'getting your own back'"
     },
     {
      "term": "deterrence",
-     "def": "using punishment to put people off committing crime"
+     "def": "an aim of punishment intended to put people off committing crimes"
     },
     {
      "term": "reformation",
-     "def": "helping offenders change so they stop offending"
+     "def": "an aim of punishment which seeks to change a criminal's behaviour for the better"
     },
     {
      "term": "protection",
@@ -331,7 +485,7 @@
     },
     {
      "term": "reparation",
-     "def": "making amends to victims"
+     "def": "making amends to victims or the community"
     },
     {
      "term": "restorative justice",
@@ -340,75 +494,109 @@
    ],
    "sources": [
     {
-     "text": "'Life for life, eye for eye, tooth for tooth.'",
+     "text": "Life for life, eye for eye, tooth for tooth.",
      "ref": "Exodus 21:23-24",
-     "use": "Use for retribution in Christian and Jewish answers."
+     "use": "Use for retribution and the idea that punishment should fit the crime."
     },
     {
-     "text": "'Do not take revenge... Do not be overcome by evil, but overcome evil with good.'",
+     "text": "Do not take revenge... Do not be overcome by evil, but overcome evil with good.",
      "ref": "Romans 12:19-21",
      "use": "Use to argue against retribution and for reformation."
     },
     {
-     "text": "'I take no pleasure in the death of the wicked, but rather that they turn from their ways and live.'",
+     "text": "I take no pleasure in the death of the wicked, but rather that they turn from their ways and live.",
      "ref": "Ezekiel 33:11",
-     "use": "Use for reformation and repentance in Jewish and Christian answers."
+     "use": "Use for reformation: God wants wrongdoers to change."
     },
     {
-     "text": "'Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them.'",
+     "text": "Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them.",
      "ref": "Proverbs 13:24",
-     "use": "Use for punishment as discipline."
+     "use": "Use for discipline as part of love, and in corporal punishment debates."
     },
     {
-     "text": "'Let any one of you who is without sin be the first to throw a stone at her.'",
+     "text": "Let any one of you who is without sin be the first to throw a stone at her.",
      "ref": "John 8:7",
-     "use": "Use for mercy and reformation."
+     "use": "Use to show Jesus' mercy and that no one is perfect enough to condemn others harshly."
+    },
+    {
+     "text": "He doesn't bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil.",
+     "ref": "Romans 13:4",
+     "use": "Use for the state's God-given right to punish, including deterrence."
     }
    ],
-   "tip": "AQA likes 'explain two different aims'. Name each aim, define it, then give a religious view. Avoid just writing 'to punish'."
+   "tip": "AQA likes 'explain two different aims'. Name each aim, define it, then give a religious view. Avoid just writing 'to punish'.",
+   "pitfalls": [
+    "Examiners found students confusing deterrence and retribution. Retribution is payback; deterrence is putting people off.",
+    "Do not say Christians reject punishment. Most accept punishment but want it to reform the offender and not be revenge.",
+    "'Eye for an eye' in Judaism is not about blinding people. The rabbis understood it as compensation."
+   ]
   },
   {
    "id": "te-05",
    "code": "Crime.5",
-   "title": "Suffering and causing suffering to others",
-   "overview": "AQA asks whether it can ever be good to cause suffering, so learn religious views on suffering and the reasons some give for causing it.",
+   "title": "Can it ever be good to cause suffering?",
+   "overview": "The AQA specification asks whether it can ever be good to cause suffering. Know religious and non-religious arguments on both sides, with examples such as punishment, self-defence, medical treatment and discipline.",
    "notes": [
     {
      "h": "Suffering",
      "bullets": [
-      "**Suffering** is pain or hardship. **Natural suffering** comes from disease or disasters; **moral suffering** comes from human choices, such as crime.",
-      "Many Christians say free will allows humans to cause suffering. Christians can find meaning in suffering: Romans 5:3-4 says suffering produces perseverance, character and hope. They follow Jesus, who suffered and helped others who suffered.",
-      "Jews may see suffering as a test, as in the story of Job, and stress faith, hope and helping others. They are taught to repair the world (tikkun olam)."
+      "**Suffering** is pain, distress or hardship. **Natural suffering** comes from disease and disasters; **moral suffering** is caused by human choices, such as crime.",
+      "Christians believe God gave humans free will, which means people can choose to cause suffering. Christians try to reduce suffering, following Jesus, who healed the sick and suffered himself on the cross.",
+      "Christians can find meaning in suffering: 'suffering produces perseverance; and perseverance, proven character; and proven character, hope' (Romans 5:3-4). Discipline 'seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness' (Hebrews 12:11).",
+      "Jews may see suffering as a test, as in the story of Job, and stress faith and helping others. They are taught to repair the world (**tikkun olam**)."
      ]
     },
     {
-     "h": "Causing suffering",
+     "h": "Arguments that causing suffering is wrong",
      "bullets": [
-      "Christians and Jews say causing suffering to others is wrong because of love of neighbour and 'You shall not murder'.",
-      "Some say causing suffering can be justified in limited cases, for example punishing a criminal fairly, fighting a just war, or a doctor causing pain to heal. Intention and proportion matter.",
-      "Some religious people say suffering can bring good in the end, as in Joseph's story (Genesis 50:20), but this does not make it right to cause it.",
-      "Forgiveness can respond to suffering: after the 2015 Charleston church shooting, relatives of some victims said they forgave the killer."
+      "Christians and Jews say deliberately causing suffering is wrong because of love of neighbour (Leviticus 19:18, Matthew 22:39), the sanctity of life and 'You shall not murder'.",
+      "Jesus taught 'Repay no one evil for evil' (Romans 12:17) and showed compassion to sinners, so causing suffering as revenge is wrong.",
+      "Judaism forbids causing needless suffering even to animals (**tza'ar ba'alei chayim**), so causing it to people is even more serious.",
+      "Humanists argue that because this life is the only one, causing suffering takes away the only happiness people have. The **harm principle** of J. S. Mill says people should be free to act as they wish unless they harm others."
+     ]
+    },
+    {
+     "h": "Arguments that causing suffering can sometimes be right",
+     "bullets": [
+      "**Punishment**: fair punishment causes hardship (loss of freedom, a fine), but most believers accept it is right for justice, protection and reform. The state 'doesn't bear the sword in vain' (Romans 13:4).",
+      "**Self-defence and protecting others**: using force against an attacker causes suffering but can save innocent lives (Exodus 22:2; just war theory).",
+      "**Medical treatment**: a doctor causes pain (surgery, chemotherapy) to heal. The intention is good and the suffering is proportionate.",
+      "**Discipline and tough love**: parents and teachers sometimes cause short-term unhappiness (a sanction) for long-term good (Hebrews 12:11).",
+      "Religious believers stress that in all these cases the intention must be good, the suffering must be proportionate, and it must never be the aim in itself.",
+      "A **utilitarian** accepts causing suffering if it prevents greater suffering, for example punishing one person to deter many. Critics say this could justify punishing an innocent person to calm a crowd, which most people think is clearly wrong.",
+      "Some believers point out that God can bring good from suffering, as with Joseph: 'you meant evil against me, but God meant it for good' (Genesis 50:20). This does not make it right to cause the suffering."
+     ]
+    },
+    {
+     "h": "Responding to suffering caused by crime",
+     "bullets": [
+      "After the 2015 Charleston church shooting in the USA, relatives of some of the nine victims publicly forgave the killer.",
+      "Restorative justice lets victims explain the suffering caused, which can help offenders understand and change."
      ]
     }
    ],
    "views": [
     {
      "label": "Christian",
-     "text": "Christians say they should reduce suffering and never cause it for its own sake. Some accept that punishment may cause hardship for a good purpose, but it must be fair and proportionate."
+     "text": "Believers should reduce suffering and never cause it for its own sake. Fair punishment, self-defence or medical treatment may cause hardship for a good purpose, but they must be proportionate and come from love, not revenge."
     },
     {
      "label": "Jewish",
-     "text": "Jews believe causing suffering is against the Torah, but people may cause harm by accident and must repair it. Defence of life or just punishment can justify limited force."
+     "text": "Causing needless suffering, even to animals, breaks the Torah, and harm must be repaired. Defence of life or just punishment can justify limited suffering, always with the aim of protecting life."
     },
     {
-     "label": "Non-religious",
-     "text": "Many argue that causing suffering is wrong unless it prevents greater suffering. Utilitarian thinkers weigh the overall happiness or harm caused."
+     "label": "Utilitarian",
+     "text": "Causing suffering is right only if it leads to less suffering overall, for example deterring crime or protecting many people. The consequences decide."
+    },
+    {
+     "label": "Humanist",
+     "text": "Causing suffering is wrong because this life is the only one, unless it is needed to prevent greater harm to others. People should be free to act unless they harm others."
     }
    ],
    "terms": [
     {
      "term": "suffering",
-     "def": "pain, hardship or distress"
+     "def": "pain, distress or hardship"
     },
     {
      "term": "natural evil",
@@ -425,89 +613,122 @@
     {
      "term": "tikkun olam",
      "def": "the Jewish duty to repair the world"
+    },
+    {
+     "term": "principle of utility",
+     "def": "choosing the action that brings the greatest good (happiness) for the greatest number"
+    },
+    {
+     "term": "tza'ar ba'alei chayim",
+     "def": "the Jewish law against causing needless suffering to animals"
     }
    ],
    "sources": [
     {
-     "text": "'Suffering produces perseverance; perseverance, character; and character, hope.'",
+     "text": "Suffering produces perseverance; perseverance, character; and character, hope.",
      "ref": "Romans 5:3-4",
-     "use": "Use for the Christian view that good can come from suffering."
+     "use": "Use to show Christians believe suffering can lead to good."
     },
     {
-     "text": "'Love your neighbour as yourself.'",
+     "text": "Love your neighbour as yourself.",
      "ref": "Matthew 22:39",
-     "use": "Use to argue against causing suffering."
+     "use": "Use to argue that causing suffering goes against Christian love."
     },
     {
-     "text": "'You intended to harm me, but God intended it for good.'",
+     "text": "You intended to harm me, but God intended it for good.",
      "ref": "Genesis 50:20",
-     "use": "Use to discuss whether any good can come from suffering."
+     "use": "Use to show God can bring good from suffering, though causing it is still wrong."
     },
     {
-     "text": "'Do not repay anyone evil for evil.'",
+     "text": "Do not repay anyone evil for evil.",
      "ref": "Romans 12:17",
-     "use": "Use to argue against revenge."
+     "use": "Use to argue against causing suffering as revenge."
+    },
+    {
+     "text": "All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness.",
+     "ref": "Hebrews 12:11",
+     "use": "Use to argue that discipline that causes short-term suffering can be good."
+    },
+    {
+     "text": "He doesn't bear the sword in vain; for he is a servant of God.",
+     "ref": "Romans 13:4",
+     "use": "Use to argue that the state may cause suffering through punishment for justice."
     }
    ],
-   "tip": "For 'can it ever be good to cause suffering', show both sides: usually wrong, but some accept it for punishment, defence or healing, if fair and proportionate."
+   "tip": "For 'can it ever be good to cause suffering', show both sides: usually wrong, but some accept it for punishment, defence or healing, if fair, proportionate and well intended.",
+   "pitfalls": [
+    "Do not just write about why God allows suffering. The spec issue is whether humans can ever be right to cause it.",
+    "Always give a condition: good intention, proportionate, and a greater good. Without these, causing suffering is condemned by all the traditions.",
+    "Do not say a utilitarian 'likes suffering'. They accept it only if it reduces suffering overall."
+   ]
   },
   {
    "id": "te-06",
    "code": "Crime.6",
    "title": "The treatment of criminals: prison, corporal punishment and community service",
-   "overview": "Know the three forms of treatment AQA names, plus Christian and Jewish views on each. Corporal punishment is one of AQA's three key issues.",
+   "overview": "Know the three forms of treatment AQA names, with Christian, Jewish and non-religious views on each. Corporal punishment is one of AQA's three 'contrasting beliefs' issues, so learn clearly contrasting views on it.",
    "notes": [
     {
      "h": "Prison",
      "bullets": [
-      "**Prison** is a loss of freedom for serious crimes. It aims to protect the public, punish, deter and reform.",
-      "Christians generally accept prison but want it to be humane and to help reformation through education and training. Elizabeth Fry, a Quaker, campaigned for better conditions for women prisoners. Christians are told to visit prisoners (Matthew 25:36).",
-      "Jews accept prison for serious crime, though the Torah mostly stresses compensation and restitution."
+      "**Prison** is a secure building where offenders are held for a period of time as punishment. It aims to protect the public, punish (retribution), deter and reform through education, training and drug treatment.",
+      "UK context (2025 to 2026): prisons in England and Wales held around 87,000 to 88,000 people, close to full capacity. This led to early release schemes from 2024 and the **Sentencing Act 2026**, which (from March 2026) presumes that sentences of 12 months or less are suspended and served in the community, and (from October 2026) lets many prisoners be released after a third of their sentence.",
+      "Criticisms: overcrowding, violence and drugs in prisons; high reoffending; prison can be a 'school for crime'. Supporters say it is the only way to protect the public from dangerous offenders.",
+      "Christian views: Christians accept prison for serious crimes but want it to be humane and reforming. Jesus said 'I was in prison, and you came to me' (Matthew 25:36) and Hebrews 13:3 says 'Remember those who are in bonds'. Elizabeth Fry, a Quaker, reformed conditions for women prisoners in the 1800s. Today prison chaplains and Prison Fellowship support prisoners.",
+      "Jewish views: the Torah mostly uses restitution rather than prison, but Jews today accept prison for serious crime. Jewish chaplains visit Jewish prisoners, and Judaism stresses teshuvah and returning to the community."
      ]
     },
     {
      "h": "Corporal punishment",
      "bullets": [
-      "**Corporal punishment** is physical punishment such as whipping or caning. It is illegal as a legal punishment in the UK and was banned in state schools in 1987.",
-      "Most Christian denominations oppose it because it harms human dignity, goes against love of neighbour, and rejects retaliation. A few point to Proverbs 13:24 on discipline.",
-      "The Torah allows up to forty lashes (Deuteronomy 25:3), but Jewish courts today do not use it, and most Jews oppose it."
+      "**Corporal punishment** is punishing an offender by causing them physical pain, for example caning, whipping or flogging.",
+      "UK law: courts stopped using corporal punishment in 1948. It was banned in state schools in 1987 and in all schools by 2003. Parents' smacking has been banned in Scotland (2020) and Wales (2022). As of 2026, parents in England can still use the defence of 'reasonable punishment' for mild smacking, despite campaigns (including by Humanists UK and children's charities) to remove it. Some countries, such as Singapore, still use judicial caning.",
+      "**Christians against**: most denominations oppose it. It goes against human dignity (made in God's image), Jesus' teaching to love and not repay evil for evil, and the aim of reformation. Violence can breed violence: 'all those who take the sword will die by the sword' (Matthew 26:52). Many Christians support ending physical punishment of children.",
+      "**Christians for**: a minority, often from more conservative traditions, point to 'One who spares the rod hates his son' (Proverbs 13:24) and argue that mild physical discipline by loving parents can be right. Some Christian groups, such as the Christian Institute, have argued against smacking bans.",
+      "**Jewish views**: the Torah allowed flogging with a strict limit of forty lashes so the offender would not be humiliated (Deuteronomy 25:2-3), and the rabbis made it rarer still. It is not used by Jewish courts today, and most Jews oppose it, reading 'the rod' in Proverbs as guidance and discipline rather than hitting.",
+      "**Non-religious views**: most humanists oppose it as cruel, degrading and ineffective; research links physical punishment of children with worse behaviour. Some argue (using the principle of utility) that a quick physical punishment is cheaper than prison and might deter others."
      ]
     },
     {
      "h": "Community service",
      "bullets": [
-      "**Community service** is unpaid work for the community, such as cleaning or repairing, instead of prison.",
-      "It is popular with Christians and Jews because it reforms offenders, repairs harm and avoids the damage of prison. Some argue it is too lenient.",
-      "Jews link it to tikkun olam (repairing the world) and giving offenders a second chance."
+      "**Community service** is a punishment, also called unpaid work or Community Payback, for minor crimes. Offenders do between 40 and 300 hours of unpaid work, such as clearing litter, removing graffiti or decorating community centres, while living at home.",
+      "It is used for less serious crimes, not for murder or serious violence.",
+      "Supporters say it reforms offenders, repays the community (reparation), avoids the bad influence of prison and costs less. Critics say it can seem too soft and some offenders do not complete their hours.",
+      "Christians and Jews generally support it because it allows reformation and making amends. Jews link it to tikkun olam (repairing the world) and teshuvah."
      ]
     }
    ],
    "views": [
     {
-     "label": "Christian",
-     "text": "Christians support humane treatment and reformation. Most oppose corporal punishment but accept prison and community service when they protect others and give offenders a chance to change."
+     "label": "Most Christians",
+     "text": "Prison and community service are acceptable when they protect people and help offenders change, but physical punishment harms human dignity and goes against Jesus' teaching of love, so it should not be used."
+    },
+    {
+     "label": "Conservative minority",
+     "text": "Mild physical discipline of children by loving parents can be right because scripture says that whoever spares the rod hates his son, and bans on smacking interfere with parents' rights."
     },
     {
      "label": "Jewish",
-     "text": "Jews value justice and repair. Prison is accepted for serious crimes, community service fits tikkun olam, and corporal punishment is not used today despite being in the Torah."
+     "text": "Justice and repair matter most. Prison is accepted for serious crimes and community service fits tikkun olam. The Torah limited flogging to forty lashes, but it is not used today and most oppose physical punishment."
     },
     {
-     "label": "Non-religious",
-     "text": "Some support prison for protection, others prefer community punishment. Many oppose corporal punishment as cruel and say it does not work."
+     "label": "Humanist",
+     "text": "Physical punishment is cruel and degrading and the evidence shows it does not work; punishments should be humane and judged by whether they reduce reoffending."
     }
    ],
    "terms": [
     {
      "term": "prison",
-     "def": "a place where offenders are held securely as punishment"
+     "def": "a secure building where offenders are held for a period of time as punishment"
     },
     {
      "term": "corporal punishment",
-     "def": "physical punishment such as whipping or caning"
+     "def": "punishing an offender by causing them physical pain"
     },
     {
      "term": "community service",
-     "def": "unpaid work in the community given as a punishment"
+     "def": "a punishment of unpaid work in the community for minor crimes"
     },
     {
      "term": "rehabilitation",
@@ -516,81 +737,116 @@
     {
      "term": "human dignity",
      "def": "the worth every person has because they are human"
+    },
+    {
+     "term": "suspended sentence",
+     "def": "a prison sentence that is not served unless the offender commits another crime or breaks the conditions set"
     }
    ],
    "sources": [
     {
-     "text": "'I was in prison and you came to visit me.'",
+     "text": "I was in prison and you came to visit me.",
      "ref": "Matthew 25:36",
-     "use": "Use for Christian duties towards prisoners."
+     "use": "Use for Christian care for prisoners."
     },
     {
-     "text": "'Remember those in prison as if you were together with them in prison.'",
+     "text": "Remember those in prison as if you were together with them in prison.",
      "ref": "Hebrews 13:3",
-     "use": "Use for compassion and humane treatment."
+     "use": "Use for Christian support for humane treatment of prisoners."
     },
     {
-     "text": "'Whoever spares the rod hates their children.'",
+     "text": "Whoever spares the rod hates their children.",
      "ref": "Proverbs 13:24",
-     "use": "Use for the argument that some physical discipline is allowed."
+     "use": "Use for the minority view that supports physical discipline; most Christians and Jews read it as discipline in general."
     },
     {
-     "text": "'If you do wrong, be afraid, for the authority does not bear the sword for nothing.'",
+     "text": "If you do wrong, be afraid, for the authority does not bear the sword for nothing.",
      "ref": "Romans 13:4",
-     "use": "Use for the state's right to punish wrongdoers."
+     "use": "Use for the state's right to punish."
+    },
+    {
+     "text": "Forty lashes he may be given, but no more, lest... your brother be degraded before your eyes.",
+     "ref": "Deuteronomy 25:3",
+     "use": "Use for the Torah's strict limits on corporal punishment, to protect the offender's dignity."
+    },
+    {
+     "text": "All those who take the sword will die by the sword.",
+     "ref": "Matthew 26:52",
+     "use": "Use to argue that violent punishment breeds more violence."
     }
    ],
-   "tip": "A strong answer compares forms of treatment: 'Prison protects people, but community service allows reformation.' Show how the aims of punishment link in."
+   "tip": "A strong answer compares forms of treatment: 'Prison protects people, but community service allows reformation.' Show how the aims of punishment link in. For corporal punishment, contrast most Christians and Jews (against) with the minority who quote Proverbs 13:24.",
+   "pitfalls": [
+    "Examiners gave no marks when answers on corporal punishment wrote about capital punishment instead. Corporal means physical pain; capital means death.",
+    "Community service is for minor crimes. Do not argue it is unsuitable because murderers would get it; they would not.",
+    "Do not say Christians reject prison completely. Examiners did not credit this; most accept it but want it to be humane and reforming."
+   ]
   },
   {
    "id": "te-07",
    "code": "Crime.7",
    "title": "Forgiveness",
-   "overview": "Forgiveness is one of AQA's three key issues for Theme E. Know Christian and Jewish teaching and how forgiveness fits with justice.",
+   "overview": "Forgiveness is one of AQA's three 'contrasting beliefs' issues for Theme E. Know Christian and Jewish teaching, how they differ (for example on whether forgiveness needs repentance, and who can forgive), real examples, and how forgiveness fits with justice and punishment.",
    "notes": [
+    {
+     "h": "What forgiveness is",
+     "bullets": [
+      "**Forgiveness** means showing grace and mercy and pardoning someone for what they have done wrong, letting go of anger and the wish for revenge.",
+      "Forgiveness is not the same as excusing the crime or cancelling punishment. Examiners stress that a person can be forgiven by the victim and still be punished by the state, because the court, not the victim, decides the sentence."
+     ]
+    },
     {
      "h": "Christian teaching",
      "bullets": [
-      "Christians believe forgiveness is central because God forgives them. Jesus taught the Lord's Prayer, asking God to forgive us as we forgive others.",
-      "Jesus said to forgive 'seventy-seven times' (Matthew 18:21-22), meaning without limit. On the cross he said 'Father, forgive them' (Luke 23:34).",
-      "Forgiveness is not a replacement for punishment. Many Christians say offenders should accept consequences and show real sorrow.",
-      "Examples: relatives of Charleston church victims forgave the shooter. Maureen Greaves said she wanted justice but not revenge for her husband's killers."
+      "Christians believe God forgives sins through Jesus' death and resurrection, so they must forgive others: 'even as Christ forgave you, so you also do' (Colossians 3:13).",
+      "In the Lord's Prayer Christians ask God to 'forgive us our debts, as we also forgive our debtors' (Matthew 6:12), and Jesus warned that those who will not forgive will not be forgiven (Matthew 6:14-15).",
+      "Jesus told Peter to forgive 'seventy times seven' times (Matthew 18:22; some translations say 'seventy-seven times'), meaning without limit. The parable of the unforgiving servant (Matthew 18:21-35) shows that people forgiven by God must forgive others.",
+      "On the cross Jesus prayed, 'Father, forgive them, for they don't know what they are doing' (Luke 23:34).",
+      "Contrasts within Christianity: many Christians say forgiveness should be offered unconditionally; others point to Luke 17:3, 'If he repents, forgive him', and say full forgiveness and reconciliation need the offender to be sorry. Catholics teach that God's forgiveness is received through repentance and the sacrament of reconciliation (confession). Most Christians say forgiveness and punishment can go together.",
+      "Examples: Gee Walker forgave the racist killers of her son Anthony in Liverpool in 2005. Maureen Greaves forgave the young men who killed her husband Alan, a church organist, in Sheffield on Christmas Eve 2012. Relatives of victims of the 2015 Charleston church shooting forgave the killer. Others, such as the Anglican priest Julie Nicholson, whose daughter died in the 7 July 2005 London bombings, said they could not forgive, showing how hard it can be."
      ]
     },
     {
      "h": "Jewish teaching",
      "bullets": [
-      "Jews place strong emphasis on repentance (**teshuvah**). The Ten Days of Repentance, between Rosh Hashanah and Yom Kippur, are a time for asking forgiveness.",
-      "Sins against God are forgiven on Yom Kippur. For sins against another person, you must first ask that person for forgiveness and make amends.",
-      "The wronged person should forgive if the offender is truly sorry. Eva Kor, a Holocaust survivor, said forgiving the Nazis freed her from anger."
+      "Forgiveness in Judaism is closely linked to **teshuvah** (repentance): the wrongdoer must feel regret, stop the wrong, confess it, put it right and resolve not to repeat it.",
+      "The **Ten Days of Repentance** between Rosh Hashanah and Yom Kippur are a time to ask forgiveness. Yom Kippur atones for sins against God, but for sins against people you must first make amends and ask the person you wronged (Mishnah Yoma 8:9).",
+      "Maimonides taught that the wrongdoer should ask up to three times, and that a victim who is sincerely asked should forgive 'with a complete heart' and not bear a grudge (Mishneh Torah, Laws of Repentance 2:9-10).",
+      "Because only the person harmed can forgive, many Jews believe no one can forgive murder or genocide on behalf of the victims. Holocaust survivor Eva Mozes Kor publicly forgave the Nazis in 1995, saying it freed her from anger; many other survivors and Jewish thinkers disagreed, saying it was not hers to forgive for others. Simon Wiesenthal's book 'The Sunflower' explores this question.",
+      "God is merciful: 'Though your sins be as scarlet, they shall be as white as snow' (Isaiah 1:18)."
      ]
     },
     {
-     "h": "Forgiveness and justice",
+     "h": "Non-religious views",
      "bullets": [
-      "Forgiveness and punishment can go together. Forgiving someone does not mean excusing the crime.",
-      "Restorative justice lets victims meet offenders to help both sides heal."
+      "Many humanists value forgiveness because holding on to anger harms the victim's own well-being, and because it can reduce cycles of revenge. The Forgiveness Project, a secular charity, shares stories of victims and offenders.",
+      "Others say some crimes are too serious to forgive, or that forgiveness should depend on the offender showing remorse. Humanists generally say forgiveness is a personal choice, never a duty that can be demanded of victims.",
+      "**Restorative justice** can lead to forgiveness by bringing victims and offenders together, if both agree."
      ]
     }
    ],
    "views": [
     {
      "label": "Christian",
-     "text": "Christians say forgiveness is a duty because God forgives them, and Jesus showed it on the cross. Most still say justice and punishment have a place, and forgiveness works best with repentance."
+     "text": "Forgiveness is a duty without limit because God has forgiven believers, and Jesus showed it on the cross. Forgiveness does not cancel justice or punishment."
+    },
+    {
+     "label": "Christian (conditional)",
+     "text": "Forgiveness should be offered, but full forgiveness and reconciliation come when the wrongdoer repents, as Jesus said: if he repents, forgive him."
     },
     {
      "label": "Jewish",
-     "text": "Jews say forgiveness is a core belief linked with repentance and Yom Kippur. A victim should forgive someone who is truly sorry, but wronged people must be asked directly."
+     "text": "Forgiveness is linked to repentance (teshuvah). The wrongdoer must put things right and ask the person harmed directly; that person should then forgive, but no one can forgive on behalf of someone else."
     },
     {
-     "label": "Non-religious",
-     "text": "Some value forgiveness for emotional healing and reducing hatred. Others think some crimes are too serious to forgive."
+     "label": "Humanist",
+     "text": "Forgiveness can help victims heal and break cycles of revenge, but it is a personal choice and never a duty; some may feel certain crimes cannot be forgiven."
     }
    ],
    "terms": [
     {
      "term": "forgiveness",
-     "def": "letting go of blame and anger towards someone who has wronged you"
+     "def": "showing grace and mercy and pardoning someone for what they have done wrong"
     },
     {
      "term": "repentance",
@@ -598,7 +854,7 @@
     },
     {
      "term": "teshuvah",
-     "def": "the Jewish idea of returning to God through repentance"
+     "def": "the Jewish idea of returning to God through repentance and putting wrongs right"
     },
     {
      "term": "Yom Kippur",
@@ -611,98 +867,159 @@
     {
      "term": "restorative justice",
      "def": "bringing victims and offenders together to put things right"
+    },
+    {
+     "term": "sacrament of reconciliation",
+     "def": "the Catholic sacrament in which sins are confessed to a priest and forgiven"
     }
    ],
    "sources": [
     {
-     "text": "'Forgive us our debts, as we also have forgiven our debtors.'",
+     "text": "Forgive us our debts, as we also forgive our debtors.",
      "ref": "Matthew 6:12",
-     "use": "Use for the Lord's Prayer and the duty to forgive in order to be forgiven."
+     "use": "Use for the Lord's Prayer: Christians must forgive to be forgiven."
     },
     {
-     "text": "'Not seven times, but seventy-seven times.'",
+     "text": "I don't tell you until seven times, but, until seventy times seven.",
      "ref": "Matthew 18:22",
-     "use": "Use to show forgiveness should have no limit."
+     "use": "Use to show Christian forgiveness has no limit."
     },
     {
-     "text": "'Father, forgive them, for they do not know what they are doing.'",
+     "text": "Father, forgive them, for they don't know what they are doing.",
      "ref": "Luke 23:34",
-     "use": "Use to show Jesus' example of forgiveness."
+     "use": "Use for Jesus' example of forgiving even his killers."
     },
     {
-     "text": "'Though your sins are like scarlet, they shall be as white as snow.'",
+     "text": "Though your sins be as scarlet, they shall be as white as snow.",
      "ref": "Isaiah 1:18",
-     "use": "Use for Jewish and Christian belief that God forgives the repentant."
+     "use": "Use for God's mercy and forgiveness in Jewish and Christian answers."
+    },
+    {
+     "text": "If your brother sins against you, rebuke him. If he repents, forgive him.",
+     "ref": "Luke 17:3",
+     "use": "Use for the view that forgiveness is linked to repentance."
+    },
+    {
+     "text": "When the person who wronged him asks for forgiveness, he should forgive him with a complete heart and a willing spirit.",
+     "ref": "Maimonides, Mishneh Torah, Laws of Repentance 2:10",
+     "use": "Use for the Jewish duty to forgive someone who sincerely asks."
+    },
+    {
+     "text": "For transgressions between a person and another, Yom Kippur does not atone until he appeases the other person.",
+     "ref": "Mishnah Yoma 8:9",
+     "use": "Use to show Jews must ask the person they wronged for forgiveness."
     }
    ],
-   "tip": "Do not write 'forgiveness means no punishment'. A top answer explains that forgiveness and justice can work together."
+   "tip": "Do not write 'forgiveness means no punishment'. A top answer explains that forgiveness and justice can work together, and shows the contrast between unconditional Christian forgiveness and the Jewish link between forgiveness, repentance and the victim's own choice.",
+   "pitfalls": [
+    "Examiners found students claiming that a religion teaches some crimes are 'unforgivable' without evidence. Be accurate: Christianity and Judaism teach that God can forgive any sin that is truly repented of; the debate is about whether people can or must forgive.",
+    "Do not say forgiveness and punishment cannot go together. A victim can forgive while the court still punishes.",
+    "For 'different beliefs' questions on forgiveness, do not give two Christian points that say the same thing. Contrast unconditional forgiveness with forgiveness that depends on repentance, or with the Jewish view."
+   ]
   },
   {
    "id": "te-08",
    "code": "Crime.8",
    "title": "The death penalty",
-   "overview": "The death penalty is one of AQA's three key issues. Know the arguments, including sanctity of life and the principle of utility, and the views of Christians and Jews.",
+   "overview": "The death penalty is one of AQA's three 'contrasting beliefs' issues. Know the UK and world context (as of 2026), Christian and Jewish views with denominational differences, and the named ethical arguments: the principle of utility and the sanctity of life, which can each be used on both sides.",
    "notes": [
     {
-     "h": "Background",
+     "h": "Background and the law",
      "bullets": [
-      "The **death penalty** (capital punishment) is execution by the state for a crime. In the UK, murder stopped carrying the death penalty in 1965, confirmed permanently in 1969 (1973 in Northern Ireland). The USA and many other countries still use it.",
-      "Miscarriages of justice, such as Timothy Evans, hanged in 1950 and later pardoned, and Derek Bentley, executed in 1953 and cleared in 1998, show the risk of executing the innocent."
+      "The **death penalty** (capital punishment) is a form of punishment in which a prisoner is put to death for crimes committed.",
+      "UK: the last executions were in August 1964. The Murder (Abolition of Death Penalty) Act 1965 suspended hanging for murder, made permanent in 1969 (1973 in Northern Ireland). The death penalty was abolished for all crimes, including treason, in 1998, and the UK has signed international agreements banning it.",
+      "Miscarriages of justice: Timothy Evans was hanged in 1950 for murders later linked to John Christie, and pardoned in 1966. Derek Bentley was hanged in 1953 and his conviction was quashed in 1998. These cases helped persuade Parliament to abolish hanging.",
+      "World (Amnesty International, report published May 2026): at least 2,707 executions were recorded in 17 countries in 2025, the highest number since 1981, not counting China, which executes thousands in secret. Most were in Iran (at least 2,159) and Saudi Arabia (at least 356). The USA carried out 47 executions in 2025, its highest since 2009. 113 countries have abolished the death penalty for all crimes, and 145 have abolished it in law or in practice.",
+      "Israel abolished the death penalty for murder in 1954 and has carried out only one judicial execution (Adolf Eichmann, the Nazi organiser of the Holocaust, in 1962). In March 2026 the Knesset passed a law (62 votes to 48) making death the default sentence for Palestinians convicted in West Bank military courts of deadly attacks. It was challenged in Israel's High Court and criticised by governments including the UK as discriminatory; supporters said it was needed to deter terrorism."
      ]
     },
     {
-     "h": "Arguments for",
+     "h": "Ethical arguments: the principle of utility",
      "bullets": [
-      "Retribution: 'life for life' (Exodus 21:23-24) and Genesis 9:6.",
-      "Deterrence and protection: removes dangerous criminals permanently.",
-      "Principle of utility: the greatest good for the greatest number, so executing a dangerous criminal might protect many.",
-      "Romans 13:4 says rulers can use the sword to punish wrongdoers."
+      "The **principle of utility** says the right action is the one that brings the greatest good (happiness) for the greatest number.",
+      "For: executing a murderer may deter others and protects the public permanently, so more people are kept safe and happy. J. S. Mill, a utilitarian, argued in Parliament in 1868 that hanging was a more effective and even more humane deterrent than life imprisonment for the worst murders.",
+      "Against: there is little clear evidence that the death penalty deters better than life imprisonment; wrongful executions cause enormous suffering; in the USA it costs more than life imprisonment because of long appeals. Jeremy Bentham, the founder of utilitarianism, came to oppose it, partly because mistakes can never be corrected."
      ]
     },
     {
-     "h": "Arguments against",
+     "h": "Ethical arguments: the sanctity of life",
      "bullets": [
-      "Sanctity of life: only God gives and takes life, and 'You shall not murder'.",
-      "No chance to reform or repent. Jesus taught forgiveness and mercy.",
-      "Irreversible errors. Evidence that it deters is unclear.",
-      "Some say it lowers respect for life, and a society should show a higher standard than the killer."
+      "The **sanctity of life** is the belief that all life is holy because it is created and loved by God, so human beings should not take life.",
+      "Against the death penalty: only God has the right to give and take life; 'You shall not murder' (Exodus 20:13); even a murderer is made in God's image and keeps their dignity; execution removes any chance to repent and reform (Ezekiel 33:11).",
+      "For the death penalty: some argue from the same principle that because life is so sacred, deliberately taking it deserves the most serious punishment. Genesis 9:6 links the death penalty directly to humans being made in God's image: 'Whoever sheds man's blood, his blood will be shed by man, for God made man in his own image.'"
+     ]
+    },
+    {
+     "h": "Christian views",
+     "bullets": [
+      "**Catholic**: in 2018 Pope Francis changed the Catechism (paragraph 2267) to teach that the death penalty is 'inadmissible because it is an attack on the inviolability and dignity of the person', and that the Church works for its abolition worldwide. Pope Leo XIV repeated this on 10 October 2026 (World Day Against the Death Penalty), saying justice can be achieved without it. Before 2018 the Catechism allowed it only in cases of absolute necessity, which it said were very rare. Sister Helen Prejean, a Catholic nun, campaigns against it in the USA.",
+      "**Anglican**: the bishops of the Lambeth Conference (1988) urged the Church to speak out against all governments that practise capital punishment and to find alternatives that respect 'the divine dignity of every human being'.",
+      "**Quakers and Methodists** oppose it because there is 'that of God' in everyone and because of the risk of executing the innocent.",
+      "**Some Christians**, especially some evangelicals in the USA, support it for the worst murders, using Genesis 9:6, Exodus 21:23-24 and Romans 13:4 (the state 'doesn't bear the sword in vain'). They argue it is just retribution and that God gave governments this authority.",
+      "Christians opposing it also use Jesus' words to those about to stone a woman: 'He who is without sin among you, let him throw the first stone' (John 8:7), and his teaching to turn the other cheek (Matthew 5:38-39)."
+     ]
+    },
+    {
+     "h": "Jewish views",
+     "bullets": [
+      "The Torah gives the death penalty for murder and some other crimes (Exodus 21:12, Genesis 9:6). So in principle it is part of Jewish law.",
+      "But the rabbis made it almost impossible in practice: two witnesses had to have warned the person beforehand, and the court had to give the accused every chance. The Mishnah says a court that executes once in seven years is called 'destructive'; Rabbi Eleazar ben Azariah said once in seventy years; and Rabbis Tarfon and Akiva said that if they had sat on the court, no one would ever have been executed. Rabban Shimon ben Gamliel replied that this would increase murder (Mishnah Makkot 1:10).",
+      "**Orthodox** Jews generally accept that the Torah permits it under a perfect legal system with these safeguards, but many argue modern courts cannot meet them.",
+      "**Reform** Jews oppose the death penalty; the Reform movement in the USA has called for its abolition since 1959, stressing the value of life and the risk of error.",
+      "Many Jews today oppose its use, while some in Israel support it for terrorism, as the 2026 Knesset vote showed."
+     ]
+    },
+    {
+     "h": "Non-religious views",
+     "bullets": [
+      "Humanists UK and Amnesty International oppose the death penalty in all cases as a violation of the right to life and because of the risk of executing innocent people.",
+      "Some non-religious people support it for the worst crimes, such as terrorism or child murder, for retribution, protection or deterrence. Opinion polls in the 2020s suggest a large minority of the British public still support it for some murders.",
+      "Points examiners rarely see but reward: a murderer can be forgiven by the victim's family and still be executed, because the state, not the victim, punishes; prisoners in the USA often spend many years on death row, so some have time to reform before execution; and the death penalty is often applied unequally, for example against poor people or minorities."
      ]
     }
    ],
    "views": [
     {
      "label": "Catholic",
-     "text": "The Catholic Church teaches that the death penalty is inadmissible because it attacks human dignity. Pope Francis changed the Catechism in 2018 to say so."
+     "text": "Teaches since 2018 that the death penalty is inadmissible because it attacks the inviolability and dignity of the person, and that justice can be achieved without it. Pope Leo XIV repeated this in October 2026."
     },
     {
-     "label": "Church of England and Quaker",
-     "text": "The Church of England and Quakers oppose the death penalty, stressing mercy, reformation and the risk of wrongful execution."
+     "label": "Anglican",
+     "text": "Bishops worldwide have urged governments to stop executions and find other ways to punish that respect the divine dignity of every human being while still pursuing justice."
     },
     {
-     "label": "Some Christians",
-     "text": "Some Christians support it for the most serious crimes, quoting Genesis 9:6 and Romans 13, and arguing that it is just retribution."
+     "label": "Quaker",
+     "text": "Opposes the death penalty absolutely, because there is that of God in everyone and an innocent person might be killed. Supports reform and restorative justice instead."
     },
     {
-     "label": "Jewish",
-     "text": "Jewish tradition accepts the Torah's death penalty in principle but makes conviction very hard. Most Jews today oppose it. Israel abolished it for murder in 1954."
+     "label": "Christian supporter",
+     "text": "Supports it for the worst murders as just retribution, because Genesis 9:6 says whoever sheds human blood should have their blood shed and Romans 13 gives the state the sword."
     },
     {
-     "label": "Non-religious",
-     "text": "Some support it for deterrence, retribution or protection. Others reject it because of the chance of wrongful execution and respect for human life."
+     "label": "Orthodox Jewish",
+     "text": "The Torah permits capital punishment in principle, but the rabbis surrounded it with so many safeguards that it was almost never used, and many doubt any modern court could meet them."
+    },
+    {
+     "label": "Reform Jewish",
+     "text": "Opposes the death penalty outright because of the infinite value of human life and the risk of executing an innocent person."
+    },
+    {
+     "label": "Utilitarian",
+     "text": "Judges it by consequences: it is right only if it protects and deters more effectively than other punishments without causing greater suffering, which many say the evidence does not show."
     }
    ],
    "terms": [
     {
      "term": "death penalty",
-     "def": "execution of a criminal by the state"
+     "def": "a form of punishment in which a prisoner is put to death for crimes committed"
     },
     {
      "term": "sanctity of life",
-     "def": "life is holy and belongs to God"
+     "def": "the belief that all life is holy as it is created and loved by God, so human beings should not take life"
     },
     {
      "term": "principle of utility",
-     "def": "choosing the action that brings most good to most people"
+     "def": "the idea that the right action is the one that brings the greatest good for the greatest number"
     },
     {
      "term": "miscarriage of justice",
@@ -711,31 +1028,55 @@
     {
      "term": "abolition",
      "def": "officially ending something, such as the death penalty"
+    },
+    {
+     "term": "inadmissible",
+     "def": "not allowed or not acceptable; the Catholic Church's word for the death penalty since 2018"
     }
    ],
    "sources": [
     {
-     "text": "'Whoever sheds human blood, by humans shall their blood be shed; for in the image of God has God made mankind.'",
+     "text": "Whoever sheds man's blood, his blood will be shed by man, for God made man in his own image.",
      "ref": "Genesis 9:6",
-     "use": "Use for the argument for retribution, and also for the sanctity of life."
+     "use": "Use for the argument for the death penalty based on humans being made in God's image."
     },
     {
-     "text": "'You shall not murder.'",
+     "text": "You shall not murder.",
      "ref": "Exodus 20:13",
-     "use": "Use for the argument that executing is killing."
+     "use": "Use for the sanctity of life argument against killing, including by the state."
     },
     {
-     "text": "'Let any one of you who is without sin be the first to throw a stone at her.'",
+     "text": "He who is without sin among you, let him throw the first stone at her.",
      "ref": "John 8:7",
-     "use": "Use for mercy and the opposition to execution."
+     "use": "Use for Jesus' mercy and against execution."
     },
     {
-     "text": "'The authority does not bear the sword for nothing.'",
+     "text": "The authority does not bear the sword for nothing.",
      "ref": "Romans 13:4",
-     "use": "Use for the argument that the state may punish with death."
+     "use": "Use for the view that the state has God-given authority to punish, even with death."
+    },
+    {
+     "text": "A Sanhedrin that executes once in seven years is called destructive... Rabbi Tarfon and Rabbi Akiva say: had we been in the Sanhedrin, no one would ever have been executed.",
+     "ref": "Mishnah Makkot 1:10",
+     "use": "Use for the Jewish view that the death penalty should be extremely rare or never used."
+    },
+    {
+     "text": "I have no pleasure in the death of the wicked; but that the wicked turn from his way and live.",
+     "ref": "Ezekiel 33:11",
+     "use": "Use for the argument that execution removes the chance to repent and reform."
+    },
+    {
+     "text": "The death penalty is inadmissible because it is an attack on the inviolability and dignity of the person.",
+     "ref": "Catechism of the Catholic Church 2267 (revised 2018)",
+     "use": "Use for current Catholic teaching."
     }
    ],
-   "tip": "A strong answer uses both sanctity of life and the principle of utility. The principle of utility can be used by both sides: protecting many people, or the harm of wrongful executions."
+   "tip": "A strong answer uses both sanctity of life and the principle of utility, and shows each can be used on both sides. Add a current fact (Catholic teaching 2018 and 2026, Amnesty's 2025 figures, or Israel's 2026 law) to show up-to-date knowledge.",
+   "pitfalls": [
+    "Examiners noted answers that argued for or against the death penalty in general when the statement asked what religious believers should do. Keep linking back to the exact wording.",
+    "Do not suggest replacing the death penalty with community service. The realistic alternative for murder is life imprisonment.",
+    "Do not say all Christians oppose it or that Judaism simply supports it. Show the contrasts within each tradition."
+   ]
   }
  ],
  "flashcards": [
@@ -1058,6 +1399,231 @@
    "topic": "te-08",
    "q": "When did Israel abolish the death penalty for murder?",
    "a": "1954."
+  },
+  {
+   "topic": "te-01",
+   "q": "What did Beruriah teach Rabbi Meir about sinners (Berakhot 10a)?",
+   "a": "To pray that sins would cease, not the sinners: hate the wrongdoing, not the person."
+  },
+  {
+   "topic": "te-01",
+   "q": "What is the difference between murder and manslaughter?",
+   "a": "Murder is killing with intent to kill or seriously harm; manslaughter is unlawful killing without that intent. Intention changes how serious the crime is."
+  },
+  {
+   "topic": "te-01",
+   "q": "Give an example of a religious moral law that is also a UK law.",
+   "a": "'You shall not steal' (Exodus 20:15) or 'You shall not murder' (Exodus 20:13)."
+  },
+  {
+   "topic": "te-01",
+   "q": "How does a utilitarian judge whether an action is good?",
+   "a": "By its consequences: whether it brings the greatest good (happiness) for the greatest number."
+  },
+  {
+   "topic": "te-01",
+   "q": "Which verse says evil thoughts come from within the heart?",
+   "a": "Mark 7:21: 'from within, out of the hearts of men, proceed evil thoughts... murders, thefts'."
+  },
+  {
+   "topic": "te-02",
+   "q": "What does Proverbs 6:30 say about a hungry thief?",
+   "a": "People don't despise a thief who steals because he is hungry. It shows sympathy, though he must still repay."
+  },
+  {
+   "topic": "te-02",
+   "q": "What does 'dina d'malchuta dina' mean?",
+   "a": "'The law of the land is the law': Jews must obey the laws of the country, unless they require breaking God's commandments."
+  },
+  {
+   "topic": "te-02",
+   "q": "Which biblical figures disobeyed an unjust command from Pharaoh?",
+   "a": "The Hebrew midwives, who refused to kill baby boys (Exodus 1:17)."
+  },
+  {
+   "topic": "te-02",
+   "q": "What did Hillel teach about judging others (Pirkei Avot 2:4)?",
+   "a": "'Do not judge your fellow until you have reached his place.'"
+  },
+  {
+   "topic": "te-02",
+   "q": "How does the motive of hate affect a sentence in a UK court?",
+   "a": "It is an aggravating factor, so the sentence can be increased."
+  },
+  {
+   "topic": "te-02",
+   "q": "What did Jesus say about paying taxes to Caesar?",
+   "a": "'Render to Caesar the things that are Caesar's, and to God the things that are God's' (Mark 12:17): obey the state, but God comes first."
+  },
+  {
+   "topic": "te-03",
+   "q": "How many hate crimes did police record in England and Wales in the year to March 2026?",
+   "a": "146,825, up 7%. Religious hate crimes rose 13% to 11,419, a record (Home Office, October 2026)."
+  },
+  {
+   "topic": "te-03",
+   "q": "Who is Gee Walker?",
+   "a": "The Christian mother of Anthony Walker, murdered in a racist attack in Liverpool in 2005. She publicly forgave his killers and the Anthony Walker Foundation works against racism."
+  },
+  {
+   "topic": "te-03",
+   "q": "What is a whole life order?",
+   "a": "A UK sentence for the very worst murders, meaning the offender will never be released."
+  },
+  {
+   "topic": "te-03",
+   "q": "What did Zacchaeus promise after meeting Jesus?",
+   "a": "To give half his possessions to the poor and pay back four times what he had cheated (Luke 19:8): restitution."
+  },
+  {
+   "topic": "te-03",
+   "q": "What is the Sycamore Tree programme?",
+   "a": "A victim awareness course run in prisons by the Christian charity Prison Fellowship, based on the story of Zacchaeus."
+  },
+  {
+   "topic": "te-04",
+   "q": "How did the rabbis interpret 'eye for an eye' (Bava Kamma 84a)?",
+   "a": "As payment of money compensation for the injury, not physical revenge."
+  },
+  {
+   "topic": "te-04",
+   "q": "What is the difference between individual and general deterrence?",
+   "a": "Individual: putting the offender off doing it again. General: putting everyone else off by example."
+  },
+  {
+   "topic": "te-04",
+   "q": "Which verse shows God wants the wicked to change rather than die?",
+   "a": "Ezekiel 33:11: 'I have no pleasure in the death of the wicked; but that the wicked turn from his way and live.'"
+  },
+  {
+   "topic": "te-04",
+   "q": "How would a utilitarian judge the aims of punishment?",
+   "a": "By results: punishment is justified only if it produces more good than harm, through deterrence, protection or reform."
+  },
+  {
+   "topic": "te-04",
+   "q": "What change did the Sentencing Act 2026 make to short prison sentences?",
+   "a": "A presumption that sentences of 12 months or less are suspended (served in the community), partly because short sentences have high reoffending rates."
+  },
+  {
+   "topic": "te-05",
+   "q": "Give three situations where some people say causing suffering can be right.",
+   "a": "Fair punishment, self-defence or protecting others, and medical treatment such as surgery (also discipline)."
+  },
+  {
+   "topic": "te-05",
+   "q": "What conditions do believers usually set for causing suffering?",
+   "a": "A good intention, a greater good, and suffering that is proportionate and never the aim in itself."
+  },
+  {
+   "topic": "te-05",
+   "q": "What is the harm principle?",
+   "a": "J. S. Mill's idea that people should be free to act as they wish unless they harm others."
+  },
+  {
+   "topic": "te-05",
+   "q": "What does Hebrews 12:11 say about discipline?",
+   "a": "It feels painful at the time but later produces 'the peaceful fruit of righteousness'."
+  },
+  {
+   "topic": "te-05",
+   "q": "What is a common criticism of the utilitarian view of causing suffering?",
+   "a": "It could justify punishing an innocent person if that made more people happy, which seems clearly unjust."
+  },
+  {
+   "topic": "te-06",
+   "q": "Where in the UK is smacking children banned, and what is the position in England?",
+   "a": "Banned in Scotland (2020) and Wales (2022). As of 2026 England still allows the 'reasonable punishment' defence."
+  },
+  {
+   "topic": "te-06",
+   "q": "When did UK courts stop using corporal punishment, and when was it banned in state schools?",
+   "a": "Courts: 1948. State schools: 1987 (all schools by 2003)."
+  },
+  {
+   "topic": "te-06",
+   "q": "How many hours of unpaid work can a court order?",
+   "a": "Between 40 and 300 hours."
+  },
+  {
+   "topic": "te-06",
+   "q": "What did the Sentencing Act 2026 change?",
+   "a": "Short sentences (12 months or less) are presumed to be suspended and served in the community, and many prisoners can be released after a third of their sentence."
+  },
+  {
+   "topic": "te-06",
+   "q": "Why did the Torah limit lashes to forty?",
+   "a": "So that the offender would not be degraded or humiliated (Deuteronomy 25:3): it protected human dignity."
+  },
+  {
+   "topic": "te-07",
+   "q": "What did Maimonides teach about forgiving someone who asks?",
+   "a": "The wrongdoer should ask up to three times, and the victim should forgive 'with a complete heart' and not bear a grudge."
+  },
+  {
+   "topic": "te-07",
+   "q": "Why do many Jews say murder cannot be forgiven by other people?",
+   "a": "Because only the person harmed can forgive, and the victim is dead."
+  },
+  {
+   "topic": "te-07",
+   "q": "Who is Maureen Greaves?",
+   "a": "A Christian from Sheffield who forgave the young men who killed her husband Alan, a church organist, on Christmas Eve 2012."
+  },
+  {
+   "topic": "te-07",
+   "q": "Which verse links forgiveness to repentance?",
+   "a": "Luke 17:3: 'If your brother sins against you, rebuke him. If he repents, forgive him.'"
+  },
+  {
+   "topic": "te-07",
+   "q": "Can a person be forgiven and still be punished?",
+   "a": "Yes. The victim can forgive, but the court decides the punishment, so justice can still be done."
+  },
+  {
+   "topic": "te-07",
+   "q": "What is the parable of the unforgiving servant about?",
+   "a": "A servant forgiven a huge debt refuses to forgive a small one; it teaches that those forgiven by God must forgive others (Matthew 18:21-35)."
+  },
+  {
+   "topic": "te-08",
+   "q": "When was the death penalty abolished in the UK for all crimes?",
+   "a": "1998 (murder: suspended 1965, permanent 1969; last executions 1964)."
+  },
+  {
+   "topic": "te-08",
+   "q": "How many executions did Amnesty record worldwide in 2025?",
+   "a": "At least 2,707 in 17 countries, the highest since 1981, not counting China (report published May 2026)."
+  },
+  {
+   "topic": "te-08",
+   "q": "What does Mishnah Makkot 1:10 say about the death penalty?",
+   "a": "A court executing once in seven years is 'destructive'; Rabbis Tarfon and Akiva said under them no one would ever be executed."
+  },
+  {
+   "topic": "te-08",
+   "q": "What did Pope Leo XIV say on 10 October 2026?",
+   "a": "That the death penalty is inadmissible because it attacks the inviolability and dignity of the person, and justice can be met without it."
+  },
+  {
+   "topic": "te-08",
+   "q": "How can the sanctity of life be used to SUPPORT the death penalty?",
+   "a": "Life is so sacred that deliberately taking it deserves the gravest punishment; Genesis 9:6 links execution to humans being made in God's image."
+  },
+  {
+   "topic": "te-08",
+   "q": "Which utilitarian supported the death penalty for the worst murders, and which came to oppose it?",
+   "a": "J. S. Mill supported it in 1868 as a deterrent; Jeremy Bentham came to oppose it because mistakes cannot be corrected."
+  },
+  {
+   "topic": "te-08",
+   "q": "What did Israel's Knesset pass in March 2026?",
+   "a": "A law making death the default sentence for Palestinians convicted in West Bank military courts of deadly attacks; it was challenged in court and criticised as discriminatory."
+  },
+  {
+   "topic": "te-08",
+   "q": "What did the 1988 Lambeth Conference say about capital punishment?",
+   "a": "It urged the Church to speak out against all governments that use it and to find alternatives that respect the divine dignity of every human being."
   }
  ],
  "quiz": [
@@ -1101,13 +1667,13 @@
    "topic": "te-01",
    "q": "Why do Christians say everyone can do wrong?",
    "options": [
-    "Free money",
+    "Because God made some people evil",
     "Original sin",
-    "Kindness",
-    "Tradition"
+    "Because of the yetzer hatov",
+    "Because of karma"
    ],
    "answer": 1,
-   "why": "Original sin means humans have a tendency to sin."
+   "why": "Christians believe humans have a tendency to sin because of Adam and Eve's disobedience (original sin)."
   },
   {
    "topic": "te-02",
@@ -1115,11 +1681,11 @@
    "options": [
     "Poverty",
     "Addiction",
-    "Sunshine",
+    "Retribution",
     "Greed"
    ],
    "answer": 2,
-   "why": "AQA lists poverty, upbringing, mental illness, addiction, greed, hate and unjust laws."
+   "why": "AQA lists poverty, upbringing, mental health problems, addiction, greed, hate and opposition to an unjust law. Retribution is an aim of punishment."
   },
   {
    "topic": "te-02",
@@ -1207,7 +1773,7 @@
   },
   {
    "topic": "te-04",
-   "q": "Which aim of punishment means taking revenge?",
+   "q": "Which aim of punishment means making the offender pay back for the wrong they have done?",
    "options": [
     "Reformation",
     "Deterrence",
@@ -1215,7 +1781,7 @@
     "Protection"
    ],
    "answer": 2,
-   "why": "Retribution means punishment as payback."
+   "why": "Retribution means deserved punishment as payback for the crime. Examiners prefer \"deserved payback\" to \"revenge\"."
   },
   {
    "topic": "te-04",
@@ -1444,6 +2010,602 @@
    ],
    "answer": 1,
    "why": "It weighs overall happiness or harm."
+  },
+  {
+   "topic": "te-01",
+   "q": "Which belief would a Jew reject?",
+   "options": [
+    "Humans have free will",
+    "Everyone has a good and an evil inclination",
+    "Humans inherit original sin from Adam",
+    "Repentance is always possible"
+   ],
+   "answer": 2,
+   "why": "Judaism does not teach original sin; that is a Christian belief."
+  },
+  {
+   "topic": "te-01",
+   "q": "Two drivers each kill a pedestrian. One did it deliberately, one by accident. Which idea best explains why they are treated differently?",
+   "options": [
+    "Intention",
+    "Retribution",
+    "Deterrence",
+    "Restitution"
+   ],
+   "answer": 0,
+   "why": "Both actions have the same result, but the intention is different, so one is murder and the other is not."
+  },
+  {
+   "topic": "te-01",
+   "q": "Which thinker judges actions by their consequences rather than intentions?",
+   "options": [
+    "A Kantian",
+    "A Quaker",
+    "A pacifist",
+    "A utilitarian"
+   ],
+   "answer": 3,
+   "why": "Utilitarians judge actions by the happiness or suffering they cause."
+  },
+  {
+   "topic": "te-02",
+   "q": "Which source best supports breaking a law that goes against God?",
+   "options": [
+    "Romans 13:1",
+    "Exodus 20:15",
+    "1 Timothy 6:10",
+    "Acts 5:29"
+   ],
+   "answer": 3,
+   "why": "Acts 5:29: 'We must obey God rather than men.' Romans 13:1 supports obeying authorities."
+  },
+  {
+   "topic": "te-02",
+   "q": "A woman steals baby milk because she cannot afford it. Which response best fits mainstream Christian teaching?",
+   "options": [
+    "Stealing is acceptable when you are poor",
+    "The theft is wrong but understandable, and the community should help her",
+    "She should receive the harshest possible punishment",
+    "Only the shop is to blame"
+   ],
+   "answer": 1,
+   "why": "Theft is always wrong, but believers show compassion and offer help such as food banks."
+  },
+  {
+   "topic": "te-02",
+   "q": "Which reason for crime do many believers find hardest to sympathise with?",
+   "options": [
+    "Greed",
+    "Poverty",
+    "Mental illness",
+    "Addiction"
+   ],
+   "answer": 0,
+   "why": "Greed is selfish and usually chosen, while the others may reduce a person's control or choices."
+  },
+  {
+   "topic": "te-03",
+   "q": "Which is a TYPE of crime rather than a REASON for crime?",
+   "options": [
+    "Greed",
+    "Poverty",
+    "Theft",
+    "Addiction"
+   ],
+   "answer": 2,
+   "why": "Theft is a type of crime; the others are reasons why people commit crime."
+  },
+  {
+   "topic": "te-03",
+   "q": "Which source best supports the Jewish idea of restitution for theft?",
+   "options": [
+    "Matthew 7:1",
+    "Exodus 22:1",
+    "Galatians 3:28",
+    "Romans 13:1"
+   ],
+   "answer": 1,
+   "why": "Exodus 22:1 says a thief must pay back several times what was stolen."
+  },
+  {
+   "topic": "te-03",
+   "q": "A man attacks someone because of their religion. How does UK law treat the motive?",
+   "options": [
+    "As an aggravating factor that increases the sentence",
+    "As a reason to reduce the sentence",
+    "It is ignored",
+    "As a defence"
+   ],
+   "answer": 0,
+   "why": "Hostility based on religion, race and other protected characteristics makes the sentence harsher."
+  },
+  {
+   "topic": "te-04",
+   "q": "A judge gives a harsh sentence 'to send a message to anyone thinking of doing the same'. Which aim is this?",
+   "options": [
+    "Reformation",
+    "Retribution",
+    "Reparation",
+    "Deterrence"
+   ],
+   "answer": 3,
+   "why": "Putting others off committing the crime is general deterrence."
+  },
+  {
+   "topic": "te-04",
+   "q": "Which aim is best supported by Ezekiel 33:11?",
+   "options": [
+    "Reformation",
+    "Retribution",
+    "Deterrence",
+    "Protection"
+   ],
+   "answer": 0,
+   "why": "God wants the wicked to turn from their ways and live, which is the aim of reformation."
+  },
+  {
+   "topic": "te-04",
+   "q": "Which philosopher's ideas best support retribution, because offenders deserve punishment?",
+   "options": [
+    "Jeremy Bentham",
+    "Peter Singer",
+    "J. S. Mill",
+    "Immanuel Kant"
+   ],
+   "answer": 3,
+   "why": "Kant argued punishment is deserved because of the wrong freely chosen; Bentham and Mill were utilitarians focused on results."
+  },
+  {
+   "topic": "te-05",
+   "q": "A surgeon causes pain during an operation that saves a patient's life. Which condition makes this acceptable to most believers?",
+   "options": [
+    "The pain is a punishment",
+    "The intention is to heal and the pain is proportionate",
+    "The patient deserved it",
+    "Pain is always good"
+   ],
+   "answer": 1,
+   "why": "Most believers accept suffering only when the intention is good and the suffering is proportionate to the good achieved."
+  },
+  {
+   "topic": "te-05",
+   "q": "Which source is best for arguing that short-term discipline can lead to good?",
+   "options": [
+    "Romans 12:17",
+    "Matthew 22:39",
+    "Hebrews 12:11",
+    "Exodus 20:13"
+   ],
+   "answer": 2,
+   "why": "Hebrews 12:11 says discipline is painful at first but later yields righteousness."
+  },
+  {
+   "topic": "te-06",
+   "q": "Which is the clearest contrast to most Christians' view of corporal punishment?",
+   "options": [
+    "Quakers who campaign for prison reform",
+    "A minority who use Proverbs 13:24 to support physical discipline",
+    "Jews who say the Torah limited lashes",
+    "Humanists who say it does not work"
+   ],
+   "answer": 1,
+   "why": "Most Christians, Jews and humanists oppose it; the minority who quote Proverbs 13:24 support it."
+  },
+  {
+   "topic": "te-06",
+   "q": "Which crime would most likely be punished with community service?",
+   "options": [
+    "Murder",
+    "Armed robbery",
+    "Minor vandalism",
+    "Terrorism"
+   ],
+   "answer": 2,
+   "why": "Community service is used for less serious crimes."
+  },
+  {
+   "topic": "te-07",
+   "q": "Which belief is most typical of Judaism rather than Christianity?",
+   "options": [
+    "Forgive seventy times seven",
+    "Forgive because Christ forgave you",
+    "Only the person who was harmed can forgive the wrong",
+    "The Lord's Prayer teaches forgiveness"
+   ],
+   "answer": 2,
+   "why": "Judaism teaches that the wrongdoer must ask the person harmed; others cannot forgive on their behalf."
+  },
+  {
+   "topic": "te-07",
+   "q": "A victim's family forgives a murderer, but the court still gives a life sentence. Which statement is correct?",
+   "options": [
+    "This is impossible: forgiveness cancels punishment",
+    "Christianity forbids punishment after forgiveness",
+    "The family must now ask for the sentence to be cancelled",
+    "Forgiveness and punishment can go together"
+   ],
+   "answer": 3,
+   "why": "The court, not the victim, decides punishment; forgiveness is about letting go of hatred and revenge."
+  },
+  {
+   "topic": "te-08",
+   "q": "Which group's teaching describes the death penalty as 'inadmissible'?",
+   "options": [
+    "The Catholic Church",
+    "Orthodox Judaism",
+    "Some US evangelicals",
+    "J. S. Mill"
+   ],
+   "answer": 0,
+   "why": "The Catechism was changed in 2018 to say this, and Pope Leo XIV repeated it in 2026."
+  },
+  {
+   "topic": "te-08",
+   "q": "Which argument uses the principle of utility AGAINST the death penalty?",
+   "options": [
+    "Genesis 9:6 demands it",
+    "Wrongful executions and lack of deterrent effect cause more harm than good",
+    "Only God can take life",
+    "Murderers deserve to die"
+   ],
+   "answer": 1,
+   "why": "Utility looks at consequences; the others are religious or retributive arguments."
+  },
+  {
+   "topic": "te-08",
+   "q": "Which country carried out the most recorded executions in 2025 (excluding China)?",
+   "options": [
+    "USA",
+    "Saudi Arabia",
+    "Singapore",
+    "Iran"
+   ],
+   "answer": 3,
+   "why": "Amnesty recorded at least 2,159 executions in Iran in 2025."
+  }
+ ],
+ "truefalse": [
+  {
+   "topic": "te-01",
+   "s": "For Christians, wrong thoughts and intentions can be sinful even if no action follows.",
+   "answer": true,
+   "why": "Jesus taught that lust and anger in the heart are already sinful (Matthew 5:21-28)."
+  },
+  {
+   "topic": "te-01",
+   "s": "Judaism teaches that people are born sinful because of Adam and Eve.",
+   "answer": false,
+   "why": "Judaism rejects original sin; people have a good and an evil inclination and free will."
+  },
+  {
+   "topic": "te-01",
+   "s": "Every sin is also a crime in UK law.",
+   "answer": false,
+   "why": "Some sins, such as lying in most situations or adultery, are not crimes."
+  },
+  {
+   "topic": "te-01",
+   "s": "UK law treats deliberate killing more seriously than accidental killing.",
+   "answer": true,
+   "why": "Murder requires intent; manslaughter does not, so intention affects the crime and sentence."
+  },
+  {
+   "topic": "te-02",
+   "s": "Christians believe that stealing is acceptable if you are very poor.",
+   "answer": false,
+   "why": "Theft is always wrong, though it may be understandable; examiners did not credit claims that it is 'fine'."
+  },
+  {
+   "topic": "te-02",
+   "s": "Many religious people accept breaking an unjust law peacefully as a last resort.",
+   "answer": true,
+   "why": "Examples include Martin Luther King and the midwives in Exodus 1:17; Acts 5:29 supports obeying God first."
+  },
+  {
+   "topic": "te-02",
+   "s": "Jewish teaching says Jews should generally obey the law of the country they live in.",
+   "answer": true,
+   "why": "The principle 'dina d'malchuta dina' means the law of the land is the law."
+  },
+  {
+   "topic": "te-02",
+   "s": "Hate crime is treated more leniently than other crime in UK courts.",
+   "answer": false,
+   "why": "Hostility based on race, religion and other characteristics is an aggravating factor that increases the sentence."
+  },
+  {
+   "topic": "te-03",
+   "s": "Police-recorded religious hate crime in England and Wales reached a record high in the year to March 2026.",
+   "answer": true,
+   "why": "Home Office figures published in October 2026 showed 11,419 religious hate crimes, up 13%."
+  },
+  {
+   "topic": "te-03",
+   "s": "Christians believe a murderer can never be forgiven by God.",
+   "answer": false,
+   "why": "Christians believe anyone who truly repents can be forgiven, though they may still face punishment."
+  },
+  {
+   "topic": "te-03",
+   "s": "Murder in the UK carries a mandatory life sentence.",
+   "answer": true,
+   "why": "Judges must give a life sentence for murder; the minimum term varies."
+  },
+  {
+   "topic": "te-03",
+   "s": "Jewish law focuses on making the thief repay the victim.",
+   "answer": true,
+   "why": "Restitution is central: Exodus 22 sets out repayment, sometimes double or more."
+  },
+  {
+   "topic": "te-03",
+   "s": "Hate crime only means crimes based on race.",
+   "answer": false,
+   "why": "It also covers religion, sexual orientation, disability and transgender identity."
+  },
+  {
+   "topic": "te-04",
+   "s": "Retribution and deterrence mean the same thing.",
+   "answer": false,
+   "why": "Retribution is payback for the crime; deterrence aims to put people off committing crime."
+  },
+  {
+   "topic": "te-04",
+   "s": "Most Christians believe reformation should be an important aim of punishment.",
+   "answer": true,
+   "why": "Jesus taught forgiveness and second chances, and God wants the wicked to turn and live (Ezekiel 33:11)."
+  },
+  {
+   "topic": "te-04",
+   "s": "Jewish teaching understands 'eye for an eye' as permission to blind the offender.",
+   "answer": false,
+   "why": "The rabbis understood it as fair money compensation (Bava Kamma 84a)."
+  },
+  {
+   "topic": "te-04",
+   "s": "Restorative justice involves the victim and offender meeting with both sides' agreement.",
+   "answer": true,
+   "why": "It aims to help the offender understand the harm and make amends."
+  },
+  {
+   "topic": "te-05",
+   "s": "Utilitarians accept causing suffering if it prevents greater suffering overall.",
+   "answer": true,
+   "why": "The principle of utility judges actions by whether they bring the greatest good for the greatest number."
+  },
+  {
+   "topic": "te-05",
+   "s": "Christians believe that because God can bring good out of suffering, it is right to cause suffering.",
+   "answer": false,
+   "why": "Genesis 50:20 shows God brings good from evil, but the brothers' evil intention is still condemned."
+  },
+  {
+   "topic": "te-05",
+   "s": "Judaism forbids causing needless suffering even to animals.",
+   "answer": true,
+   "why": "The principle of tza'ar ba'alei chayim forbids cruelty to animals."
+  },
+  {
+   "topic": "te-05",
+   "s": "Most religious believers think fair punishment is wrong because it causes suffering.",
+   "answer": false,
+   "why": "Most accept fair, proportionate punishment for justice, protection and reform."
+  },
+  {
+   "topic": "te-06",
+   "s": "Smacking children is illegal everywhere in the UK.",
+   "answer": false,
+   "why": "It is banned in Scotland and Wales, but as of 2026 England allows the 'reasonable punishment' defence."
+  },
+  {
+   "topic": "te-06",
+   "s": "Corporal punishment and capital punishment mean the same thing.",
+   "answer": false,
+   "why": "Corporal punishment causes physical pain; capital punishment is execution."
+  },
+  {
+   "topic": "te-06",
+   "s": "Elizabeth Fry was a Quaker who campaigned for better conditions for women prisoners.",
+   "answer": true,
+   "why": "She worked in Newgate prison in the early 1800s."
+  },
+  {
+   "topic": "te-06",
+   "s": "Jewish courts today regularly use flogging.",
+   "answer": false,
+   "why": "Although the Torah allowed up to forty lashes, it is not used today."
+  },
+  {
+   "topic": "te-06",
+   "s": "Community service is a form of reparation because offenders give something back to the community.",
+   "answer": true,
+   "why": "Unpaid work repairs harm and benefits the local area."
+  },
+  {
+   "topic": "te-07",
+   "s": "In Judaism, Yom Kippur atones for wrongs done to other people without needing to ask them for forgiveness.",
+   "answer": false,
+   "why": "Mishnah Yoma 8:9 says wrongs against people need the person to be appeased first."
+  },
+  {
+   "topic": "te-07",
+   "s": "Some Christians believe forgiveness should depend on the wrongdoer repenting.",
+   "answer": true,
+   "why": "They use Luke 17:3; others teach unconditional forgiveness."
+  },
+  {
+   "topic": "te-07",
+   "s": "Eva Mozes Kor's forgiveness of the Nazis was accepted by all Jewish survivors.",
+   "answer": false,
+   "why": "Many survivors and Jewish thinkers disagreed, saying she could not forgive on behalf of others."
+  },
+  {
+   "topic": "te-07",
+   "s": "Humanists usually see forgiveness as a personal choice rather than a duty.",
+   "answer": true,
+   "why": "They value its benefits but say it cannot be demanded of victims."
+  },
+  {
+   "topic": "te-08",
+   "s": "Jewish law in the Torah includes the death penalty for murder.",
+   "answer": true,
+   "why": "Exodus 21:12 and Genesis 9:6 prescribe it, but the rabbis made it almost impossible to carry out."
+  },
+  {
+   "topic": "te-08",
+   "s": "All Christians oppose the death penalty.",
+   "answer": false,
+   "why": "Some Christians, especially some evangelicals in the USA, support it using Genesis 9:6 and Romans 13:4."
+  },
+  {
+   "topic": "te-08",
+   "s": "A murderer can be forgiven by the victim's family and still be executed.",
+   "answer": true,
+   "why": "Forgiveness is personal; punishment is decided by the state, as examiners pointed out."
+  },
+  {
+   "topic": "te-08",
+   "s": "Both the principle of utility and the sanctity of life can be used by both supporters and opponents of the death penalty.",
+   "answer": true,
+   "why": "Utility can stress deterrence or wrongful executions; sanctity of life can stress that only God takes life or that murder deserves the gravest punishment."
+  },
+  {
+   "topic": "te-08",
+   "s": "Recorded executions worldwide fell sharply in 2025.",
+   "answer": false,
+   "why": "Amnesty recorded at least 2,707, the highest since 1981 and a 78% rise on 2024."
+  }
+ ],
+ "short": [
+  {
+   "topic": "te-01",
+   "q": "Give one example of a religious moral law which some criminals break.",
+   "a": "'You shall not steal' (accept: 'You shall not murder' or any other relevant commandment)."
+  },
+  {
+   "topic": "te-01",
+   "q": "Give the meaning of the word evil.",
+   "a": "Extremely wicked and immoral, causing harm or suffering."
+  },
+  {
+   "topic": "te-01",
+   "q": "Name the Jewish term for the inclination to do evil.",
+   "a": "Yetzer hara."
+  },
+  {
+   "topic": "te-01",
+   "q": "Give one type of crime against property.",
+   "a": "Theft (accept: burglary, vandalism, arson, fraud)."
+  },
+  {
+   "topic": "te-02",
+   "q": "Give one reason why people commit crime.",
+   "a": "Poverty (accept: upbringing, mental health problems, addiction, greed, hate, opposition to an unjust law)."
+  },
+  {
+   "topic": "te-02",
+   "q": "Give one example of someone who broke an unjust law.",
+   "a": "Rosa Parks (accept: Martin Luther King; the Hebrew midwives; Shadrach, Meshach and Abednego; the Suffragettes)."
+  },
+  {
+   "topic": "te-02",
+   "q": "Give one way religious people help prevent crime caused by poverty.",
+   "a": "Running food banks (accept: giving tzedakah or charity; providing shelter; debt advice)."
+  },
+  {
+   "topic": "te-03",
+   "q": "Give one example of a hate crime.",
+   "a": "Attacking someone because of their religion (accept: racist assault; abuse because of disability or sexuality; damaging a place of worship)."
+  },
+  {
+   "topic": "te-03",
+   "q": "Give one religious reason why murder is wrong.",
+   "a": "Life is sacred and belongs to God (accept: 'You shall not murder'; humans are made in God's image)."
+  },
+  {
+   "topic": "te-03",
+   "q": "Name one Christian organisation that works with prisoners.",
+   "a": "Prison Fellowship (accept: prison chaplaincy; Kairos; Street Pastors for crime prevention)."
+  },
+  {
+   "topic": "te-04",
+   "q": "Give one aim of punishment.",
+   "a": "Retribution (accept: deterrence, reformation, protection, reparation)."
+  },
+  {
+   "topic": "te-04",
+   "q": "Give the meaning of reformation.",
+   "a": "An aim of punishment which seeks to change a criminal's behaviour for the better."
+  },
+  {
+   "topic": "te-04",
+   "q": "Give one way prisons try to reform offenders.",
+   "a": "Education or training courses (accept: therapy, drug rehabilitation, restorative justice, victim awareness courses)."
+  },
+  {
+   "topic": "te-05",
+   "q": "Give one example of when causing suffering might be seen as good.",
+   "a": "Fair punishment of a criminal (accept: self-defence, surgery or medical treatment, discipline)."
+  },
+  {
+   "topic": "te-05",
+   "q": "Give the meaning of moral evil.",
+   "a": "Suffering caused by human actions."
+  },
+  {
+   "topic": "te-05",
+   "q": "Give one religious teaching against causing suffering.",
+   "a": "Love your neighbour as yourself (accept: 'You shall not murder'; Romans 12:17; tza'ar ba'alei chayim)."
+  },
+  {
+   "topic": "te-06",
+   "q": "Give one example of corporal punishment.",
+   "a": "Caning (accept: whipping, flogging, smacking, lashes)."
+  },
+  {
+   "topic": "te-06",
+   "q": "Give one aim of sending a criminal to prison.",
+   "a": "To protect the public (accept: retribution, deterrence, reformation)."
+  },
+  {
+   "topic": "te-06",
+   "q": "Give one example of community service work.",
+   "a": "Picking up litter (accept: removing graffiti, decorating a community centre, clearing towpaths)."
+  },
+  {
+   "topic": "te-07",
+   "q": "Give one teaching of Jesus about forgiveness.",
+   "a": "Forgive seventy times seven (accept: the Lord's Prayer; 'Father, forgive them'; the parable of the unforgiving servant)."
+  },
+  {
+   "topic": "te-07",
+   "q": "Name the Jewish day on which sins against God are forgiven.",
+   "a": "Yom Kippur (the Day of Atonement)."
+  },
+  {
+   "topic": "te-07",
+   "q": "Give one example of a person who forgave someone who committed a crime against their family.",
+   "a": "Gee Walker (accept: Maureen Greaves; relatives of the Charleston victims; Eva Mozes Kor)."
+  },
+  {
+   "topic": "te-08",
+   "q": "Give one religious argument against the death penalty.",
+   "a": "Only God can take life (accept: 'You shall not murder'; it removes the chance to repent; John 8:7; risk of killing the innocent)."
+  },
+  {
+   "topic": "te-08",
+   "q": "Give one argument for the death penalty.",
+   "a": "It deters others (accept: retribution, 'life for life'; protects the public; Genesis 9:6)."
+  },
+  {
+   "topic": "te-08",
+   "q": "Give the meaning of the principle of utility.",
+   "a": "The right action is the one that brings the greatest good for the greatest number."
+  },
+  {
+   "topic": "te-08",
+   "q": "Name one person wrongly executed in the UK.",
+   "a": "Timothy Evans (accept: Derek Bentley)."
   }
  ],
  "exam": [
@@ -1451,7 +2613,7 @@
    "topic": "te-07",
    "marks": 4,
    "type": "similar",
-   "q": "Explain two similar religious beliefs about forgiveness. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "q": "Explain two similar religious beliefs about forgiveness. In your answer you must refer to one or more religious traditions.",
    "model": "One belief is that Christians should forgive because God forgives them. In the Lord's Prayer Christians ask God to forgive them as they forgive others, so forgiving others is part of being forgiven.\nAnother similar belief, from Judaism, is that forgiveness is important and linked to repentance. Jews believe a person wronged should forgive someone who is truly sorry, especially in the Ten Days of Repentance before Yom Kippur.",
    "points": [
     "Christian: forgive as God forgives; Lord's Prayer; Matthew 18:22",
@@ -1464,7 +2626,7 @@
    "topic": "te-08",
    "marks": 4,
    "type": "different",
-   "q": "Explain two different religious beliefs about the death penalty. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "q": "Explain two different religious beliefs about the death penalty. In your answer you must refer to one or more religious traditions.",
    "model": "One belief is that some Christians support the death penalty for murder because Genesis 9:6 says whoever sheds human blood, by humans shall their blood be shed. They see it as fair retribution.\nA different belief is that Catholics and Quakers oppose it because life is sacred and only God should take life. They also say executed people lose the chance to repent and reform.",
    "points": [
     "For: Genesis 9:6, life for life, retribution; Romans 13:4",
@@ -1478,7 +2640,7 @@
    "topic": "te-06",
    "marks": 4,
    "type": "different",
-   "q": "Explain two different religious beliefs about corporal punishment. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "q": "Explain two different religious beliefs about corporal punishment. In your answer you must refer to one or more religious traditions.",
    "model": "One belief is that most Christians oppose corporal punishment because it harms human dignity and goes against Jesus' teaching to love your neighbour and not to repay evil for evil.\nA different belief is that some people use the Bible, such as Proverbs 13:24, to argue that discipline, including physical correction, shows love. Although the Torah allows up to forty lashes, most Jews today do not use this.",
    "points": [
     "Against: dignity, love of neighbour, Romans 12:17",
@@ -1491,7 +2653,7 @@
    "topic": "te-04",
    "marks": 4,
    "type": "different",
-   "q": "Explain two different religious beliefs about the aims of punishment. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "q": "Explain two different religious beliefs about the aims of punishment. In your answer you must refer to one or more religious traditions.",
    "model": "One belief is that some religious people support retribution because it is fair that wrongdoers suffer for what they did. The Old Testament teaches 'life for life, eye for eye', which they see as justice.\nA different belief is that most Christians prefer reformation because Jesus taught forgiveness. They believe offenders should be helped to change, for example through education in prison.",
    "points": [
     "Retribution: Exodus 21:23-24, justice",
@@ -1504,7 +2666,7 @@
    "topic": "te-03",
    "marks": 4,
    "type": "similar",
-   "q": "Explain two similar religious beliefs about hate crime. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "q": "Explain two similar religious beliefs about hate crime. In your answer you must refer to one or more religious traditions.",
    "model": "One belief is that Christians oppose hate crime because all people are equal in God's eyes. Galatians 3:28 says all are one in Christ, so attacking someone for who they are is wrong.\nAnother similar belief is that Jews oppose hate crime because all humans are made in God's image and kindness to others is a key moral principle. Targeting a group for prejudice goes against this.",
    "points": [
     "Christian: Galatians 3:28; love of neighbour",
@@ -1517,7 +2679,7 @@
    "topic": "te-05",
    "marks": 4,
    "type": "different",
-   "q": "Explain two different religious beliefs about suffering. In your answer you must refer to one or more religious traditions. (4 marks)",
+   "q": "Explain two different religious beliefs about suffering. In your answer you must refer to one or more religious traditions.",
    "model": "One belief is that some Christians see suffering as something that can lead to good. Romans 5:3-4 says suffering produces perseverance, character and hope, so it can strengthen faith.\nA different belief from Judaism is that suffering may be a test from God, as in the story of Job, who stayed faithful through terrible suffering.",
    "points": [
     "Christian: Romans 5:3-4; Jesus' own suffering; help others",
@@ -1530,7 +2692,7 @@
    "topic": "te-02",
    "marks": 6,
    "type": "explain-two-source",
-   "q": "Explain two reasons why some people commit crime. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "q": "Explain two reasons why some people commit crime. Refer to sacred writings or another source of religious belief and teaching in your answer.",
    "model": "One reason is greed. Some people want more wealth than they need, so they commit theft or fraud. The Bible says 'the love of money is a root of all kinds of evil' (1 Timothy 6:10). This means that greed can lead people to break the law for personal gain, so religious believers would say people should be satisfied with what they have and care about others.\nAnother reason is poverty. People who cannot afford food or shelter may steal to survive. Jews teach tzedakah, the duty of charity, so the community should help the poor. This means that if a society supports the needy, fewer people will need to turn to crime.",
    "points": [
     "Reason 1: greed",
@@ -1545,7 +2707,7 @@
    "topic": "te-01",
    "marks": 6,
    "type": "explain-two-source",
-   "q": "Explain two reasons why intentions matter as well as actions. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "q": "Explain two reasons why intentions matter as well as actions. Refer to sacred writings or another source of religious belief and teaching in your answer.",
    "model": "One reason is that Jesus taught that what is in a person's heart matters as much as what they do. He said 'anyone who looks at a woman lustfully has already committed adultery with her in his heart' (Matthew 5:28). This means a person can be guilty of wrongdoing in their thoughts, so Christians try to control their thoughts and not only avoid evil acts.\nAnother reason is that God knows a person's intentions and will judge them. Jews teach that people have a good inclination and an evil inclination, and must choose between them. This means that if someone intends to do evil, they are choosing wrongly, so repentance must involve changing their intentions.",
    "points": [
     "Reason 1: Jesus taught intentions matter",
@@ -1560,7 +2722,7 @@
    "topic": "te-04",
    "marks": 6,
    "type": "explain-two-source",
-   "q": "Explain two reasons why many Christians believe reformation should be the main aim of punishment. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "q": "Explain two reasons why many Christians believe reformation should be the main aim of punishment. Refer to sacred writings or another source of religious belief and teaching in your answer.",
    "model": "One reason is that Jesus taught forgiveness. Christians believe offenders can change if they are given a chance. In Romans 12:21 it says 'Do not be overcome by evil, but overcome evil with good.' This means that responding to crime with help, rather than revenge, is better, so many Christians support education and counselling in prison.\nAnother reason is that Christians believe everyone is made in God's image and so has dignity. This means punishment should treat offenders with respect and aim to restore them, not just hurt them. Christians support charities such as Prison Fellowship, which helps prisoners rebuild their lives.",
    "points": [
     "Reason 1: forgiveness and love",
@@ -1575,7 +2737,7 @@
    "topic": "te-06",
    "marks": 6,
    "type": "explain-two-source",
-   "q": "Explain two reasons why some Christians support community service as a punishment. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "q": "Explain two reasons why some Christians support community service as a punishment. Refer to sacred writings or another source of religious belief and teaching in your answer.",
    "model": "One reason is that community service allows offenders to reform and make amends. Jesus taught forgiveness and second chances. In Matthew 18:22 he said to forgive 'seventy-seven times', which means Christians believe offenders should be given the chance to put things right and become better people.\nAnother reason is that it avoids the harm of prison for less serious crimes and shows love for neighbour. Jesus said 'Love your neighbour as yourself' (Matthew 22:39). This means punishment should be fair and help both the victim and community, so unpaid work repairing the neighbourhood is seen as a positive response.",
    "points": [
     "Reason 1: reformation and making amends",
@@ -1590,7 +2752,7 @@
    "topic": "te-07",
    "marks": 6,
    "type": "explain-two-source",
-   "q": "Explain two reasons why Christians believe in forgiving people who have committed crimes. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "q": "Explain two reasons why Christians believe in forgiving people who have committed crimes. Refer to sacred writings or another source of religious belief and teaching in your answer.",
    "model": "One reason is that Jesus taught Christians to forgive. In the Lord's Prayer, Christians ask God to 'forgive us our debts, as we also have forgiven our debtors' (Matthew 6:12). This means that if Christians want God's forgiveness they must forgive others, so many forgive criminals even for serious crimes.\nAnother reason is that Jesus set an example on the cross. He said 'Father, forgive them, for they do not know what they are doing' (Luke 23:34). This shows that forgiveness is possible even in the worst situations, so Christians try to follow his example, as the relatives of the Charleston shooting victims did.",
    "points": [
     "Reason 1: Lord's Prayer; forgive to be forgiven",
@@ -1605,7 +2767,7 @@
    "topic": "te-08",
    "marks": 6,
    "type": "explain-two-source",
-   "q": "Explain two reasons why many Christians oppose the death penalty. Refer to sacred writings or another source of religious belief and teaching in your answer. (6 marks)",
+   "q": "Explain two reasons why many Christians oppose the death penalty. Refer to sacred writings or another source of religious belief and teaching in your answer.",
    "model": "One reason is that Christians believe life is sacred and belongs to God. The commandment 'You shall not murder' (Exodus 20:13) means that killing is wrong. This means that many Christians say the state should not take a life, even a murderer's, so Catholics and Quakers campaign against it.\nAnother reason is that Christians believe in mercy and a chance to repent. Jesus taught forgiveness and said to the crowd about the woman caught in adultery 'Let any one of you who is without sin be the first to throw a stone at her' (John 8:7). This means no human is perfect, so executing someone removes any chance of reform and forgiveness.",
    "points": [
     "Reason 1: sanctity of life",
@@ -1620,7 +2782,7 @@
    "topic": "te-08",
    "marks": 12,
    "type": "evaluate",
-   "q": "'The death penalty is never acceptable.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'The death penalty is never acceptable.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Many Christians agree with this statement. They believe life is sacred, and 'You shall not murder' (Exodus 20:13) means that killing is wrong, even when the state does it. The death penalty also removes the chance for an offender to repent and reform, and Jesus taught mercy and forgiveness. Catholics changed their Catechism in 2018 to say it is inadmissible, and Quakers and the Church of England oppose it. There is also the risk of killing innocent people, as in the case of Timothy Evans, who was hanged in 1950 and later pardoned. This is a strong argument because executions cannot be undone.\n\nHowever, others disagree. Some Christians and Jews point to Genesis 9:6, 'Whoever sheds human blood, by humans shall their blood be shed', and the Old Testament idea of 'life for life'. They see the death penalty as fair retribution for the worst crimes. Romans 13:4 also suggests rulers can punish wrongdoers with the sword. Supporters also argue it protects society and may deter others, and the principle of utility could be used to say executing a dangerous criminal helps the greatest number of people. This argument is weaker because evidence for deterrence is unclear and because most religious traditions today place mercy and sanctity of life above retribution.\n\nOverall, I think the statement is convincing for most believers. The risk of wrongful execution, the loss of repentance and the value of life are powerful reasons. However, 'never' is a strong word, and a believer who supports retribution for the worst crimes might disagree. Therefore, while I accept that many religious believers have strong reasons to oppose it, the statement is not as certain as it sounds.",
    "for": [
     "Sanctity of life; Exodus 20:13; mercy and forgiveness (John 8:7); no chance to reform",
@@ -1642,7 +2804,7 @@
    "topic": "te-06",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Prison is the best way to treat criminals.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Prison is the best way to treat criminals.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Some people agree that prison is the best way to treat criminals. It protects the public by keeping dangerous offenders away from society, which fits love of neighbour. It also acts as punishment and deterrence, and Romans 13:4 says authorities have the right to punish wrongdoers. Christians and Jews accept that serious crimes need serious consequences because God is just. Prison can also help reformation if it offers education and training, and Christians are told to visit prisoners (Matthew 25:36). This is a strong argument for serious crimes such as murder or violent attacks.\n\nHowever, others disagree. Prison can be harmful and may lead to more crime, because prisoners may mix with other criminals and lose jobs and family. Many Christians and Jews prefer reformation and repairing harm, such as community service. Jews link this to tikkun olam, repairing the world, and the Torah stresses compensation rather than imprisonment. Elizabeth Fry, a Quaker, argued prisoners should be treated with dignity and helped to change. This is a strong argument for less serious crimes, where prison may do more harm than good. Non-religious people might also point to the high cost of prison.\n\nOverall, I think the statement is not fully convincing. Prison is necessary for dangerous offenders, but it is not best for every criminal. A punishment should fit the crime and its aims: protection for the dangerous, and reformation for others. So prison is one important tool, but not always the best one, and a fair system should choose the treatment that best fits the crime, the offender and the victim.",
    "for": [
     "Protects public; punishment and deterrence; Romans 13:4; justice",
@@ -1664,7 +2826,7 @@
    "topic": "te-07",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Christians should always forgive criminals.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Christians should always forgive criminals.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Many Christians agree with this statement. Jesus taught that Christians should forgive without limit, saying 'seventy-seven times' (Matthew 18:22). In the Lord's Prayer Christians ask God to forgive them as they forgive others, and on the cross Jesus said 'Father, forgive them' (Luke 23:34). Christians believe they are forgiven by God, so they should forgive others, even for very serious crimes. The relatives of victims at the Charleston church shooting showed this by forgiving the killer. This is a powerful argument because it follows Jesus' own example and can break cycles of hatred and revenge.\n\nHowever, others argue that forgiveness is not always straightforward or should not replace justice. Forgiving someone does not mean they should escape punishment, and many Christians believe offenders should show real sorrow before they are forgiven. Some victims find forgiveness extremely difficult, and demanding it could add to their pain. Jews also teach that the person who was wronged is only obliged to forgive when the offender has sincerely apologised and made amends. This argument is strong because it respects victims and the need for justice, and it still allows forgiveness when it is deserved.\n\nOverall, I think the statement is partly convincing. Christians are called to forgive and should always be willing to forgive, because Jesus' teaching is clear. However, forgiveness does not mean ignoring crime or removing punishment, and it can take time. So Christians should aim to forgive, while also supporting justice and the victims of crime, and they should never pressure victims to forgive before they are ready.",
    "for": [
     "Matthew 18:22; Lord's Prayer; Luke 23:34; God forgives so Christians must; Charleston example",
@@ -1686,7 +2848,7 @@
    "topic": "te-04",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Reformation is the most important aim of punishment.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Reformation is the most important aim of punishment.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Many Christians agree with this statement. Jesus taught forgiveness and love, and Romans 12:21 says 'Do not be overcome by evil, but overcome evil with good.' Reformation helps offenders change so they stop committing crime, which benefits both offenders and society. Christians believe everyone is made in God's image and can change, and Jews teach repentance (teshuvah) so that offenders can start again. Education, therapy and community work in prison can reduce reoffending. This is a strong argument because if offenders really change, there are fewer future victims.\n\nHowever, others disagree and argue that retribution or deterrence matter more. The Old Testament teaches 'life for life, eye for eye' (Exodus 21:23-24), which supports fair payback for harm. Romans 13:4 says rulers punish wrongdoers, and deterrence may stop others from offending. Victims and society may feel that justice has not been done if offenders are treated too gently. Also, some criminals do not want to change, so protection of the public must come first. This argument is strong for serious crimes, but retribution can easily turn into revenge, which Jesus rejected.\n\nOverall, I think reformation is the most important aim for most believers, particularly Christians, because it fits teachings on forgiveness and gives offenders hope. But it cannot be the only aim, because justice for victims and protection of the public are also essential. A good system balances all the aims, with reformation as the main goal where possible, because a punishment that changes someone for good helps everyone in the long run.",
    "for": [
     "Jesus' teaching on forgiveness; Romans 12:21; made in God's image; Jewish teshuvah",
@@ -1708,7 +2870,7 @@
    "topic": "te-02",
    "marks": 12,
    "type": "evaluate",
-   "q": "'People should never break the law.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'People should never break the law.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Many religious believers agree that people should usually obey the law. Romans 13:1 says 'Everyone must submit themselves to the governing authorities, for there is no authority except that which God has established.' Laws protect people and keep order, and breaking them can cause harm, as with theft, violence or fraud. Jews teach that following the law is important for justice, and Christians and Jews both condemn crimes such as murder and theft. If everyone chose which laws to follow, society could not function. This is a strong argument because laws protect the vulnerable and avoid chaos.\n\nHowever, others argue that breaking the law can be right when a law is unjust. Acts 5:29 says 'We must obey God rather than human beings!' and Christians such as Martin Luther King broke unjust laws, using peaceful civil disobedience to challenge segregation. The Suffragettes also broke the law to win votes for women. Jews may break a law to save a life (pikuach nefesh). This argument is strong when the law is clearly unjust, but it is weaker if the protest becomes violent, because Christians must still follow Jesus' command to love their enemies.\n\nOverall, I think the statement is not convincing as an absolute rule. Believers should respect the law because it protects people, but conscience and God's commands can sometimes come first. The best approach is to work to change an unjust law, peacefully, and accept the consequences, as this respects both conscience and the role of authority in keeping society safe and fair.",
    "for": [
     "Romans 13:1; laws protect society; crimes such as theft and murder condemned",
@@ -1724,6 +2886,334 @@
     "Evaluation",
     "Justified conclusion",
     "Non-religious views may be credited"
+   ]
+  },
+  {
+   "topic": "te-01",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different religious beliefs about why people do evil things. In your answer you must refer to one or more religious traditions.",
+   "points": [
+    "Christian: original sin from the Fall; all have sinned (Romans 3:23)",
+    "Christian: temptation by Satan, though humans are responsible",
+    "Jewish: no original sin; yetzer hara and free will to choose",
+    "Non-religious contrast may be credited if relevant: social causes"
+   ],
+   "model": "One belief, held by many Christians, is that people do evil because of original sin. Since Adam and Eve disobeyed God, every human has a tendency to sin, which is why Paul says 'all have sinned' (Romans 3:23).\nA different belief is found in Judaism, which rejects original sin. Jews believe everyone has a yetzer hatov (good inclination) and a yetzer hara (evil inclination), so people do evil when they freely choose to follow their evil inclination rather than being born sinful."
+  },
+  {
+   "topic": "te-01",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'A person's intentions matter more than their actions.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "for": [
+    "Jesus: sin begins in the heart (Matthew 5:28, Mark 7:21); God judges the heart",
+    "Genesis 50:20: the brothers' evil intention is condemned even though good came of it; kavanah in Judaism",
+    "UK law: murder versus manslaughter; Kant's good will"
+   ],
+   "against": [
+    "Judaism stresses deeds: you are judged by what you do; Beruriah: pray sins cease",
+    "Victims suffer the same whatever the intention; good intentions can cause harm",
+    "Utilitarian: consequences decide right and wrong; James 2:17 faith without works"
+   ],
+   "conclusion": "Intentions and actions both matter. Intentions show a person's character and guilt, but actions cause the harm or good that others actually experience, so neither alone is enough.",
+   "model": "Some people agree with this statement. Jesus taught that sin starts in the heart: a man who looks at a woman lustfully has already committed adultery in his heart (Matthew 5:28), and 'from within, out of the hearts of men, proceed evil thoughts... murders, thefts' (Mark 7:21). Christians believe God judges the heart, not just outward behaviour. In the story of Joseph, his brothers 'meant evil' (Genesis 50:20), and they are still blamed even though God brought good out of it. UK law agrees that intention matters: a deliberate killing is murder, but an accidental one is not. The philosopher Kant argued that the only thing good without qualification is a good will. This is a strong argument because intentions show what kind of person someone really is.\n\nOthers disagree. Judaism places great emphasis on deeds: Jews are judged by keeping the mitzvot, and a person with good intentions who never acts has done no good. Christians can point to James, who says faith without works is dead. Victims also suffer the same harm whatever the intention: a drunk driver who did not mean to kill still leaves a family grieving. A utilitarian would say an action is right or wrong because of its consequences, so a well-meant action that causes great suffering is still wrong. This argument is persuasive because good intentions alone do not feed the hungry or protect the vulnerable.\n\nIn conclusion, I think intentions and actions both matter, and it is not right to say one matters more in every case. Intentions decide how guilty or praiseworthy a person is, which is why religions and the law take them seriously. But actions are what change the world for other people. Religious teaching itself joins them together: Jesus said good actions come from a good heart (Matthew 12:35), so the best answer is that they should match."
+  },
+  {
+   "topic": "te-02",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different religious beliefs about breaking the law to protest against an unjust law. In your answer you must refer to one or more religious traditions.",
+   "points": [
+    "Obey the law: Romans 13:1, authorities are allowed by God; Jewish dina d'malchuta dina",
+    "Disobey when law opposes God: Acts 5:29; Exodus 1:17 midwives; Daniel 3",
+    "Civil disobedience must be peaceful, open and accept punishment (Martin Luther King)",
+    "Two clearly different beliefs, each developed"
+   ],
+   "model": "One belief is that religious people should obey the law even when they disagree with it. Paul taught that everyone must submit to the governing authorities because their authority comes from God (Romans 13:1), so many Christians would campaign legally for change rather than break the law.\nA different belief is that it is right to break a law that goes against God's will. When the apostles were ordered to stop preaching, Peter said 'We must obey God rather than men' (Acts 5:29), and the Hebrew midwives disobeyed Pharaoh to save babies (Exodus 1:17), so some believers practise peaceful civil disobedience, as Martin Luther King did."
+  },
+  {
+   "topic": "te-03",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about hate crimes. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "points": [
+    "Belief 1: all humans are made in God's image and equal",
+    "Source: Genesis 1:27 or Galatians 3:28",
+    "Application: attacking someone for their identity attacks God's creation; churches stand with victims",
+    "Belief 2: love of neighbour and the stranger",
+    "Source: Leviticus 19:34, 1 John 4:20, or the Good Samaritan",
+    "Application: forgiveness and anti-racism work (Gee Walker); Community Security Trust"
+   ],
+   "model": "One belief is that hate crime is wrong because every person is made in the image of God and is equal in his eyes. Paul wrote that 'there is neither Jew nor Greek... for you are all one in Christ Jesus' (Galatians 3:28). This means that attacking someone because of their race or religion treats as worthless someone God values equally, so Christians condemn hate crime and support its victims.\nAnother belief, from Judaism, is that God commands love for people who are different from you. The Torah says the stranger must be loved 'as yourself; for you lived as foreigners in the land of Egypt' (Leviticus 19:34). This means Jews, who have themselves suffered hate crimes throughout history, should oppose hatred of any group, and many Jewish organisations work against all forms of prejudice."
+  },
+  {
+   "topic": "te-03",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Murder is the worst crime.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "for": [
+    "Sanctity of life: Exodus 20:13, Genesis 9:6; only God gives and takes life",
+    "Irreversible: Mishnah Sanhedrin 4:5, destroying one life destroys a world; victim cannot forgive",
+    "UK law: mandatory life sentence; humanist: ends the only life a person has"
+   ],
+   "against": [
+    "Terrorism, genocide or hate crimes may be worse: many victims, aim to terrorise a whole group",
+    "Intentions and circumstances differ (te-01): not every killing is equally evil; Jesus: anger and hate begin in the heart (Matthew 5:21-22)",
+    "Christian: all sin separates from God (Romans 3:23); murderers can repent (penitent thief)"
+   ],
+   "conclusion": "Murder is among the very worst crimes because it permanently destroys a sacred life, but crimes such as terrorism or genocide, which involve murder on a mass scale and hatred of whole groups, are even worse, so murder is not always 'the' worst.",
+   "model": "Many people agree with this statement. Christians and Jews believe life is sacred because humans are made in God's image, and the Torah says 'Whoever sheds man's blood, his blood will be shed by man' (Genesis 9:6). 'You shall not murder' (Exodus 20:13) is one of the Ten Commandments. The Mishnah teaches that destroying one life is like destroying a whole world (Sanhedrin 4:5), because the victim's future, and the children they might have had, are lost for ever. Murder cannot be put right: stolen goods can be returned, but a life cannot be restored, and the victim can never forgive. UK law reflects this, as murder is the only crime with a mandatory life sentence. A humanist would agree that ending the only life a person has is the greatest harm. This is a strong argument because no other crime is so final.\n\nHowever, others argue that some crimes are even worse. Terrorism and genocide involve murdering many people, and hate crimes try to make whole communities live in fear, as the attack on Heaton Park synagogue in 2025 showed. Not all killings are equally evil either: a person who kills in a moment of panic is judged differently from someone who plans a killing for money. Christians also teach that all sin separates people from God, since 'all have sinned' (Romans 3:23), and Jesus said hatred in the heart is already sinful (Matthew 5:21-22). Even a murderer can repent and be forgiven by God, like the thief on the cross. This argument is persuasive because it shows the seriousness of a crime depends on intention and scale, not just the type of crime.\n\nIn conclusion, I think murder is one of the very worst crimes because it permanently destroys a life that religious believers see as sacred. However, crimes that involve murder on a larger scale or aim to terrorise whole groups, such as terrorism and genocide, are worse still. So the statement is nearly right, but it would be more accurate to say that murder is among the worst crimes."
+  },
+  {
+   "topic": "te-05",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about whether it can ever be good to cause suffering. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "points": [
+    "Belief 1: causing suffering is wrong because of love of neighbour and not repaying evil for evil",
+    "Source: Matthew 22:39 or Romans 12:17",
+    "Application: rejecting revenge, cruel punishment and violence",
+    "Belief 2: suffering can be right if it leads to a greater good, such as fair punishment or discipline",
+    "Source: Romans 13:4 or Hebrews 12:11",
+    "Application: proportionate punishment, surgery, parental discipline"
+   ],
+   "model": "One belief is that causing suffering is wrong because Christians are commanded to love others. Jesus said 'Love your neighbour as yourself' (Matthew 22:39), and Paul wrote 'Repay no one evil for evil' (Romans 12:17). This means Christians should not hurt people, even those who have hurt them, so they reject revenge and cruel punishments.\nA different belief is that causing some suffering can be good if it brings about a greater good. The letter to the Hebrews says discipline is painful at the time 'yet afterward it yields the peaceful fruit of righteousness' (Hebrews 12:11). This means that fair punishment, or a parent's sanction, may cause short-term unhappiness but help a person change, so many believers accept it as long as it is proportionate and done out of love."
+  },
+  {
+   "topic": "te-05",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'It can never be right to cause someone to suffer.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "for": [
+    "Love of neighbour (Matthew 22:39); Romans 12:17; Jesus healed suffering",
+    "Sanctity of life and dignity; Judaism forbids even cruelty to animals; humanist: only one life",
+    "Suffering often leads to more harm (cycles of revenge)"
+   ],
+   "against": [
+    "Punishment causes hardship but serves justice (Romans 13:4); deterrence protects many",
+    "Self-defence (Exodus 22:2, Sanhedrin 72a); medical treatment; discipline (Hebrews 12:11)",
+    "Utilitarian: right if it prevents greater suffering; Genesis 50:20 good from suffering"
+   ],
+   "conclusion": "Causing suffering for its own sake is never right, but causing limited, proportionate suffering with a good intention, such as fair punishment, surgery or defending the innocent, can be right, so 'never' is too strong.",
+   "model": "Some people agree with this statement. Jesus commanded his followers to 'love your neighbour as yourself' (Matthew 22:39), and Paul taught 'Repay no one evil for evil' (Romans 12:17). Jesus spent his ministry healing the sick and comforting the suffering, so it seems wrong for Christians to cause pain. Judaism forbids causing needless suffering even to animals, so causing suffering to a person, who is made in God's image, is even more serious. A humanist would agree, because this life is the only one people have, and causing suffering takes away their chance of happiness. This argument is strong because causing suffering often leads to anger, revenge and even more suffering.\n\nHowever, most religious and non-religious people believe causing some suffering can be right. Punishment causes hardship, but Paul says the state 'doesn't bear the sword in vain' (Romans 13:4), because justice and protecting the public matter. Judaism allows a person to use force against an attacker (Exodus 22:2), and most Christians accept self-defence. A surgeon causes pain to save a life, and parents sometimes discipline children, which Hebrews 12:11 says is painful at first but later produces good. A utilitarian would argue that causing suffering is right if it prevents greater suffering overall, for example deterring crime. This argument is persuasive because refusing ever to cause suffering would mean no punishment, no surgery and no protection for victims. However, the utilitarian view can go too far, for example if it were used to justify punishing an innocent person.\n\nIn conclusion, I disagree with the statement. Causing suffering for its own sake, or out of revenge or cruelty, is never right in any of these traditions. But causing limited suffering with a good intention, for a greater good and in proportion to that good, as in fair punishment, medical treatment or defending the innocent, can be right. So 'never' is too strong a word."
+  },
+  {
+   "topic": "te-06",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different beliefs in contemporary British society about corporal punishment. In your answer you should refer to the main religious tradition of Great Britain and one or more other religious traditions.",
+   "points": [
+    "Most Christians oppose: human dignity, love, Matthew 26:52, prefer reformation",
+    "Minority of Christians support mild physical discipline: Proverbs 13:24; argued against smacking bans",
+    "Judaism: Torah allowed limited lashes (Deuteronomy 25:2-3) but not used today; most oppose",
+    "Humanist: cruel and ineffective; campaign to end the reasonable punishment defence in England"
+   ],
+   "model": "One belief is that corporal punishment is wrong. Most Christians believe it harms the dignity of a person made in God's image and goes against Jesus' teaching to love others, so they support punishments that reform offenders and many back ending the smacking of children.\nA different belief, held by a minority of Christians, is that mild physical discipline can be right. They quote Proverbs 13:24, 'One who spares the rod hates his son', and argue that loving parents should be allowed to smack, which is why some Christian groups have opposed smacking bans."
+  },
+  {
+   "topic": "te-06",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Community service is a better punishment than prison.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "for": [
+    "Reformation and reparation: Ezekiel 33:11; tikkun olam; offender repays community",
+    "Avoids prison as a 'school for crime'; short prison sentences have high reoffending; Sentencing Act 2026",
+    "Cheaper; keeps families and jobs together; Matthew 25:36 compassion"
+   ],
+   "against": [
+    "Dangerous offenders must be kept away to protect the public; Romans 13:4",
+    "Justice and retribution for serious crimes: Exodus 21:23-24; victims may feel community service is too soft",
+    "Prison can also reform through education and chaplaincy (Prison Fellowship)"
+   ],
+   "conclusion": "For minor crimes community service is usually better because it reforms and repairs, but it cannot replace prison for serious and dangerous offenders, so it depends on the crime.",
+   "model": "Some people agree with this statement. Community service helps offenders reform and give something back, which fits Christian teaching that God wants wrongdoers to 'turn from his way and live' (Ezekiel 33:11) and the Jewish ideas of teshuvah and tikkun olam, repairing the world. Unpaid work such as clearing litter or removing graffiti directly benefits the community that was harmed. Prison, by contrast, can be a 'school for crime': in recent years more than half of adults leaving short prison sentences reoffended within a year, which is one reason the Sentencing Act 2026 presumes that short sentences are served in the community. Community service also lets offenders keep their jobs and families, and costs far less. This is a strong argument for less serious crimes.\n\nHowever, others argue that prison is sometimes better. Community service is only suitable for minor crimes; dangerous offenders such as violent criminals must be kept away from the public, and Paul says the state 'doesn't bear the sword in vain' (Romans 13:4) to protect people. Many believers also think justice requires that serious crimes receive serious punishment: 'life for life, eye for eye' (Exodus 21:23-24) teaches that punishment should match the crime, and victims may feel community service is too soft. Prison can also reform: chaplains and charities such as Prison Fellowship run education and victim awareness courses, and Jesus told his followers to visit prisoners (Matthew 25:36). This argument is persuasive because protecting the public is a key aim of punishment.\n\nIn conclusion, I think community service is better for minor crimes, because it achieves reformation and reparation without the damage prison often causes. But it cannot replace prison for serious or dangerous offenders. So the statement is true in many cases, but which punishment is better depends on the crime and the risk the offender poses."
+  },
+  {
+   "topic": "te-07",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different beliefs in contemporary British society about forgiveness. In your answer you should refer to the main religious tradition of Great Britain and one or more other religious traditions.",
+   "points": [
+    "Christian: unconditional, without limit (Matthew 18:22, Luke 23:34); Gee Walker",
+    "Christian conditional view: forgive if he repents (Luke 17:3)",
+    "Jewish: tied to teshuvah; must ask the person harmed; no one can forgive on behalf of a murdered victim (Mishnah Yoma 8:9)",
+    "Humanist: personal choice, not a duty; may be impossible for some crimes"
+   ],
+   "model": "One belief, held by many Christians, is that forgiveness should be given without limit, even if the offender is not sorry. Jesus told Peter to forgive 'seventy times seven' times and forgave those crucifying him, so Christians such as Gee Walker have forgiven people who murdered their loved ones.\nA different belief is found in Judaism, where forgiveness is linked to repentance and must be asked for directly. A wrongdoer must put things right and ask the person they harmed before Yom Kippur, and because only the victim can forgive, many Jews believe no one else can forgive a murderer on the dead person's behalf."
+  },
+  {
+   "topic": "te-08",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different beliefs in contemporary British society about capital punishment. In your answer you should refer to the main religious tradition of Great Britain and one or more other religious traditions.",
+   "points": [
+    "Catholic: inadmissible (Catechism 2267, 2018; Pope Leo XIV 2026); Anglican Lambeth 1988; Quakers",
+    "Some Christians: support for worst murders (Genesis 9:6, Romans 13:4)",
+    "Orthodox Jewish: permitted in principle but almost never in practice (Mishnah Makkot 1:10); Reform Jewish: opposed",
+    "Non-religious: Humanists UK oppose; some support for terrorism or child murder"
+   ],
+   "model": "One belief is that capital punishment is always wrong. The Catholic Church teaches that it is 'inadmissible' because it attacks the dignity of the person, who is made in God's image, and Pope Leo XIV repeated this in 2026, so Catholics campaign for it to be abolished everywhere.\nA different belief is held by many Orthodox Jews, who accept that the Torah allows the death penalty for murder in principle (Genesis 9:6) but believe it should almost never be used. The Mishnah says a court that executed once in seven years was 'destructive', so it would need a perfect legal system with strict safeguards."
+  },
+  {
+   "topic": "te-08",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'The principle of utility shows that the death penalty is wrong.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "for": [
+    "No clear evidence it deters better than life imprisonment; wrongful executions (Timothy Evans, Derek Bentley) cause huge suffering",
+    "Bentham came to oppose it; costs; brutalises society; unequal use",
+    "Religious support: sanctity of life (Exodus 20:13), Catholic Catechism 2267, Ezekiel 33:11"
+   ],
+   "against": [
+    "Utility can support it: J. S. Mill 1868, deterrence and permanent protection of many",
+    "Retribution and justice are not about consequences: Genesis 9:6, Exodus 21:23-24, Romans 13:4; Kant",
+    "The sanctity of life may be a better basis than utility; Mishnah Makkot 1:10 shows a religious, not utilitarian, reason for caution"
+   ],
+   "conclusion": "On the evidence, the principle of utility mostly counts against the death penalty, because deterrence is unproven and mistakes cannot be undone, but utility can point either way, and most religious believers decide the issue on the sanctity of life and human dignity instead.",
+   "model": "Some people agree with this statement. The principle of utility says we should choose the action that brings the greatest good for the greatest number. Many argue the death penalty fails this test: there is little clear evidence that it deters murder better than life imprisonment, and wrongful executions cause terrible suffering that can never be undone, as with Timothy Evans, hanged in 1950 and later pardoned. In the USA, long appeals mean it costs more than life imprisonment. Jeremy Bentham, the founder of utilitarianism, came to oppose it for these reasons. Many religious people agree with the conclusion, though for different reasons: the sanctity of life means only God should take life (Exodus 20:13), and God wants the wicked to 'turn from his way and live' (Ezekiel 33:11). This is a strong argument because the facts about deterrence and mistakes are hard to deny.\n\nHowever, others argue that utility does not show the death penalty is wrong. J. S. Mill, another utilitarian, told Parliament in 1868 that hanging was a stronger deterrent than prison for the worst murders and protected society permanently. If an execution prevented even a few future murders, a utilitarian might support it. Others say utility is the wrong test altogether: justice is about what people deserve, not consequences. Genesis 9:6 says 'Whoever sheds man's blood, his blood will be shed by man, for God made man in his own image', and some Christians believe Romans 13:4 gives the state the right to execute. This argument shows that utility can point both ways depending on the evidence, and that many people judge the issue on other grounds.\n\nIn conclusion, I partly agree. On current evidence, the principle of utility mostly counts against the death penalty, because its deterrent effect is unproven and mistakes are permanent. But utility on its own does not settle the question, since it could support execution if the evidence were different. Most religious believers in Britain oppose it mainly because of the sanctity of life and human dignity, which I think is a firmer basis than calculating consequences."
+  }
+ ],
+ "spec": [
+  {
+   "point": "Corporal punishment: contrasting beliefs (Christianity and at least one other religion)",
+   "topics": [
+    "te-06"
+   ]
+  },
+  {
+   "point": "Death penalty: contrasting beliefs (Christianity and at least one other religion)",
+   "topics": [
+    "te-08"
+   ]
+  },
+  {
+   "point": "Forgiveness: contrasting beliefs (Christianity and at least one other religion)",
+   "topics": [
+    "te-07"
+   ]
+  },
+  {
+   "point": "Good and evil intentions and actions",
+   "topics": [
+    "te-01"
+   ]
+  },
+  {
+   "point": "Whether it can ever be good to cause suffering",
+   "topics": [
+    "te-05"
+   ]
+  },
+  {
+   "point": "Reasons for crime: poverty and upbringing",
+   "topics": [
+    "te-02"
+   ]
+  },
+  {
+   "point": "Reasons for crime: mental health problems and addiction",
+   "topics": [
+    "te-02"
+   ]
+  },
+  {
+   "point": "Reasons for crime: greed and hate",
+   "topics": [
+    "te-02"
+   ]
+  },
+  {
+   "point": "Reasons for crime: opposition to an unjust law",
+   "topics": [
+    "te-02"
+   ]
+  },
+  {
+   "point": "Views about people who break the law for these reasons",
+   "topics": [
+    "te-02",
+    "te-03"
+   ]
+  },
+  {
+   "point": "Views about different types of crime, including hate crimes, theft and murder",
+   "topics": [
+    "te-03"
+   ]
+  },
+  {
+   "point": "Aims of punishment: retribution",
+   "topics": [
+    "te-04"
+   ]
+  },
+  {
+   "point": "Aims of punishment: deterrence",
+   "topics": [
+    "te-04"
+   ]
+  },
+  {
+   "point": "Aims of punishment: reformation",
+   "topics": [
+    "te-04"
+   ]
+  },
+  {
+   "point": "Treatment of criminals: prison",
+   "topics": [
+    "te-06"
+   ]
+  },
+  {
+   "point": "Treatment of criminals: corporal punishment",
+   "topics": [
+    "te-06"
+   ]
+  },
+  {
+   "point": "Treatment of criminals: community service",
+   "topics": [
+    "te-06"
+   ]
+  },
+  {
+   "point": "Forgiveness",
+   "topics": [
+    "te-07"
+   ]
+  },
+  {
+   "point": "The death penalty",
+   "topics": [
+    "te-08"
+   ]
+  },
+  {
+   "point": "Ethical arguments related to the death penalty: the principle of utility",
+   "topics": [
+    "te-08",
+    "te-05"
+   ]
+  },
+  {
+   "point": "Ethical arguments related to the death penalty: sanctity of life",
+   "topics": [
+    "te-08"
+   ]
+  },
+  {
+   "point": "Contrasting perspectives in contemporary British society on all these issues (religious and non-religious)",
+   "topics": [
+    "te-01",
+    "te-02",
+    "te-03",
+    "te-04",
+    "te-05",
+    "te-06",
+    "te-07",
+    "te-08"
    ]
   }
  ]

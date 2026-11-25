@@ -99,7 +99,7 @@ Optional `subject.json` settings (see `fr/subject.json`):
 
 Topics may also have `"pitfalls": ["common mistake"]`, shown under the exam tip. `truefalse`, `short` and `spec` are optional. Short answers are also added to the flashcards.
 
-Flashcards, quiz, exam, true or false and short items are identified by their position in their array (progress is saved against these ids), so add new items at the end and never reorder or delete existing ones. `re/tools/check_section.py <section-id>` checks this against the last commit, plus the per-topic minimum counts used for RE.
+Flashcards, quiz, exam, true or false and short items are identified by their position in their array (progress is saved against these ids), so add new items at the end and never reorder or delete existing ones. `re/tools/check_section.py <section-id> [--base <git ref>]` checks this against the last commit (or the given ref, for example `origin/main`), including items moved or swapped within a topic, plus the per-topic minimum counts used for RE.
 
 `for`, `against` and `conclusion` are used by `evaluate` items (12-mark questions), which may omit `points`.
 

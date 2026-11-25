@@ -1,30 +1,61 @@
 #!/usr/bin/env python3
 """Validate one RE section file against the expanded schema.
 
-Usage: python3 re/tools/check_section.py <section-id>
+Usage: python3 re/tools/check_section.py <section-id> [--base <git ref>]
+
+--base sets the commit to compare against (default HEAD), for example
+--base origin/main to check a whole branch before merging.
 Checks the working copy re/data/<id>.json against
 the committed original (git HEAD) so existing progress ids stay stable.
 """
-import json, re, subprocess, sys
+import difflib, json, re, subprocess, sys
 
 REPO = __import__("os").path.dirname(__import__("os").path.dirname(__import__("os").path.dirname(__import__("os").path.abspath(__file__))))
-sid = sys.argv[1]
+args = sys.argv[1:]
+base = 'HEAD'
+if '--base' in args:
+    i = args.index('--base')
+    base = args[i + 1]
+    del args[i:i + 2]
+sid = args[0]
 path = f'{REPO}/re/data/{sid}.json'
 d = json.load(open(path, encoding='utf8'))
-orig = json.loads(subprocess.run(['git', '-C', REPO, 'show', f'HEAD:re/data/{sid}.json'],
+orig = json.loads(subprocess.run(['git', '-C', REPO, 'show', f'{base}:re/data/{sid}.json'],
                                  capture_output=True, text=True, check=True).stdout)
 P, W = [], []
 
-# 1. existing items must keep position and topic (ids are positional)
-for key in ('flashcards', 'quiz', 'exam'):
+# 1. existing items must keep position (ids are positional). Text may be corrected in
+# place, but an item whose text now matches a different original item much better than
+# its own looks moved or swapped, which would attach saved progress to another question.
+TEXT = {'flashcards': 'q', 'quiz': 'q', 'exam': 'q', 'truefalse': 's', 'short': 'q'}
+
+
+def sim(x, y):
+    return difflib.SequenceMatcher(None, x.lower(), y.lower()).ratio()
+
+
+for key, field in TEXT.items():
     old, new = orig.get(key, []), d.get(key, [])
     if len(new) < len(old):
         P.append(f'{key}: {len(new)} items, fewer than the original {len(old)} (never delete, only append)')
+    old_txt = [o.get(field, '') for o in old]
     for i, o in enumerate(old[:len(new)]):
-        if new[i].get('topic') != o.get('topic'):
-            P.append(f'{key}[{i}] topic changed {o.get("topic")} -> {new[i].get("topic")} (do not reorder)')
-        if key == 'exam' and new[i].get('marks') != o.get('marks'):
+        n = new[i]
+        if n.get('topic') != o.get('topic'):
+            P.append(f'{key}[{i}] topic changed {o.get("topic")} -> {n.get("topic")} (do not reorder)')
+        if key == 'exam' and n.get('marks') != o.get('marks'):
             P.append(f'exam[{i}] marks changed')
+        if key == 'truefalse' and n.get('answer') != o.get('answer'):
+            W.append(f'truefalse[{i}] answer flipped: check this is a correction, not a different statement')
+        t = n.get(field, '')
+        if t == old_txt[i]:
+            continue
+        own = sim(t, old_txt[i])
+        best_j, best = max(((j, sim(t, x)) for j, x in enumerate(old_txt) if j != i), key=lambda z: z[1], default=(None, 0))
+        if best > 0.8 and best > own + 0.2:
+            P.append(f'{key}[{i}] now matches original {key}[{best_j}] ({best:.0%} vs {own:.0%}): looks moved or swapped')
+        elif own < 0.5:
+            W.append(f'{key}[{i}] text changed a lot ({own:.0%} similar): make sure it is the same question, corrected')
 old_t = [t['id'] for t in orig['topics']]
 new_t = [t['id'] for t in d['topics']]
 for t in old_t:
@@ -112,8 +143,9 @@ for p, s in walk(d):
         P.append(f'{p}: em or en dash')
     if re.search(r'<[a-z/][^>]*>', s):
         P.append(f'{p}: HTML in text')
-    if re.search(r'\b(color|center|favorite|behavior|honor|neighbor|analyze|organize|realize|recognize)\b', s, re.I):
-        W.append(f'{p}: American spelling? "{re.search(r"[A-Za-z]*(or|ize|er)\\b", s).group(0)}"')
+    m = re.search(r'\b(color|center|favorite|behavior|honor|neighbor|analyze|organize|realize|recognize)\b', s, re.I)
+    if m:
+        W.append(f'{p}: American spelling? "{m.group(0)}"')
 
 agg = {k: len(d.get(k, [])) for k in ('topics', 'flashcards', 'quiz', 'truefalse', 'short', 'exam', 'spec')}
 agg['exam_by_marks'] = {m: sum(1 for x in d['exam'] if x['marks'] == m) for m in (4, 6, 12)}

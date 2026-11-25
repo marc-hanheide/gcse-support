@@ -319,7 +319,7 @@ function home(){
   var wrong=Object.keys(S.wrong).length;
   var h=hdr(META.title||'Revision',META.subtitle||'');
   h+='<div class="card"><div class="row" style="align-items:center"><div><div class="big">'+pct(doneT,totT)+'%</div><div class="mut small">topics revised ('+doneT+' of '+totT+')</div></div><div><div class="big">'+pct(knownC,totC)+'%</div><div class="mut small">cards learnt ('+knownC+' of '+totC+')</div></div></div></div>';
-  h+='<div class="card"><b>Today</b><div class="row" style="margin-top:10px"><a class="btn pri" href="#/cards" data-act="quickCards">Flashcards: '+(due>0?due+' due':Math.min(newC,20)+' new')+'</a><a class="btn" href="#/quiz" data-act="quickQuiz">Quick quiz (10)</a>'+(SECS.some(function(s){return s.vq.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="vq">'+esc(META.vocabQuizLabel||'Vocabulary')+' (10)</a>':'')+'</div>'+(KINDS.length>1||META.mock?'<div class="row" style="margin-top:8px">'+(SECS.some(function(s){return s.tf.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="tf">True or false (10)</a>':'')+(SECS.some(function(s){return s.wb.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="wb">Who believes this? (10)</a>':'')+(META.mock?'<a class="btn" href="#/mock">'+(S.mock&&!S.mock.done?'Continue mock':'Timed mock')+'</a>':'')+'</div>':'')+(wrong?'<p class="small mut" style="margin-top:10px">'+wrong+' question'+(wrong>1?'s':'')+' to revisit in the Quiz tab.</p>':'')+'</div>';
+  h+='<div class="card"><b>Today</b><div class="row" style="margin-top:10px"><a class="btn pri" href="#/cards" data-act="quickCards">Flashcards: '+(due>0?due+' due':Math.min(newC,20)+' new')+'</a><a class="btn" href="#/quiz" data-act="quickQuiz">Quick quiz (10)</a>'+(SECS.some(function(s){return s.vq.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="vq">'+esc(META.vocabQuizLabel||'Vocabulary')+' (10)</a>':'')+'</div>'+(KINDS.length>1||META.mock?'<div class="row" style="margin-top:8px">'+(SECS.some(function(s){return s.tf.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="tf">True or false (10)</a>':'')+(SECS.some(function(s){return s.wb.length})?'<a class="btn" href="#/quiz" data-act="quickQuiz" data-kind="wb">Who believes this? (10)</a>':'')+(META.mock?'<a class="btn" href="#/mock">'+(S.mock?(S.mock.done?'Finish marking mock':'Continue mock'):'Timed mock')+'</a>':'')+'</div>':'')+(wrong?'<p class="small mut" style="margin-top:10px">'+wrong+' question'+(wrong>1?'s':'')+' to revisit in the Quiz tab.</p>':'')+'</div>';
   PAPERS.forEach(function(p){
     h+='<h2>'+esc(paperName(p))+'</h2><div class="grid">';
     SECS.filter(function(s){return s.section.paper===p}).forEach(function(s){
@@ -444,7 +444,7 @@ function renderQuiz(){
 var W={sec:'all',topic:'all',marks:'all'},cur=null,MARKS=[];SECS.forEach(function(s){s.ex.forEach(function(e){var m=String(e.marks);if(MARKS.indexOf(m)<0)MARKS.push(m)})});MARKS.sort(function(a,b){return a-b});
 function writeList(){
   var h=hdr('Write','Exam questions with model answers and mark points');
-  if(META.mock)h+='<a class="btn pri" style="width:100%;margin-bottom:6px" href="#/mock">'+(S.mock&&!S.mock.done?'Continue your timed mock paper':'Timed mock paper')+'</a>';
+  if(META.mock)h+='<a class="btn pri" style="width:100%;margin-bottom:6px" href="#/mock">'+(S.mock?(S.mock.done?'Finish marking your mock paper':'Continue your timed mock paper'):'Timed mock paper')+'</a>';
   var items=[];SECS.forEach(function(s){if(!inScope(s,W))return;s.ex.forEach(function(e){if(W.topic!=='all'&&e.topic!==W.topic)return;if(W.marks!=='all'&&String(e.marks)!==W.marks)return;items.push(e)})});
   h+='<div class="card">'+scopeUI(W)+'<label class="f">Question size</label><div class="chips" id="w-marks">'+['all'].concat(MARKS).map(function(m){return '<button class="chip'+(W.marks===m?' on':'')+'" data-act="setMarks" data-m="'+m+'">'+(m==='all'?'All':m+' marks')+'</button>'}).join('')+'</div><p class="small mut">'+items.length+' questions. '+items.filter(function(e){return S.exam[e.id]}).length+' attempted.</p>'+(items.length?'<a class="btn pri" style="width:100%" href="#/w/'+shuffle(items)[0].id+'">Random question</a>':'')+'</div>';
   h+='<div class="list">'+items.map(function(e){var d=S.exam[e.id];return '<a class="item" href="#/w/'+e.id+'"><span class="t"><small>'+esc(SEC[e.sec].section.short||SEC[e.sec].section.title)+' · '+esc(tname(e.sec,e.topic))+'</small>'+esc(e.q.length>120?e.q.slice(0,117)+'...':e.q)+'</span>'+pill(e.marks+' marks',col(e.sec))+(d?'<span class="tick on">✓</span>':'')+'</a>'}).join('')+'</div>';
@@ -492,7 +492,7 @@ function mockQs(s){
   return out}
 function itemById(id){var sid=id.split(':')[0],s=SEC[sid];if(!s)return null;var all=s.qz.concat(s.sh,s.cards,s.ex);return all.filter(function(x){return x.id===id})[0]||null}
 function mockSetup(){
-  var M=S.mock;if(M&&!M.done)return mockRun();
+  var M=S.mock;if(M)return mockRun();
   var mm=(META.mock&&META.mock.minutes)||105,h=hdr('Timed mock paper','Exam conditions: one five-part question per section');
   h+='<div class="card"><p class="small mut">Questions are picked at random from the app (unattempted ones first). Answer on screen or on paper, then mark yourself with the model answers.</p>';
   PAPERS.forEach(function(p){var ss=SECS.filter(function(s){return s.section.paper===p});h+='<button class="btn pri" style="width:100%;margin:6px 0" data-act="startMock" data-p="'+p+'">'+esc(paperName(p))+' ('+ss.length*24+' marks, '+mm+' min)</button>'});
@@ -516,8 +516,8 @@ function mockRun(){
   var last=null;
   M.qs.forEach(function(q,qi){var it=itemById(q.id);if(!it)return;var s=SEC[q.sec];
     if(q.sec!==last){h+='<h2 style="color:'+s.color+'">'+esc(s.section.title)+'</h2>';last=q.sec}
-    h+='<div class="card c" style="--c:'+s.color+'"><div class="small mut">'+qnum(q)+' · '+q.marks+' mark'+(q.marks>1?'s':'')+'</div><p style="font-weight:700;margin:6px 0">'+fmt(it.q)+'</p>';
-    if(q.k==='mcq'){var ord=M['o'+qi]||(M['o'+qi]=shuffle(it.options.map(function(_,i){return i})));h+=ord.map(function(oi,j){return '<button class="opt'+(M.ans[qi]===oi?' sel':'')+'" data-act="mockPick" data-q="'+qi+'" data-o="'+oi+'"><b>'+'ABCD'[j]+'.</b> '+fmt(it.options[oi])+'</button>'}).join('')}
+    h+='<div class="card c" style="--c:'+s.color+'"><div class="small mut">'+qnum(q)+' · '+q.marks+' mark'+(q.marks>1?'s':'')+'</div><p style="font-weight:700;margin:6px 0" id="mq'+qi+'">'+fmt(it.q)+'</p>';
+    if(q.k==='mcq'){var ord=M['o'+qi]||(M['o'+qi]=shuffle(it.options.map(function(_,i){return i})));h+='<div role="group" aria-labelledby="mq'+qi+'">'+ord.map(function(oi,j){return '<button class="opt'+(M.ans[qi]===oi?' sel':'')+'" aria-pressed="'+(M.ans[qi]===oi?'true':'false')+'" data-act="mockPick" data-q="'+qi+'" data-o="'+oi+'"><b>'+'ABCD'[j]+'.</b> '+fmt(it.options[oi])+'</button>'}).join('')+'</div>'}
     else if(q.k==='short')h+='<input type="text" data-mock="'+qi+'" value="'+esc(M.ans[qi]||'')+'" aria-label="Your answer" placeholder="One word or short phrase">';
     else h+='<textarea data-mock="'+qi+'" aria-label="Your answer" placeholder="Write your answer, or write on paper">'+esc(M.ans[qi]||'')+'</textarea>';
     h+='</div>'});
@@ -615,7 +615,7 @@ var ACT={
  startQuiz:startQuiz,
  goMock:function(t){MOCKSEC=t.dataset.sec},
  startMock:function(t){if(t.dataset.p)startMock(t.dataset.p);else startMock(null,$('#mk-sec').value)},
- mockPick:function(t){var M=S.mock;M.ans[+t.dataset.q]=+t.dataset.o;save();$$('[data-q="'+t.dataset.q+'"].opt').forEach(function(b){b.classList.toggle('sel',b===t)})},
+ mockPick:function(t){var M=S.mock;M.ans[+t.dataset.q]=+t.dataset.o;save();$$('[data-q="'+t.dataset.q+'"].opt').forEach(function(b){b.classList.toggle('sel',b===t);b.setAttribute('aria-pressed',b===t?'true':'false')})},
  finishMock:function(t){if(!t.dataset.sure){t.dataset.sure='1';t.textContent='Tap again to finish and see the answers';return}var M=S.mock;M.done=true;M.used=Math.round((Date.now()-M.start)/60000);save();mockReview()},
  abandonMock:function(t){if(!t.dataset.sure){t.dataset.sure='1';t.textContent='Tap again to abandon (answers are lost)';t.className='btn bad';t.style.width='100%';return}S.mock=null;save();mockSetup()},
  mockSelf:function(t){var M=S.mock,y=window.scrollY;M.self[+t.dataset.q]=+t.dataset.m;save();mockReview();window.scrollTo(0,y)},
@@ -631,7 +631,10 @@ var ACT={
  qSec:function(t){QF.sec=t.dataset.s;quotes()},
  reset:function(t){if(t.dataset.sure){S={cards:{},wrong:{},quiz:{},done:{},exam:{},drafts:{},mocks:[],mock:null,theme:S.theme};save();CS=null;QS=null;location.hash='#/';return}t.dataset.sure='1';t.textContent='Tap again to erase all progress';t.className='btn bad';t.style.width='100%'}
 };
-document.addEventListener('click',function(e){var t=e.target.closest('[data-act]');if(!t)return;var a=ACT[t.dataset.act];if(a){a(t,e)}});
+document.addEventListener('click',function(e){
+  /* tapping the tab for the page already shown does not fire hashchange: reset a finished quiz and re-render */
+  var nl=e.target.closest('#nav a');if(nl&&nl.getAttribute('href')===(location.hash||'#/')){e.preventDefault();if(QS&&QS.i>=QS.items.length)QS=null;route();return}
+  var t=e.target.closest('[data-act]');if(!t)return;var a=ACT[t.dataset.act];if(a){a(t,e)}});
 document.addEventListener('keydown',function(e){var t=e.target;if(t&&t.classList&&t.classList.contains('fc')&&(e.key===' '||e.key==='Enter')){e.preventDefault();ACT.flip()}
   if(CS&&CS.flip&&!/INPUT|TEXTAREA|SELECT/.test(e.target.tagName)){if(e.key==='1')ACT.cardAns({dataset:{v:'0'}});if(e.key==='2')ACT.cardAns({dataset:{v:'1'}})}});
 document.addEventListener('change',function(e){var t=e.target;

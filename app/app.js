@@ -342,7 +342,7 @@ function route(){
   if(m=h.match(/^#\/s\/([\w-]+)$/))return secPage(m[1]);
   if(m=h.match(/^#\/t\/([\w-]+)\/([\w-]+)$/))return topicPage(m[1],m[2]);
   if(h==='#/cards')return CS?renderCard():cardsSetup();
-  if(h==='#/quiz')return QS?renderQuiz():quizPage();
+  if(h==='#/quiz'){if(QS&&QS.i>=QS.items.length)QS=null;return QS?renderQuiz():quizPage()}
   if(h==='#/write')return writeList();
   if(h==='#/mock')return META.mock?mockSetup():notFound();
   if(h==='#/spec')return specPage();

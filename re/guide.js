@@ -1,6 +1,7 @@
 // Subject-specific exam guide and quote map. Plain JS inlined into the compiled page.
 const TECH_GUIDE = `
 <div class="card"><b>The exam in one minute</b>
+<p class="small"><b>Provisional dates (AQA timetable, January 2026):</b> Paper 1 on Thursday 13 May 2027 (morning), Paper 2 on Friday 21 May 2027 (morning). Check the final dates with school.</p>
 <p class="small mut">AQA GCSE Religious Studies A (8062). Two papers, each 1 hour 45 minutes and worth 50% of the GCSE.</p>
 <table class="t"><tr><th>Paper</th><th>What is on it</th></tr>
 <tr><td><b>Paper 1</b><br>Study of religions</td><td>Christianity: Beliefs, Christianity: Practices, Judaism: Beliefs, Judaism: Practices. Four five-part question sets.</td></tr>
@@ -10,7 +11,7 @@ const TECH_GUIDE = `
 <h2>Every set has the same five questions</h2>
 <table class="t"><tr><th>Q</th><th>Marks</th><th>What to do</th><th>Time</th></tr>
 <tr><td>1</td><td>1</td><td>Multiple choice. Read all four options, cross out wrong ones, then choose.</td><td>1 min</td></tr>
-<tr><td>2</td><td>1</td><td>Short answer. A precise term or fact, for example <i>omnipotent</i>.</td><td>1 min</td></tr>
+<tr><td>2</td><td>1</td><td>Short answer starting "Give one..." or "Name one...". One word or a short phrase: an example, a key term or a brief definition, for example <i>Sinai</i> or <i>omnipotent</i>.</td><td>1 min</td></tr>
 <tr><td>3</td><td>4</td><td>"Explain two...". Two separate points, each developed.</td><td>4 min</td></tr>
 <tr><td>4</td><td>6</td><td>"Explain two... Refer to sacred writings or another source of belief and teaching." Two developed points plus a named source.</td><td>6 min</td></tr>
 <tr><td>5</td><td>12</td><td>"Evaluate this statement." Both sides, evaluation, conclusion.</td><td>12 min</td></tr></table>
@@ -36,7 +37,7 @@ const TECH_GUIDE = `
 <details><summary>6 marks: Explain two, with a source of wisdom and authority</summary><div>
 <ol class="steps"><li><b>Point:</b> a belief, reason or teaching.</li><li><b>Development:</b> explain what it means.</li><li><b>Source:</b> name the source (Bible book and chapter, a Church teaching, the Torah, a creed).</li><li><b>Application:</b> say how the source supports your point.</li></ol>
 <div class="eg">One Christian belief is that God gave humans stewardship of the world, so Christians have a duty to look after it for God. In Genesis God tells Adam and Eve to rule over the fish of the sea. This shows that God commanded humans to care for the world, so Christians should obey him.</div>
-<p>You need a source that clearly links to the question. Only one source is needed, but it must be named and used, not just dropped in.</p>
+<p><b>How the 6 marks are given (AQA, from 2026):</b> up to 4 marks for explaining your two points (each simple point 1, each detailed point 2), <b>1 mark</b> for a relevant source of wisdom and authority that you name, and <b>1 mark</b> for applying it: saying how it supports your point. A quotation that is not linked to the question only gets the source mark.</p><p>Only one source is needed, but it must be named and used, not just dropped in.</p>
 <p><b>What counts as a source of wisdom and authority?</b> The Bible (give the book), Jesus' teachings, the creeds, Church teachings, the Torah, the Talmud, the Ten Commandments, the Shema, and religious leaders' teachings.</p></div></details>
 
 <details><summary>12 marks: Evaluate (and SPaG)</summary><div>
@@ -75,9 +76,11 @@ const TECH_GUIDE = `
 <div class="card"><ol class="steps">
 <li><b>Learn:</b> read one topic in the section page and tick it as revised.</li>
 <li><b>Recall:</b> do the flashcards for that topic.</li>
-<li><b>Check:</b> take the quiz for that topic, then re-do your mistakes.</li>
+<li><b>Check:</b> take the quiz, the true or false round and "Who believes this?" for that topic, then re-do your mistakes.</li>
 <li><b>Write:</b> answer one exam question under timed conditions, then self-mark with the mark points.</li>
-<li><b>Repeat:</b> do ten due flashcards every day. The app brings back cards you find hard.</li></ol></div>
+<li><b>Repeat:</b> do ten due flashcards every day. The app brings back cards you find hard.</li>
+<li><b>Test:</b> every week or two, sit a timed mock (one section takes about 26 minutes, a full paper 1 hour 45 minutes) and mark it with the model answers.</li>
+<li><b>Track:</b> use the AQA specification checklist (More tab) to see which points you have not revised yet.</li></ol></div>
 `;
 
 const TECH_QUOTES = `

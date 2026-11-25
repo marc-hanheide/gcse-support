@@ -12,62 +12,66 @@
    "id": "tb-01",
    "code": "Rel & Life.1",
    "title": "The origins of the universe",
-   "overview": "Christians and Jews believe God created the universe, while science explains it with the Big Bang. You need to explain religious creation teachings, scientific theory and how believers link the two.",
+   "overview": "Christians and Jews believe God created the universe, while science explains its development with the Big Bang. You need religious creation teachings, different ways of interpreting them, and how believers relate them to science.",
    "notes": [
     {
      "h": "Religious teachings on creation",
      "bullets": [
-      "Christians and Jews believe God created the universe. Genesis 1 describes creation in six days, with God resting on the seventh. Many believe God created 'out of nothing' (**creation ex nihilo**).",
-      "Genesis 1:3: God said 'Let there be light'. This shows God's power: he only had to speak. John 1:1-3 says everything was made through the Word (Jesus), and Genesis 1:2 mentions God's Spirit, which Christians link to the Trinity.",
-      "Creation shows that the world is good (Genesis 1:31) and has a purpose, and that God is powerful, intelligent and loving."
+      "Christians and Jews believe God created the universe. Genesis 1 describes creation in six days, with God resting on the seventh. Many believe God created 'out of nothing' (**creation ex nihilo**), simply by his word: 'And God said, Let there be light, and there was light' (Genesis 1:3).",
+      "Genesis 2 gives a second account, focused on the creation of Adam and Eve in the Garden of Eden. Many scholars see the two accounts as teaching truths about God rather than a single scientific record.",
+      "Christians add that everything was made through the Word, Jesus (John 1:1-3), and that God's Spirit was present (Genesis 1:2), so the whole Trinity was involved in creation.",
+      "Creation teaches that God is all-powerful (omnipotent), that the world is 'very good' (Genesis 1:31) and has a purpose, and that it belongs to God. Jews traditionally count years from creation: autumn 2026 began the Jewish year 5787."
      ]
     },
     {
-     "h": "Scientific view",
+     "h": "The scientific view",
      "bullets": [
-      "The **Big Bang theory** says the universe began almost 14 billion years ago, from an extremely hot, dense point called a singularity. It then expanded and cooled, forming stars and galaxies.",
-      "This is a scientific theory based on evidence such as the expansion of the universe and background radiation. It explains how the universe developed, but it does not say why."
+      "The **Big Bang theory** says the universe began about 13.8 billion years ago from an extremely hot, dense point (a singularity), then expanded and cooled, forming atoms, stars and galaxies. It is still expanding.",
+      "Evidence includes the galaxies moving away from each other (red shift, shown by Edwin Hubble in 1929) and cosmic microwave background radiation, the 'afterglow' of the Big Bang (discovered 1964 to 1965).",
+      "The theory was first proposed in 1927 by Georges Lemaitre, a Belgian Catholic priest and physicist. Science explains how the universe developed, but many say it cannot explain why there is something rather than nothing."
      ]
     },
     {
-     "h": "Religion and science",
+     "h": "Different interpretations and the relationship with science",
      "bullets": [
-      "Some Christians (**creationists** or fundamentalists) and some Orthodox Jews take Genesis literally as God's word, so reject the Big Bang or believe the earth is only thousands of years old.",
-      "Other Christians and Jews believe Genesis is a symbolic story about why God made the world. They say the Big Bang could be how God created it, and that science explains 'how' while religion explains 'why'. The Catholic Church accepts the Big Bang and evolution.",
-      "Non-religious people, such as atheists and humanists, say science shows the universe began naturally without God. Some religious people believe God designed the universe because it is so ordered and complex (intelligent design)."
+      "**Creationists** (some Evangelical Christians and some Orthodox Jews) read Genesis literally as God's word: God made everything in six 24-hour days, and many 'Young Earth' creationists believe the earth is only thousands of years old. They reject or reinterpret the Big Bang.",
+      "Some read the 'days' as long ages (each 'day' an era), so Genesis and science follow a similar order.",
+      "Most Christians and many Jews read Genesis as a symbolic or poetic story that teaches why the world exists (God made it with love and purpose), while science explains how. The Catholic Church accepts the Big Bang; Pope Francis said in 2014 that God is 'not a magician' and that the Big Bang does not contradict creation but needs it. Rabbi Jonathan Sacks wrote that science takes things apart to see how they work, while religion puts things together to see what they mean.",
+      "Some believers say the Big Bang supports God: something must have caused it (the First Cause argument), and the finely tuned laws of physics suggest a designer.",
+      "**Atheists and humanists** say the universe can be explained by natural laws and the Big Bang, with no need for God (for example Stephen Hawking argued this). Creation stories are seen as myths from a time before science."
      ]
     }
    ],
    "views": [
     {
-     "label": "Literal Christian (creationist)",
-     "text": "Genesis is the word of God and describes real events, so God made the world in six days. The Big Bang is not accepted, or is said to be wrong about the age of the universe."
+     "label": "Creationist Christian",
+     "text": "Genesis is God's word and describes real events: God made the world in six days, and many believe the earth is only thousands of years old. Where the Big Bang contradicts Genesis it is rejected."
     },
     {
-     "label": "Catholic and liberal Christian",
-     "text": "Genesis teaches that God is the creator but is not a science textbook. The Big Bang can be the way God began creation, so science and faith can agree."
+     "label": "Catholic",
+     "text": "Genesis teaches that God is the creator but is not a science textbook. The Big Bang, first proposed by a priest, can be the way God began creation, so science and faith are partners."
     },
     {
      "label": "Orthodox Jewish",
-     "text": "The Torah is God's word and God created the world, but some Orthodox Jews read the 'days' as long periods and accept the Big Bang. Others take Genesis literally."
+     "text": "The Torah is God's word and God created the world. Some read the six days literally; others read them as long periods and accept the Big Bang."
     },
     {
      "label": "Reform and Liberal Jewish",
-     "text": "Genesis is a symbolic story. God is the creator and science explains the process."
+     "text": "Genesis is an inspired, symbolic story. God is the creator and science explains the process."
     },
     {
-     "label": "Non-religious",
-     "text": "The Big Bang and natural laws explain the universe without the need for God, and religious accounts are myths."
+     "label": "Atheist and humanist",
+     "text": "The Big Bang and natural laws explain the universe without any need for God, and religious creation accounts are myths."
     }
    ],
    "terms": [
     {
      "term": "Big Bang theory",
-     "def": "the scientific theory that the universe began almost 14 billion years ago from a singularity and expanded"
+     "def": "the scientific theory that the universe began about 13.8 billion years ago from a singularity and has been expanding ever since"
     },
     {
      "term": "creation",
-     "def": "the religious belief that God made the universe"
+     "def": "the act of bringing something into being; the religious belief that God made the universe"
     },
     {
      "term": "creation ex nihilo",
@@ -79,11 +83,15 @@
     },
     {
      "term": "scientific",
-     "def": "based on observation and experiments"
+     "def": "based on observation, evidence and experiments"
     },
     {
      "term": "singularity",
      "def": "the tiny, hot, dense point from which the universe is thought to have begun"
+    },
+    {
+     "term": "red shift",
+     "def": "light from distant galaxies stretched towards red, showing they are moving away and the universe is expanding"
     }
    ],
    "sources": [
@@ -95,7 +103,7 @@
     {
      "text": "'And God said, Let there be light, and there was light.'",
      "ref": "Genesis 1:3",
-     "use": "Shows God's power: he created simply by speaking."
+     "use": "Shows God's power: he created simply by speaking. Some link 'light' with the Big Bang."
     },
     {
      "text": "'In the beginning was the Word... Through him all things were made.'",
@@ -106,70 +114,91 @@
      "text": "'God saw all that he had made, and it was very good.'",
      "ref": "Genesis 1:31",
      "use": "Use to show the world is valuable and created with purpose."
+    },
+    {
+     "text": "'By faith we understand that the universe was formed at God's command, so that what is seen was not made out of what was visible.'",
+     "ref": "Hebrews 11:3",
+     "use": "Supports creation ex nihilo (out of nothing)."
     }
    ],
-   "tip": "On 'religion versus science' questions never say all Christians reject the Big Bang. Show a range: literal Christians, then Catholics and liberal Christians who accept it."
+   "tip": "On 'religion versus science' questions never say all Christians reject the Big Bang. Show a range: creationists, then Catholics and liberal Christians who accept it (Lemaitre was a priest).",
+   "pitfalls": [
+    "Do not give the Big Bang as a 'religious belief' unless you explain how a religious person accepts it, for example as God's method.",
+    "Do not confuse the origins of the universe (Big Bang) with the origins of human life (evolution): answer the one asked.",
+    "Repeating the question is not an explanation: add a reason or example for the second mark."
+   ]
   },
   {
    "id": "tb-02",
    "code": "Rel & Life.2",
-   "title": "The value of the world",
-   "overview": "Christians and Jews believe the world is valuable because God made it, and this gives humans a duty to look after it. The key ideas are stewardship, dominion, responsibility, and awe and wonder.",
+   "title": "The value of the world and the duty to protect it",
+   "overview": "Christians and Jews believe the world is valuable because God made it, and this gives humans a duty to look after it. The key ideas named in the specification are stewardship, dominion, responsibility, and awe and wonder.",
    "notes": [
     {
      "h": "Why the world has value",
      "bullets": [
-      "Christians and Jews believe God created the world and it belongs to him: 'The earth is the Lord's, and everything in it' (Psalm 24:1). Humans do not own it.",
-      "The world is good (Genesis 1:31) and shows God's power and care. **Awe and wonder** at nature, like mountains and stars, leads many believers to praise God: 'The heavens declare the glory of God' (Psalm 19:1).",
-      "The world is also valuable because it supports all life, including future generations."
+      "Christians and Jews believe God created the world and it still belongs to him: 'The earth is the Lord's, and everything in it' (Psalm 24:1). Humans do not own it; they are trusted with it.",
+      "God saw that creation was 'very good' (Genesis 1:31), so it has value in itself, not just because it is useful to humans.",
+      "**Awe and wonder** is the feeling of amazement and respect at the beauty and scale of nature, such as mountains, oceans and the night sky. Many believers see God revealed in it: 'The heavens declare the glory of God' (Psalm 19:1), and Paul says God's power can be seen in what he made (Romans 1:20). Non-religious people also feel awe at nature, but explain it through science.",
+      "The world is also valuable because all life, including future generations, depends on it."
      ]
     },
     {
-     "h": "Stewardship and dominion",
+     "h": "Stewardship, dominion and responsibility",
      "bullets": [
-      "**Stewardship** is the duty given by God to look after the world and everything in it. Genesis 2:15 says God put Adam in the garden 'to work it and take care of it'. Humans are caretakers for God and will answer to him.",
-      "**Dominion** means humans have been given charge of the world (Genesis 1:26-28). Some believers say this gives humans the right to use the world as they wish, but most Christians and Jews say it means a duty to rule responsibly and kindly, like a good king.",
-      "Jews also teach **Tikkun Olam**, which means 'repairing the world', and **bal tashchit**, the ban on wasting or destroying (Deuteronomy 20:19-20)."
+      "**Stewardship** is the idea that believers have a duty from God to look after the world. God put Adam in Eden 'to work it and take care of it' (Genesis 2:15). A steward looks after something for its owner and will have to account for it, as in the Parable of the Talents (Matthew 25:14-30).",
+      "**Dominion** means dominance, power or control. God told humans to 'rule over' the fish, birds and animals (Genesis 1:26-28). In the past some used this to justify exploiting nature. Today most Christians and Jews say it means ruling like a good king: responsible, caring power, because humans are made in God's image.",
+      "**Responsibility** means having a duty to care for, or having control over, someone or something. Believers are responsible to God, to other people (especially the poor, who suffer most from environmental damage), and to future generations.",
+      "Jewish teachings: **Tikkun Olam** ('repairing the world'); **bal tashchit** ('do not destroy', based on Deuteronomy 20:19-20); the **Shmita** year, when the land rests every seventh year (Leviticus 25:4); and Tu BiShvat, the new year for trees. A Jewish story (Midrash Kohelet Rabbah 7:13) has God tell Adam, 'Do not ruin and destroy my world, for if you do, there is no one to repair it after you.'"
      ]
     },
     {
      "h": "Responsibility in practice",
      "bullets": [
-      "Believers show responsibility by recycling, saving energy, supporting charities such as CAFOD and Christian Aid, and joining campaigns such as the Church of England's Eco Church scheme.",
-      "Responsibility is also to future generations and to the poor, who often suffer most when the environment is damaged."
+      "Believers show stewardship by recycling, saving energy, cutting car journeys, planting trees and choosing ethical products. Churches join A Rocha UK's **Eco Church** scheme; the Church of England set a target of net zero carbon by 2030; Jewish communities run EcoJudaism projects.",
+      "Pope Francis wrote **Laudato Si'** (2015), on 'care for our common home', and Laudate Deum (2023), urging action on climate change.",
+      "**Non-religious views**: humanists say we have a duty to protect the world because it is the only home humans and other life have, and because future generations deserve a healthy planet. This duty comes from reason and compassion, not God."
      ]
     }
    ],
    "views": [
     {
-     "label": "Christian",
-     "text": "The world is God's creation, entrusted to humans. The duty is stewardship: to care for it and hand it on to future generations. Many Christians also stress dominion as responsible rule."
+     "label": "Stewardship view",
+     "text": "God has trusted the world to humans as caretakers. They must look after it and hand it on to future generations, and will answer to God for how they used it."
+    },
+    {
+     "label": "Exploitative dominion view",
+     "text": "A minority view: God gave humans power over nature for their own use, so humans may use the world's resources as they wish."
     },
     {
      "label": "Jewish",
-     "text": "The world belongs to God and humans are caretakers. Tikkun Olam, bal tashchit and the Sabbath rest for the land teach respect for creation."
+     "text": "The world belongs to God and humans are caretakers. Tikkun Olam, bal tashchit and rest for the land teach respect for creation."
     },
     {
-     "label": "Non-religious",
-     "text": "The world has value because humans and other life depend on it. The duty to protect it comes from reason, human welfare and future generations, not from God."
+     "label": "Humanist",
+     "text": "The world has value because humans and other life depend on it. The duty to protect it comes from reason, human welfare and concern for future generations, not from God."
     }
    ],
    "terms": [
     {
      "term": "stewardship",
-     "def": "the duty given by God to look after the world and all life in it"
+     "def": "the idea that believers have a duty from God to look after the world"
     },
     {
      "term": "dominion",
-     "def": "the belief that humans have been given charge of the world"
+     "def": "dominance, power or control; in Genesis, the power humans are given by God over the rest of creation"
     },
     {
-     "term": "awe and wonder",
-     "def": "a feeling of amazement at nature, often linked to a sense that God is revealed through it"
+     "term": "awe",
+     "def": "a feeling of respect mixed with amazement"
+    },
+    {
+     "term": "wonder",
+     "def": "marvelling at the complexity and beauty of the universe"
     },
     {
      "term": "responsibility",
-     "def": "having a duty to act in a certain way"
+     "def": "a duty to care for, or having control over, someone or something"
     },
     {
      "term": "Tikkun Olam",
@@ -192,71 +221,92 @@
      "use": "Main source for stewardship."
     },
     {
-     "text": "'Rule over the fish in the sea and the birds in the sky.'",
-     "ref": "Genesis 1:26",
-     "use": "Source for dominion. Explain that rule should be responsible."
+     "text": "'Rule over the fish in the sea and the birds in the sky and over every living creature.'",
+     "ref": "Genesis 1:28",
+     "use": "Source for dominion. Explain that most believers read 'rule' as responsible care."
     },
     {
      "text": "'The heavens declare the glory of God.'",
      "ref": "Psalm 19:1",
      "use": "Use for awe and wonder: nature shows God's greatness."
+    },
+    {
+     "text": "Do not ruin and destroy my world, for if you do, there is no one to repair it after you.",
+     "ref": "Midrash Kohelet Rabbah 7:13",
+     "use": "Jewish teaching that God gave humans responsibility for the world."
+    },
+    {
+     "text": "Pope Francis calls the earth 'our common home' and asks everyone to care for it.",
+     "ref": "Laudato Si' (2015)",
+     "use": "Modern Catholic teaching on stewardship and responsibility."
     }
    ],
-   "tip": "Be able to explain both stewardship and dominion and say how they differ. A strong answer says dominion should be understood as responsible care, not permission to exploit."
+   "tip": "Be able to explain stewardship and dominion and how they differ. A strong answer says dominion should be understood as responsible care, not permission to exploit.",
+   "pitfalls": [
+    "Always name your source: 'the Bible says' is not enough. Give Genesis 2:15 or Psalm 24:1 for the source mark.",
+    "For a 'duty to protect' question, explain why (God's ownership, future generations, the poor), not just what believers do.",
+    "Do not define dominion as 'looking after': it means power or control, which most believers say must be used responsibly."
+   ]
   },
   {
    "id": "tb-03",
    "code": "Rel & Life.3",
    "title": "The use and abuse of the environment",
-   "overview": "The environment gives humans natural resources, but misuse damages it. Christians and Jews teach that the duty of stewardship means using resources carefully for future generations.",
+   "overview": "The environment gives humans natural resources, but misuse damages it. Christians and Jews teach that stewardship means using resources carefully and fairly, for the poor and for future generations.",
    "notes": [
     {
      "h": "Use and abuse",
      "bullets": [
-      "**Natural resources** are materials found in nature, such as oil, coal, gas, water, trees and minerals. Using them carefully is a **use** of the environment. Wasting, polluting or destroying them is **abuse**.",
-      "Pressures on the environment include population growth, deforestation, over-use of fossil fuels, and climate change from greenhouse gases, which cause floods, droughts and rising seas.",
-      "**Sustainable development** means meeting today's needs without damaging the ability of future generations to meet theirs."
+      "**Natural resources** are materials found in nature that can be used by living things, such as oil, coal, gas, water, trees, soil and minerals. Some are **non-renewable** (fossil fuels will run out) and some are **renewable** (wind, solar, wave power).",
+      "Abuse of the environment includes deforestation (for example in the Amazon), over-fishing, wasting water, using up fossil fuels and producing greenhouse gases that cause **climate change**: hotter summers, floods, droughts and rising seas.",
+      "Causes include a growing world population (over 8 billion), rising consumption in richer countries and a 'throwaway' culture.",
+      "**Sustainable development** means meeting today's needs without damaging the ability of future generations to meet theirs. The Paris Agreement (2015) aims to limit global warming to well below 2 degrees Celsius; the UK has a legal target of net zero emissions by 2050."
      ]
     },
     {
-     "h": "Religious teachings and action",
+     "h": "Religious teachings",
      "bullets": [
-      "Christians and Jews teach the earth belongs to God (Psalm 24:1), so humans must not abuse it. Leviticus 25:23 describes the land as God's, with humans as tenants.",
-      "The Parable of the Talents (Matthew 25:14-30) is used to teach that God has entrusted humans with the world and expects them to use it wisely.",
-      "Pope Francis wrote the 2015 letter Laudato Si', on caring for 'our common home', which urges people to cut waste and pollution. St Francis of Assisi is the patron saint of ecology, and the Assisi gatherings brought together world faiths to promote conservation.",
-      "Jews also follow Tikkun Olam, bal tashchit and festivals such as Tu BiShvat (new year of the trees) when trees are planted."
+      "Christians and Jews teach the earth belongs to God (Psalm 24:1) and humans are like tenants: 'the land is mine and you reside in my land as foreigners and strangers' (Leviticus 25:23). So humans must use resources carefully and not waste them.",
+      "The Parable of the Talents (Matthew 25:14-30) teaches that God will judge how humans have used what he trusted to them.",
+      "Abusing the environment hurts the poor most, so it breaks Jesus' command to love your neighbour (Matthew 22:39) and to care for 'the least of these' (Matthew 25:40).",
+      "Pope Francis's Laudato Si' (2015) says the climate is 'a common good' and calls for 'ecological conversion'. St Francis of Assisi is the patron saint of ecology. In 1986 leaders of world faiths met at Assisi and made declarations on caring for nature.",
+      "Jewish teaching: bal tashchit (Deuteronomy 20:19-20) forbids needless destruction; Tikkun Olam calls Jews to repair the world; the Shmita year lets the land rest."
      ]
     },
     {
-     "h": "What believers do",
+     "h": "What believers and others do",
      "bullets": [
-      "Believers can recycle, save energy, travel less by car, plant trees, buy fair-trade and eco-friendly goods, and join groups such as Eco Church, A Rocha, CAFOD and Christian Aid.",
-      "Some believers argue that because Jesus said the poor are to be cared for, damaging the environment, which harms the poor most, is against his teaching (Matthew 25:40)."
+      "Believers can recycle, save energy and water, travel less by car or plane, plant trees, buy local, fair-trade and sustainable goods, and join or support groups such as Eco Church, A Rocha, CAFOD, Christian Aid, Tearfund and EcoJudaism.",
+      "**Non-religious views**: humanists and atheists support protecting the environment for human survival and wellbeing and for other species, based on scientific evidence. A utilitarian would say damaging the environment causes huge suffering for the greatest number, now and in future."
      ]
     }
    ],
    "views": [
     {
-     "label": "Christian",
-     "text": "Humans are stewards of God's creation, so abuse of the environment is wrong. Many stress that it also harms the poor and future generations. A few say dominion allows humans to use the earth as they wish, but this is a minority view."
+     "label": "Christian stewardship",
+     "text": "Humans are caretakers of God's creation, so abusing it is a sin against God, the poor and future generations. Believers should live simply and campaign for change."
+    },
+    {
+     "label": "Exploitative dominion",
+     "text": "A minority view: God gave humans the earth to use, and God will provide or renew it, so human needs come first."
     },
     {
      "label": "Jewish",
-     "text": "The world belongs to God. Tikkun Olam and bal tashchit teach that humans must repair the world and avoid waste."
+     "text": "The land belongs to God and humans are tenants. Bal tashchit and Tikkun Olam forbid waste and call for repair of the world."
     },
     {
-     "label": "Non-religious",
-     "text": "Environmental protection is needed for human survival and welfare, based on science and concern for future generations."
+     "label": "Humanist",
+     "text": "Environmental protection is needed for human survival, the welfare of other species and future generations, based on science and reason."
     }
    ],
    "terms": [
     {
      "term": "environment",
-     "def": "the world around us, natural or artificial"
+     "def": "the natural world; the surroundings in which plants and animals live"
     },
     {
      "term": "natural resources",
-     "def": "materials from nature such as oil, coal, water and trees"
+     "def": "materials found in nature, such as oil, coal, water and trees, that can be used by living things"
     },
     {
      "term": "sustainable development",
@@ -268,11 +318,15 @@
     },
     {
      "term": "fossil fuels",
-     "def": "coal, oil and gas, which are non-renewable and release greenhouse gases"
+     "def": "coal, oil and gas, which are non-renewable and release greenhouse gases when burnt"
     },
     {
      "term": "climate change",
      "def": "long-term change in the world's weather patterns, linked to greenhouse gases"
+    },
+    {
+     "term": "renewable energy",
+     "def": "energy from sources that do not run out, such as wind, solar and wave power"
     }
    ],
    "sources": [
@@ -287,69 +341,92 @@
      "use": "Humans are tenants, not owners. Use for Jewish and Christian duty to care."
     },
     {
-     "text": "The Parable of the Talents: servants must use what they are given wisely.",
+     "text": "The Parable of the Talents: servants must use what they are given wisely and will be called to account.",
      "ref": "Matthew 25:14-30",
      "use": "Use to explain that humans will be judged on how they use the world."
     },
     {
      "text": "'When you lay siege to a city... do not destroy its trees.'",
      "ref": "Deuteronomy 20:19",
-     "use": "Source for the Jewish teaching bal tashchit, not to waste."
+     "use": "Source for the Jewish teaching bal tashchit, not to waste or destroy."
+    },
+    {
+     "text": "The climate is a common good, belonging to all and meant for all.",
+     "ref": "Laudato Si' 23 (Pope Francis, 2015)",
+     "use": "Modern Catholic teaching that protecting the environment is a shared duty."
     }
    ],
-   "tip": "Link a religious teaching to an example of action, for example 'so a Christian might join Eco Church and reduce energy use'."
+   "tip": "Link a religious teaching to an example of action, for example 'so a Christian might join Eco Church and switch to renewable energy'.",
+   "pitfalls": [
+    "Use specific examples of abuse (deforestation, fossil fuels, over-fishing), not just 'damaging the planet'.",
+    "Apply generic teachings: after 'God made the world', say what that means for using resources.",
+    "Do not mix up the environment topic with pollution answers if the question asks specifically about natural resources."
+   ]
   },
   {
    "id": "tb-04",
    "code": "Rel & Life.4 and 5 (pollution)",
    "title": "Pollution",
-   "overview": "Pollution damages God's creation and harms people, animals and plants. Religious believers use stewardship and love of neighbour to argue that polluting is wrong.",
+   "overview": "Pollution damages God's creation and harms people, animals and plants. Religious believers use stewardship and love of neighbour to argue that pollution is wrong, and take practical action to reduce it.",
    "notes": [
     {
      "h": "Types and causes of pollution",
      "bullets": [
-      "**Pollution** is contamination of the environment with harmful substances. Air pollution comes from fumes from vehicles and factories and can cause asthma and climate change. Water pollution comes from oil spills, chemicals and waste, harming marine life. Land pollution comes from rubbish and chemicals.",
-      "Pollution grows as the population grows and technology develops. Examples include the Deepwater Horizon oil spill (2010) and plastic in the oceans."
+      "**Pollution** is making something dirty and contaminated, especially the environment.",
+      "**Air pollution**: fumes from vehicles, power stations and factories. It causes asthma and lung disease (linked to tens of thousands of early deaths a year in the UK) and greenhouse gases add to climate change.",
+      "**Water pollution**: oil spills (for example Deepwater Horizon, 2010), sewage, factory chemicals and farm fertilisers. Sewage discharges into UK rivers and seas have been a major news issue in the 2020s.",
+      "**Land pollution**: rubbish and landfill, toxic waste and pesticides. **Plastic pollution** affects land and sea: plastic breaks into microplastics that enter food chains.",
+      "Other types include noise and light pollution, and radioactive waste."
      ]
     },
     {
      "h": "Religious teachings",
      "bullets": [
-      "Christians and Jews say polluting goes against stewardship, as the world is on loan from God and must be passed on in good condition (Psalm 24:1).",
-      "Pollution harms others, especially the poor and future generations, which goes against 'love your neighbour' (Matthew 22:39).",
-      "Pope Francis's Laudato Si' (2015) criticises waste and pollution and says the world is beginning to look like 'an immense pile of filth'. Jews also teach bal tashchit, not to waste or destroy."
+      "Pollution goes against **stewardship**: the world is on loan from God (Psalm 24:1, Genesis 2:15) and should be handed on in good condition.",
+      "Pollution harms other people, especially the poor and future generations, which goes against 'love your neighbour as yourself' (Matthew 22:39).",
+      "Pope Francis in Laudato Si' (2015) warned that the earth is beginning to look like 'an immense pile of filth' and criticised a 'throwaway culture'.",
+      "Jewish teaching: bal tashchit forbids needless destruction; Tikkun Olam calls Jews to repair the world; and the Torah's laws about keeping the camp clean (Deuteronomy 23:12-13) show care for the shared environment."
      ]
     },
     {
-     "h": "Responses",
+     "h": "Ways to reduce pollution",
      "bullets": [
-      "Believers can use public transport, cut waste, avoid single-use plastic, and campaign or donate through groups such as Christian Aid, CAFOD, A Rocha and Eco Church.",
-      "Governments sign agreements such as the Paris Agreement (2015) to reduce emissions."
+      "Personal: use public transport, walk or cycle, cut single-use plastic, recycle and reuse, save energy, pick up litter.",
+      "Community and political: churches and synagogues install solar panels, join Eco Church, hold litter picks, and campaign through Christian Aid, Tearfund, CAFOD and Operation Noah. Governments make laws and treaties, such as the UK Climate Change Act 2008, the 5p plastic bag charge (2015, now 10p) and the Paris Agreement (2015).",
+      "**Non-religious views**: humanists support reducing pollution to protect human health and other species, using scientific evidence; a utilitarian focuses on the harm pollution does to the greatest number."
      ]
     }
    ],
    "views": [
     {
      "label": "Christian",
-     "text": "Pollution is a failure of stewardship and harms the neighbours God asks us to love. Christians should reduce their own pollution and campaign for change."
+     "text": "Pollution is a failure of stewardship and harms the neighbours God asks us to love. Believers should reduce their own pollution and campaign for change."
     },
     {
      "label": "Jewish",
-     "text": "Pollution damages God's world and breaks bal tashchit. Jews are expected to repair the world through Tikkun Olam."
+     "text": "Pollution damages God's world and breaks bal tashchit. Jews are called to repair the world through Tikkun Olam."
     },
     {
-     "label": "Non-religious",
-     "text": "Pollution harms health and ecosystems, and should be reduced to protect people and future generations."
+     "label": "Humanist",
+     "text": "Pollution harms health and ecosystems, and should be reduced to protect people, other species and future generations, based on scientific evidence."
     }
    ],
    "terms": [
     {
      "term": "pollution",
-     "def": "contamination of an environment with harmful substances"
+     "def": "making something dirty and contaminated, especially the environment"
     },
     {
      "term": "air pollution",
      "def": "harmful gases and particles in the air, for example from vehicle fumes"
+    },
+    {
+     "term": "water pollution",
+     "def": "harmful substances such as sewage, oil or chemicals in rivers, lakes and seas"
+    },
+    {
+     "term": "plastic pollution",
+     "def": "plastic waste building up on land and in the sea, harming wildlife"
     },
     {
      "term": "climate change",
@@ -358,10 +435,6 @@
     {
      "term": "recycling",
      "def": "processing waste to make new products"
-    },
-    {
-     "term": "renewable energy",
-     "def": "energy from sources that do not run out, such as wind and solar"
     }
    ],
    "sources": [
@@ -376,69 +449,90 @@
      "use": "Pollution harms other people, so polluting is unloving."
     },
     {
-     "text": "Pope Francis: 'Care for our common home'.",
-     "ref": "Laudato Si' (2015)",
+     "text": "The earth is beginning to look more and more like 'an immense pile of filth'.",
+     "ref": "Laudato Si' 21 (Pope Francis, 2015)",
      "use": "A modern Catholic source on waste and pollution."
     },
     {
-     "text": "The Parable of the Talents.",
-     "ref": "Matthew 25:14-30",
-     "use": "Humans are responsible for what God has entrusted to them."
+     "text": "'The Lord God took the man and put him in the Garden of Eden to work it and take care of it.'",
+     "ref": "Genesis 2:15",
+     "use": "Stewardship: humans must keep the world healthy, not poison it."
+    },
+    {
+     "text": "'When you lay siege to a city... do not destroy its trees.'",
+     "ref": "Deuteronomy 20:19",
+     "use": "Basis of bal tashchit: Jews must not needlessly destroy or spoil the world."
     }
    ],
-   "tip": "Name a type of pollution and its effect first, then the teaching, then a believer's action. This gives a clear chain of reasoning."
+   "tip": "Name a type of pollution and its effect first, then the teaching, then a believer's action. This gives a clear chain of reasoning.",
+   "pitfalls": [
+    "For 'ways to reduce pollution' questions give actions (cycle, recycle, cut plastic), not teachings about stewardship.",
+    "For 'why reduce pollution' questions, apply the teaching to pollution: do not stop at 'God made the world'.",
+    "Give the source name for quotations, for example Psalm 24:1, to gain the source mark."
+   ]
   },
   {
    "id": "tb-05",
    "code": "Rel & Life.4 and 5 (animals)",
    "title": "The use and abuse of animals",
-   "overview": "Christians and Jews believe animals are God's creatures and should be treated with kindness, but most also believe humans matter more. Expect questions on animal experimentation and eating animals.",
+   "overview": "Christians and Jews believe animals are God's creatures and must be treated kindly, but most also believe humans matter more. Animal experimentation is one of the three Theme B issues where you must explain contrasting beliefs. You also need the use of animals for food.",
    "notes": [
     {
-     "h": "Value of animals",
+     "h": "The value of animals",
      "bullets": [
-      "Christians and Jews believe God created animals and called them good (Genesis 1:25). Jesus said God cares for sparrows (Luke 12:6), and Proverbs 12:10 says 'the righteous care for the needs of their animals'.",
-      "Humans are made in God's image and have dominion, so most believe human life matters more. Animals may be used, but never cruelly. Jews call the rule not to cause pain to living creatures **tza'ar ba'alei chayim**."
+      "God created animals and saw that they were good (Genesis 1:25). Jesus said not one sparrow is forgotten by God (Luke 12:6), and 'the righteous care for the needs of their animals' (Proverbs 12:10). The Sabbath rest includes animals (Exodus 23:12).",
+      "Humans are made in God's image and given dominion (Genesis 1:26), so most Christians and Jews believe human life is of greater value and humans may use animals, but never cruelly. The Catholic Catechism says animals are God's creatures and it is wrong to cause them to suffer or die needlessly (CCC 2418).",
+      "Jewish law forbids causing unnecessary pain to animals (**tza'ar ba'alei chayim**). Examples: 'Do not muzzle an ox while it is treading out the grain' (Deuteronomy 25:4), and animals must be fed before their owners eat.",
+      "The RSPCA was founded in 1824 by a group including an Anglican priest, Arthur Broome. UK law: the Animal Welfare Act 2006 makes cruelty and neglect illegal."
      ]
     },
     {
-     "h": "Animal experimentation",
+     "h": "Animal experimentation: the law",
      "bullets": [
-      "**Animal experimentation** is using animals for medical research and testing products. In the UK it needs a licence and must follow the '3Rs': replace animals, reduce numbers, refine methods. Testing cosmetics on animals is banned in the UK.",
-      "Many Christians and Jews accept it if it saves human lives and animals do not suffer needlessly. The Catholic Catechism says such experiments are acceptable within reasonable limits if they help to care for human life.",
-      "Others say it is cruel and animals have rights, and that alternatives, such as computer models, exist. Some Christians, such as Andrew Linzey, argue that animals have God-given worth."
+      "**Animal experimentation** means performing scientific tests on animals, usually to develop medicines or check the safety of products. In Great Britain it is controlled by the Animals (Scientific Procedures) Act 1986: researchers need licences and must follow the **3Rs**: replace animals where possible, reduce the numbers used, refine methods to reduce suffering.",
+      "Testing cosmetics and their ingredients on animals has been banned in the UK since 1998. In 2025 there were about 2.54 million procedures in Great Britain, the lowest since the 1986 Act, mostly on mice (Home Office). In November 2025 the government published a strategy to speed up replacing animals in science."
      ]
     },
     {
-     "h": "Eating animals",
+     "h": "Animal experimentation: contrasting beliefs",
      "bullets": [
-      "Genesis 1:29 gives humans plants to eat, but after the flood God says 'Everything that lives and moves about will be food for you' (Genesis 9:3). Most Christians eat meat, though some choose to be vegetarian out of concern for animal welfare.",
-      "Jews may eat meat only if the animal is kosher and killed by the method called shechita, which is meant to be quick and humane. Jews cannot eat pork or shellfish and cannot eat meat with milk, and hunting for sport is discouraged."
+      "**For (Catholic Church and many Christians)**: 'Medical and scientific experimentation on animals is a morally acceptable practice if it remains within reasonable limits and contributes to caring for or saving human lives' (CCC 2417). Humans are made in God's image, so saving human life justifies it, if suffering is minimised. Many medicines and vaccines were developed with animal research.",
+      "**For (Judaism)**: Orthodox Judaism generally allows experiments that are genuinely needed to save human life (pikuach nefesh), as humans may use animals for their needs, provided pain is kept to a minimum (tza'ar ba'alei chayim).",
+      "**Against (some Christians, especially those concerned with animal welfare)**: animals have value to God, so causing them suffering for human benefit is cruel and abuses dominion. The Anglican theologian Andrew Linzey argues animals have God-given rights. Alternatives such as computer models and lab-grown cells now exist.",
+      "**Non-religious views**: some atheists and humanists support research that is necessary for medicine with strict welfare rules. Others, such as the philosopher Peter Singer, say favouring humans just because they are human is 'speciesism' and that the suffering of animals counts equally. Animal rights groups argue animal results do not always apply to humans."
+     ]
+    },
+    {
+     "h": "The use of animals for food",
+     "bullets": [
+      "Genesis 1:29 gives humans plants to eat, but after the flood God says 'Everything that lives and moves about will be food for you' (Genesis 9:3). Most Christians eat meat; Peter's vision (Acts 10) is often used to show all foods are allowed. Some Christians, for example many Seventh-day Adventists, are vegetarian out of concern for health and animals.",
+      "Jews may eat meat only if it is **kosher**: from permitted animals (no pork or shellfish), killed by **shechita** (a single quick cut by a trained shochet to minimise pain), with the blood removed, and never mixed with milk. Hunting for sport is discouraged.",
+      "Concerns for many believers and non-believers: factory farming, which crowds animals and limits natural behaviour; environmental damage from meat production. Many choose free-range, organic, vegetarian or vegan diets. Humanists generally judge by the amount of suffering caused."
      ]
     }
    ],
    "views": [
     {
-     "label": "Christian (most)",
-     "text": "Animals are God's creatures to be treated with care. Humans can use animals for food and medical research if suffering is kept to a minimum."
+     "label": "Catholic",
+     "text": "Animals are God's creatures and needless cruelty is wrong, but humans may use them for food, and experiments are acceptable within reasonable limits if they help to save human lives (CCC 2417)."
     },
     {
-     "label": "Christian (vegetarian or animal welfare)",
-     "text": "Animals have value to God, and unnecessary suffering is wrong. Some Christians choose to be vegetarian or oppose animal testing."
+     "label": "Welfare-focused Christian",
+     "text": "Animals have value to God and are not simply for human use. Causing them suffering in experiments or factory farming abuses dominion; some choose to be vegetarian."
     },
     {
-     "label": "Jewish",
-     "text": "Humans may use animals, but must avoid cruelty (tza'ar ba'alei chayim). Experiments are allowed to save human life if suffering is minimised. Eating meat is allowed if kosher."
+     "label": "Orthodox Jewish",
+     "text": "Humans may use animals for food and for experiments that save human life, but must avoid all unnecessary pain (tza'ar ba'alei chayim). Meat must be kosher and killed by shechita."
     },
     {
-     "label": "Non-religious",
-     "text": "Some think animal testing is justified for medicine, while others (such as animal rights supporters) say it is wrong to cause animals pain, or that animals have rights."
+     "label": "Humanist",
+     "text": "Animals can suffer, so their suffering must be weighed seriously. Many accept necessary medical research under strict rules; some, like Peter Singer, call favouring humans 'speciesism'."
     }
    ],
    "terms": [
     {
      "term": "animal experimentation",
-     "def": "using animals for medical research and product testing"
+     "def": "performing scientific tests on animals, usually to develop medicines or check the safety of products"
     },
     {
      "term": "vegetarian",
@@ -454,11 +548,19 @@
     },
     {
      "term": "shechita",
-     "def": "the Jewish method of slaughtering animals for food"
+     "def": "the Jewish method of slaughtering animals for food with a single quick cut"
     },
     {
      "term": "tza'ar ba'alei chayim",
-     "def": "the Jewish teaching not to cause pain to animals"
+     "def": "the Jewish teaching not to cause unnecessary pain to animals"
+    },
+    {
+     "term": "3Rs",
+     "def": "the UK rules for animal research: replace, reduce and refine"
+    },
+    {
+     "term": "speciesism",
+     "def": "treating one species (usually humans) as more important simply because of its species"
     }
    ],
    "sources": [
@@ -483,72 +585,85 @@
      "use": "Jesus shows that God cares about every creature."
     },
     {
-     "text": "Catechism of the Catholic Church: animals may be used for medical research if it is reasonable and helps human lives, but needless suffering is wrong.",
-     "ref": "Catechism of the Catholic Church (CCC 2417-2418)",
-     "use": "Source for the Catholic view on experimentation."
+     "text": "Experiments on animals are morally acceptable within reasonable limits if they help to care for or save human lives.",
+     "ref": "Catechism of the Catholic Church 2417",
+     "use": "Source for the Catholic view that some animal experimentation is acceptable."
+    },
+    {
+     "text": "'Do not muzzle an ox while it is treading out the grain.'",
+     "ref": "Deuteronomy 25:4",
+     "use": "Jewish example of tza'ar ba'alei chayim: animals' needs and feelings matter."
     }
    ],
-   "tip": "AQA lists animal experimentation as one of three issues needing contrasting views. Give a 'for' view (saves human lives) and an 'against' view (animals suffer and have value to God)."
+   "tip": "Animal experimentation is a 'contrasting beliefs' issue. Have a 'for' view (Catholic CCC 2417: saves human lives) and an 'against' view (animals are valued by God and suffer, Proverbs 12:10), with a Jewish view as your other tradition.",
+   "pitfalls": [
+    "Read whether the question asks for reasons for or against experimentation. Points for the wrong side get no credit.",
+    "'You shall not murder' and the Christian sanctity of life apply to humans, not animals. Use Proverbs 12:10 or Genesis 1:25 instead.",
+    "Apply general teachings such as stewardship to animal testing specifically, for example 'so causing pain in tests fails God's trust'."
+   ]
   },
   {
    "id": "tb-06",
    "code": "Rel & Life.6",
    "title": "The origins of human life",
-   "overview": "Christians and Jews believe God made humans, while science explains them through evolution. Questions ask how believers interpret Genesis and respond to Darwin.",
+   "overview": "Christians and Jews believe God made humans in his image, while science explains human origins through evolution. You need religious teachings, different interpretations of them, and how believers relate them to evolution.",
    "notes": [
     {
      "h": "Religious teachings",
      "bullets": [
-      "Genesis 1:27 says God created humans in his own image, on the sixth day. Genesis 2:7 says God formed Adam from the dust and 'breathed into his nostrils the breath of life'. Eve is formed from Adam's rib (Genesis 2:21-22).",
-      "Humans are special because they are made in the image of God (the **imago Dei**), have souls and are given responsibility for creation. This gives human life a value that animals do not have."
+      "Genesis 1 says God created humans on the sixth day, 'in his own image... male and female' (Genesis 1:27), and gave them responsibility for the rest of creation.",
+      "Genesis 2 says God formed Adam from the dust of the ground and 'breathed into his nostrils the breath of life' (Genesis 2:7), then made Eve from Adam's rib. The breath of God is often understood as the soul.",
+      "Humans are special because they are made in the **image of God** (imago Dei): they can think, love, make moral choices and have a relationship with God. Christians and Jews believe this gives every human life a unique value (the basis of the sanctity of life)."
      ]
     },
     {
      "h": "Evolution",
      "bullets": [
-      "**Evolution** is the scientific theory that living things developed over millions of years from simple forms through **natural selection**: creatures best suited to their environment survive and pass on their genes. Charles Darwin set this out in On the Origin of Species (1859).",
-      "It suggests humans developed from earlier species and were not created separately, which seems to conflict with a literal reading of Genesis."
+      "**Evolution** is the scientific theory that living things have developed over millions of years from simpler forms. The process is **natural selection**: living things with features that help them survive in their environment are more likely to reproduce and pass those features on. Charles Darwin set this out in On the Origin of Species (1859).",
+      "Evidence includes fossils, similarities in anatomy, and DNA, which shows humans share common ancestors with apes. Modern humans (Homo sapiens) appeared in Africa roughly 300,000 years ago.",
+      "Evolution suggests humans developed gradually rather than being made separately, which seems to conflict with a literal reading of Genesis."
      ]
     },
     {
-     "h": "Religious responses",
+     "h": "Different interpretations and religious responses",
      "bullets": [
-      "Some Christians (creationists) and some Orthodox Jews take Genesis literally and reject evolution, or believe in intelligent design, the idea that life is too complex to have happened by chance.",
-      "Many Christians and Jews accept evolution as God's way of creating life, and read Genesis as symbolic: Genesis explains why God made humans and science explains how. The Catholic Church accepts evolution as long as God is seen as the creator of the soul.",
-      "Non-religious people such as atheists and humanists accept evolution and see no need for God to explain human life."
+      "**Creationists** (some Evangelical Christians and some Orthodox Jews) take Genesis literally and reject evolution, especially for humans. Some support **intelligent design**: the idea that living things are too complex to have developed by chance, so a designer must be responsible.",
+      "**Theistic evolution**: most Christians and many Jews accept evolution as God's way of creating life. Genesis is a symbolic story explaining why humans exist and that they are special to God; science explains how.",
+      "The **Catholic Church** allows belief in evolution of the body (Pope Pius XII, 1950), and Pope John Paul II said in 1996 that evolution is 'more than a hypothesis'. But it teaches that each human soul is created directly by God.",
+      "**Atheists and humanists** accept evolution as a complete natural explanation, with no need for God; Richard Dawkins argues natural selection explains the appearance of design. Humanists still value human life highly, because of what humans can think, feel and achieve."
      ]
     }
    ],
    "views": [
     {
-     "label": "Literal Christian (creationist)",
-     "text": "Genesis is the word of God, so humans were created by God as Adam and Eve and did not evolve."
+     "label": "Creationist Christian",
+     "text": "Genesis is the word of God and literally true, so God made Adam and Eve directly and humans did not evolve from other species."
     },
     {
-     "label": "Catholic and liberal Christian",
-     "text": "God created life through evolution. Genesis is a symbolic story that teaches that God made humans in his image and gave them souls."
+     "label": "Catholic",
+     "text": "God may have used evolution to form the human body, but each soul is created directly by God. Genesis teaches spiritual truths, not science."
     },
     {
      "label": "Orthodox Jewish",
-     "text": "God created humans, as the Torah teaches. Some reject evolution; others accept it as God's method."
+     "text": "God created humans, as the Torah teaches. Some reject evolution; others accept it as the method God used."
     },
     {
      "label": "Reform and Liberal Jewish",
-     "text": "Genesis is symbolic, and evolution is God's way of bringing about life."
+     "text": "Genesis is symbolic, and evolution is God's way of bringing about life. Its message is that every human is made in God's image."
     },
     {
-     "label": "Non-religious",
-     "text": "Evolution by natural selection explains how humans developed, so no creator is needed."
+     "label": "Atheist and humanist",
+     "text": "Evolution by natural selection fully explains how humans developed, so no creator is needed. Human value comes from human abilities and relationships."
     }
    ],
    "terms": [
     {
      "term": "evolution",
-     "def": "the scientific theory that species develop over time through natural selection"
+     "def": "the scientific theory that living things have developed over millions of years from simpler forms"
     },
     {
      "term": "natural selection",
-     "def": "the process in which creatures best suited to their environment survive and reproduce"
+     "def": "the process by which living things with features suited to their environment survive and pass those features on"
     },
     {
      "term": "image of God",
@@ -556,11 +671,15 @@
     },
     {
      "term": "creationism",
-     "def": "the belief that God created life as described in Genesis"
+     "def": "the belief that God created life as described in Genesis, taken literally"
     },
     {
      "term": "intelligent design",
      "def": "the belief that life is too complex to have happened by chance, so a designer must exist"
+    },
+    {
+     "term": "theistic evolution",
+     "def": "the belief that God created life through the process of evolution"
     }
    ],
    "sources": [
@@ -578,62 +697,90 @@
      "text": "'You created my inmost being; you knit me together in my mother's womb.'",
      "ref": "Psalm 139:13",
      "use": "Shows God is involved in every human life."
+    },
+    {
+     "text": "'What is mankind that you are mindful of them?... You made them rulers over the works of your hands.'",
+     "ref": "Psalm 8:4-6",
+     "use": "Humans have a special place and responsibility in creation."
     }
    ],
-   "tip": "Explain evolution as 'how' and religion as 'why'. This sentence is a common way for a student to show a Christian can accept science."
+   "tip": "Explain evolution as 'how' and religion as 'why'. Then show the range: creationists reject evolution, Catholics and liberal believers accept it with God as creator, atheists see no need for God.",
+   "pitfalls": [
+    "Focus on the origins of human life. Answers about the Big Bang or the universe are only partly relevant (examiners noted this in 2024).",
+    "If the question asks for religious beliefs, do not give evolution as an atheist view: explain how a religious believer responds to it.",
+    "Do not write 'Christians reject evolution': most denominations accept it."
+   ]
   },
   {
    "id": "tb-07",
    "code": "AQA spec B8 (not separately listed by the school)",
-   "title": "The sanctity and quality of life",
-   "overview": "AQA expects you to understand the sanctity of life (life is sacred) and the quality of life (how good life is). These two ideas are the basis for every abortion and euthanasia question.",
+   "title": "The sanctity of life and the quality of life",
+   "overview": "The sanctity of life (life is sacred) and the quality of life (how good a life is) are the two key concepts behind abortion and euthanasia. The specification names arguments based on both.",
    "notes": [
     {
      "h": "Sanctity of life",
      "bullets": [
-      "**Sanctity of life** is the belief that life is holy and special because it is created by God. Humans are made in God's image (Genesis 1:27), and God gives life and only God should take it.",
-      "Christians use 'You shall not murder' (Exodus 20:13) and 1 Corinthians 6:19, which says our bodies are temples of the Holy Spirit. Catholics teach that all human life from conception is sacred.",
-      "Judaism has the same belief. The principle of **pikuach nefesh** says saving a life overrides almost all other Jewish laws, including Sabbath rules."
+      "**Sanctity of life** is the belief that all life is holy because it is created by God and belongs to him. Humans are made in God's image (Genesis 1:27) and receive the breath of life from God (Genesis 2:7).",
+      "Because life is God's gift, only God has the right to end it: 'The Lord gave and the Lord has taken away' (Job 1:21). 'You shall not murder' (Exodus 20:13). Paul says 'your bodies are temples of the Holy Spirit... You are not your own' (1 Corinthians 6:19-20).",
+      "Catholics teach that every human life is sacred from conception to natural death, whatever its condition. Judaism teaches that one life has infinite value: whoever saves a single life is as if they saved an entire world (Mishnah Sanhedrin 4:5). The principle of **pikuach nefesh** means saving life overrides almost all other commandments, such as Shabbat rules.",
+      "Some non-religious people also hold a non-religious version: human life is special and should be protected, even if they do not believe it is God-given."
      ]
     },
     {
      "h": "Quality of life",
      "bullets": [
-      "**Quality of life** means the standard of health, comfort and happiness a person has. Some people argue that a life of constant pain or suffering has a low quality, and it may be kinder to allow death or allow an abortion in some cases.",
-      "Many Christians, such as those who follow the Catholic Church, say the sanctity of life is more important than quality, because every life has value to God whatever its condition. Other Christians say compassion means that quality of life matters too, and that God would not want people to suffer needlessly."
+      "**Quality of life** is the general wellbeing of a person, in relation to their health and happiness; also the theory that the value of life depends on how good or how satisfying it is.",
+      "Supporters say that if a life is full of severe pain and suffering with no hope of improvement, ending it, or not starting it, may be the most loving choice. Doctors also use quality of life when deciding whether treatment is worth giving.",
+      "**Situation ethics** (Joseph Fletcher, 1966) says Christians should do the most loving thing (agape) in each situation rather than follow fixed rules, so quality of life can matter more than a rule against killing. A **utilitarian** (principle of utility: the greatest good for the greatest number) weighs the happiness and suffering of everyone affected. The philosopher Peter Singer argues the value of a life depends on its quality and the person's interests."
+     ]
+    },
+    {
+     "h": "How the two ideas clash",
+     "bullets": [
+      "Strict sanctity of life: life must never be deliberately ended, whatever its quality. Catholics and Orthodox Jews mostly hold this, while still allowing pain relief and stopping burdensome treatment.",
+      "Weighted view: life is sacred, but compassion and quality of life can sometimes justify exceptions, for example abortion to save a mother, or allowing a dying person to refuse treatment. Many Protestants and Reform Jews hold this.",
+      "Critics of the quality of life view worry it could suggest some lives, such as those of disabled people, are worth less. Critics of strict sanctity say it can force people to suffer."
      ]
     }
    ],
    "views": [
     {
      "label": "Catholic",
-     "text": "Life is a gift from God. Its sanctity does not depend on its quality, so abortion and euthanasia are wrong."
+     "text": "Life is a gift from God, sacred from conception to natural death. Its value does not depend on its quality, so deliberately ending innocent life is always wrong."
     },
     {
-     "label": "Other Christians",
-     "text": "Life is sacred, but compassion and quality of life can sometimes be weighed against it, especially to prevent suffering."
+     "label": "Liberal Christian",
+     "text": "Life is sacred, but compassion and quality of life can sometimes be weighed against it, especially to prevent great suffering. Love (agape) should guide each case."
     },
     {
-     "label": "Jewish",
-     "text": "Life is sacred (pikuach nefesh). Saving life takes priority over almost every other rule. Quality of life is also considered, but actively ending life is not permitted."
+     "label": "Orthodox Jewish",
+     "text": "Every life has infinite value and saving life overrides almost every other law (pikuach nefesh). Life may not be actively shortened, even when its quality is poor."
     },
     {
-     "label": "Non-religious",
-     "text": "Many value human life but say quality of life is just as important, and people should have the right to decide about their own lives."
+     "label": "Humanist",
+     "text": "Human life is valuable because of what people can experience and do, not because God gave it. Quality of life and a person's own wishes matter greatly."
     }
    ],
    "terms": [
     {
      "term": "sanctity of life",
-     "def": "the belief that life is sacred because it is created by God"
+     "def": "the belief that all life is holy because it is created by God and belongs to him"
     },
     {
      "term": "quality of life",
-     "def": "the standard of health, comfort and happiness a person experiences"
+     "def": "the general wellbeing of a person in relation to their health and happiness; also the theory that the value of life depends on how good it is"
     },
     {
      "term": "pikuach nefesh",
      "def": "the Jewish principle that saving life overrides almost all other laws"
+    },
+    {
+     "term": "situation ethics",
+     "def": "the idea that Christians should do the most loving thing (agape) in each situation rather than follow fixed rules"
+    },
+    {
+     "term": "principle of utility",
+     "def": "the idea that the right action is the one that brings the greatest good for the greatest number"
     },
     {
      "term": "image of God",
@@ -644,89 +791,120 @@
     {
      "text": "'You shall not murder.'",
      "ref": "Exodus 20:13",
-     "use": "Use for any argument that taking life is wrong. Note that some translations use 'kill'."
+     "use": "Use for any argument that taking human life is wrong. Some translations say 'kill'."
     },
     {
-     "text": "'God created mankind in his own image.'",
+     "text": "'So God created mankind in his own image.'",
      "ref": "Genesis 1:27",
      "use": "Shows why human life has special value."
     },
     {
-     "text": "'Do you not know that your bodies are temples of the Holy Spirit?'",
-     "ref": "1 Corinthians 6:19",
-     "use": "Used to argue the body belongs to God, so people should not end their own lives."
+     "text": "'Do you not know that your bodies are temples of the Holy Spirit...? You are not your own.'",
+     "ref": "1 Corinthians 6:19-20",
+     "use": "Used to argue life belongs to God, so people should not end it."
     },
     {
-     "text": "The Talmud: whoever saves one life saves the whole world.",
-     "ref": "Talmud, Sanhedrin 37a",
-     "use": "Jewish source for the value of life."
+     "text": "'The Lord gave and the Lord has taken away; may the name of the Lord be praised.'",
+     "ref": "Job 1:21",
+     "use": "Only God should decide when life begins and ends."
+    },
+    {
+     "text": "Whoever saves a single life, it is as if they saved an entire world.",
+     "ref": "Mishnah Sanhedrin 4:5",
+     "use": "Jewish source for the infinite value of each life."
     }
    ],
-   "tip": "Define both terms and show they can clash. The 12-mark answers on abortion and euthanasia usually turn on sanctity versus quality of life."
+   "tip": "Define both terms and show how they can clash. Most 12-mark answers on abortion and euthanasia turn on sanctity of life versus quality of life.",
+   "pitfalls": [
+    "Do not mix up the two terms: 'quality of life' is about how good a life is, 'sanctity of life' is about life being holy (a common wrong answer in multiple-choice questions).",
+    "Do not say only religious people value life: many humanists do too, for different reasons.",
+    "The Christian sanctity of life is about human life; do not use it as a reason against animal experiments."
+   ]
   },
   {
    "id": "tb-08",
    "code": "Rel & Life.7",
    "title": "Abortion",
-   "overview": "Abortion is one of the three issues AQA says you must know contrasting views on. You need the law, Christian views (Catholic and Protestant), Jewish views and non-religious arguments.",
+   "overview": "Abortion is one of the three Theme B issues where you must explain contrasting beliefs. You need the law (as of 2026), situations where the mother's life is at risk, Christian (Catholic and Protestant), Jewish and non-religious views, and ethical arguments based on the sanctity of life and quality of life.",
    "notes": [
     {
-     "h": "What it is and the law",
+     "h": "What it is and the law (as of November 2026)",
      "bullets": [
-      "**Abortion** is the deliberate ending of a pregnancy. The Abortion Act 1967 made it legal in Britain under certain conditions, and the time limit is 24 weeks. Two doctors must agree that continuing the pregnancy would harm the woman's physical or mental health, or her existing children's.",
-      "After 24 weeks it is only allowed if the mother's life is at serious risk, there is a risk of grave permanent harm to her, or the foetus has a severe abnormality."
+      "**Abortion** is the removal of a foetus from the womb before it can survive, done deliberately to end a pregnancy. A **miscarriage** is when this happens naturally.",
+      "**Abortion Act 1967** (England, Wales and Scotland): abortion is legal up to 24 weeks (the limit was 28 weeks until 1990) if two doctors agree that continuing the pregnancy would risk the physical or mental health of the woman or her existing children more than ending it. There is no time limit if the woman's life is at risk, there is a risk of grave permanent injury to her, or there is a substantial risk the baby would be born with a serious disability.",
+      "Since 2022 women in England and Wales can take early medical abortion pills at home up to 10 weeks after a remote consultation. Since October 2024 'safe access zones' (150 metres) stop protests and influencing people outside clinics.",
+      "**Crime and Policing Act 2026** (Royal Assent April 2026): a woman can no longer be prosecuted for ending her own pregnancy in England and Wales, at any stage, and past convictions are pardoned. The Abortion Act rules for doctors are unchanged, and anyone else who ends a pregnancy outside the law can still be prosecuted. Supporters said women in crisis need care, not prison; opponents, including Catholic bishops and pro-life groups, said it removes protection for late pregnancies.",
+      "In Northern Ireland abortion has been legal on request up to 12 weeks since 2020. In 2023 there were about 278,000 abortions for residents of England and Wales; 87% were medical (pill) abortions and 89% took place under 10 weeks (DHSC; later figures were delayed)."
+     ]
+    },
+    {
+     "h": "When does life begin?",
+     "bullets": [
+      "Views include: at **conception** (Catholic teaching); when the heart begins to beat or the brain develops; at **viability**, when the foetus could survive outside the womb (around 24 weeks, the basis of UK law); or at birth (traditional Jewish teaching that the foetus becomes a full person when its head or most of its body has emerged).",
+      "**Pro-life** groups (such as SPUC and Right to Life UK) argue the unborn child has a right to life from conception. **Pro-choice** groups (such as BPAS and Humanists UK) argue a woman has the right to decide what happens to her own body."
      ]
     },
     {
      "h": "Christian views",
      "bullets": [
-      "The Roman Catholic Church teaches that life begins at conception and abortion is always wrong because it ends an innocent life. It uses Jeremiah 1:5, Psalm 139:13 and the sanctity of life. Some Catholics accept a treatment which saves the mother and leads to the unintended death of the foetus.",
-      "The Church of England teaches that abortion is the taking of a life, but accepts it may be the lesser of two evils in limited cases, for example where the mother's life is at risk or after rape.",
-      "Some Christians, such as many Quakers and Methodists, say it is a matter of conscience and stress compassion for the woman."
+      "**Catholic Church**: human life must be respected and protected absolutely from the moment of conception (Catechism 2270), so direct abortion is always gravely wrong, even after rape or with a disability. Sources: Jeremiah 1:5, Psalm 139:13, Exodus 20:13. The Church supports women through pregnancy and adoption. **Mother's life at risk**: by the principle of **double effect**, treatment to save the mother (for example removing a cancerous womb or an ectopic pregnancy) is allowed even if the foetus dies, because its death is foreseen but not intended.",
+      "**Church of England**: strongly opposes abortion as a form of birth control and sees the foetus as a human life to be protected, but accepts that in strictly limited cases, such as a serious risk to the mother's life or health, abortion may be morally preferable to any other option (the lesser of two evils).",
+      "**Methodists and many liberal Protestants**: life is sacred, but each situation is different; abortion can sometimes be the lesser evil, and the decision should be made responsibly, with care and support for the woman. They stress compassion (Matthew 5:7) and the 'most loving thing' (situation ethics).",
+      "**Evangelical Christians**: most are strongly pro-life, for the same reasons as Catholics, though many accept abortion to save the mother's life."
      ]
     },
     {
-     "h": "Jewish and non-religious views",
+     "h": "Jewish views",
      "bullets": [
-      "Judaism values life highly, but traditionally teaches the foetus is not a full person until most of it is born. Abortion is allowed to save the mother's life (the mother's life comes first) and is generally discouraged without a serious reason. Reform Jews allow it for a wider range of reasons.",
-      "**Pro-life** supporters argue that life begins at conception and the unborn child has a right to life. **Pro-choice** supporters argue that a woman has the right to decide about her body and that quality of life matters. Many people argue it depends on how developed the foetus is (when it could survive outside the womb)."
+      "Life is sacred, but the foetus is not yet a full person: in Exodus 21:22 causing a miscarriage is punished by a fine, not as murder. The Talmud describes the embryo in the first 40 days as 'mere water'.",
+      "**Mother's life at risk**: abortion is required, because 'her life comes before its life' (Mishnah Oholot 7:6). Once most of the baby is born, it cannot be harmed, as one life cannot be set aside for another.",
+      "**Orthodox Judaism**: abortion only for serious reasons, mainly danger to the mother's life or health (some rabbis include serious mental health risk), after consulting a rabbi. **Reform Judaism**: the woman decides, after careful thought, and Reform Jews support legal access to abortion."
+     ]
+    },
+    {
+     "h": "Ethical arguments: sanctity of life versus quality of life",
+     "bullets": [
+      "**Sanctity of life** argument (against): the foetus is a human life made by God, so ending it is wrong whatever the circumstances; even a disabled child's life is equally sacred.",
+      "**Quality of life** argument (for, in some cases): the quality of life of the mother (health, age, rape, poverty) and of the child (severe abnormality) should be considered; bringing a child into great suffering may not be loving.",
+      "**Utilitarian** argument: consider the happiness and suffering of everyone affected: the woman, the child, the family. **Humanists** usually support a woman's right to choose, believing a foetus is not yet a person with interests in early pregnancy, while taking the decision seriously.",
+      "Some non-religious people are pro-life, for example on the grounds that the foetus is a potential human with a right to life, or concern about abortions because of disability."
      ]
     }
    ],
    "views": [
     {
-     "label": "Roman Catholic",
-     "text": "Life begins at conception, so abortion is always wrong, even after rape. Alternatives such as adoption should be supported."
+     "label": "Catholic",
+     "text": "Life begins at conception, so direct abortion is always wrong, even after rape. Treatment to save the mother's life is allowed if the death of the foetus is not intended (double effect)."
     },
     {
      "label": "Church of England",
-     "text": "Abortion is a serious matter and the unborn child has value, but it may be the lesser of two evils in limited circumstances such as a risk to the mother's life."
+     "text": "Abortion is a serious matter and the unborn child has value, but it may be the lesser of two evils in strictly limited circumstances, such as a serious risk to the mother."
     },
     {
-     "label": "Other Protestants (e.g. Methodist, Quaker)",
-     "text": "Life is sacred, but each situation is different and the woman's wellbeing matters. Many leave it to individual conscience."
+     "label": "Methodist and liberal Protestant",
+     "text": "Life is sacred, but each situation is different and the woman's wellbeing matters. Abortion can sometimes be the lesser evil, decided responsibly and with compassion."
     },
     {
      "label": "Orthodox Jewish",
-     "text": "The foetus is not a full person until birth, but is protected. Abortion is allowed if the mother's life or health is at serious risk."
+     "text": "The foetus is precious but not a full person until birth. Abortion is required if the mother's life is at risk and allowed for serious threats to her health, but not for convenience."
     },
     {
      "label": "Reform Jewish",
-     "text": "Abortion is allowed in more circumstances, including serious risk to mental health."
+     "text": "The woman should decide after careful thought, including for her mental health or the family's welfare, and abortion should be legally available."
     },
     {
-     "label": "Non-religious (pro-choice)",
-     "text": "The woman has the right to choose what happens to her body, and a foetus is not yet a person."
+     "label": "Humanist",
+     "text": "A woman has the right to decide about her own body. An early foetus is not yet a person, so quality of life and the woman's wellbeing carry great weight."
     },
     {
-     "label": "Non-religious (pro-life)",
-     "text": "The unborn child is a human being with a right to life, and abortion harms the child and sometimes the mother."
+     "label": "Non-religious pro-life",
+     "text": "Without relying on God, the unborn child is a developing human being with a right to life, and abortion harms the child and sometimes the mother."
     }
    ],
    "terms": [
     {
      "term": "abortion",
-     "def": "the deliberate ending of a pregnancy"
+     "def": "the removal of a foetus from the womb before it can survive, done deliberately to end a pregnancy"
     },
     {
      "term": "pro-life",
@@ -738,7 +916,11 @@
     },
     {
      "term": "Abortion Act 1967",
-     "def": "the law making abortion legal in Britain under certain conditions"
+     "def": "the law making abortion legal in Great Britain under certain conditions (now up to 24 weeks in most cases)"
+    },
+    {
+     "term": "viability",
+     "def": "the point at which a foetus could survive outside the womb, around 24 weeks"
     },
     {
      "term": "conception",
@@ -746,7 +928,11 @@
     },
     {
      "term": "foetus",
-     "def": "an unborn baby developing in the womb"
+     "def": "an unborn baby developing in the womb, from about eight weeks"
+    },
+    {
+     "term": "double effect",
+     "def": "the Catholic principle that an action with a good aim may be allowed even if a bad side effect is foreseen but not intended"
     }
    ],
    "sources": [
@@ -766,9 +952,14 @@
      "use": "Shows God's role in creating each person in the womb."
     },
     {
-     "text": "Catechism of the Catholic Church: human life must be respected and protected absolutely from the moment of conception.",
-     "ref": "Catechism of the Catholic Church (CCC 2270)",
+     "text": "Human life must be respected and protected absolutely from the moment of conception.",
+     "ref": "Catechism of the Catholic Church 2270",
      "use": "The official Catholic teaching."
+    },
+    {
+     "text": "If a woman is having difficulty giving birth, her life comes before the life of the foetus.",
+     "ref": "Mishnah Oholot 7:6",
+     "use": "Jewish teaching that abortion is required when the mother's life is at risk."
     },
     {
      "text": "'Blessed are the merciful, for they will be shown mercy.'",
@@ -776,67 +967,89 @@
      "use": "Used by Christians who say compassion for the mother matters, so abortion may sometimes be allowed."
     }
    ],
-   "tip": "Use 'sanctity of life' versus 'quality of life' in every abortion answer, and mention the 24-week limit if the question is about the law."
+   "tip": "Use 'sanctity of life' versus 'quality of life' in every abortion evaluation, and say which group holds each view. If a question mentions the mother's life at risk, use double effect (Catholic) and Mishnah Oholot 7:6 (Jewish).",
+   "pitfalls": [
+    "Do not quote the law as if it were religious teaching. Say what the law allows, then what a religion teaches about it.",
+    "Read the statement carefully: 'Religious believers should be against abortion' asks about believers, not whether abortion is right in general.",
+    "Do not say 'all Christians are against abortion'. Contrast Catholic teaching with the Church of England or Methodists."
+   ]
   },
   {
    "id": "tb-09",
    "code": "Rel & Life.8",
    "title": "Euthanasia",
-   "overview": "Euthanasia is the third issue AQA requires contrasting views on. You need the types, the UK law, and Christian, Jewish and non-religious views.",
+   "overview": "Euthanasia is one of the three Theme B issues where you must explain contrasting beliefs. You need the types, the UK law as of 2026 (including the failed assisted dying bills), and Christian, Jewish and non-religious views.",
    "notes": [
     {
-     "h": "What it is and the law",
+     "h": "What it is",
      "bullets": [
-      "**Euthanasia** means painlessly ending the life of someone with an incurable or painful illness, to relieve suffering. It comes from Greek words meaning 'good death'. **Voluntary** euthanasia is at the patient's request, **non-voluntary** is when the patient cannot ask (for example in a coma), and **involuntary** is against the patient's wishes (this is murder). **Assisted suicide** means helping someone to end their own life.",
-      "In England and Wales, euthanasia and assisted suicide are illegal. The Suicide Act 1961 made suicide legal, but helping someone is a crime with up to 14 years in prison. Doctors may stop treatment that is not helping, and may give pain relief that might shorten life. Parliament has debated changing the law, so check current news. Some countries, including Switzerland, the Netherlands and parts of the USA, allow forms of it."
+      "**Euthanasia** means the painless killing of a patient suffering from an incurable disease or an irreversible coma (from Greek words meaning 'good death').",
+      "**Voluntary** euthanasia: at the patient's own request. **Non-voluntary**: the patient cannot ask (for example in a coma) and others decide. **Involuntary**: against the patient's wishes, which is murder.",
+      "**Active** euthanasia: deliberately doing something to end life, such as a lethal injection. **Passive** euthanasia: withdrawing or withholding treatment that keeps someone alive, so they die of their illness. **Assisted suicide** (assisted dying): helping a person to end their own life, for example by supplying lethal drugs."
+     ]
+    },
+    {
+     "h": "The law (as of November 2026)",
+     "bullets": [
+      "Euthanasia and assisted suicide are illegal throughout the UK. The Suicide Act 1961 stopped suicide being a crime, but helping someone to die can bring up to 14 years in prison. Since 2010 prosecutors' guidance says a person acting only out of compassion, at the clear request of the person who died, is less likely to be prosecuted.",
+      "Patients can refuse treatment, doctors can stop treatment that is not in a patient's best interests, and doctors can give pain relief even if it might shorten life (double effect). These are legal.",
+      "The **Terminally Ill Adults (End of Life) Bill**, for adults in England and Wales with six months or less to live, passed the House of Commons in June 2025 (314 to 291) but ran out of time in the House of Lords in April 2026. A new version was **defeated** in the Commons on 11 September 2026 (286 to 270). In March 2026 the Scottish Parliament also voted down an assisted dying bill. The debate is likely to continue.",
+      "Some other countries allow forms of it, for example Switzerland (assisted suicide, including the Dignitas clinic), the Netherlands, Belgium, Canada and several US and Australian states."
      ]
     },
     {
      "h": "Christian views",
      "bullets": [
-      "The Catholic and Church of England teaching is that euthanasia is wrong because life is a gift from God and only God should end it ('You shall not murder'). They say it is wrong to take life and that suffering can have a purpose.",
-      "Christians point to **hospices** and **palliative care**, which relieve pain and allow people to die with dignity without ending life. They also worry that legal euthanasia could pressure vulnerable people.",
-      "Some Christians accept euthanasia, saying that love and mercy ('Blessed are the merciful') mean it is kind to end unbearable suffering, and that God gave humans free will."
+      "**Catholic Church**: euthanasia is 'morally unacceptable' because it deliberately kills a human being (Catechism 2277). Life is God's gift, sacred until natural death. But it is acceptable to stop 'burdensome, dangerous, extraordinary' treatment that only prolongs dying (Catechism 2278), and to give strong painkillers (double effect).",
+      "**Church of England**: opposes changing the law, saying it would put pressure on vulnerable, elderly and disabled people to feel a burden. It supports palliative care and hospices. Leaders of many faiths opposed the 2025 to 2026 bills.",
+      "**Hospices** give **palliative care**: relief from pain and symptoms, and emotional and spiritual support, to help people die with dignity. The modern hospice movement began with Dame Cicely Saunders, a Christian nurse and doctor, who opened St Christopher's Hospice in London in 1967.",
+      "**Some Christians support assisted dying**: they argue that Jesus showed compassion to the suffering ('Blessed are the merciful', Matthew 5:7) and that love (agape, situation ethics) can mean ending unbearable pain. Former Archbishop of Canterbury Lord Carey and Archbishop Desmond Tutu both spoke in favour."
      ]
     },
     {
      "h": "Jewish and non-religious views",
      "bullets": [
-      "Orthodox Judaism says life belongs to God, so active euthanasia is forbidden and counts as murder. Some allow doctors to stop prolonging dying, for example by switching off a machine that only delays death. Reform Jews are more open to allowing a dignified death.",
-      "Many non-religious people, such as humanists, support voluntary euthanasia because people should have control over their own lives and a right to a dignified death. Others worry about pressure on the elderly and disabled, and about mistakes."
+      "**Orthodox Judaism**: life belongs to God and each moment of life is precious, so active euthanasia is forbidden and counts as murder. However, it is allowed to remove something that only delays the death of someone who is actively dying. Pikuach nefesh means doctors must try to save life.",
+      "**Reform Judaism**: more open. Some Reform rabbis, such as Rabbi Jonathan Romain, campaign for assisted dying with safeguards, arguing compassion and the person's choice matter.",
+      "**Humanists** (Humanists UK) support legal assisted dying for people who are terminally ill or incurably suffering and mentally competent, with safeguards: people should have autonomy over their own lives and a right to a dignified death. A utilitarian may argue it reduces suffering overall.",
+      "**Non-religious opponents** (including many doctors and disability rights groups) worry about pressure on vulnerable people, mistakes in diagnosis, a 'slippery slope' to non-voluntary euthanasia, and damage to trust in doctors."
      ]
     }
    ],
    "views": [
     {
-     "label": "Roman Catholic",
-     "text": "Euthanasia is always wrong because life is sacred and belongs to God. Pain should be relieved through palliative care, not by ending life."
+     "label": "Catholic",
+     "text": "Euthanasia is always wrong because life is sacred until natural death. Pain should be relieved through palliative care, and burdensome treatment may be stopped, but life must not be deliberately ended."
     },
     {
      "label": "Church of England",
-     "text": "Euthanasia is wrong and the law should not be changed. The Church supports hospices and care for the dying."
+     "text": "Assisted dying should not be legalised because it would put pressure on vulnerable people. Hospices and good palliative care are the right response."
     },
     {
      "label": "Liberal Christian",
-     "text": "Compassion may justify ending suffering when a person clearly asks for it. Love and mercy are central."
+     "text": "Compassion may justify helping a dying person who clearly asks to end unbearable suffering. Love and mercy are central to Jesus' teaching."
     },
     {
      "label": "Orthodox Jewish",
-     "text": "Active euthanasia is forbidden, but treatment that only prolongs dying need not be given."
+     "text": "Active euthanasia is forbidden as murder, but treatment that only delays the death of someone actively dying need not be continued."
     },
     {
      "label": "Reform Jewish",
-     "text": "More willing to accept a person's choice for a dignified death in some cases."
+     "text": "More willing to accept a person's choice of a dignified death in some cases, with strong safeguards."
     },
     {
-     "label": "Non-religious",
-     "text": "People should have the right to choose a dignified death, with safeguards. Others worry about pressure on vulnerable people."
+     "label": "Humanist",
+     "text": "Mentally competent adults who are terminally ill or incurably suffering should have the legal right to an assisted death, with safeguards."
+    },
+    {
+     "label": "Non-religious opponent",
+     "text": "Even without belief in God, legalising it is too dangerous: vulnerable people could feel pressured, diagnoses can be wrong, and trust in doctors could suffer."
     }
    ],
    "terms": [
     {
      "term": "euthanasia",
-     "def": "ending the life of someone who is suffering, to relieve pain; also called assisted suicide in some cases"
+     "def": "the painless killing of a patient suffering from an incurable disease or an irreversible coma"
     },
     {
      "term": "voluntary euthanasia",
@@ -847,16 +1060,24 @@
      "def": "euthanasia when the patient cannot ask, for example because they are unconscious"
     },
     {
+     "term": "active euthanasia",
+     "def": "deliberately doing something to end a patient's life, such as a lethal injection"
+    },
+    {
+     "term": "passive euthanasia",
+     "def": "withdrawing or withholding treatment so a patient dies of their illness"
+    },
+    {
      "term": "assisted suicide",
-     "def": "helping someone to end their own life"
+     "def": "helping someone to end their own life, also called assisted dying"
     },
     {
      "term": "hospice",
-     "def": "a place that gives care to the dying, to ease pain and offer support"
+     "def": "a place that cares for the dying, easing pain and offering support"
     },
     {
      "term": "palliative care",
-     "def": "medical care that eases pain and symptoms for people near the end of life"
+     "def": "care that eases pain and symptoms for people near the end of life, without trying to cure"
     }
    ],
    "sources": [
@@ -867,7 +1088,7 @@
     },
     {
      "text": "'A time to be born and a time to die.'",
-     "ref": "Ecclesiastes 3:1-2",
+     "ref": "Ecclesiastes 3:2",
      "use": "Shows death is in God's timing. Use it for Jewish and Christian opposition."
     },
     {
@@ -876,76 +1097,95 @@
      "use": "Used by Christians who say euthanasia can be a loving act."
     },
     {
-     "text": "'Your bodies are temples of the Holy Spirit.'",
-     "ref": "1 Corinthians 6:19",
-     "use": "Shows the body is God's, so we should not end life."
+     "text": "'Your bodies are temples of the Holy Spirit... You are not your own.'",
+     "ref": "1 Corinthians 6:19-20",
+     "use": "Shows life belongs to God, so we should not end it."
+    },
+    {
+     "text": "Euthanasia, whatever its motives and means, is morally unacceptable; but stopping burdensome or extraordinary treatment can be legitimate.",
+     "ref": "Catechism of the Catholic Church 2277 to 2278",
+     "use": "Shows the Catholic difference between active euthanasia (wrong) and refusing overly burdensome treatment (allowed)."
     }
    ],
-   "tip": "Use the correct type of euthanasia in the answer. Say 'voluntary' or 'assisted suicide' and show you know the law is the same for both."
+   "tip": "Use the correct type of euthanasia and say whether the view is about active or passive euthanasia. Mention hospices and palliative care as an alternative: examiners say good answers do.",
+   "pitfalls": [
+    "Do not say assisted dying is now legal in England and Wales: as of November 2026 it is not (the bill fell in 2026).",
+    "Many answers just repeat 'sanctity of life'. Also discuss palliative care, hospices and the type of euthanasia (active or passive).",
+    "If the statement says 'best option' or similar, engage with those words, not just 'is euthanasia right or wrong'."
+   ]
   },
   {
    "id": "tb-10",
    "code": "Rel & Life.9",
    "title": "Death and the afterlife",
-   "overview": "Christians and Jews believe death is not the end, and this affects how they live and how they see the value of life. AQA also expects non-religious views and arguments for and against life after death.",
+   "overview": "Christians and Jews believe death is not the end, and this affects how they live and how they value human life. You also need non-religious views and arguments for and against belief in life after death.",
    "notes": [
     {
      "h": "Christian beliefs",
      "bullets": [
-      "Christians believe in life after death, because Jesus rose from the dead (resurrection) and promised eternal life (John 11:25-26). Most believe the soul lives on, and many believe in a bodily resurrection (1 Corinthians 15).",
-      "They believe God will judge each person (Matthew 25:31-46) and people go to **heaven** (eternal life with God, no pain or death, Revelation 21:4) or **hell** (separation from God). Catholics also believe in **purgatory**, where souls are cleansed before heaven. Some Protestants say salvation comes by faith and grace."
+      "Christians believe in life after death because Jesus rose from the dead and promised eternal life: 'I am the resurrection and the life' (John 11:25). Most believe the soul lives on, and many believe in the **resurrection** of the body in a new, glorified, spiritual form (1 Corinthians 15:42-44).",
+      "God will **judge** each person. In the Parable of the Sheep and the Goats (Matthew 25:31-46) people are judged on how they treated those in need. **Heaven** is eternal life with God, without death or pain (Revelation 21:4); **hell** is separation from God.",
+      "**Catholics** also believe in **purgatory**, where souls are cleansed before heaven, and pray for the dead. **Protestants** stress that salvation comes through faith and God's grace, and most reject purgatory. Some Christians believe all will eventually be saved, or that hell is not eternal torment."
      ]
     },
     {
      "h": "Jewish beliefs",
      "bullets": [
-      "Jewish teaching about the afterlife is less detailed. Many Jews believe in **Olam Ha-Ba** (the world to come) and that the Messiah will bring a time of peace. Orthodox Jews believe God will raise the dead at the end of time, and so avoid cremation. Reform and Liberal Jews often believe in the soul living on rather than bodily resurrection.",
-      "Jews believe God judges people, and that Gehinnom is a temporary place of cleansing, not eternal punishment. The main focus is living a good life now, following the mitzvot."
+      "Jewish teaching on the afterlife is less detailed, because the focus is on living by God's mitzvot now. Many Jews believe in **Olam Ha-Ba** (the world to come).",
+      "**Orthodox Judaism**: God will raise the dead in the Messianic age ('Multitudes who sleep in the dust of the earth will awake', Daniel 12:2; one of Maimonides' 13 principles). So the body is buried quickly and cremation is avoided. The soul may be purified in Gehinnom for up to twelve months, which is why mourners say Kaddish for eleven months.",
+      "**Reform and Liberal Judaism**: many believe the soul lives on with God rather than in bodily resurrection; some are unsure, and cremation is accepted."
      ]
     },
     {
-     "h": "Effect on life and non-religious views",
+     "h": "Impact on beliefs about the value of human life",
      "bullets": [
-      "Belief in judgement and an afterlife encourages Christians and Jews to live morally, help others and value human life as precious, because it is a gift leading to eternity.",
-      "Atheists and humanists believe death is the end, so this life is all we have and should be lived fully. Some non-religious people point to evidence such as near-death experiences, and some argue that there is no scientific proof of an afterlife.",
-      "Arguments for life after death include the resurrection of Jesus, religious experiences, near-death experiences and the idea that the soul is separate from the body. Arguments against include no scientific evidence, the dependence of the mind on the brain, and the view that heaven is just comforting wish-fulfilment."
+      "Because this life leads to eternity and judgement, Christians and Jews see it as precious and accountable: it should be used to love God and help others, not wasted or ended early. This supports the sanctity of life and opposition to murder, suicide and euthanasia.",
+      "Belief in heaven gives comfort and hope to the dying and the bereaved, so death need not be feared, and believers may accept death peacefully rather than seek to end life.",
+      "**Atheists and humanists** believe death is the end of the person. They argue this makes life more valuable, because it is the only one we have: we should make the most of it, be happy and help others now. People live on through their children, achievements and others' memories. Humanist funerals celebrate the life lived."
+     ]
+    },
+    {
+     "h": "Arguments for and against life after death",
+     "bullets": [
+      "**For**: the resurrection of Jesus and the teachings of scripture; religious experiences; near-death experiences, where people report leaving their body or seeing a light; claims of mediums or memories of past lives; the idea that the mind or soul is different from the brain; the belief that a just God must reward good and punish evil.",
+      "**Against**: there is no scientific evidence; the mind seems to depend on the brain, so when the brain dies so does the person; near-death experiences can be explained by lack of oxygen or drugs; belief may be wishful thinking to cope with fear of death (Freud); different religions describe the afterlife in very different ways."
      ]
     }
    ],
    "views": [
     {
      "label": "Catholic",
-     "text": "The soul is immortal. After death there is judgement, then heaven, hell or purgatory. The body will be resurrected at the end of time."
+     "text": "The soul is immortal. After death comes judgement, then heaven, hell or purgatory, and the body will be raised at the end of time. Prayer for the dead is valuable."
     },
     {
      "label": "Protestant",
-     "text": "Life continues after death, with judgement and heaven or hell. Salvation comes through faith in Jesus. Many do not accept purgatory."
+     "text": "Life continues after death, with judgement and heaven or hell. Salvation comes through faith in Jesus and God's grace. Purgatory is not accepted."
     },
     {
      "label": "Orthodox Jewish",
-     "text": "The soul survives and the dead will be resurrected at the Messianic age. Everyone is accountable to God, so people should live by the mitzvot."
+     "text": "The soul survives and the dead will be raised in the Messianic age, so the body must be buried, not cremated. Everyone is accountable to God, so life should be lived by the mitzvot."
     },
     {
      "label": "Reform and Liberal Jewish",
-     "text": "Many focus on the soul living on, rather than bodily resurrection, and put emphasis on this life."
+     "text": "Many focus on the soul living on with God rather than bodily resurrection, accept cremation, and put the emphasis on this life."
     },
     {
-     "label": "Non-religious",
-     "text": "Death is the end of consciousness. Life is precious because it is the only one we have. Some leave open the possibility of an afterlife."
+     "label": "Atheist and humanist",
+     "text": "Death is the end of the person. Life is precious because it is the only one we have, and people live on through their influence and others' memories."
     }
    ],
    "terms": [
     {
      "term": "afterlife",
-     "def": "beliefs about what happens to people after their body dies"
+     "def": "life after the death of the body"
     },
     {
      "term": "resurrection",
-     "def": "rising again from death; for Christians, Jesus rose on the third day"
+     "def": "rising from the dead; for Christians, Jesus rose on the third day, and the dead will be raised"
     },
     {
      "term": "judgement",
-     "def": "God deciding the fate of each person after death"
+     "def": "God deciding the fate of each person, after death or at the end of time"
     },
     {
      "term": "heaven",
@@ -957,17 +1197,21 @@
     },
     {
      "term": "purgatory",
-     "def": "in Catholic belief, a place where souls are cleansed before heaven"
+     "def": "in Catholic belief, a state where souls are cleansed before heaven"
     },
     {
      "term": "Olam Ha-Ba",
-     "def": "the Jewish belief in a world to come after death"
+     "def": "the Jewish belief in the world to come"
+    },
+    {
+     "term": "near-death experience",
+     "def": "an experience reported by people who nearly died, such as seeing a light or leaving their body"
     }
    ],
    "sources": [
     {
      "text": "'I am the resurrection and the life. The one who believes in me will live, even though they die.'",
-     "ref": "John 11:25-26",
+     "ref": "John 11:25",
      "use": "Jesus promises eternal life. Use it for Christian belief in life after death."
     },
     {
@@ -976,24 +1220,34 @@
      "use": "Source for judgement. Apply it by saying Christians try to help others in life."
     },
     {
-     "text": "'He will wipe every tear from their eyes. There will be no more death or mourning.'",
+     "text": "'He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.'",
      "ref": "Revelation 21:4",
-     "use": "Source for the Christian view of heaven."
+     "use": "Source for the Christian view of heaven and comfort for the dying."
     },
     {
-     "text": "'Multitudes who sleep in the dust of the earth will awake.'",
+     "text": "'Multitudes who sleep in the dust of the earth will awake: some to everlasting life, others to shame and everlasting contempt.'",
      "ref": "Daniel 12:2",
-     "use": "Jewish source for resurrection of the dead."
+     "use": "Jewish (and Christian) source for resurrection of the dead and judgement."
+    },
+    {
+     "text": "'Truly I tell you, today you will be with me in paradise.'",
+     "ref": "Luke 23:43",
+     "use": "Jesus to the criminal on the cross: used for the soul going to be with God at death."
     }
    ],
-   "tip": "For 'life after death' 12 markers, use evidence arguments: religious experience and the resurrection for, and lack of scientific proof for against. Then judge which is more convincing."
+   "tip": "For 'life after death' 12-markers, use evidence arguments: the resurrection and religious experience for, lack of scientific proof and the mind-brain link against. Then judge which is more convincing and why.",
+   "pitfalls": [
+    "Link afterlife beliefs to the value of human life when asked: this is in the specification, not just heaven and hell descriptions.",
+    "If the statement says 'people' rather than 'religious people', make room for non-religious views too (examiners noted few did in 2025).",
+    "Do not say all Jews believe in heaven and hell like Christians: Jewish teaching focuses on this life and views differ."
+   ]
   }
  ],
  "flashcards": [
   {
    "topic": "tb-01",
    "q": "What is the Big Bang theory?",
-   "a": "The scientific theory that the universe began almost 14 billion years ago from a tiny, hot, dense point (a singularity), then expanded and cooled to form stars and galaxies."
+   "a": "The scientific theory that the universe began about 13.8 billion years ago from a tiny, hot, dense point (a singularity), then expanded and cooled to form stars and galaxies."
   },
   {
    "topic": "tb-01",
@@ -1318,7 +1572,7 @@
   {
    "topic": "tb-09",
    "q": "What is the UK law on euthanasia?",
-   "a": "Euthanasia and assisted suicide are illegal in England and Wales. The Suicide Act 1961 made suicide legal, but helping is a crime."
+   "a": "Euthanasia and assisted suicide are illegal throughout the UK (as of November 2026). The Suicide Act 1961 made suicide itself legal, but helping someone to die can bring up to 14 years in prison. The assisted dying bill fell in 2026."
   },
   {
    "topic": "tb-09",
@@ -1384,20 +1638,265 @@
    "topic": "tb-10",
    "q": "Give one argument against life after death.",
    "a": "There is no scientific evidence, the mind depends on the brain, and belief may be wishful thinking."
+  },
+  {
+   "topic": "tb-01",
+   "q": "Who first proposed the Big Bang theory, and why is this interesting for RE?",
+   "a": "Georges Lemaitre, a Belgian Catholic priest and physicist, in 1927. It shows a believer could see science and faith as compatible."
+  },
+  {
+   "topic": "tb-01",
+   "q": "Give two pieces of evidence for the Big Bang.",
+   "a": "Red shift (galaxies moving apart, shown by Hubble in 1929) and cosmic microwave background radiation (discovered 1964 to 1965)."
+  },
+  {
+   "topic": "tb-01",
+   "q": "What did Pope Francis say about the Big Bang in 2014?",
+   "a": "That God is 'not a magician', and that the Big Bang does not contradict a divine creator but needs one."
+  },
+  {
+   "topic": "tb-01",
+   "q": "How did Rabbi Jonathan Sacks describe the relationship between science and religion?",
+   "a": "Science takes things apart to see how they work; religion puts things together to see what they mean."
+  },
+  {
+   "topic": "tb-01",
+   "q": "What is a 'Young Earth' creationist?",
+   "a": "A person who reads Genesis literally and believes the earth is only thousands of years old, made in six 24-hour days."
+  },
+  {
+   "topic": "tb-02",
+   "q": "What does 'dominion' mean?",
+   "a": "Dominance, power or control. In Genesis 1:26-28 God gives humans power over creation; most believers say it must be used responsibly."
+  },
+  {
+   "topic": "tb-02",
+   "q": "What is the Shmita year?",
+   "a": "Every seventh year, when the Torah says the land should rest and not be farmed (Leviticus 25:4)."
+  },
+  {
+   "topic": "tb-02",
+   "q": "What does Midrash Kohelet Rabbah 7:13 teach?",
+   "a": "God shows Adam the world and says: do not ruin and destroy my world, for if you do there is no one to repair it after you."
+  },
+  {
+   "topic": "tb-02",
+   "q": "What did the Church of England decide in 2020 about carbon emissions?",
+   "a": "General Synod set a target of net zero carbon by 2030."
+  },
+  {
+   "topic": "tb-02",
+   "q": "How might a humanist explain the duty to protect the world?",
+   "a": "It is the only home humans and other life have, and future generations deserve a healthy planet. The duty comes from reason and compassion, not God."
+  },
+  {
+   "topic": "tb-03",
+   "q": "What is the difference between renewable and non-renewable resources?",
+   "a": "Renewable resources do not run out (wind, solar, wave); non-renewable ones will run out (coal, oil, gas)."
+  },
+  {
+   "topic": "tb-03",
+   "q": "What does Leviticus 25:23 teach about the land?",
+   "a": "'The land is mine and you reside in my land as foreigners and strangers': God owns the land, humans are tenants."
+  },
+  {
+   "topic": "tb-03",
+   "q": "What is the Paris Agreement (2015)?",
+   "a": "An international treaty to limit global warming to well below 2 degrees Celsius by cutting greenhouse gas emissions."
+  },
+  {
+   "topic": "tb-03",
+   "q": "What did Pope Francis call for in Laudato Si'?",
+   "a": "'Ecological conversion': a change of heart and lifestyle to care for 'our common home', especially for the sake of the poor."
+  },
+  {
+   "topic": "tb-04",
+   "q": "Give one way religious believers can help to reduce pollution.",
+   "a": "Use public transport, walk or cycle (accept: recycle, cut single-use plastic, save energy, join a litter pick, install solar panels)."
+  },
+  {
+   "topic": "tb-04",
+   "q": "What did Laudato Si' say the earth was beginning to look like?",
+   "a": "'An immense pile of filth' (paragraph 21), because of waste and a throwaway culture."
+  },
+  {
+   "topic": "tb-04",
+   "q": "What are microplastics?",
+   "a": "Tiny pieces of plastic from broken-down waste that enter seas, soil and food chains."
+  },
+  {
+   "topic": "tb-04",
+   "q": "Name a UK law or policy to reduce pollution.",
+   "a": "The Climate Change Act 2008 (net zero by 2050) or the plastic bag charge (5p in 2015, now 10p)."
+  },
+  {
+   "topic": "tb-05",
+   "q": "What are the 3Rs in UK animal research?",
+   "a": "Replace animals where possible, reduce the number used, and refine methods to reduce suffering."
+  },
+  {
+   "topic": "tb-05",
+   "q": "What does the Catechism (CCC 2417) say about animal experiments?",
+   "a": "They are morally acceptable within reasonable limits if they help to care for or save human lives."
+  },
+  {
+   "topic": "tb-05",
+   "q": "How many scientific procedures on animals were carried out in Great Britain in 2025?",
+   "a": "About 2.54 million, the lowest since the 1986 Act; most used mice (Home Office)."
+  },
+  {
+   "topic": "tb-05",
+   "q": "Since when has testing cosmetics on animals been banned in the UK?",
+   "a": "1998."
+  },
+  {
+   "topic": "tb-05",
+   "q": "What is 'speciesism'?",
+   "a": "Peter Singer's term for treating one species as more important just because of its species, for example ignoring animal suffering to benefit humans."
+  },
+  {
+   "topic": "tb-05",
+   "q": "Who helped found the RSPCA in 1824?",
+   "a": "A group including the Anglican priest Arthur Broome."
+  },
+  {
+   "topic": "tb-06",
+   "q": "What did Pope John Paul II say about evolution in 1996?",
+   "a": "That evolution is 'more than a hypothesis', while the soul is created directly by God."
+  },
+  {
+   "topic": "tb-06",
+   "q": "What is theistic evolution?",
+   "a": "The belief that God created life through the process of evolution."
+  },
+  {
+   "topic": "tb-06",
+   "q": "What does the 'breath of life' in Genesis 2:7 suggest?",
+   "a": "Human life comes directly from God, who gives each person a soul."
+  },
+  {
+   "topic": "tb-06",
+   "q": "Give two pieces of evidence for evolution.",
+   "a": "Fossils and DNA (accept: similar body structures in different species; observed natural selection)."
+  },
+  {
+   "topic": "tb-07",
+   "q": "What is situation ethics?",
+   "a": "Joseph Fletcher's idea (1966) that Christians should do the most loving thing (agape) in each situation rather than follow fixed rules."
+  },
+  {
+   "topic": "tb-07",
+   "q": "What is the principle of utility?",
+   "a": "The right action is the one that brings the greatest good (happiness) for the greatest number."
+  },
+  {
+   "topic": "tb-07",
+   "q": "What does Mishnah Sanhedrin 4:5 teach?",
+   "a": "Whoever saves a single life is as if they saved an entire world: every life has infinite value."
+  },
+  {
+   "topic": "tb-07",
+   "q": "What does Job 1:21 say and how is it used?",
+   "a": "'The Lord gave and the Lord has taken away': only God should decide when life begins and ends."
+  },
+  {
+   "topic": "tb-07",
+   "q": "Give one criticism of the quality of life argument.",
+   "a": "It could suggest some lives, such as those of disabled people, are worth less than others."
+  },
+  {
+   "topic": "tb-08",
+   "q": "What changed in April 2026 in abortion law in England and Wales?",
+   "a": "The Crime and Policing Act 2026 means a woman can no longer be prosecuted for ending her own pregnancy, and past convictions are pardoned. The Abortion Act 1967 rules for doctors remain."
+  },
+  {
+   "topic": "tb-08",
+   "q": "Under the Abortion Act, when can abortion happen after 24 weeks?",
+   "a": "If the woman's life is at risk, there is a risk of grave permanent injury to her, or a substantial risk of serious disability in the baby."
+  },
+  {
+   "topic": "tb-08",
+   "q": "What is the principle of double effect?",
+   "a": "The Catholic idea that an action with a good aim, such as saving the mother's life, may be allowed even if a bad result (the foetus dying) is foreseen but not intended."
+  },
+  {
+   "topic": "tb-08",
+   "q": "What does Mishnah Oholot 7:6 teach about abortion?",
+   "a": "If the birth endangers the mother, her life comes before the foetus's life; but once most of the baby is born it cannot be harmed."
+  },
+  {
+   "topic": "tb-08",
+   "q": "What is viability?",
+   "a": "The point at which a foetus could survive outside the womb, around 24 weeks."
+  },
+  {
+   "topic": "tb-08",
+   "q": "How many abortions were there for residents of England and Wales in 2023?",
+   "a": "About 278,000 (DHSC); 87% were medical (pill) abortions."
+  },
+  {
+   "topic": "tb-09",
+   "q": "What happened to the assisted dying bill for England and Wales in 2026?",
+   "a": "It ran out of time in the House of Lords in April 2026; a new version was defeated in the Commons on 11 September 2026 (286 to 270). Assisted dying remains illegal (as of November 2026)."
+  },
+  {
+   "topic": "tb-09",
+   "q": "What is the difference between active and passive euthanasia?",
+   "a": "Active: deliberately doing something to end life (a lethal injection). Passive: withdrawing or withholding treatment so the person dies of their illness."
+  },
+  {
+   "topic": "tb-09",
+   "q": "Who started the modern hospice movement?",
+   "a": "Dame Cicely Saunders, a Christian, who opened St Christopher's Hospice in London in 1967."
+  },
+  {
+   "topic": "tb-09",
+   "q": "What does the Catechism allow at the end of life?",
+   "a": "Stopping 'burdensome, dangerous, extraordinary' treatment and giving pain relief, though deliberately ending life is wrong (CCC 2277 to 2278)."
+  },
+  {
+   "topic": "tb-09",
+   "q": "Name two Christian leaders who have supported assisted dying.",
+   "a": "Former Archbishop of Canterbury Lord Carey and Archbishop Desmond Tutu."
+  },
+  {
+   "topic": "tb-09",
+   "q": "Give a non-religious argument against euthanasia.",
+   "a": "Vulnerable people might feel pressured, diagnoses can be wrong, and it could lead to a 'slippery slope' towards non-voluntary euthanasia."
+  },
+  {
+   "topic": "tb-10",
+   "q": "Why do Jewish mourners say Kaddish for eleven months?",
+   "a": "Tradition says a soul may be purified in Gehinnom for up to twelve months; saying it for eleven shows confidence the person was not wicked."
+  },
+  {
+   "topic": "tb-10",
+   "q": "How does belief in an afterlife affect beliefs about the value of human life?",
+   "a": "Life is a gift leading to eternity and judgement, so it is precious, must be used well and should not be ended early."
+  },
+  {
+   "topic": "tb-10",
+   "q": "How do humanists say people live on after death?",
+   "a": "Through their children, achievements and the memories of others; humanist funerals celebrate the life lived."
+  },
+  {
+   "topic": "tb-10",
+   "q": "What do Protestants mainly believe about salvation?",
+   "a": "It comes through faith in Jesus and God's grace, not by earning it; most reject purgatory."
   }
  ],
  "quiz": [
   {
    "topic": "tb-01",
-   "q": "Which of the following is a religious theory about how the universe began?",
+   "q": "Which of these is a religious explanation of how the universe began?",
    "options": [
-    "Creation",
-    "Collision theory",
+    "Creation by God",
+    "Red shift",
     "Natural selection",
-    "The steady cloud"
+    "Cosmic background radiation"
    ],
    "answer": 0,
-   "why": "Creation is the religious belief that God made the universe. Natural selection is part of evolution, not the origin of the universe."
+   "why": "Creation by God is the religious explanation. Red shift and background radiation are evidence for the Big Bang; natural selection is about evolution."
   },
   {
    "topic": "tb-01",
@@ -1830,6 +2329,378 @@
    ],
    "answer": 0,
    "why": "Sceptics point to the lack of scientific proof and to the mind depending on the brain."
+  },
+  {
+   "topic": "tb-01",
+   "q": "Which evidence for the Big Bang shows that galaxies are moving away from each other?",
+   "options": [
+    "DNA",
+    "Fossils",
+    "Natural selection",
+    "Red shift"
+   ],
+   "answer": 3,
+   "why": "Red shift in the light of distant galaxies shows the universe is expanding."
+  },
+  {
+   "topic": "tb-01",
+   "q": "Who first proposed what became the Big Bang theory?",
+   "options": [
+    "Pope Francis",
+    "Georges Lemaitre",
+    "Charles Darwin",
+    "Richard Dawkins"
+   ],
+   "answer": 1,
+   "why": "Lemaitre, a Catholic priest and physicist, proposed it in 1927."
+  },
+  {
+   "topic": "tb-01",
+   "q": "A Christian says each 'day' in Genesis 1 could be a long age. This is an example of:",
+   "options": [
+    "Interpreting Genesis non-literally",
+    "Atheism",
+    "Rejecting God as creator",
+    "Reading Genesis literally"
+   ],
+   "answer": 0,
+   "why": "Reading the days as long ages is a non-literal interpretation that can fit with science."
+  },
+  {
+   "topic": "tb-02",
+   "q": "Which word means dominance, power or control?",
+   "options": [
+    "Dominion",
+    "Awe",
+    "Stewardship",
+    "Sustainability"
+   ],
+   "answer": 0,
+   "why": "Dominion comes from Genesis 1:26-28. Stewardship is the duty to care."
+  },
+  {
+   "topic": "tb-02",
+   "q": "Which source is the main one for stewardship?",
+   "options": [
+    "Genesis 9:3",
+    "Exodus 20:13",
+    "Jeremiah 1:5",
+    "Genesis 2:15"
+   ],
+   "answer": 3,
+   "why": "God put the man in Eden 'to work it and take care of it'."
+  },
+  {
+   "topic": "tb-02",
+   "q": "Odd one out: which is NOT a Jewish teaching about caring for the world?",
+   "options": [
+    "Tikkun Olam",
+    "Purgatory",
+    "Shmita",
+    "Bal tashchit"
+   ],
+   "answer": 1,
+   "why": "Purgatory is a Catholic belief about the afterlife."
+  },
+  {
+   "topic": "tb-03",
+   "q": "Which of these is a non-renewable resource?",
+   "options": [
+    "Coal",
+    "Solar power",
+    "Wind",
+    "Wave power"
+   ],
+   "answer": 0,
+   "why": "Fossil fuels such as coal will run out."
+  },
+  {
+   "topic": "tb-03",
+   "q": "'The land is mine and you reside in my land as foreigners and strangers.' Which teaching does this support?",
+   "options": [
+    "Humans are tenants of God's land",
+    "Life begins at conception",
+    "Humans own the earth",
+    "Animals may be eaten"
+   ],
+   "answer": 0,
+   "why": "Leviticus 25:23 teaches that God owns the land."
+  },
+  {
+   "topic": "tb-03",
+   "q": "What does the Paris Agreement (2015) aim to do?",
+   "options": [
+    "Ban all cars",
+    "Stop recycling",
+    "Limit global warming to well below 2 degrees Celsius",
+    "Increase fossil fuel use"
+   ],
+   "answer": 2,
+   "why": "It is an international climate treaty."
+  },
+  {
+   "topic": "tb-04",
+   "q": "Which is a way to reduce pollution rather than a teaching about it?",
+   "options": [
+    "Cycling instead of driving",
+    "Tikkun Olam",
+    "Psalm 24:1",
+    "Stewardship"
+   ],
+   "answer": 0,
+   "why": "Examiners want actions for 'ways' questions and teachings for 'why' questions."
+  },
+  {
+   "topic": "tb-04",
+   "q": "Which document says the earth is beginning to look like 'an immense pile of filth'?",
+   "options": [
+    "The Catechism 2270",
+    "Laudato Si'",
+    "The Paris Agreement",
+    "Humanae Vitae"
+   ],
+   "answer": 1,
+   "why": "Pope Francis, Laudato Si' (2015), paragraph 21."
+  },
+  {
+   "topic": "tb-04",
+   "q": "Which type of pollution is caused by sewage discharge into rivers?",
+   "options": [
+    "Water pollution",
+    "Light pollution",
+    "Noise pollution",
+    "Air pollution"
+   ],
+   "answer": 0,
+   "why": "Sewage contaminates water."
+  },
+  {
+   "topic": "tb-05",
+   "q": "Which UK law controls animal experimentation?",
+   "options": [
+    "Equality Act 2010",
+    "Abortion Act 1967",
+    "Animals (Scientific Procedures) Act 1986",
+    "Suicide Act 1961"
+   ],
+   "answer": 2,
+   "why": "It requires licences and the 3Rs."
+  },
+  {
+   "topic": "tb-05",
+   "q": "Which source would a Catholic use to SUPPORT some animal experimentation?",
+   "options": [
+    "Catechism 2417",
+    "Deuteronomy 25:4",
+    "Luke 12:6",
+    "Proverbs 12:10"
+   ],
+   "answer": 0,
+   "why": "CCC 2417 says it is acceptable within reasonable limits if it helps save human lives."
+  },
+  {
+   "topic": "tb-05",
+   "q": "Which of these is the Jewish method of slaughter for kosher meat?",
+   "options": [
+    "Shechita",
+    "Shmita",
+    "Shema",
+    "Shabbat"
+   ],
+   "answer": 0,
+   "why": "Shechita is a single quick cut by a trained shochet."
+  },
+  {
+   "topic": "tb-05",
+   "q": "A student writes 'You shall not murder shows animal testing is wrong'. What is the problem?",
+   "options": [
+    "It supports animal testing",
+    "It is from the New Testament",
+    "It is a Jewish law only",
+    "The commandment is about human life"
+   ],
+   "answer": 3,
+   "why": "Examiners point out this commandment and the Christian sanctity of life apply to humans."
+  },
+  {
+   "topic": "tb-06",
+   "q": "Which Pope said evolution is 'more than a hypothesis'?",
+   "options": [
+    "Pope John Paul II",
+    "Pope Pius IX",
+    "Pope Leo XIII",
+    "Pope Paul VI"
+   ],
+   "answer": 0,
+   "why": "Pope John Paul II in 1996."
+  },
+  {
+   "topic": "tb-06",
+   "q": "What is the belief that God created life through evolution called?",
+   "options": [
+    "Theistic evolution",
+    "Intelligent design",
+    "Creationism",
+    "Atheism"
+   ],
+   "answer": 0,
+   "why": "Theistic evolution accepts both God and evolution."
+  },
+  {
+   "topic": "tb-06",
+   "q": "Which Bible verse says God 'breathed into his nostrils the breath of life'?",
+   "options": [
+    "John 1:1",
+    "Psalm 24:1",
+    "Genesis 2:7",
+    "Genesis 1:1"
+   ],
+   "answer": 2,
+   "why": "Genesis 2:7, used for the soul and the special value of human life."
+  },
+  {
+   "topic": "tb-07",
+   "q": "Which theory says Christians should always do the most loving thing in each situation?",
+   "options": [
+    "Natural law",
+    "Situation ethics",
+    "Pikuach nefesh",
+    "Creationism"
+   ],
+   "answer": 1,
+   "why": "Joseph Fletcher's situation ethics, based on agape love."
+  },
+  {
+   "topic": "tb-07",
+   "q": "Which source says that saving one life is like saving an entire world?",
+   "options": [
+    "Mishnah Sanhedrin 4:5",
+    "Leviticus 25:23",
+    "Matthew 25:40",
+    "Genesis 9:3"
+   ],
+   "answer": 0,
+   "why": "A Jewish teaching on the infinite value of each life."
+  },
+  {
+   "topic": "tb-07",
+   "q": "Which statement best describes the principle of utility?",
+   "options": [
+    "Life is sacred because God made it",
+    "Animals have no value",
+    "Only God can end life",
+    "The right action brings the greatest good for the greatest number"
+   ],
+   "answer": 3,
+   "why": "This is the basis of utilitarianism."
+  },
+  {
+   "topic": "tb-08",
+   "q": "Which group teaches that treatment to save a mother may be given even if the foetus dies, as long as its death is not intended?",
+   "options": [
+    "The Catholic Church",
+    "Quakers",
+    "Reform Judaism",
+    "Humanists UK"
+   ],
+   "answer": 0,
+   "why": "This is the Catholic principle of double effect."
+  },
+  {
+   "topic": "tb-08",
+   "q": "According to Mishnah Oholot 7:6, if a birth endangers the mother:",
+   "options": [
+    "The baby's life comes first",
+    "A rabbi must vote",
+    "Nothing may be done",
+    "Her life comes first"
+   ],
+   "answer": 3,
+   "why": "Her life comes before the life of the foetus, until most of the baby is born."
+  },
+  {
+   "topic": "tb-08",
+   "q": "What did the Crime and Policing Act 2026 change?",
+   "options": [
+    "Stopped women being prosecuted for ending their own pregnancy",
+    "Banned all abortions",
+    "Lowered the time limit to 12 weeks",
+    "Removed the need for any doctors"
+   ],
+   "answer": 0,
+   "why": "The Abortion Act 1967 rules for doctors still apply."
+  },
+  {
+   "topic": "tb-09",
+   "q": "Switching off a life-support machine that only prolongs dying is an example of:",
+   "options": [
+    "Passive euthanasia",
+    "Murder under the Suicide Act",
+    "Active euthanasia",
+    "Involuntary euthanasia"
+   ],
+   "answer": 0,
+   "why": "Withdrawing treatment so the person dies of their illness is passive euthanasia."
+  },
+  {
+   "topic": "tb-09",
+   "q": "As of November 2026, what is the law on assisted dying in England and Wales?",
+   "options": [
+    "Legal only in hospices",
+    "Still illegal; the bill fell and a new version was defeated in 2026",
+    "Legal for the terminally ill since 2025",
+    "Legal for anyone over 18"
+   ],
+   "answer": 1,
+   "why": "The bill ran out of time in the Lords in April 2026 and a new version was defeated in the Commons in September 2026."
+  },
+  {
+   "topic": "tb-09",
+   "q": "Who founded St Christopher's Hospice in 1967?",
+   "options": [
+    "Florence Nightingale",
+    "Mother Teresa",
+    "Cicely Saunders",
+    "Sarah Mullally"
+   ],
+   "answer": 2,
+   "why": "Dame Cicely Saunders, a Christian, began the modern hospice movement."
+  },
+  {
+   "topic": "tb-10",
+   "q": "Which group is most likely to accept cremation?",
+   "options": [
+    "None of them",
+    "Reform Jews",
+    "Orthodox Jews",
+    "Those who believe the body must be buried for resurrection"
+   ],
+   "answer": 1,
+   "why": "Reform and Liberal Jews accept cremation; Orthodox Jews avoid it because of belief in bodily resurrection."
+  },
+  {
+   "topic": "tb-10",
+   "q": "Which is an argument AGAINST life after death?",
+   "options": [
+    "Near-death experiences",
+    "The resurrection of Jesus",
+    "The mind depends on the brain",
+    "God's justice"
+   ],
+   "answer": 2,
+   "why": "If the mind depends on the brain, it is hard to see how the person survives when the brain dies."
+  },
+  {
+   "topic": "tb-10",
+   "q": "How do humanists usually see the value of life, given they do not believe in an afterlife?",
+   "options": [
+    "Life only matters after death",
+    "Life has no value",
+    "Life belongs to God",
+    "Life is more precious because it is the only one"
+   ],
+   "answer": 3,
+   "why": "Humanists say the one life we have should be lived fully and well."
   }
  ],
  "exam": [
@@ -1837,7 +2708,7 @@
    "topic": "tb-08",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Abortion is always wrong.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "q": "'Abortion is always wrong.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Many religious people agree with this statement. The Roman Catholic Church teaches that life begins at conception and is sacred because humans are made in God's image (Genesis 1:27). Jeremiah 1:5 says 'Before I formed you in the womb I knew you', which suggests God has a plan for every unborn child, and the commandment 'You shall not murder' (Exodus 20:13) is used to say abortion is killing. Pro-life supporters add that unwanted children can be adopted. This is a strong argument for believers who see life as a gift from God, because it treats the unborn as having full value from the start.\n\nHowever, many people disagree. The Church of England teaches that abortion is serious, but may be the lesser of two evils where the mother's life is at risk, or after rape. Jesus taught compassion ('Blessed are the merciful', Matthew 5:7), so some Christians say the suffering of the woman matters too. Judaism teaches that the mother's life comes first and that the foetus is not a full person until it is mostly born. Pro-choice supporters argue that a woman has the right to decide what happens to her own body and that quality of life matters, for example if a baby would be born with a severe condition. This argument is strong in extreme cases such as danger to life, but it is less convincing if the reason is only convenience, as it does not explain the rights of the unborn child.\n\nIn conclusion, I think the word 'always' makes the statement too strong. Even religious teaching recognises exceptions, such as saving the mother's life, and a loving God would not want a woman to die. However, I think the sanctity of life means abortion should never be taken lightly, and Christians would say it should be a last resort with support and alternatives offered. Therefore abortion is a serious moral wrong in most cases, but not in every case.",
    "for": [
     "Catholic teaching: life begins at conception and is sacred (Genesis 1:27, Catechism).",
@@ -1858,7 +2729,7 @@
    "topic": "tb-09",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Euthanasia should be legal.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "q": "'Euthanasia should be legal.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Some people believe euthanasia should be legal. Non-religious people, such as humanists, argue that people should be able to choose a dignified death and avoid pointless suffering, as they have a right to decide about their own lives. Some Christians agree, quoting 'Blessed are the merciful' (Matthew 5:7): if a person is in unbearable pain and clearly asks to die, helping them could be the most loving act. God gave humans free will, so they should be able to decide how they die. This argument is strong because it is based on compassion and autonomy, but it relies on there being safeguards so the choice is truly free.\n\nHowever, many people think euthanasia should remain illegal. The Catholic Church and Church of England teach that life is a gift from God and only God should end it. Exodus 20:13 says 'You shall not murder', and 1 Corinthians 6:19 says our bodies are 'temples of the Holy Spirit'. Orthodox Jews also see euthanasia as murder. They argue that hospices and palliative care can control pain without ending life. Many people also worry that if euthanasia were legal, the elderly, disabled or poor might feel pressured to choose it, or that mistakes might be made. This argument is strong because the risk of pressure on vulnerable people is real, and it is hard to reverse the choice once made.\n\nIn conclusion, I think the arguments against are slightly stronger. Compassion is important, but the sanctity of life and the risk of harm to vulnerable people mean that changing the law is dangerous. Better palliative care is a safer way to reduce suffering. However, I accept that people who are dying and in great pain can have a powerful case, so the law needs to be debated carefully, and religious and non-religious people can reasonably disagree.",
    "for": [
     "Compassion and mercy (Matthew 5:7): ending unbearable suffering can be loving.",
@@ -1879,7 +2750,7 @@
    "topic": "tb-10",
    "marks": 12,
    "type": "evaluate",
-   "q": "'There is no good evidence for life after death.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "q": "'There is no good evidence for life after death.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Many non-religious people agree with this statement. Atheists and humanists say there is no scientific proof that anything happens after death, because nobody has been able to test it. They also point out that the mind depends on the brain, so when the brain stops, consciousness ends. Some say belief in heaven is just wishful thinking, because people find it hard to accept death. This argument is strong because science relies on evidence that can be tested, but it does not prove that there is no afterlife, only that science cannot measure it.\n\nHowever, religious people argue that there is good evidence. Christians point to the resurrection of Jesus, who rose from the dead and promised 'I am the resurrection and the life' (John 11:25). If Jesus rose, death is not the end. Many believers also cite religious experiences, and some people report near-death experiences. Christians and Jews also say that conscience and the sense that justice must be done suggest God will judge people after death (Matthew 25:31-46). Orthodox Jews believe God will raise the dead. This argument is strong for believers who accept the Bible as God's word, but is weaker for sceptics, as the resurrection depends on faith in the Gospels and near-death experiences could be caused by the brain.\n\nIn conclusion, I think the statement depends on what counts as 'good evidence'. If it means scientific proof, the statement is true, as there is none. But religious believers use a different kind of evidence, such as scripture and experience, which they find convincing. I think belief in life after death is reasonable, but it cannot be proved, so it ultimately requires faith. For someone who already believes in God, the resurrection is strong evidence. For someone who does not, it is not.",
    "for": [
     "No scientific proof of an afterlife.",
@@ -1899,7 +2770,7 @@
    "topic": "tb-03",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Looking after the environment is the most important duty for religious believers.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "q": "'Looking after the environment is the most important duty for religious believers.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Some religious people would agree with this statement. Christians and Jews believe God created the world and it belongs to him ('The earth is the Lord's', Psalm 24:1), so humans are stewards who must look after it. In Genesis 2:15 God told Adam to 'take care of' the garden. Jews also follow Tikkun Olam, repairing the world. If the environment is destroyed, there will be no future for humans or other creatures, so protecting it comes before everything else. This is a strong argument because environmental damage such as climate change affects everyone, especially the poor, and cannot easily be reversed.\n\nHowever, other believers say it is not the most important duty. Jesus said the greatest commandments are to love God and love your neighbour (Matthew 22:37-39), so worshipping God and caring for people come first. Christians may argue that helping the poor, the sick and the homeless is more urgent than protecting nature, and that humans are more valuable than the rest of creation because they are made in God's image. Some believers also think that since God is in control, humans cannot be the only ones responsible. This argument is strong because Jesus put people first, but it is weaker when we remember that harming the environment also harms people, so the two duties are linked.\n\nIn conclusion, I think looking after the environment is a very important duty but not necessarily the most important one. Religious teaching puts loving God and loving others first, but caring for the environment is a way of doing both, because it respects God's creation and protects human life. For this reason I believe the duties support each other, and a believer who ignores the environment is failing in other duties as well.",
    "for": [
     "The world is God's (Psalm 24:1) and humans are stewards (Genesis 2:15).",
@@ -1918,7 +2789,7 @@
    "topic": "tb-01",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Science has disproved what religion teaches about the origins of the universe.' Evaluate this statement. In your answer you should: refer to religious teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. You may refer to non-religious points of view.",
+   "q": "'Science has disproved what religion teaches about the origins of the universe.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
    "model": "Some people agree with this statement. Genesis 1 teaches that God created the world in six days, but the Big Bang theory says the universe began almost 14 billion years ago and developed through natural processes. Scientists can support the Big Bang with evidence, such as the expansion of the universe, while there is no scientific evidence for the six days. Non-religious people, such as atheists, say that science explains the universe without needing God. This argument is strong for those who only trust evidence, because the Big Bang is supported by testable observations.\n\nHowever, many religious people disagree. Creationist Christians and some Orthodox Jews say Genesis is the word of God, so it is true and science is mistaken. Others say there is no conflict at all. Catholics and liberal Christians accept the Big Bang and say Genesis is a symbolic story. They believe that God caused the Big Bang, so science explains how the universe began and religion explains why. The Big Bang theory was even first proposed by a Catholic priest, Georges Lemaitre. Science also cannot explain what caused the Big Bang or why anything exists at all. This argument is strong because it respects both sides, but it does not satisfy creationists who think the Bible should be taken literally.\n\nIn conclusion, I do not think science has disproved religion. Science may have disproved a literal reading of Genesis for some believers, but religion is not mainly about how the universe began. It is about why it exists and what it means. Since science cannot answer questions of purpose or what came before the Big Bang, belief in a creator God remains possible. Therefore the statement is too strong, although it does challenge those who read Genesis literally.",
    "for": [
     "Genesis says six days; science says almost 14 billion years.",
@@ -2089,6 +2960,834 @@
     "Resurrection and eternal life (1), development (1), John 11:25-26 or 1 Corinthians 15 (1), application (1).",
     "Judgement (1), development (1), Matthew 25:31-46 (1), application (1).",
     "Other creditable: heaven (Revelation 21:4); Catholic purgatory; Jewish Olam Ha-Ba and resurrection."
+   ]
+  },
+  {
+   "topic": "tb-08",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different beliefs in contemporary British society about abortion. In your answer you should refer to the main religious tradition of Great Britain and one or more other religious traditions.",
+   "model": "One belief, held by the Catholic Church, is that abortion is always wrong. This is because Catholics believe life begins at conception and is sacred, so ending a pregnancy deliberately kills an innocent human being, which breaks 'You shall not murder'. A different belief, held by Reform Jews, is that abortion can be acceptable, and the woman should make the decision after careful thought. This is because Judaism teaches that the foetus is not yet a full person, and the mother's life and health come first, as the Mishnah says her life comes before the life of the foetus.",
+   "points": [
+    "Catholic or Evangelical: abortion is wrong (1), life begins at conception / sanctity of life / Exodus 20:13 / CCC 2270 (1).",
+    "Church of England: only in strictly limited cases (1), lesser of two evils when the mother's life or health is at serious risk (1).",
+    "Jewish: abortion allowed or required to save the mother (1), the foetus is not a full person / Mishnah Oholot 7:6; Reform Jews leave it to the woman (1).",
+    "Do not credit the law as a religious belief, but non-religious pro-choice views can be a contrast if the question allows."
+   ]
+  },
+  {
+   "topic": "tb-05",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different beliefs in contemporary British society about animal experimentation. In your answer you should refer to the main religious tradition of Great Britain and one or more other religious traditions.",
+   "model": "One belief, held by the Catholic Church, is that animal experiments can be acceptable. This is because humans are made in God's image and have greater value, so the Catechism says experiments within reasonable limits are acceptable if they help to save human lives. A different belief, held by some Christians who campaign for animal welfare, is that animal experiments are wrong. This is because animals are God's creatures and 'the righteous care for the needs of their animals' (Proverbs 12:10), so causing them pain for human benefit abuses the dominion God gave.",
+   "points": [
+    "Catholic or Orthodox Jewish: acceptable if it saves human life and suffering is minimised (1), CCC 2417 / humans in God's image / pikuach nefesh / tza'ar ba'alei chayim limits pain (1).",
+    "Animal-welfare Christian or other: wrong (1), animals are God's creatures / Proverbs 12:10 / Andrew Linzey / alternatives exist (1).",
+    "Other creditable: non-religious views such as Peter Singer's speciesism argument."
+   ]
+  },
+  {
+   "topic": "tb-09",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different beliefs in contemporary British society about assisted dying. In your answer you should refer to the main religious tradition of Great Britain and one or more other religious traditions.",
+   "model": "One belief, held by the Church of England, is that assisted dying should not be made legal. This is because life is a gift from God, and the Church believes a change in the law would put pressure on elderly, ill and disabled people to end their lives so as not to be a burden, so it supports hospices instead. A different belief, held by some Reform Jews, is that assisted dying can be right with strong safeguards. This is because compassion matters, and a mentally competent person who is dying and suffering greatly should be able to choose a peaceful death.",
+   "points": [
+    "Catholic, Church of England or Orthodox Jewish: against (1), sanctity of life / pressure on the vulnerable / hospices and palliative care / Exodus 20:13 (1).",
+    "Liberal Christian or Reform Jewish: may be acceptable (1), compassion / Matthew 5:7 / autonomy with safeguards (1).",
+    "Other creditable: Orthodox Jews allow removing things that only delay death; humanists support assisted dying."
+   ]
+  },
+  {
+   "topic": "tb-02",
+   "marks": 4,
+   "type": "similar",
+   "q": "Explain two similar religious beliefs about the duty of stewardship. In your answer you must refer to one or more religious traditions.",
+   "model": "One belief, held by Christians, is that humans have a duty to look after the world because it belongs to God. Psalm 24:1 says 'The earth is the Lord's', so humans are only caretakers who will have to answer to God for how they used it. A similar belief, held by Jews, is that humans must care for and repair God's world. This is the idea of Tikkun Olam and bal tashchit, which forbid waste, so Jews should protect the environment and pass it on in good condition to future generations.",
+   "points": [
+    "Christian: the world belongs to God / humans are caretakers (1), Psalm 24:1 / Genesis 2:15 / accountable to God (1).",
+    "Jewish: duty to care for and repair the world (1), Tikkun Olam / bal tashchit / Midrash Kohelet Rabbah 7:13 (1).",
+    "Other creditable: future generations; the poor suffer most from damage."
+   ]
+  },
+  {
+   "topic": "tb-03",
+   "marks": 4,
+   "type": "similar",
+   "q": "Explain two similar religious beliefs about the use of natural resources. In your answer you must refer to one or more religious traditions.",
+   "model": "One belief, held by Christians, is that natural resources should be used carefully and not wasted. This is because the earth belongs to God and humans are stewards, so in the Parable of the Talents God expects people to use what he has given them wisely. A similar belief, held by Jews, is that wasting resources is forbidden. The teaching of bal tashchit, based on not destroying fruit trees (Deuteronomy 20:19), means Jews should avoid needless destruction and use resources in a sustainable way.",
+   "points": [
+    "Christian: use resources carefully as stewards (1), Psalm 24:1 / Parable of the Talents / Laudato Si' (1).",
+    "Jewish: do not waste (1), bal tashchit / Deuteronomy 20:19 / Leviticus 25:23 land belongs to God (1)."
+   ]
+  },
+  {
+   "topic": "tb-07",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different religious beliefs about the importance of quality of life. In your answer you must refer to one or more religious traditions.",
+   "model": "One belief, held by the Catholic Church, is that the value of a human life does not depend on its quality. This is because every life is sacred from conception to natural death, made in God's image, so even a life with great suffering must not be deliberately ended. A different belief, held by some liberal Christians, is that quality of life is very important in making moral decisions. This is because situation ethics teaches that Christians should do the most loving thing, so it may be right to allow a pregnancy to end or a dying person to refuse treatment to prevent great suffering.",
+   "points": [
+    "Catholic or Orthodox Jewish: sanctity of life matters more than quality (1), life is God's gift / image of God / Job 1:21 (1).",
+    "Liberal Christian or Reform Jewish: quality of life matters (1), compassion / situation ethics / avoiding suffering (1)."
+   ]
+  },
+  {
+   "topic": "tb-10",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different religious beliefs about what happens after death. In your answer you must refer to one or more religious traditions.",
+   "model": "One belief, held by Catholics, is that after death souls may go to purgatory before heaven. This is because Catholics believe a soul must be cleansed of sin before it can be with God, so they pray for the dead to help them. A different belief, held by many Reform Jews, is that the soul lives on with God, but bodily resurrection is not expected. This is because Reform Judaism focuses on living a good life now by following the mitzvot, and many Reform Jews accept cremation.",
+   "points": [
+    "Catholic: heaven, hell and purgatory / judgement (1), soul cleansed / prayer for the dead / John 11:25 (1).",
+    "Protestant: salvation through faith, no purgatory (1); Orthodox Jewish: resurrection in the Messianic age, burial (1); Reform Jewish: the soul lives on, focus on this life (1).",
+    "Two different beliefs, each developed, for 4 marks."
+   ]
+  },
+  {
+   "topic": "tb-01",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about the origins of the universe. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief is that God created the universe out of nothing, simply by speaking. Genesis 1:3 says 'And God said, Let there be light, and there was light.' This means Christians and Jews believe God is all-powerful and the universe depends on him, so many praise God as creator in worship. Another belief is that the Big Bang can be the way God created the universe. Many Christians read Genesis as a symbolic story rather than a scientific account. Pope Francis said in 2014 that the Big Bang does not contradict a divine creator but needs one. This means Catholics can accept science while believing God started the universe for a purpose.",
+   "points": [
+    "God created ex nihilo / by his word (1), developed: omnipotence, the universe depends on God (1).",
+    "Source: Genesis 1:1, Genesis 1:3 or Hebrews 11:3 (1), applied (1).",
+    "Big Bang as God's method / Genesis symbolic (1), developed: science explains how, religion why (1).",
+    "Source: Pope Francis 2014, John 1:3, or Lemaitre as a Catholic priest (1), applied (1)."
+   ]
+  },
+  {
+   "topic": "tb-04",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about why believers should help to reduce pollution. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief is that the world belongs to God, so polluting it abuses something he has entrusted to us. Psalm 24:1 says 'The earth is the Lord's, and everything in it.' This means Christians and Jews are stewards who must keep the world clean, so they might recycle, cut plastic use and join schemes such as Eco Church. Another belief is that pollution harms other people, especially the poor and future generations. Jesus taught 'Love your neighbour as yourself' (Matthew 22:39). This means Christians should reduce air and water pollution that damages people's health, for example by walking or cycling instead of driving and campaigning for cleaner rivers.",
+   "points": [
+    "Stewardship / God owns the world (1), developed: polluting abuses God's gift (1).",
+    "Source: Psalm 24:1, Genesis 2:15 or Laudato Si' (1), applied to pollution (1).",
+    "Pollution harms neighbours, the poor and future generations (1), developed with an example (1).",
+    "Source: Matthew 22:39 or bal tashchit (Deuteronomy 20:19) (1), applied (1)."
+   ]
+  },
+  {
+   "topic": "tb-06",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about the origins of human life. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief is that God created humans directly and specially. Genesis 2:7 says God 'formed a man from the dust of the ground and breathed into his nostrils the breath of life'. This means creationist Christians believe Adam and Eve were real people made by God, and that each human has a soul given by God. Another belief is that God created humans through evolution. Catholics accept that the human body may have evolved, but teach that each soul is created directly by God, and Genesis 1:27 says humans are made 'in his own image'. This means Catholics can accept Darwin's science while still believing human life is sacred and has a purpose.",
+   "points": [
+    "God created humans directly (1), developed: creationism / Adam and Eve literal (1).",
+    "Source: Genesis 2:7 (1), applied: humans have a God-given soul (1).",
+    "God used evolution (1), developed: Genesis symbolic, Catholic view on the soul (1).",
+    "Source: Genesis 1:27, Pope John Paul II 1996 or Psalm 139:13 (1), applied (1)."
+   ]
+  },
+  {
+   "topic": "tb-08",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two religious beliefs about abortion when the mother's life is at risk. Refer to sacred writings or another source of religious belief and teaching in your answer.",
+   "model": "One belief, held by Jews, is that the mother's life must come first. The Mishnah teaches that if a woman is having difficulty giving birth, her life comes before the life of the foetus (Mishnah Oholot 7:6). This means that in Judaism abortion is not just allowed but required when the mother would otherwise die, because the foetus is not yet a full person. Another belief, held by Catholics, is that a doctor may treat the mother even if the baby dies as a result, but must not directly intend to kill the baby. This is the principle of double effect. The Catechism teaches that life must be protected from conception (CCC 2270), so a Catholic doctor may remove a cancerous womb to save the mother, accepting but not aiming at the death of the foetus.",
+   "points": [
+    "Jewish: mother's life comes first (1), developed: foetus not a full person until birth (1).",
+    "Source: Mishnah Oholot 7:6 or Exodus 21:22 (1), applied: abortion is required (1).",
+    "Catholic: double effect, treatment allowed but not direct abortion (1), developed with an example such as an ectopic pregnancy or cancerous womb (1).",
+    "Source: CCC 2270 or Exodus 20:13 (1), applied (1). Church of England 'lesser of two evils' also creditable."
+   ]
+  },
+  {
+   "topic": "tb-02",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Humans have the right to use the world however they want.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "model": "Some people might agree with this statement. In Genesis 1:28 God tells humans to 'rule over' the fish, birds and every living creature, which is called dominion. A minority of Christians have read this as meaning the world was made for human use, so humans may use its resources as they need. Some non-religious people also argue that humans are the most intelligent species and that economic growth, which uses natural resources, lifts people out of poverty. This argument has some strength because humans do need to use the world to survive, for food, energy and shelter. However, it is weak if it means 'however they want', because uncontrolled use has led to climate change and pollution that harm humans themselves.\n\nMost religious believers strongly disagree. Psalm 24:1 says 'The earth is the Lord's, and everything in it', so humans do not own the world; they are stewards who look after it for God. Genesis 2:15 says God put Adam in the garden 'to work it and take care of it'. Jews follow bal tashchit, which forbids needless destruction, and Tikkun Olam, the duty to repair the world. Pope Francis in Laudato Si' called the earth 'our common home' and said its abuse hurts the poor most. Humanists also disagree: although they do not believe in God, they argue we have a responsibility to other species and to future generations who will inherit the planet. This argument is very strong because it is shared by religious and non-religious people and is supported by scientific evidence about environmental damage.\n\nIn conclusion, I disagree with the statement. Humans clearly have a right to use the world to meet their needs, but not to use it 'however they want'. Even dominion is best understood as responsible rule, like a good king caring for his people. Because the world belongs to God for believers, and to future generations for humanists, its use must be careful and sustainable.",
+   "for": [
+    "Dominion: Genesis 1:28 gives humans power over creation.",
+    "Humans need natural resources for food, energy and development.",
+    "Some argue human needs and economic growth come first.",
+    "Evaluation: true that humans may use the world, but 'however they want' ignores harm."
+   ],
+   "against": [
+    "Stewardship: Psalm 24:1 and Genesis 2:15; humans are caretakers, not owners.",
+    "Jewish bal tashchit and Tikkun Olam forbid waste and call for repair.",
+    "Laudato Si': abuse of 'our common home' harms the poor.",
+    "Humanists: duty to future generations and other species.",
+    "Evaluation: strong because shared by religious and non-religious people and backed by science."
+   ],
+   "conclusion": "Humans may use the world to meet their needs, but not however they want: dominion means responsible rule, so use must be sustainable."
+  },
+  {
+   "topic": "tb-04",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Religious believers should do more than anyone else to stop pollution.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "model": "Some people agree with this statement. Christians and Jews believe the world belongs to God (Psalm 24:1), and that God gave humans the job of stewards, to 'work it and take care of it' (Genesis 2:15). If someone believes the earth is God's creation and that they will be judged on how they treated it, as in the Parable of the Talents, then they have an extra reason to care. Pope Francis's Laudato Si' says the earth is starting to look like 'an immense pile of filth' and calls believers to 'ecological conversion'. Jews also have the rule of bal tashchit against waste. This argument is strong because believers have both religious duties and practical networks, such as Eco Church, to make a difference.\n\nOn the other hand, many people would say pollution is everyone's responsibility equally. Pollution harms the health of everyone, through asthma, polluted rivers and climate change, so everyone has a reason to stop it, religious or not. Humanists argue from reason and compassion that we owe future generations a clean planet, and many environmental campaigners have no religion. Also, the biggest causes of pollution come from industry and transport, so governments and businesses, through laws such as the Climate Change Act 2008, can do far more than individual believers. Some Christians would agree, saying 'love your neighbour' means working together with everyone rather than competing. This argument is strong because it focuses on results rather than on who has the strongest motive.\n\nIn conclusion, I think religious believers do have extra reasons to stop pollution, because they see the world as God's gift and believe they are accountable to him. However, it is not fair to say they should do more than anyone else, as pollution affects everyone and needs everyone's effort, especially governments. The best view is that believers should set an example and work alongside others, rather than carry the burden alone.",
+   "for": [
+    "Stewardship: Psalm 24:1, Genesis 2:15; believers are accountable to God (Parable of the Talents).",
+    "Laudato Si' calls for 'ecological conversion'.",
+    "Jewish bal tashchit and Tikkun Olam.",
+    "Believers have networks such as Eco Church, A Rocha and CAFOD.",
+    "Evaluation: strong because believers have extra motives and means."
+   ],
+   "against": [
+    "Pollution harms everyone, so everyone is equally responsible.",
+    "Humanists: duty to future generations from reason and compassion.",
+    "Governments and businesses cause and can cut the most pollution (Climate Change Act 2008, Paris Agreement).",
+    "'Love your neighbour' suggests working together, not competing.",
+    "Evaluation: strong because it focuses on results."
+   ],
+   "conclusion": "Believers have extra reasons to act and should set an example, but pollution is everyone's responsibility, especially governments, so they should not be expected to do more than anyone else."
+  },
+  {
+   "topic": "tb-05",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'It is wrong to use animals for medical research.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "model": "Some religious believers agree with this statement. They argue that animals are God's creatures, which he saw were 'good' (Genesis 1:25), and Jesus taught that not one sparrow is forgotten by God (Luke 12:6). Proverbs 12:10 says 'The righteous care for the needs of their animals.' Christians such as the theologian Andrew Linzey argue animals have God-given worth, so causing them pain for human benefit abuses dominion. Non-religious thinkers like Peter Singer say favouring humans simply because they are human is 'speciesism', and animal rights groups point out that results from animals do not always apply to humans and that alternatives, such as computer models and human cell cultures, now exist. This argument is strong because animals can clearly suffer, and the UK government itself has a strategy to replace animal tests.\n\nOn the other hand, many religious believers think some animal research is justified. The Catholic Catechism (2417) says experiments on animals are morally acceptable 'within reasonable limits' if they help to care for or save human lives, because humans are made in God's image and have greater value. Orthodox Jews also allow research that is truly needed to save human life (pikuach nefesh), as long as pain is minimised (tza'ar ba'alei chayim). Many medicines and vaccines were developed with animal research, and UK law requires the 3Rs to reduce suffering. A utilitarian would say the suffering of a smaller number of animals is outweighed by the lives of millions of people saved. This is a strong argument because the benefit to human life is real and the research is closely controlled.\n\nIn conclusion, I disagree that it is always wrong. Where research is necessary to save human lives, there are no alternatives, and suffering is kept to a minimum, religious teaching on the special value of human life makes it acceptable. However, the argument against reminds us that animals matter to God, so research should be replaced wherever possible.",
+   "for": [
+    "Animals are God's creatures (Genesis 1:25, Luke 12:6, Proverbs 12:10).",
+    "Andrew Linzey: animals have God-given worth; experiments abuse dominion.",
+    "Peter Singer: speciesism; animal suffering counts equally.",
+    "Alternatives exist and animal results do not always apply to humans.",
+    "Evaluation: strong because animals clearly suffer."
+   ],
+   "against": [
+    "Catechism 2417: acceptable within reasonable limits to save human lives.",
+    "Humans are made in God's image and have greater value.",
+    "Orthodox Judaism: allowed for pikuach nefesh if pain is minimised.",
+    "Medicines and vaccines; strict UK law (3Rs); utilitarian benefit.",
+    "Evaluation: strong because human lives are saved under controls."
+   ],
+   "conclusion": "Not always wrong: necessary research with minimal suffering is acceptable, but animals matter to God so it should be replaced wherever possible."
+  },
+  {
+   "topic": "tb-06",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Evolution proves that God did not create human life.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "model": "Some people agree with this statement. Atheists such as Richard Dawkins argue that Darwin's theory of evolution by natural selection fully explains how humans developed from earlier species over millions of years, with strong evidence from fossils and DNA. If complex living things, including humans, can be explained by natural processes, there is no need for a creator. Evolution also contradicts a literal reading of Genesis, in which God made Adam from dust and Eve from his rib in a single day. This argument is strong because the scientific evidence for evolution is overwhelming and accepted by nearly all scientists.\n\nHowever, many religious believers disagree. The Catholic Church accepts evolution: Pope John Paul II said in 1996 it is 'more than a hypothesis', but taught that God creates each human soul directly. Many Christians and Jews read Genesis as a symbolic story that teaches why humans exist, that they are made 'in his own image' (Genesis 1:27), not a scientific account of how. This view is called theistic evolution: God used evolution as his method. Rabbi Jonathan Sacks argued that science explains how things work, while religion explains what they mean. Even creationists who reject evolution would disagree with the statement, though for different reasons, as they believe Genesis is literally true. This argument is strong because evolution describes a process, and a process cannot by itself show whether or not there is a God behind it.\n\nIn conclusion, I disagree with the statement. Evolution is very good evidence against a literal reading of Genesis, but it does not prove that God did not create human life. Believers who see God working through evolution are not contradicting science, and the question of why there is life at all, and why humans can love and think morally, is not something evolution can answer. The word 'proves' is therefore too strong.",
+   "for": [
+    "Darwin's natural selection explains human origins naturally (fossils, DNA).",
+    "Richard Dawkins: no need for a designer.",
+    "Evolution contradicts a literal reading of Genesis 2.",
+    "Evaluation: strong scientific evidence."
+   ],
+   "against": [
+    "Catholic Church accepts evolution; God creates each soul (John Paul II, 1996).",
+    "Genesis is symbolic: humans in God's image (Genesis 1:27); theistic evolution.",
+    "Rabbi Sacks: science explains how, religion what it means.",
+    "Creationists reject evolution itself.",
+    "Evaluation: a process cannot prove there is no God behind it."
+   ],
+   "conclusion": "Evolution counts against a literal Genesis but does not prove God did not create human life, so 'proves' is too strong."
+  },
+  {
+   "topic": "tb-07",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'The quality of a person's life is more important than the sanctity of life.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "model": "Some people agree with this statement. Humanists argue that life is valuable because of what a person can experience and enjoy, so if a life is full of unbearable pain with no hope of improvement, its quality matters more than an abstract idea of sacredness. Some liberal Christians use situation ethics, which says Christians should do the most loving (agape) thing in each situation; Jesus healed the sick and showed compassion ('Blessed are the merciful', Matthew 5:7). A utilitarian would also weigh the suffering of everyone affected. This argument is strong in extreme cases, such as terminal illness, where keeping someone alive may only prolong suffering.\n\nOn the other hand, many believers think the sanctity of life is more important. Christians and Jews believe all humans are made in God's image (Genesis 1:27), and that 'the Lord gave and the Lord has taken away' (Job 1:21), so only God should decide when life ends. The Catholic Church teaches that life is sacred from conception to natural death, whatever its quality. Judaism teaches that saving one life is like saving a whole world (Mishnah Sanhedrin 4:5). Critics of the quality of life view, including many disability rights groups, also warn that it could suggest some lives, such as those of disabled or elderly people, are worth less, and that judgements about quality can be wrong. This argument is strong because it protects the most vulnerable people and gives every life equal value.\n\nIn conclusion, I think the sanctity of life should remain the more important principle, because it treats every person as equally valuable and protects the vulnerable. However, quality of life should not be ignored: even the Catholic Church allows strong pain relief and stopping burdensome treatment, which shows compassion for quality of life within the limits of sanctity. So both matter, but sanctity should set the boundaries.",
+   "for": [
+    "Humanists: life's value lies in experience and wellbeing.",
+    "Situation ethics: do the most loving thing; Matthew 5:7.",
+    "Utilitarian weighing of suffering.",
+    "Evaluation: strong in extreme cases of suffering."
+   ],
+   "against": [
+    "Genesis 1:27: all made in God's image; Job 1:21: only God ends life.",
+    "Catholic teaching: sacred from conception to natural death.",
+    "Mishnah Sanhedrin 4:5: each life is like a whole world.",
+    "Quality judgements may devalue disabled or elderly people.",
+    "Evaluation: strong because it protects the vulnerable."
+   ],
+   "conclusion": "Sanctity of life should set the limits because it protects every person equally, but compassion for quality of life matters within those limits."
+  },
+  {
+   "topic": "tb-08",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Religious believers should accept abortion if the mother's life is at risk.' Evaluate this statement. In your answer you: should give reasoned arguments in support of this statement; should give reasoned arguments to support a different point of view; should refer to religious arguments; may refer to non-religious arguments; should reach a justified conclusion.",
+   "model": "Many religious believers agree with this statement. Judaism teaches that if a birth endangers the mother, 'her life comes before the life of the foetus' (Mishnah Oholot 7:6), so abortion is not just allowed but required, because the foetus is not yet a full person. The Church of England teaches that abortion may be the lesser of two evils in strictly limited cases, such as a serious risk to the mother's life. Many Christians also point out that if the mother dies, the baby will often die too, so saving one life is better than losing both. Compassion ('Blessed are the merciful', Matthew 5:7) and the sanctity of the mother's life both support this. This is a strong argument because it uses the sanctity of life on both sides, not just quality of life.\n\nOn the other hand, the Catholic Church teaches that direct abortion is always wrong, because life must be protected 'absolutely from the moment of conception' (CCC 2270), and two lives are equally sacred. Some pro-life Christians argue that doctors should try to save both lives, and that deliberately ending one innocent life to save another is still killing. However, even Catholics accept the principle of double effect: treatment to save the mother, such as removing an ectopic pregnancy or a cancerous womb, is allowed if the foetus's death is foreseen but not intended. This argument is strong because it refuses to treat any life as less valuable, but in practice it reaches a similar result in the most serious cases.\n\nIn conclusion, I agree with the statement. Almost all religious traditions, including Judaism, the Church of England and even Catholicism through double effect, accept that the mother's life can be saved even if the foetus dies. The disagreement is mainly about whether the death can be directly intended, not about whether the mother should be allowed to die. Therefore religious believers can and should accept life-saving treatment in this situation.",
+   "for": [
+    "Judaism: the mother's life comes first (Mishnah Oholot 7:6).",
+    "Church of England: lesser of two evils in strictly limited cases.",
+    "Saving one life is better than losing both; compassion (Matthew 5:7).",
+    "Evaluation: strong because it upholds the sanctity of the mother's life."
+   ],
+   "against": [
+    "Catholic: direct abortion always wrong; life protected from conception (CCC 2270).",
+    "Both lives are equally sacred; doctors should try to save both.",
+    "Ending an innocent life is still killing (Exodus 20:13).",
+    "But double effect allows life-saving treatment.",
+    "Evaluation: principled, but reaches a similar result in practice."
+   ],
+   "conclusion": "Nearly all traditions allow the mother's life to be saved even if the foetus dies; they differ only on whether its death may be directly intended, so believers should accept this."
+  }
+ ],
+ "truefalse": [
+  {
+   "topic": "tb-01",
+   "s": "The Big Bang theory was first proposed by a Catholic priest.",
+   "answer": true,
+   "why": "Georges Lemaitre proposed it in 1927."
+  },
+  {
+   "topic": "tb-01",
+   "s": "All Christians reject the Big Bang theory.",
+   "answer": false,
+   "why": "Creationists may, but the Catholic Church and most Christians accept it as God's method."
+  },
+  {
+   "topic": "tb-01",
+   "s": "Creation ex nihilo means God created the universe out of nothing.",
+   "answer": true,
+   "why": "Many Christians and Jews believe God created everything from nothing by his word."
+  },
+  {
+   "topic": "tb-01",
+   "s": "The Big Bang theory explains why the universe exists.",
+   "answer": false,
+   "why": "It explains how the universe developed; many believers say religion answers why."
+  },
+  {
+   "topic": "tb-02",
+   "s": "Dominion means the same as stewardship.",
+   "answer": false,
+   "why": "Dominion means power or control; stewardship means the duty to care. Most believers say dominion must be exercised as stewardship."
+  },
+  {
+   "topic": "tb-02",
+   "s": "Psalm 24:1 teaches that the earth belongs to God.",
+   "answer": true,
+   "why": "'The earth is the Lord's, and everything in it.'"
+  },
+  {
+   "topic": "tb-02",
+   "s": "Only religious people can feel awe and wonder at nature.",
+   "answer": false,
+   "why": "Non-religious people feel awe too, but explain it without God."
+  },
+  {
+   "topic": "tb-02",
+   "s": "Tikkun Olam means 'repairing the world'.",
+   "answer": true,
+   "why": "It is a Jewish duty that includes caring for the environment."
+  },
+  {
+   "topic": "tb-03",
+   "s": "Coal, oil and gas are renewable resources.",
+   "answer": false,
+   "why": "They are fossil fuels and will run out."
+  },
+  {
+   "topic": "tb-03",
+   "s": "Pope Francis's Laudato Si' was written about caring for the environment.",
+   "answer": true,
+   "why": "Published in 2015, it is about 'care for our common home'."
+  },
+  {
+   "topic": "tb-03",
+   "s": "Sustainable development means using resources as fast as possible to grow the economy.",
+   "answer": false,
+   "why": "It means meeting today's needs without harming future generations' ability to meet theirs."
+  },
+  {
+   "topic": "tb-03",
+   "s": "Christians believe environmental damage often hurts the poor most.",
+   "answer": true,
+   "why": "So caring for the environment links to loving your neighbour and helping 'the least of these'."
+  },
+  {
+   "topic": "tb-04",
+   "s": "Water pollution can be caused by sewage, oil spills and farm chemicals.",
+   "answer": true,
+   "why": "All of these contaminate rivers and seas."
+  },
+  {
+   "topic": "tb-04",
+   "s": "Recycling is a religious teaching about pollution.",
+   "answer": false,
+   "why": "It is an action. A teaching would be stewardship or 'love your neighbour'."
+  },
+  {
+   "topic": "tb-04",
+   "s": "Bal tashchit is a Jewish rule against needless waste and destruction.",
+   "answer": true,
+   "why": "It comes from Deuteronomy 20:19-20."
+  },
+  {
+   "topic": "tb-04",
+   "s": "Air pollution only affects the environment, not human health.",
+   "answer": false,
+   "why": "It causes asthma and lung disease and is linked to many early deaths."
+  },
+  {
+   "topic": "tb-05",
+   "s": "Testing cosmetics on animals is legal in the UK.",
+   "answer": false,
+   "why": "It has been banned since 1998."
+  },
+  {
+   "topic": "tb-05",
+   "s": "The Catholic Catechism allows some animal experiments that help save human lives.",
+   "answer": true,
+   "why": "CCC 2417 says so, within reasonable limits."
+  },
+  {
+   "topic": "tb-05",
+   "s": "Jews may eat any meat as long as it is cooked properly.",
+   "answer": false,
+   "why": "It must be from a kosher animal, killed by shechita, and not mixed with milk."
+  },
+  {
+   "topic": "tb-05",
+   "s": "Genesis 9:3 is used to show humans may eat animals.",
+   "answer": true,
+   "why": "After the flood God gives animals as food."
+  },
+  {
+   "topic": "tb-05",
+   "s": "The commandment 'You shall not murder' is the best source against animal experiments.",
+   "answer": false,
+   "why": "It is about human life. Use Proverbs 12:10 or Genesis 1:25 instead."
+  },
+  {
+   "topic": "tb-06",
+   "s": "The Catholic Church allows belief in evolution.",
+   "answer": true,
+   "why": "It accepts evolution of the body, while teaching that God creates each soul."
+  },
+  {
+   "topic": "tb-06",
+   "s": "Charles Darwin published On the Origin of Species in 1859.",
+   "answer": true,
+   "why": "It set out the theory of evolution by natural selection."
+  },
+  {
+   "topic": "tb-06",
+   "s": "Intelligent design is the same as atheism.",
+   "answer": false,
+   "why": "Intelligent design argues life is too complex to be chance, so a designer exists."
+  },
+  {
+   "topic": "tb-06",
+   "s": "All Jews take Genesis literally.",
+   "answer": false,
+   "why": "Some Orthodox Jews do, but many Jews read it symbolically and accept evolution."
+  },
+  {
+   "topic": "tb-07",
+   "s": "Quality of life means life is holy because God made it.",
+   "answer": false,
+   "why": "That is the sanctity of life. Quality of life is about wellbeing, health and happiness."
+  },
+  {
+   "topic": "tb-07",
+   "s": "Pikuach nefesh allows Jews to break Shabbat to save a life.",
+   "answer": true,
+   "why": "Saving life overrides almost all other commandments."
+  },
+  {
+   "topic": "tb-07",
+   "s": "Situation ethics says Christians should always follow fixed rules whatever the situation.",
+   "answer": false,
+   "why": "It says do the most loving thing (agape) in each situation."
+  },
+  {
+   "topic": "tb-07",
+   "s": "Some non-religious people also believe human life is special and should be protected.",
+   "answer": true,
+   "why": "They may hold a non-religious version of the sanctity of life."
+  },
+  {
+   "topic": "tb-08",
+   "s": "The legal time limit for most abortions in Great Britain is 24 weeks.",
+   "answer": true,
+   "why": "Under the Abortion Act 1967 as amended in 1990."
+  },
+  {
+   "topic": "tb-08",
+   "s": "Since 2026 abortion is legal on request at any stage in England and Wales.",
+   "answer": false,
+   "why": "The 2026 Act stopped women being prosecuted for their own pregnancy, but the Abortion Act rules for doctors (two doctors, usually 24 weeks) still apply."
+  },
+  {
+   "topic": "tb-08",
+   "s": "Judaism requires an abortion if the mother's life is in danger.",
+   "answer": true,
+   "why": "Her life comes first (Mishnah Oholot 7:6)."
+  },
+  {
+   "topic": "tb-08",
+   "s": "The Church of England teaches that abortion is never allowed under any circumstances.",
+   "answer": false,
+   "why": "It accepts abortion may be the lesser of two evils in strictly limited cases."
+  },
+  {
+   "topic": "tb-08",
+   "s": "The Catholic Church allows treatment to save a mother's life even if the foetus dies as a side effect.",
+   "answer": true,
+   "why": "This follows the principle of double effect."
+  },
+  {
+   "topic": "tb-09",
+   "s": "Assisted dying became legal in England and Wales in 2026.",
+   "answer": false,
+   "why": "The bill fell in April 2026 and a new version was defeated in September 2026, so it remains illegal (as of November 2026)."
+  },
+  {
+   "topic": "tb-09",
+   "s": "Suicide is not a crime in England and Wales, but assisting a suicide is.",
+   "answer": true,
+   "why": "The Suicide Act 1961 decriminalised suicide; assisting can bring up to 14 years in prison."
+  },
+  {
+   "topic": "tb-09",
+   "s": "The Catholic Church says doctors must always use every possible treatment to keep someone alive.",
+   "answer": false,
+   "why": "Burdensome or extraordinary treatment may be stopped (CCC 2278)."
+  },
+  {
+   "topic": "tb-09",
+   "s": "Humanists UK supports legal assisted dying with safeguards.",
+   "answer": true,
+   "why": "It argues for autonomy and a dignified death for the terminally ill or incurably suffering."
+  },
+  {
+   "topic": "tb-10",
+   "s": "Catholics believe in purgatory.",
+   "answer": true,
+   "why": "A state where souls are cleansed before heaven."
+  },
+  {
+   "topic": "tb-10",
+   "s": "Orthodox Jews usually prefer cremation.",
+   "answer": false,
+   "why": "They bury the body because of belief in bodily resurrection."
+  },
+  {
+   "topic": "tb-10",
+   "s": "Humanists believe people go to heaven if they live good lives.",
+   "answer": false,
+   "why": "Humanists believe death is the end; people live on through memories and achievements."
+  },
+  {
+   "topic": "tb-10",
+   "s": "Belief in judgement encourages Christians to help people in need.",
+   "answer": true,
+   "why": "In Matthew 25:31-46 people are judged on how they treated the hungry, sick and strangers."
+  }
+ ],
+ "short": [
+  {
+   "topic": "tb-01",
+   "q": "Give one piece of scientific evidence for the Big Bang.",
+   "a": "Red shift (accept: cosmic microwave background radiation; expansion of the universe)."
+  },
+  {
+   "topic": "tb-01",
+   "q": "Give one religious belief about the origins of the universe.",
+   "a": "God created the universe (accept: out of nothing; in six days; by his word; the Big Bang was God's method)."
+  },
+  {
+   "topic": "tb-01",
+   "q": "Give the meaning of the term 'creation ex nihilo'.",
+   "a": "Creation out of nothing."
+  },
+  {
+   "topic": "tb-02",
+   "q": "Give the meaning of the term 'stewardship'.",
+   "a": "The idea that believers have a duty from God to look after the world."
+  },
+  {
+   "topic": "tb-02",
+   "q": "Give one example of what religious believers might do to care for the world.",
+   "a": "Recycle (accept: save energy, plant trees, join Eco Church, support A Rocha or CAFOD)."
+  },
+  {
+   "topic": "tb-02",
+   "q": "Name one Jewish teaching about caring for the world.",
+   "a": "Tikkun Olam (accept: bal tashchit; Shmita; Tu BiShvat)."
+  },
+  {
+   "topic": "tb-02",
+   "q": "Give one reason why many people feel awe and wonder at the natural world.",
+   "a": "Its beauty or vastness (accept: it shows God's power; its complexity)."
+  },
+  {
+   "topic": "tb-03",
+   "q": "Give one example of a natural resource.",
+   "a": "Oil (accept: coal, gas, water, trees, minerals, soil)."
+  },
+  {
+   "topic": "tb-03",
+   "q": "Give one example of abuse of the environment.",
+   "a": "Deforestation (accept: over-fishing, burning fossil fuels, wasting water)."
+  },
+  {
+   "topic": "tb-03",
+   "q": "Name one religious charity or scheme that works to protect the environment.",
+   "a": "Eco Church (accept: A Rocha, CAFOD, Christian Aid, Tearfund, EcoJudaism)."
+  },
+  {
+   "topic": "tb-04",
+   "q": "Give one type of pollution.",
+   "a": "Air pollution (accept: water, land, plastic, noise, light)."
+  },
+  {
+   "topic": "tb-04",
+   "q": "Give one way religious believers can help to prevent pollution.",
+   "a": "Cycle or use public transport (accept: recycle, avoid single-use plastic, save energy, litter picking)."
+  },
+  {
+   "topic": "tb-04",
+   "q": "Give one religious reason for reducing pollution.",
+   "a": "Stewardship: the world belongs to God (accept: love your neighbour; bal tashchit; Tikkun Olam)."
+  },
+  {
+   "topic": "tb-05",
+   "q": "Give one reason why some religious believers support animal experimentation.",
+   "a": "It helps save human lives (accept: humans have dominion; human life is more valuable; lesser of two evils)."
+  },
+  {
+   "topic": "tb-05",
+   "q": "Give one reason why some religious believers are against animal experimentation.",
+   "a": "Animals are God's creatures and should not suffer (accept: Proverbs 12:10; alternatives exist; abuse of dominion)."
+  },
+  {
+   "topic": "tb-05",
+   "q": "Give the meaning of the term 'kosher'.",
+   "a": "Food that is allowed by Jewish law."
+  },
+  {
+   "topic": "tb-05",
+   "q": "Name the Jewish teaching that forbids causing unnecessary pain to animals.",
+   "a": "Tza'ar ba'alei chayim."
+  },
+  {
+   "topic": "tb-06",
+   "q": "Give the meaning of the term 'evolution'.",
+   "a": "The scientific theory that living things have developed over millions of years from simpler forms."
+  },
+  {
+   "topic": "tb-06",
+   "q": "Give one religious belief about the origins of human life.",
+   "a": "God made humans in his image (accept: from dust with the breath of life; through evolution as God's method)."
+  },
+  {
+   "topic": "tb-06",
+   "q": "Name the scientist who wrote On the Origin of Species.",
+   "a": "Charles Darwin."
+  },
+  {
+   "topic": "tb-07",
+   "q": "Give the meaning of the term 'sanctity of life'.",
+   "a": "The belief that all life is holy because it is created by God and belongs to him."
+  },
+  {
+   "topic": "tb-07",
+   "q": "Give the meaning of the term 'quality of life'.",
+   "a": "The general wellbeing of a person in relation to their health and happiness."
+  },
+  {
+   "topic": "tb-07",
+   "q": "Name the Jewish principle that saving a life overrides other laws.",
+   "a": "Pikuach nefesh."
+  },
+  {
+   "topic": "tb-08",
+   "q": "Give the legal time limit for most abortions in Great Britain.",
+   "a": "24 weeks."
+  },
+  {
+   "topic": "tb-08",
+   "q": "Give one religious reason against abortion.",
+   "a": "Life begins at conception and is sacred (accept: 'You shall not murder'; Jeremiah 1:5; Psalm 139:13)."
+  },
+  {
+   "topic": "tb-08",
+   "q": "Give one situation in which many religious believers accept abortion.",
+   "a": "When the mother's life is at risk (accept: after rape; serious risk to her health)."
+  },
+  {
+   "topic": "tb-08",
+   "q": "Give the meaning of the term 'pro-choice'.",
+   "a": "The belief that a woman has the right to choose whether to have an abortion."
+  },
+  {
+   "topic": "tb-09",
+   "q": "Give the meaning of the term 'euthanasia'.",
+   "a": "The painless killing of a patient suffering from an incurable disease or an irreversible coma."
+  },
+  {
+   "topic": "tb-09",
+   "q": "Give one alternative to euthanasia.",
+   "a": "Hospice care (accept: palliative care; pain relief)."
+  },
+  {
+   "topic": "tb-09",
+   "q": "Give one religious reason against euthanasia.",
+   "a": "Only God should end life (accept: sanctity of life; 'You shall not murder'; Ecclesiastes 3:2; suffering can have meaning)."
+  },
+  {
+   "topic": "tb-09",
+   "q": "Name one type of euthanasia.",
+   "a": "Voluntary (accept: non-voluntary, involuntary, active, passive)."
+  },
+  {
+   "topic": "tb-10",
+   "q": "Give one Christian belief about life after death.",
+   "a": "Resurrection (accept: judgement, heaven, hell, purgatory, eternal life)."
+  },
+  {
+   "topic": "tb-10",
+   "q": "Give one non-religious argument against life after death.",
+   "a": "There is no scientific evidence (accept: the mind depends on the brain; wishful thinking)."
+  },
+  {
+   "topic": "tb-10",
+   "q": "Name the Jewish belief in the world to come.",
+   "a": "Olam Ha-Ba."
+  }
+ ],
+ "spec": [
+  {
+   "point": "Contrasting perspectives in contemporary British society on every Theme B issue, including religious and non-religious (humanist, atheist) views",
+   "topics": [
+    "tb-01",
+    "tb-02",
+    "tb-03",
+    "tb-04",
+    "tb-05",
+    "tb-06",
+    "tb-07",
+    "tb-08",
+    "tb-09",
+    "tb-10"
+   ]
+  },
+  {
+   "point": "Abortion: contrasting beliefs (Christianity and at least one other religion)",
+   "topics": [
+    "tb-08"
+   ]
+  },
+  {
+   "point": "Euthanasia: contrasting beliefs (Christianity and at least one other religion)",
+   "topics": [
+    "tb-09"
+   ]
+  },
+  {
+   "point": "Animal experimentation: contrasting beliefs (Christianity and at least one other religion)",
+   "topics": [
+    "tb-05"
+   ]
+  },
+  {
+   "point": "Origins of the universe: religious teachings and different interpretations of them",
+   "topics": [
+    "tb-01"
+   ]
+  },
+  {
+   "point": "Origins of the universe: the relationship between scientific views (the Big Bang) and religious views",
+   "topics": [
+    "tb-01"
+   ]
+  },
+  {
+   "point": "The value of the world and the duty of human beings to protect it",
+   "topics": [
+    "tb-02"
+   ]
+  },
+  {
+   "point": "Religious teaching about stewardship and dominion",
+   "topics": [
+    "tb-02"
+   ]
+  },
+  {
+   "point": "Religious teaching about responsibility, and awe and wonder",
+   "topics": [
+    "tb-02"
+   ]
+  },
+  {
+   "point": "Use and abuse of the environment: the use of natural resources",
+   "topics": [
+    "tb-03"
+   ]
+  },
+  {
+   "point": "Use and abuse of the environment: pollution",
+   "topics": [
+    "tb-04"
+   ]
+  },
+  {
+   "point": "Use and abuse of animals: animal experimentation",
+   "topics": [
+    "tb-05"
+   ]
+  },
+  {
+   "point": "Use and abuse of animals: the use of animals for food",
+   "topics": [
+    "tb-05"
+   ]
+  },
+  {
+   "point": "Origins of human life: religious teachings and different interpretations of them",
+   "topics": [
+    "tb-06"
+   ]
+  },
+  {
+   "point": "Origins of human life: the relationship between scientific views (evolution) and religious views",
+   "topics": [
+    "tb-06"
+   ]
+  },
+  {
+   "point": "The concepts of the sanctity of life and the quality of life",
+   "topics": [
+    "tb-07"
+   ]
+  },
+  {
+   "point": "Abortion, including situations when the mother's life is at risk",
+   "topics": [
+    "tb-08"
+   ]
+  },
+  {
+   "point": "Ethical arguments about abortion based on the sanctity of life and quality of life",
+   "topics": [
+    "tb-08",
+    "tb-07"
+   ]
+  },
+  {
+   "point": "Euthanasia",
+   "topics": [
+    "tb-09"
+   ]
+  },
+  {
+   "point": "Beliefs about death and an afterlife",
+   "topics": [
+    "tb-10"
+   ]
+  },
+  {
+   "point": "The impact of beliefs about death and an afterlife on beliefs about the value of human life",
+   "topics": [
+    "tb-10",
+    "tb-07"
    ]
   }
  ]

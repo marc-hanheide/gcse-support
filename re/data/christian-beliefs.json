@@ -15,6 +15,14 @@
    "overview": "Christians believe in one God who is all-powerful, all-loving and perfectly fair. These three qualities shape how Christians pray, behave and understand suffering.",
    "notes": [
     {
+     "h": "Christianity in Great Britain",
+     "bullets": [
+      "Christianity is the **main religious tradition** in Great Britain, but Britain is diverse: many people follow other religions or none.",
+      "Christians in Britain belong to many **denominations** (branches of the Church): Catholic, Church of England (Anglican), Methodist, Baptist, Pentecostal, Orthodox, Quaker and others.",
+      "They share core beliefs (one God, Jesus as Son of God, the Bible) but sometimes understand them differently. Good answers name the group: 'Catholics believe...', 'many Protestants believe...'."
+     ]
+    },
+    {
      "h": "Who is God?",
      "bullets": [
       "Christians believe there is only one God, who made everything that exists and who is holy (set apart and worthy of worship).",
@@ -27,7 +35,8 @@
      "bullets": [
       "God has unlimited power and authority. The clearest example is creation: God spoke and the universe came into being.",
       "Jesus' miracles and the virgin conception show that nothing is impossible for God (Luke 1:37).",
-      "Influence: Christians pray with confidence that God can help, and trust that God is in control even in hard times."
+      "Influence: Christians pray with confidence that God can help, and trust that God is in control even in hard times.",
+      "Jesus said 'with God all things are possible' (Matthew 19:26)."
      ]
     },
     {
@@ -45,6 +54,15 @@
       "Christians believe God will judge everyone (the living and the dead) and reward good and punish evil.",
       "Influence: Christians try to live fairly and campaign against injustice, because they believe God cares about justice and will hold them accountable."
      ]
+    },
+    {
+     "h": "How the qualities fit together",
+     "bullets": [
+      "Love and justice work together: a judge who is loving but not fair would let evil win, and a judge who is fair but not loving would show no mercy.",
+      "Christians believe the cross shows both: God's justice takes sin seriously, and God's love pays the price so people can be forgiven.",
+      "Power and love together explain why Christians trust God: he is able to help (omnipotent) and wants to help (loving).",
+      "These same qualities create the **problem of evil and suffering** (see the next topic): if God is powerful, loving and just, why is there suffering?"
+     ]
     }
    ],
    "views": [
@@ -53,12 +71,12 @@
      "text": "Emphasise that God is the source of all goodness and that people meet God's love through the Church and the sacraments, as well as through the Bible."
     },
     {
-     "label": "Protestant",
-     "text": "Stress that God's power and love are found above all in the Bible and in a personal relationship with Jesus."
+     "label": "Evangelical Protestant",
+     "text": "Stresses that God's power and love are found above all in the Bible and in a personal relationship with Jesus. God's justice and holiness are taken very seriously, which is why people need saving."
     },
     {
-     "label": "Some Christians (balance)",
-     "text": "Different Christians stress different qualities. Some focus on God's love and mercy, others on God's justice and holiness. Most believe the qualities work together."
+     "label": "Liberal Christian",
+     "text": "Stresses God's love and mercy most. Pictures of God as an angry judge are seen as products of their time; God's justice is mainly shown in care for the poor and oppressed."
     }
    ],
    "terms": [
@@ -107,9 +125,24 @@
      "text": "God will bring into judgement both the righteous and the wicked.",
      "ref": "Ecclesiastes 3:17",
      "use": "Supports God as a just judge."
+    },
+    {
+     "text": "He who doesn't love doesn't know God, for God is love.",
+     "ref": "1 John 4:8",
+     "use": "Shortest source for God's love (omnibenevolence). Use in loving and agape answers."
+    },
+    {
+     "text": "With men this is impossible, but with God all things are possible.",
+     "ref": "Matthew 19:26",
+     "use": "Jesus' own words showing God is omnipotent."
     }
    ],
-   "tip": "In 'influence' questions, always finish with what a Christian does or feels because of the belief, for example prays confidently, helps the poor, or tries to be fair."
+   "tip": "In 'influence' questions, always finish with what a Christian does or feels because of the belief, for example prays confidently, helps the poor, or tries to be fair.",
+   "pitfalls": [
+    "Mixing up the 'omni' words: omnipotent = all-powerful, omnibenevolent = all-loving, omniscient = all-knowing, omnipresent = everywhere. Learn them as a set.",
+    "In 4-mark influence questions, describing the belief alone is not enough. Each point needs what Christians do, feel or believe as a result (for example 'so they pray with confidence').",
+    "Writing 'God is just' as just 'God is good'. Just means fair: God judges fairly, rewards good and punishes evil."
+   ]
   },
   {
    "id": "cb-02",
@@ -137,11 +170,22 @@
      ]
     },
     {
+     "h": "Classic Christian theodicies",
+     "bullets": [
+      "**St Augustine** (4th to 5th century): God made a perfect world. Evil came from the misuse of free will by angels and by Adam and Eve (the **Fall**, Genesis 3). Natural evil is a consequence of the Fall. Suffering is a just result of sin, and God offers rescue through Jesus.",
+      "**St Irenaeus** (2nd century): humans were made immature, in God's 'image' but needing to grow into his 'likeness'. A world with challenges is a 'vale of soul-making', where people learn courage, compassion and trust.",
+      "**Limited God view:** some Christians (for example process theologians) say God is all-loving but not all-powerful in the usual sense, so he works with people to overcome suffering but cannot simply stop it.",
+      "**Job:** Job loses his children, wealth and health. His friends say he must have sinned, but he has not. God does not explain, but shows Job how small human understanding is. Job learns to trust (Job 38 to 42)."
+     ]
+    },
+    {
      "h": "Influence on Christians today",
      "bullets": [
       "Some Christians trust God more, pray for comfort and believe that suffering has a purpose.",
       "Others are motivated to reduce suffering by helping the poor, sick and refugees (Matthew 25).",
-      "For some people, the problem causes doubt or even loss of faith."
+      "For some people, the problem causes doubt or even loss of faith.",
+      "Christians pray for those who suffer, both privately and in church intercessions.",
+      "Many work as doctors, nurses or volunteers, or join charities such as Christian Aid, CAFOD or Tearfund, seeing this as being Jesus' hands in the world."
      ]
     }
    ],
@@ -157,6 +201,10 @@
     {
      "label": "Mystery view",
      "text": "Some Christians say humans cannot fully understand God's reasons and must trust him, as Job did."
+    },
+    {
+     "label": "Process theology",
+     "text": "God is all-loving but limited in power. God suffers alongside people and works with them to overcome evil, rather than stopping it by force."
     }
    ],
    "terms": [
@@ -205,9 +253,19 @@
      "text": "My God, my God, why have you forsaken me?",
      "ref": "Mark 15:34",
      "use": "Jesus felt suffering on the cross, so God understands human pain."
+    },
+    {
+     "text": "As sin entered into the world through one man, and death through sin; and so death passed to all men, because all sinned.",
+     "ref": "Romans 5:12",
+     "use": "Augustine's view: suffering and death entered the world through the Fall."
     }
    ],
-   "tip": "Separate moral and natural evil in your answer, and name the type of suffering you are writing about. Link each response (free will, the Devil, a test) to how Christians act."
+   "tip": "Separate moral and natural evil in your answer, and name the type of suffering you are writing about. Link each response (free will, the Devil, a test) to how Christians act.",
+   "pitfalls": [
+    "Answering an 'influence' question with examples of suffering or a list of theodicies. Say what Christians do or believe because of suffering (pray, help victims, trust God, sometimes lose faith).",
+    "In 12-mark answers, examiners want you to judge how strong each response is, not just describe it. Say why free will explains moral evil well but natural evil less well.",
+    "If the statement is about a loving God, keep your focus on God's love; do not drift into a general essay on the inconsistent triad."
+   ]
   },
   {
    "id": "cb-03",
@@ -239,12 +297,22 @@
       "Jesus told his disciples to baptise 'in the name of the Father and of the Son and of the Holy Spirit' (Matthew 28:19).",
       "Influence: Christians baptise, bless and worship in the name of the Trinity, and it shapes how they pray (to the Father, through the Son, in the Spirit)."
      ]
+    },
+    {
+     "h": "How belief in the Holy Spirit influences Christians",
+     "bullets": [
+      "**Guidance:** Christians believe the Spirit guides their decisions and helps them understand the Bible (John 14:26), so they pray for guidance before big choices.",
+      "**Comfort and strength:** Jesus called the Spirit the Counsellor or Comforter. Christians believe the Spirit helps them in hard times and even helps them pray (Romans 8:26).",
+      "**Courage to share faith:** at Pentecost the Spirit gave the frightened disciples courage to preach (Acts 2). Christians today feel moved to evangelise.",
+      "**Changed lives:** the Spirit produces the 'fruit of the Spirit' such as love, patience and kindness (Galatians 5:22-23), so Christians try to show these qualities.",
+      "**Worship:** Pentecostal and charismatic churches expect gifts of the Spirit in worship; Catholics and Anglicans pray for the Spirit at confirmation and ordination."
+     ]
     }
    ],
    "views": [
     {
-     "label": "Catholic and Protestant (Western)",
-     "text": "The Holy Spirit proceeds from the Father and the Son (the 'filioque' phrase in the Nicene Creed used by Western churches)."
+     "label": "Catholic and Protestant",
+     "text": "The Holy Spirit proceeds from the Father and the Son. The words 'and the Son' (the 'filioque') were added to the Nicene Creed in the Latin-speaking Church."
     },
     {
      "label": "Orthodox",
@@ -253,6 +321,10 @@
     {
      "label": "Non-Trinitarian groups",
      "text": "Some groups that call themselves Christian, such as Unitarians and Jehovah's Witnesses, reject the Trinity. Mainstream churches see it as essential."
+    },
+    {
+     "label": "Pentecostal and charismatic",
+     "text": "Expects the gifts of the Holy Spirit, such as speaking in tongues, prophecy and healing, to be experienced in lively worship today, as at the first Pentecost."
     }
    ],
    "terms": [
@@ -297,9 +369,24 @@
      "text": "I and the Father are one.",
      "ref": "John 10:30",
      "use": "Jesus links himself to the Father."
+    },
+    {
+     "text": "But the Counselor, the Holy Spirit, whom the Father will send in my name, he will teach you all things.",
+     "ref": "John 14:26",
+     "use": "Jesus promises the Spirit as guide and teacher: use for the Spirit's role and influence."
+    },
+    {
+     "text": "The grace of the Lord Jesus Christ, God's love, and the fellowship of the Holy Spirit, be with you all.",
+     "ref": "2 Corinthians 13:14",
+     "use": "A blessing naming all three persons, still said in many services ('the Grace')."
     }
    ],
-   "tip": "Always say 'one God in three persons'. Never say 'three gods'. Name each person's role (creator, saviour, guide)."
+   "tip": "Always say 'one God in three persons'. Never say 'three gods'. Name each person's role (creator, saviour, guide).",
+   "pitfalls": [
+    "Never say Christians believe in 'three gods'. Say 'one God in three persons'.",
+    "Do not describe the Trinity as God wearing three masks or changing roles; Christians believe all three persons exist at the same time.",
+    "Questions on the Holy Spirit's influence need actions or changed attitudes (guidance, comfort, courage to evangelise), not just a definition."
+   ]
   },
   {
    "id": "cb-04",
@@ -312,7 +399,8 @@
      "bullets": [
       "Genesis 1 describes God creating in six days: light, sky, land and plants, sun moon and stars, sea creatures and birds, land animals and humans. On the seventh day God rested.",
       "Humans are made 'in the image of God' (Genesis 1:27), which gives them special value.",
-      "God gave humans **stewardship**: responsibility to care for the earth (Genesis 1:28)."
+      "God gave humans **stewardship**: responsibility to care for the earth (Genesis 1:28).",
+      "Genesis 2 gives a second, different account: God forms Adam from the dust and breathes life into him (Genesis 2:7), then makes Eve. Some Christians see the two different accounts as a sign the stories are not meant as scientific records."
      ]
     },
     {
@@ -321,7 +409,9 @@
       "Genesis 1:2 says the Spirit of God was hovering over the waters, so the Holy Spirit was active in creation.",
       "Genesis 1:3 says 'God said, Let there be light'. The **Word** here is God's creative command.",
       "John 1:1-3 says the Word was with God and was God, and everything was made through him. Christians understand the Word as Jesus, the Son.",
-      "So all three persons of the Trinity are involved: Father creates, Son is the Word, Spirit gives life."
+      "So all three persons of the Trinity are involved: Father creates, Son is the Word, Spirit gives life.",
+      "The Greek word for 'Word' in John 1 is **Logos**, meaning word, reason or plan. Christians believe Jesus existed before creation and was not created.",
+      "Influence: the Nicene Creed says 'through him all things were made', so Christians see Jesus and the whole Trinity as creator, and worship him as God."
      ]
     },
     {
@@ -330,7 +420,9 @@
       "**Literal:** Genesis is exact history. A day is 24 hours and the world is thousands of years old (creationists, some Evangelicals and fundamentalists).",
       "**Non-literal or symbolic:** Genesis uses story and poetry to show that God made the world and why. The Hebrew word for 'day' may mean a long period.",
       "**Compatible with science:** many Christians, including the Catholic Church, accept the Big Bang and evolution as the way God created. 'Let there be light' could point to the Big Bang.",
-      "Influence: those who believe in creation by God see the world as sacred and care for the environment."
+      "Influence: those who believe in creation by God see the world as sacred and care for the environment.",
+      "Some Christians point to 2 Timothy 3:16 ('every Scripture is God-breathed') to argue the Bible must be accurate. Others reply that 'inspired' does not mean it is a science textbook.",
+      "Many scientists have been Christians, such as Georges Lemaitre, a Belgian Catholic priest and physicist who first proposed the idea that became the Big Bang theory."
      ]
     }
    ],
@@ -394,9 +486,24 @@
      "text": "Rule over the fish in the sea and the birds in the sky.",
      "ref": "Genesis 1:28",
      "use": "Humans have responsibility for the earth."
+    },
+    {
+     "text": "Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness.",
+     "ref": "2 Timothy 3:16",
+     "use": "Used by literalists to argue Genesis is true word for word; others say inspired does not mean scientific."
+    },
+    {
+     "text": "The heavens declare the glory of God. The expanse shows his handiwork.",
+     "ref": "Psalm 19:1",
+     "use": "Nature shows God as creator; supports seeing science as studying God's work."
     }
    ],
-   "tip": "The spec says 'role of Word and Spirit', so quote Genesis 1:1-3 and John 1:1-3 together. State clearly that Christians disagree, then name one literal and one non-literal view."
+   "tip": "The spec says 'role of Word and Spirit', so quote Genesis 1:1-3 and John 1:1-3 together. State clearly that Christians disagree, then name one literal and one non-literal view.",
+   "pitfalls": [
+    "If a statement says 'for Christians', compare Christian views. Do not write mainly about atheists or other religions.",
+    "When using the Big Bang as a Christian view, keep God in the argument (God caused the Big Bang). Otherwise it is not a religious argument.",
+    "Do not just retell the six days. Explain what the account means for Christians and how different groups read it."
+   ]
   },
   {
    "id": "cb-05",
@@ -408,7 +515,7 @@
      "h": "What is the incarnation?",
      "bullets": [
       "**Incarnation** means 'becoming flesh': God the Son took human form in Jesus (John 1:14).",
-      "In Luke 1:26-38 the angel Gabriel tells Mary, a virgin, that she will conceive by the Holy Spirit. In Matthew 1:20-21 an angel tells Joseph the child will be called Jesus, meaning 'saviour'.",
+      "In Luke 1:26-38 the angel Gabriel tells Mary, a virgin, that she will conceive by the Holy Spirit. In Matthew 1:20-21 an angel tells Joseph the child will be called Jesus (from the Hebrew Yeshua, 'God saves'), because he will save people from their sins.",
       "The **virgin conception** shows Jesus had a human mother but God as his Father, so he is both human and divine.",
       "Isaiah 7:14 is read by Christians as a prophecy: the child will be called **Emmanuel**, 'God with us'."
      ]
@@ -419,6 +526,16 @@
       "**Son of God:** at Jesus' baptism God's voice says 'You are my Son' (Mark 1:11). Christians believe Jesus has a unique relationship with God and is part of the Trinity.",
       "**Messiah** (Hebrew) and **Christ** (Greek) both mean 'anointed one'. Many Jews expected a military king. Christians believe Jesus was the Messiah who saves people from sin.",
       "Jesus is 'fully human and fully divine'. As human he felt hunger, pain and death. As God he performed miracles and forgave sins."
+     ]
+    },
+    {
+     "h": "Why did God become human?",
+     "bullets": [
+      "**To save:** only someone fully human could die for humans, and only someone fully God could defeat sin and death. The incarnation makes the atonement possible.",
+      "**To show what God is like:** Jesus said 'whoever has seen me has seen the Father' (John 14:9).",
+      "**To teach and set an example:** Jesus' teaching on love, forgiveness and caring for the poor shows humans how God wants them to live.",
+      "**To share human life:** Jesus experienced hunger, tiredness, temptation, grief and death (Hebrews 4:15), so Christians believe God truly understands them.",
+      "The Council of Chalcedon (AD 451) agreed that Jesus is one person with two natures, human and divine. This is still the teaching of Catholic, Orthodox and most Protestant churches."
      ]
     },
     {
@@ -486,9 +603,29 @@
      "text": "They will call him Immanuel (which means 'God with us').",
      "ref": "Matthew 1:23",
      "use": "Shows Jesus as God present among humans."
+    },
+    {
+     "text": "Behold, the virgin will conceive, and bear a son, and shall call his name Immanuel.",
+     "ref": "Isaiah 7:14",
+     "use": "The prophecy Christians link to the virgin conception and Emmanuel."
+    },
+    {
+     "text": "For in him all the fullness of the Deity dwells bodily.",
+     "ref": "Colossians 2:9",
+     "use": "Shows Jesus is fully God in a human body."
+    },
+    {
+     "text": "For we don't have a high priest who can't be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin.",
+     "ref": "Hebrews 4:15",
+     "use": "Jesus was fully human and understands human weakness, but did not sin."
     }
    ],
-   "tip": "Use the phrase 'fully God and fully human'. For influence, mention that Christians trust Jesus' teaching because it comes from God, and that God understands their suffering."
+   "tip": "Use the phrase 'fully God and fully human'. For influence, mention that Christians trust Jesus' teaching because it comes from God, and that God understands their suffering.",
+   "pitfalls": [
+    "Incarnation is not reincarnation (being reborn into a new body) and not the resurrection. It means God becoming flesh in Jesus.",
+    "Jesus is not half God and half human: Christians believe he is fully both.",
+    "Say 'virgin conception' or 'virgin birth' accurately: Mary conceived by the Holy Spirit without a human father."
+   ]
   },
   {
    "id": "cb-06",
@@ -503,6 +640,18 @@
       "He was crucified at Golgotha ('the place of the skull') between two criminals. He died on Friday afternoon, around 3pm.",
       "His last words included 'It is finished' (John 19:30) and 'Father, into your hands I commit my spirit' (Luke 23:46).",
       "A Roman centurion said 'Surely this man was the Son of God!' (Mark 15:39). Jesus was buried in a tomb before the Sabbath began."
+     ]
+    },
+    {
+     "h": "Key events and teachings",
+     "bullets": [
+      "Jesus predicted his death and resurrection to his disciples (Mark 9:31), so Christians believe it was part of God's plan, not an accident.",
+      "In the Garden of Gethsemane Jesus prayed 'not what I desire, but what you desire' (Mark 14:36), showing obedience to the Father.",
+      "He was mocked, flogged and given a crown of thorns. A sign on the cross called him 'King of the Jews'.",
+      "On the cross he prayed 'Father, forgive them, for they don't know what they are doing' (Luke 23:34), which teaches Christians to forgive even in terrible situations.",
+      "He cried 'My God, my God, why have you forsaken me?' (Mark 15:34), which shows the depth of his suffering.",
+      "Christians see it as fulfilling scripture, for example Isaiah 53:5: 'he was pierced for our transgressions'. Paul says Christ died for our sins 'according to the Scriptures' (1 Corinthians 15:3).",
+      "Jesus did not use his power to save himself when mocked, which Christians see as perfect self-giving love."
      ]
     },
     {
@@ -531,6 +680,10 @@
     {
      "label": "Protestant",
      "text": "Often use an empty cross to show Jesus is risen. Stress that Jesus' death was once and for all, for forgiveness through faith."
+    },
+    {
+     "label": "Liberal",
+     "text": "The death of Jesus is mainly a powerful example of self-giving love and of standing up to injustice, which inspires people to change, rather than a payment for sin."
     }
    ],
    "terms": [
@@ -575,9 +728,29 @@
      "text": "Today you will be with me in paradise.",
      "ref": "Luke 23:43",
      "use": "Jesus forgives the repentant criminal."
+    },
+    {
+     "text": "Father, forgive them, for they don't know what they are doing.",
+     "ref": "Luke 23:34",
+     "use": "Jesus forgives his executioners: use for forgiveness and influence on Christians."
+    },
+    {
+     "text": "The Son of Man is being handed over to the hands of men, and they will kill him; and when he is killed, on the third day he will rise again.",
+     "ref": "Mark 9:31",
+     "use": "Jesus predicts his death, so it was part of God's plan."
+    },
+    {
+     "text": "But he was pierced for our transgressions. He was crushed for our iniquities.",
+     "ref": "Isaiah 53:5",
+     "use": "Prophecy Christians link to the crucifixion: Jesus suffered for others' sins."
     }
    ],
-   "tip": "For 'influence' answers, give two different effects: one about forgiveness, one about suffering or love. Don't just retell the story."
+   "tip": "For 'influence' answers, give two different effects: one about forgiveness, one about suffering or love. Don't just retell the story.",
+   "pitfalls": [
+    "A crucifixion question is about Jesus' death. Do not drift into the resurrection or ascension: examiners could not credit that material in 2022.",
+    "When you quote the Bible for the source mark, name where it comes from (for example 'in Luke's Gospel'). A quote with no source does not get the mark.",
+    "Do not just retell the story. Explain what each event means to Christians (sacrifice, forgiveness, God sharing suffering)."
+   ]
   },
   {
    "id": "cb-07",
@@ -591,7 +764,9 @@
       "On Sunday morning, women followers went to the tomb and found the stone rolled away and the body gone. An angel told them Jesus had risen (Luke 24:5-6).",
       "Jesus then appeared to his followers, for example the two on the road to Emmaus and Thomas, who touched his wounds (Luke 24, John 20).",
       "Christians believe this was a real, bodily event. Jesus' body was transformed, not just revived.",
-      "Significance: it proves Jesus is the Son of God, shows good and life defeat evil and death, and gives believers hope of resurrection (1 Corinthians 15:20)."
+      "Significance: it proves Jesus is the Son of God, shows good and life defeat evil and death, and gives believers hope of resurrection (1 Corinthians 15:20).",
+      "Paul lists appearances to Peter, to the twelve, to more than 500 people at once and finally to himself (1 Corinthians 15:3-8).",
+      "When Thomas saw the risen Jesus he said 'My Lord and my God!' (John 20:28)."
      ]
     },
     {
@@ -608,18 +783,22 @@
      "bullets": [
       "Easter is the most important Christian festival, celebrated with joy.",
       "Christians have hope in life after death and less fear of dying.",
-      "The ascension and Pentecost encourage Christians to carry on Jesus' mission, trusting the Spirit to help them."
+      "The ascension and Pentecost encourage Christians to carry on Jesus' mission, trusting the Spirit to help them.",
+      "Belief in the ascension shows Christians that Jesus is now with the Father, so they pray to God 'through Jesus', trusting he speaks for them.",
+      "Because Jesus ascended in a body, some Christians believe life after death will be bodily, and that heaven is real.",
+      "The angels' promise that Jesus 'will come back' (Acts 1:11) encourages Christians to live ready for the second coming.",
+      "Before ascending Jesus gave the Great Commission (Matthew 28:19-20), so Christians share their faith and baptise new believers."
      ]
     }
    ],
    "views": [
     {
      "label": "Traditional",
-     "text": "The resurrection was a physical event that really happened and is the basis of the faith."
+     "text": "The resurrection was a physical event in history: the tomb was empty and Jesus' body was raised and transformed. It is the basis of the faith."
     },
     {
      "label": "Some liberal Christians",
-     "text": "The resurrection may be spiritual: the disciples experienced Jesus alive in a new way. The exact details matter less than what it means."
+     "text": "The resurrection may be spiritual: the disciples experienced Jesus alive in a new way. What matters is what it means, not the exact physical details."
     }
    ],
    "terms": [
@@ -664,9 +843,24 @@
      "text": "He ascended into heaven and is seated at the right hand of the Father.",
      "ref": "Apostles' Creed",
      "use": "Creed teaching on the ascension and Jesus' authority."
+    },
+    {
+     "text": "But now Christ has been raised from the dead. He became the first fruits of those who are asleep.",
+     "ref": "1 Corinthians 15:20",
+     "use": "Jesus' resurrection is the first of many: believers will also be raised."
+    },
+    {
+     "text": "This Jesus, who was received up from you into the sky, will come back in the same way as you saw him going into the sky.",
+     "ref": "Acts 1:11",
+     "use": "Angels at the ascension promise the second coming."
     }
    ],
-   "tip": "Link the resurrection to a Christian action, e.g. joy at Easter, hope when someone dies. Don't forget the Holy Spirit at Pentecost when answering on the ascension."
+   "tip": "Link the resurrection to a Christian action, e.g. joy at Easter, hope when someone dies. Don't forget the Holy Spirit at Pentecost when answering on the ascension.",
+   "pitfalls": [
+    "Do not confuse the resurrection (rising from the dead on the third day) with the ascension (being taken up to heaven 40 days later).",
+    "An ascension question needs ascension material: the 40 days, the cloud, the angels, Jesus at the Father's right hand, Pentecost following.",
+    "In 12-mark answers, weigh the resurrection against other beliefs (crucifixion, incarnation) and say which argument is stronger and why."
+   ]
   },
   {
    "id": "cb-08",
@@ -678,7 +872,7 @@
      "h": "Core belief",
      "bullets": [
       "Christians believe in eternal life: after death people continue to exist with God.",
-      "This belief rests on Jesus' resurrection. The Creeds say 'I believe in the resurrection of the body and the life everlasting.'",
+      "This belief rests on Jesus' resurrection. The Apostles' Creed says 'I believe in the resurrection of the body and the life everlasting.' The Nicene Creed says 'we look for the resurrection of the dead'.",
       "Jesus said, 'I am the resurrection and the life. The one who believes in me will live, even though they die' (John 11:25).",
       "Eternal life is a gift from God, linked to faith in Jesus."
      ]
@@ -696,6 +890,16 @@
       "**Bodily resurrection:** Catholics and Orthodox, and many other Christians, believe people will be raised with a transformed body. St Paul says the body is 'sown perishable, raised imperishable' (1 Corinthians 15:42-44).",
       "**Spiritual resurrection / immortality of the soul:** other Christians believe only the soul survives and lives on with God.",
       "Either way, it will be a new, perfect existence (Revelation 21:4)."
+     ]
+    },
+    {
+     "h": "Why the afterlife matters to Christians",
+     "bullets": [
+      "It gives life **meaning and purpose**: this life is a preparation for eternal life with God.",
+      "It shows God's **justice**: wrongs not put right in this life will be put right after death.",
+      "It shows God's **love**: Christians believe God does not abandon people at death and wants them with him for ever (John 14:2-3).",
+      "It shapes **funerals**: Christian funerals are sad but hopeful, with readings such as John 11:25 and prayers that the person rests with God.",
+      "Jesus taught that the resurrection life is different from earthly life: people 'neither marry, nor are given in marriage, but are like God's angels in heaven' (Matthew 22:30)."
      ]
     },
     {
@@ -763,9 +967,24 @@
      "text": "He will wipe every tear from their eyes. There will be no more death.",
      "ref": "Revelation 21:4",
      "use": "Describes the future life with God."
+    },
+    {
+     "text": "In my Father's house are many homes... I am going to prepare a place for you.",
+     "ref": "John 14:2-3",
+     "use": "Jesus promises a place with God after death: often read at funerals."
+    },
+    {
+     "text": "In the resurrection they neither marry, nor are given in marriage, but are like God's angels in heaven.",
+     "ref": "Matthew 22:30",
+     "use": "Resurrection life is different from life now."
     }
    ],
-   "tip": "Show clear 'different beliefs': contrast bodily with spiritual resurrection, or resurrection soon after death with resurrection at the last day. Always add a Christian response."
+   "tip": "Show clear 'different beliefs': contrast bodily with spiritual resurrection, or resurrection soon after death with resurrection at the last day. Always add a Christian response.",
+   "pitfalls": [
+    "Do not confuse Jesus' resurrection (an event in the past) with the resurrection of the dead (a future hope for believers). Read the question carefully.",
+    "Different beliefs need to be genuinely different: bodily versus spiritual, or straight after death versus at the end of time.",
+    "Give the source a name: 'Paul writes in 1 Corinthians 15' or 'the Apostles' Creed says', not just a quote."
+   ]
   },
   {
    "id": "cb-09",
@@ -779,13 +998,14 @@
       "The Creeds say Jesus 'will come again to judge the living and the dead'.",
       "Some Christians believe each person is judged straight after death (particular judgement). Others believe all people will be judged together on the Day of Judgement (final judgement). Catholics believe in both.",
       "Jesus' parable of the **sheep and the goats** (Matthew 25:31-46) says people are judged on how they treated the hungry, thirsty, sick, strangers and prisoners. Serving others is serving Jesus.",
-      "Jesus also said, 'I am the way and the truth and the life. No one comes to the Father except through me' (John 14:6), so many Christians believe faith in Jesus matters for salvation."
+      "Jesus also said, 'I am the way and the truth and the life. No one comes to the Father except through me' (John 14:6), so many Christians believe faith in Jesus matters for salvation.",
+      "Paul writes that 'each one of us will give account of himself to God' (Romans 14:12), so judgement is personal."
      ]
     },
     {
      "h": "What decides judgement?",
      "bullets": [
-      "Catholics and many Christians say both faith and good actions matter ('faith without deeds is dead', James 2:17).",
+      "Catholics and many Christians say both faith and good actions matter: James writes that faith without works is dead (James 2:17, 2:26).",
       "Many Protestants stress faith and God's grace first, with good actions as the result of true faith.",
       "God is both just and merciful. Christians trust God to judge fairly and to forgive the truly sorry."
      ]
@@ -855,9 +1075,19 @@
      "text": "We must all appear before the judgement seat of Christ.",
      "ref": "2 Corinthians 5:10",
      "use": "St Paul on everyone facing judgement."
+    },
+    {
+     "text": "So then each one of us will give account of himself to God.",
+     "ref": "Romans 14:12",
+     "use": "Everyone is personally answerable to God."
     }
    ],
-   "tip": "For 'influence' answers on judgement, write 'Christians act more kindly/charitably because they believe God will judge their actions', and use the sheep and goats as your source."
+   "tip": "For 'influence' answers on judgement, write 'Christians act more kindly/charitably because they believe God will judge their actions', and use the sheep and goats as your source.",
+   "pitfalls": [
+    "In influence questions, listing what Christians believe about judgement is not enough: show the effect (for example 'so they give to charity because of the sheep and goats').",
+    "The sheep and the goats is a parable about judgement, not about farming. Say what the sheep did (fed the hungry, visited the sick and prisoners).",
+    "Particular judgement is at death, final judgement is at the end of time. Do not mix them up."
+   ]
   },
   {
    "id": "cb-10",
@@ -868,7 +1098,7 @@
     {
      "h": "Heaven",
      "bullets": [
-      "Heaven is life in the presence of God, without pain, death or sadness (Revelation 21:4).",
+      "Heaven is life in the presence of God, without pain, death or sadness (Revelation 21:4). Paul says it is beyond imagination (1 Corinthians 2:9).",
       "Some Christians see heaven as a real place; others as a spiritual state of being close to God.",
       "Jesus spoke of 'many rooms' in his Father's house (John 14:2) and promised to prepare a place for believers.",
       "Heaven is a reward for faith and for living as God asks."
@@ -886,7 +1116,8 @@
      "h": "Purgatory (Catholic belief)",
      "bullets": [
       "Catholics believe purgatory is a state of cleansing after death for those who die in God's friendship but are not yet fully pure.",
-      "It is temporary, and leads to heaven. Many Protestants reject purgatory as unbiblical."
+      "It is temporary, and leads to heaven. Many Protestants reject purgatory as unbiblical.",
+      "The Catechism of the Catholic Church (1030 to 1031) describes purgatory as a final purification for those who die in God's grace but are still imperfectly purified."
      ]
     },
     {
@@ -900,20 +1131,20 @@
    ],
    "views": [
     {
-     "label": "Traditional",
-     "text": "Heaven and hell are real destinations after death. Hell is eternal punishment."
-    },
-    {
      "label": "Catholic",
-     "text": "Heaven, hell and purgatory all exist. Purgatory is cleansing, not a second chance."
+     "text": "Teaches heaven, hell and purgatory. Purgatory is a cleansing for those who die in God's friendship but are not yet pure; it is not a second chance. Prayers for the dead help them."
     },
     {
-     "label": "Protestant",
-     "text": "Heaven and hell only; most reject purgatory."
+     "label": "Evangelical Protestant",
+     "text": "Heaven and hell are real and eternal; there is no purgatory. What decides a person's destiny is whether they have put their faith in Jesus."
     },
     {
      "label": "Liberal",
-     "text": "Heaven and hell may be symbolic, describing closeness to or separation from God."
+     "text": "Heaven and hell may be symbols for closeness to or separation from God. Images of fire are picture language, not literal descriptions."
+    },
+    {
+     "label": "Universalist",
+     "text": "Hopes that God's love will in the end bring every person to him, so hell may be empty or may not exist at all."
     }
    ],
    "terms": [
@@ -945,7 +1176,7 @@
      "use": "Jesus' promise of heaven."
     },
     {
-     "text": "God will wipe every tear from their eyes. There will be no more death or mourning or crying or pain.",
+     "text": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more.",
      "ref": "Revelation 21:4",
      "use": "A picture of heaven."
     },
@@ -958,9 +1189,29 @@
      "text": "The rich man also died and was buried. In Hades, where he was in torment...",
      "ref": "Luke 16:22-23",
      "use": "The rich man and Lazarus parable: neglecting the poor leads to hell."
+    },
+    {
+     "text": "Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels.",
+     "ref": "Matthew 25:41",
+     "use": "Jesus' words in the sheep and goats parable: used for hell as punishment."
+    },
+    {
+     "text": "Things which an eye didn't see, and an ear didn't hear, which didn't enter into the heart of man, these God has prepared for those who love him.",
+     "ref": "1 Corinthians 2:9",
+     "use": "Heaven is beyond human imagination."
+    },
+    {
+     "text": "All who die in God's grace and friendship, but still imperfectly purified, are indeed assured of their eternal salvation; but after death they undergo purification.",
+     "ref": "Catechism of the Catholic Church 1030",
+     "use": "Catholic source for purgatory."
     }
    ],
-   "tip": "Name the denomination when you mention purgatory (Catholic only). For influence, link hell to avoiding sin and heaven to hope and living a good life."
+   "tip": "Name the denomination when you mention purgatory (Catholic only). For influence, link hell to avoiding sin and heaven to hope and living a good life.",
+   "pitfalls": [
+    "Purgatory is not hell. If a question asks about hell, beliefs about purgatory will not be credited.",
+    "Purgatory is a Catholic belief. Do not say 'Christians believe in purgatory' without naming Catholics.",
+    "A valid belief about hell can be that it does not exist or is empty (universalism). Different views earn marks."
+   ]
   },
   {
    "id": "cb-11",
@@ -978,6 +1229,17 @@
      ]
     },
     {
+     "h": "The Fall and original sin in detail",
+     "bullets": [
+      "In Genesis 2 to 3, God tells Adam not to eat from the tree of the knowledge of good and evil. The serpent tempts Eve, she and Adam eat the fruit, and they hide from God.",
+      "The results: shame, pain, hard work, being sent out of Eden and death entering human life. Later Christians identified the serpent with Satan.",
+      "**St Augustine** taught that Adam's sin is passed on to all humans, so everyone is born with a sinful nature and needs God's grace (Romans 5:12; Psalm 51:5).",
+      "Catholics teach that baptism washes away original sin, which is one reason they baptise babies.",
+      "Orthodox Christians speak of 'ancestral sin': humans inherit the effects of Adam's sin (death and a tendency to sin) but not his personal guilt.",
+      "Some liberal Christians read the Fall as a symbolic story about human selfishness rather than a historical event."
+     ]
+    },
+    {
      "h": "Salvation",
      "bullets": [
       "**Salvation** means being saved from sin and its consequences, and being given eternal life with God.",
@@ -987,7 +1249,7 @@
     {
      "h": "Means of salvation: law, grace and Spirit",
      "bullets": [
-      "**Law:** following God's commandments (the Ten Commandments, Jesus' summary 'love God and love your neighbour') and doing good works. James says 'faith without works is dead' (James 2:17). Catholics stress that faith and good works together lead to salvation.",
+      "**Law:** following God's commandments (the Ten Commandments, Jesus' summary 'love God and love your neighbour') and doing good works. James says faith without works is dead (James 2:17). Catholics stress that faith and good works together are needed. Paul warns that no one can be saved by keeping the law alone, because everyone breaks it (Galatians 2:16).",
       "**Grace:** salvation is a free gift from God, not earned. Many Protestants say people are saved by grace through faith (Ephesians 2:8-9).",
       "**Spirit:** the Holy Spirit works in believers, giving faith, guiding them and producing good qualities such as love, joy and peace (Galatians 5:22-23). Salvation is renewed by the Spirit (Titus 3:5).",
       "Most Christians accept all three, but differ on which comes first."
@@ -1061,9 +1323,29 @@
      "text": "The fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.",
      "ref": "Galatians 5:22-23",
      "use": "Shows the Spirit's work in believers."
+    },
+    {
+     "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
+     "ref": "Romans 6:23",
+     "use": "Sin leads to death; salvation is a free gift (grace)."
+    },
+    {
+     "text": "For as in Adam all die, so also in Christ all will be made alive.",
+     "ref": "1 Corinthians 15:22",
+     "use": "Links original sin (Adam) with salvation (Christ)."
+    },
+    {
+     "text": "He saved us through the washing of regeneration and renewing by the Holy Spirit.",
+     "ref": "Titus 3:5",
+     "use": "Salvation through the Spirit, not our own works."
     }
    ],
-   "tip": "Don't write 'faith or works'. Explain that Christians disagree about the balance. Name law, grace and Spirit when the question is on 'means of salvation'."
+   "tip": "Don't write 'faith or works'. Explain that Christians disagree about the balance. Name law, grace and Spirit when the question is on 'means of salvation'.",
+   "pitfalls": [
+    "A question on original sin needs the Fall (Adam and Eve, Genesis 3) and its effects, not sin in general.",
+    "Make sure you can define salvation: being saved from sin and its consequences and given eternal life with God. Students lost marks in 2024 for not knowing the term.",
+    "Law, grace and Spirit are means of salvation; wealth, luck or being born into a Christian family are not."
+   ]
   },
   {
    "id": "cb-12",
@@ -1087,6 +1369,25 @@
       "His resurrection shows that he defeated sin and death and means eternal life is possible for believers.",
       "Jesus is the 'way' to God (John 14:6): he is the mediator between God and humans because he is both God and human.",
       "Jesus' ascension means he speaks for believers in heaven."
+     ]
+    },
+    {
+     "h": "Titles for Christ's role",
+     "bullets": [
+      "**Saviour:** he rescues people from sin and death.",
+      "**Redeemer:** he 'buys back' humans, paying a ransom (Mark 10:45).",
+      "**Lamb of God:** John the Baptist called him 'the Lamb of God, who takes away the sin of the world' (John 1:29), linking him to the Passover lamb and Temple sacrifices.",
+      "**Mediator:** 'one mediator between God and men, the man Christ Jesus' (1 Timothy 2:5). Being both God and human, he brings the two together.",
+      "**Example:** his life of love and obedience shows the way to live, and Christians try to imitate him."
+     ]
+    },
+    {
+     "h": "Different ways of explaining the atonement",
+     "bullets": [
+      "**Substitution:** Jesus took the punishment that humans deserved in their place (1 Peter 2:24). Stressed by many Evangelicals.",
+      "**Ransom or victory:** Jesus' death and resurrection defeated sin, death and the Devil, setting humans free.",
+      "**Moral example:** Jesus' self-giving love moves people to turn from sin and live differently. Stressed by many liberal Christians.",
+      "Most Christians see truth in more than one of these. All agree that it was God's love that took the initiative (Romans 5:8)."
      ]
     },
     {
@@ -1154,9 +1455,188 @@
      "text": "For God so loved the world that he gave his one and only Son.",
      "ref": "John 3:16",
      "use": "Salvation comes from God's love."
+    },
+    {
+     "text": "Behold, the Lamb of God, who takes away the sin of the world!",
+     "ref": "John 1:29",
+     "use": "John the Baptist names Jesus' role: the sacrifice that removes sin."
+    },
+    {
+     "text": "He himself bore our sins in his body on the tree.",
+     "ref": "1 Peter 2:24",
+     "use": "Jesus took the punishment for sin: substitution."
+    },
+    {
+     "text": "For there is one God, and one mediator between God and men, the man Christ Jesus.",
+     "ref": "1 Timothy 2:5",
+     "use": "Jesus brings God and humans together."
     }
    ],
-   "tip": "Define 'atonement' as soon as you use it. Always connect the death (sacrifice) and the resurrection (victory over sin and death) to salvation."
+   "tip": "Define 'atonement' as soon as you use it. Always connect the death (sacrifice) and the resurrection (victory over sin and death) to salvation.",
+   "pitfalls": [
+    "A question on the role of Christ in salvation must focus on what Jesus did (sacrifice, redeemer, Lamb of God, mediator, example). A general essay on faith versus works missed the point in 2025.",
+    "Define atonement as soon as you use it: making humans and God 'at one' again.",
+    "Do not forget the resurrection: Christians believe the cross deals with sin and the resurrection defeats death."
+   ]
+  }
+ ],
+ "spec": [
+  {
+   "point": "Christianity is one of the diverse religious traditions in Great Britain and is the main religious tradition",
+   "topics": [
+    "cb-01"
+   ]
+  },
+  {
+   "point": "Common and divergent views within Christianity (Catholic, Orthodox, Protestant) throughout",
+   "topics": [
+    "cb-01",
+    "cb-03",
+    "cb-04",
+    "cb-10",
+    "cb-11"
+   ]
+  },
+  {
+   "point": "The nature of God: God as omnipotent",
+   "topics": [
+    "cb-01"
+   ]
+  },
+  {
+   "point": "The nature of God: God as loving",
+   "topics": [
+    "cb-01"
+   ]
+  },
+  {
+   "point": "The nature of God: God as just",
+   "topics": [
+    "cb-01"
+   ]
+  },
+  {
+   "point": "The problem of evil and suffering",
+   "topics": [
+    "cb-02"
+   ]
+  },
+  {
+   "point": "The oneness of God",
+   "topics": [
+    "cb-03"
+   ]
+  },
+  {
+   "point": "The Trinity: Father, Son and Holy Spirit",
+   "topics": [
+    "cb-03"
+   ]
+  },
+  {
+   "point": "Different Christian beliefs about creation",
+   "topics": [
+    "cb-04"
+   ]
+  },
+  {
+   "point": "The role of the Word and the Spirit in creation (John 1:1-3 and Genesis 1:1-3)",
+   "topics": [
+    "cb-04",
+    "cb-03"
+   ]
+  },
+  {
+   "point": "Different Christian beliefs about the afterlife and their importance",
+   "topics": [
+    "cb-08",
+    "cb-09",
+    "cb-10"
+   ]
+  },
+  {
+   "point": "Afterlife: resurrection and life after death",
+   "topics": [
+    "cb-08"
+   ]
+  },
+  {
+   "point": "Afterlife: judgement",
+   "topics": [
+    "cb-09"
+   ]
+  },
+  {
+   "point": "Afterlife: heaven and hell",
+   "topics": [
+    "cb-10"
+   ]
+  },
+  {
+   "point": "Jesus Christ: the incarnation",
+   "topics": [
+    "cb-05"
+   ]
+  },
+  {
+   "point": "Jesus Christ: Jesus as the Son of God",
+   "topics": [
+    "cb-05"
+   ]
+  },
+  {
+   "point": "Jesus Christ: the crucifixion",
+   "topics": [
+    "cb-06"
+   ]
+  },
+  {
+   "point": "Jesus Christ: the resurrection",
+   "topics": [
+    "cb-07"
+   ]
+  },
+  {
+   "point": "Jesus Christ: the ascension",
+   "topics": [
+    "cb-07"
+   ]
+  },
+  {
+   "point": "Sin, including original sin",
+   "topics": [
+    "cb-11",
+    "cb-02"
+   ]
+  },
+  {
+   "point": "The means of salvation, including law, grace and Spirit",
+   "topics": [
+    "cb-11"
+   ]
+  },
+  {
+   "point": "The role of Christ in salvation, including the idea of atonement",
+   "topics": [
+    "cb-12"
+   ]
+  },
+  {
+   "point": "The influence of these beliefs on individuals, communities and societies",
+   "topics": [
+    "cb-01",
+    "cb-02",
+    "cb-03",
+    "cb-04",
+    "cb-05",
+    "cb-06",
+    "cb-07",
+    "cb-08",
+    "cb-09",
+    "cb-10",
+    "cb-11",
+    "cb-12"
+   ]
   }
  ],
  "flashcards": [
@@ -1519,6 +1999,246 @@
    "topic": "cb-12",
    "q": "Give two ways belief in atonement influences Christians.",
    "a": "They feel forgiven and try to forgive others, and they take part in Communion and baptism to remember Jesus' sacrifice."
+  },
+  {
+   "topic": "cb-01",
+   "q": "Which verse says 'God is love'?",
+   "a": "1 John 4:8: 'He who doesn't love doesn't know God, for God is love.'"
+  },
+  {
+   "topic": "cb-01",
+   "q": "What does omniscient mean, and how is it different from omnipotent?",
+   "a": "Omniscient means all-knowing. Omnipotent means all-powerful."
+  },
+  {
+   "topic": "cb-01",
+   "q": "What is the main religious tradition in Great Britain?",
+   "a": "Christianity, although Britain is religiously diverse and many people follow other religions or none."
+  },
+  {
+   "topic": "cb-01",
+   "q": "How does the cross show that God is both loving and just?",
+   "a": "Justice: sin is taken seriously and has a cost. Love: Jesus pays that cost himself so people can be forgiven."
+  },
+  {
+   "topic": "cb-02",
+   "q": "What is a theodicy?",
+   "a": "An attempt to explain why a good and powerful God allows evil and suffering."
+  },
+  {
+   "topic": "cb-02",
+   "q": "Summarise St Augustine's response to suffering.",
+   "a": "God made a perfect world. Evil came from misuse of free will (the Fall). Suffering is a consequence of sin, and God offers rescue through Jesus."
+  },
+  {
+   "topic": "cb-02",
+   "q": "Summarise St Irenaeus' response to suffering.",
+   "a": "The world is a 'vale of soul-making': facing suffering helps humans grow into mature, loving people who freely trust God."
+  },
+  {
+   "topic": "cb-02",
+   "q": "Which verse says God works for good in all things?",
+   "a": "Romans 8:28: all things work together for good for those who love God."
+  },
+  {
+   "topic": "cb-03",
+   "q": "What is the 'filioque'?",
+   "a": "Latin for 'and the Son'. Western churches say the Spirit proceeds from the Father and the Son; the Orthodox Church rejects the addition."
+  },
+  {
+   "topic": "cb-03",
+   "q": "Give three ways the Holy Spirit influences Christians today.",
+   "a": "Guidance in decisions, comfort and strength in hard times, courage to share their faith (as at Pentecost). Also the fruit of the Spirit, such as love and patience."
+  },
+  {
+   "topic": "cb-03",
+   "q": "Which verse names the Holy Spirit as the Counsellor who will teach believers?",
+   "a": "John 14:26."
+  },
+  {
+   "topic": "cb-03",
+   "q": "Which verse shows the oneness of God that Christians share with Jews?",
+   "a": "Deuteronomy 6:4, the Shema: 'Hear, Israel: the LORD is our God. The LORD is one.'"
+  },
+  {
+   "topic": "cb-04",
+   "q": "What does 'Logos' mean in John 1?",
+   "a": "Greek for 'Word', also meaning reason or plan. Christians believe the Logos is Jesus, God the Son, through whom all things were made."
+  },
+  {
+   "topic": "cb-04",
+   "q": "What happens on each day in Genesis 1?",
+   "a": "1 light; 2 sky; 3 land, seas and plants; 4 sun, moon and stars; 5 sea creatures and birds; 6 land animals and humans; 7 God rests."
+  },
+  {
+   "topic": "cb-04",
+   "q": "Which verse do literalists use to argue the Bible is completely true?",
+   "a": "2 Timothy 3:16: 'Every Scripture is God-breathed'."
+  },
+  {
+   "topic": "cb-04",
+   "q": "Who first proposed the idea that became the Big Bang theory?",
+   "a": "Georges Lemaitre, a Belgian Catholic priest and physicist. Many Christians see no conflict between faith and science."
+  },
+  {
+   "topic": "cb-05",
+   "q": "What does the name 'Jesus' mean?",
+   "a": "From the Hebrew Yeshua, 'God saves'. The angel told Joseph he would save people from their sins (Matthew 1:21)."
+  },
+  {
+   "topic": "cb-05",
+   "q": "Give three reasons Christians believe God became human.",
+   "a": "To save humanity through his death and resurrection, to show what God is like, and to teach and set an example. Also to share and understand human life."
+  },
+  {
+   "topic": "cb-05",
+   "q": "Which verse says Jesus was tempted in every way but without sin?",
+   "a": "Hebrews 4:15."
+  },
+  {
+   "topic": "cb-05",
+   "q": "Which church council agreed Jesus is one person with two natures?",
+   "a": "The Council of Chalcedon, AD 451."
+  },
+  {
+   "topic": "cb-06",
+   "q": "What did Jesus pray for the people who crucified him?",
+   "a": "'Father, forgive them, for they don't know what they are doing' (Luke 23:34)."
+  },
+  {
+   "topic": "cb-06",
+   "q": "Which Roman governor sentenced Jesus to death?",
+   "a": "Pontius Pilate."
+  },
+  {
+   "topic": "cb-06",
+   "q": "Which prophecy in Isaiah do Christians link to the crucifixion?",
+   "a": "Isaiah 53:5: 'he was pierced for our transgressions... by his wounds we are healed.'"
+  },
+  {
+   "topic": "cb-06",
+   "q": "What does 'My God, my God, why have you forsaken me?' show?",
+   "a": "Jesus' real suffering and sense of separation as he took on sin (Mark 15:34). Christians believe God understands their darkest moments."
+  },
+  {
+   "topic": "cb-07",
+   "q": "Who did the risen Jesus appear to, according to 1 Corinthians 15?",
+   "a": "Peter (Cephas), the twelve, more than 500 people at once, James, all the apostles, and finally Paul."
+  },
+  {
+   "topic": "cb-07",
+   "q": "What did Thomas say when he saw the risen Jesus?",
+   "a": "'My Lord and my God!' (John 20:28)."
+  },
+  {
+   "topic": "cb-07",
+   "q": "What did the angels promise at the ascension?",
+   "a": "That Jesus would come back in the same way he went (Acts 1:11): the second coming."
+  },
+  {
+   "topic": "cb-07",
+   "q": "Give two ways belief in the ascension influences Christians.",
+   "a": "They pray through Jesus, trusting he speaks for them with the Father; they carry on his mission (Great Commission) and live ready for his return."
+  },
+  {
+   "topic": "cb-08",
+   "q": "What did Jesus say about marriage in the resurrection?",
+   "a": "People will neither marry nor be given in marriage, but be like the angels in heaven (Matthew 22:30)."
+  },
+  {
+   "topic": "cb-08",
+   "q": "What does the Nicene Creed say about life after death?",
+   "a": "'We look for the resurrection of the dead, and the life of the world to come.'"
+  },
+  {
+   "topic": "cb-08",
+   "q": "Give two reasons belief in the afterlife is important to Christians.",
+   "a": "It gives life meaning and purpose, and it shows God's justice and love will win in the end. It also brings comfort at funerals."
+  },
+  {
+   "topic": "cb-08",
+   "q": "What is the difference between bodily and spiritual resurrection?",
+   "a": "Bodily: people are raised with a new, transformed body. Spiritual: the soul lives on with God without a physical body."
+  },
+  {
+   "topic": "cb-09",
+   "q": "Which verse says each person will give account of themselves to God?",
+   "a": "Romans 14:12."
+  },
+  {
+   "topic": "cb-09",
+   "q": "In the sheep and goats parable, what did the 'sheep' do?",
+   "a": "Fed the hungry, gave drink to the thirsty, welcomed strangers, clothed the naked, cared for the sick and visited prisoners (Matthew 25:35-36)."
+  },
+  {
+   "topic": "cb-09",
+   "q": "Why do Christians believe judgement shows God is both just and merciful?",
+   "a": "Just: everyone answers for their actions. Merciful: God forgives those who truly repent and trust in Jesus."
+  },
+  {
+   "topic": "cb-09",
+   "q": "What does the Apostles' Creed say about judgement?",
+   "a": "Jesus 'will come to judge the living and the dead'."
+  },
+  {
+   "topic": "cb-10",
+   "q": "What is universalism?",
+   "a": "The hope or belief that God's love will in the end save everyone, so hell may be empty or not exist."
+  },
+  {
+   "topic": "cb-10",
+   "q": "Which verse says heaven is beyond what eye has seen or ear has heard?",
+   "a": "1 Corinthians 2:9."
+  },
+  {
+   "topic": "cb-10",
+   "q": "Where does the Catholic Church teach about purgatory?",
+   "a": "The Catechism of the Catholic Church (1030 to 1031): a final purification for those who die in God's grace but are not yet fully pure."
+  },
+  {
+   "topic": "cb-10",
+   "q": "Why do many Protestants reject purgatory?",
+   "a": "They see it as not clearly taught in the Bible and believe Jesus' sacrifice is enough to make believers fit for heaven."
+  },
+  {
+   "topic": "cb-11",
+   "q": "What happened in the Fall (Genesis 3)?",
+   "a": "The serpent tempted Eve; Adam and Eve ate fruit from the tree of the knowledge of good and evil, disobeying God, and were sent out of Eden. Death and suffering followed."
+  },
+  {
+   "topic": "cb-11",
+   "q": "What is 'ancestral sin' in Orthodox teaching?",
+   "a": "Humans inherit the effects of Adam's sin (death and a tendency to sin) but not his personal guilt."
+  },
+  {
+   "topic": "cb-11",
+   "q": "Which verse says 'the wages of sin is death, but the free gift of God is eternal life'?",
+   "a": "Romans 6:23."
+  },
+  {
+   "topic": "cb-11",
+   "q": "Which sacrament do Catholics believe washes away original sin?",
+   "a": "Baptism, which is one reason they baptise babies."
+  },
+  {
+   "topic": "cb-12",
+   "q": "Who called Jesus 'the Lamb of God, who takes away the sin of the world'?",
+   "a": "John the Baptist (John 1:29)."
+  },
+  {
+   "topic": "cb-12",
+   "q": "What does it mean to call Jesus the 'mediator'?",
+   "a": "Being both God and human, he brings God and humans back together (1 Timothy 2:5)."
+  },
+  {
+   "topic": "cb-12",
+   "q": "Name three ways Christians explain the atonement.",
+   "a": "Substitution (Jesus took our punishment), ransom or victory (he defeated sin, death and the Devil), moral example (his love moves people to change)."
+  },
+  {
+   "topic": "cb-12",
+   "q": "Which verse says Christ died for us 'while we were yet sinners'?",
+   "a": "Romans 5:8, showing God's love took the first step."
   }
  ],
  "quiz": [
@@ -1778,10 +2498,10 @@
    "topic": "cb-08",
    "q": "Which Christians strongly teach bodily resurrection?",
    "options": [
-    "Only Quakers",
+    "Quakers",
     "Catholics and Orthodox",
-    "Only atheists",
-    "Only the Salvation Army"
+    "Unitarians",
+    "Humanists"
    ],
    "answer": 1,
    "why": "Catholic and Orthodox Christians teach a transformed bodily resurrection."
@@ -1911,12 +2631,12 @@
    "q": "Which Christians most strongly stress faith and good works together?",
    "options": [
     "Roman Catholics",
-    "No one",
-    "Only atheists",
-    "Non-religious people"
+    "Lutherans",
+    "Calvinists",
+    "Evangelical Protestants"
    ],
    "answer": 0,
-   "why": "Catholics teach faith and works cooperate with grace."
+   "why": "Catholics teach that grace is received through faith shown in good works and the sacraments. Lutherans, Calvinists and Evangelicals stress faith alone."
   },
   {
    "topic": "cb-12",
@@ -1953,6 +2673,996 @@
    ],
    "answer": 3,
    "why": "The victory over death means believers can hope for eternal life."
+  },
+  {
+   "topic": "cb-01",
+   "q": "Which one of the following words does NOT describe God in Christian belief?",
+   "options": [
+    "Eternal",
+    "Merciful",
+    "Cruel",
+    "Holy"
+   ],
+   "answer": 2,
+   "why": "Christians believe God is perfectly good and loving, so cruelty is never part of God's nature."
+  },
+  {
+   "topic": "cb-01",
+   "q": "Which source shows Jesus teaching that God is omnipotent?",
+   "options": [
+    "Matthew 19:26",
+    "Mark 15:34",
+    "Genesis 3:6",
+    "Luke 16:19"
+   ],
+   "answer": 0,
+   "why": "Jesus said 'with God all things are possible' (Matthew 19:26)."
+  },
+  {
+   "topic": "cb-01",
+   "q": "A Christian volunteers at a night shelter because she believes God loves everyone equally. Which quality of God is influencing her most?",
+   "options": [
+    "Omniscience",
+    "Omnipresence",
+    "Justice",
+    "Omnibenevolence"
+   ],
+   "answer": 3,
+   "why": "Omnibenevolence (all-loving) leads Christians to show agape love to everyone."
+  },
+  {
+   "topic": "cb-02",
+   "q": "Which thinker described the world as a 'vale of soul-making'?",
+   "options": [
+    "St Augustine",
+    "St Irenaeus",
+    "St Paul",
+    "Martin Luther"
+   ],
+   "answer": 1,
+   "why": "Irenaeus taught that suffering helps humans grow towards God's likeness."
+  },
+  {
+   "topic": "cb-02",
+   "q": "Which response to suffering is weakest at explaining natural evil such as earthquakes?",
+   "options": [
+    "Suffering builds character",
+    "Humans cannot understand God's plan",
+    "Moral evil comes from human free will",
+    "Natural evil results from the Fall"
+   ],
+   "answer": 2,
+   "why": "Free will explains suffering humans cause, but earthquakes are not caused by human choices."
+  },
+  {
+   "topic": "cb-02",
+   "q": "In the book of Job, why did Job suffer?",
+   "options": [
+    "God never fully explains",
+    "He had committed a great sin",
+    "He worshipped idols",
+    "He had stopped praying"
+   ],
+   "answer": 0,
+   "why": "Job's friends wrongly blame his sin. God does not explain but asks Job to trust him."
+  },
+  {
+   "topic": "cb-03",
+   "q": "Which of these is said in many services and names all three persons of the Trinity?",
+   "options": [
+    "The Lord's Prayer",
+    "The Shema",
+    "The Grace (2 Corinthians 13:14)",
+    "The Beatitudes"
+   ],
+   "answer": 2,
+   "why": "The Grace names the Lord Jesus Christ, God's love and the fellowship of the Holy Spirit."
+  },
+  {
+   "topic": "cb-03",
+   "q": "Which event shows the Holy Spirit giving the disciples courage to preach?",
+   "options": [
+    "The Last Supper",
+    "Pentecost",
+    "The transfiguration",
+    "The ascension"
+   ],
+   "answer": 1,
+   "why": "At Pentecost (Acts 2) the Spirit came on the disciples and they began to preach boldly."
+  },
+  {
+   "topic": "cb-03",
+   "q": "Which statement about the Trinity is correct?",
+   "options": [
+    "There are three gods who agree",
+    "The Son was created by the Father",
+    "The Spirit is only a force, not God",
+    "Father, Son and Spirit are one God"
+   ],
+   "answer": 3,
+   "why": "Christians believe in one God in three equal, eternal persons."
+  },
+  {
+   "topic": "cb-04",
+   "q": "According to Genesis 1:2, what was hovering over the waters?",
+   "options": [
+    "The Word",
+    "An angel",
+    "God's Spirit",
+    "A dove"
+   ],
+   "answer": 2,
+   "why": "Genesis 1:2 says the Spirit of God was hovering over the waters, showing the Spirit's role in creation."
+  },
+  {
+   "topic": "cb-04",
+   "q": "Which view of Genesis 1 says each 'day' may stand for a long period of time?",
+   "options": [
+    "Non-literal",
+    "Literal",
+    "Atheist",
+    "Universalist"
+   ],
+   "answer": 0,
+   "why": "Non-literal Christians read 'day' as a period or as poetry, allowing an old universe."
+  },
+  {
+   "topic": "cb-04",
+   "q": "John 1:3 says 'All things were made through him'. Who is 'him'?",
+   "options": [
+    "Adam",
+    "Moses",
+    "The Holy Spirit",
+    "The Word, Jesus"
+   ],
+   "answer": 3,
+   "why": "John's Gospel calls Jesus the Word, through whom everything was created."
+  },
+  {
+   "topic": "cb-05",
+   "q": "Which prophet foretold a virgin giving birth to a son called Immanuel?",
+   "options": [
+    "Jeremiah",
+    "Isaiah",
+    "Elijah",
+    "Micah"
+   ],
+   "answer": 1,
+   "why": "Isaiah 7:14, quoted in Matthew 1:23."
+  },
+  {
+   "topic": "cb-05",
+   "q": "Which statement best describes the Christian belief about Jesus' nature?",
+   "options": [
+    "Half God and half human",
+    "A human who became God later",
+    "Fully God and fully human",
+    "An angel in human form"
+   ],
+   "answer": 2,
+   "why": "Christians believe Jesus is one person with two complete natures."
+  },
+  {
+   "topic": "cb-05",
+   "q": "Which festival celebrates the incarnation?",
+   "options": [
+    "Christmas",
+    "Easter",
+    "Pentecost",
+    "Ascension Day"
+   ],
+   "answer": 0,
+   "why": "Christmas celebrates God becoming human in the birth of Jesus."
+  },
+  {
+   "topic": "cb-06",
+   "q": "Which words of Jesus on the cross best show forgiveness?",
+   "options": [
+    "'It is finished'",
+    "'I am thirsty'",
+    "'My God, my God, why have you forsaken me?'",
+    "'Father, forgive them'"
+   ],
+   "answer": 3,
+   "why": "Luke 23:34: Jesus forgives those who crucified him."
+  },
+  {
+   "topic": "cb-06",
+   "q": "Why do Christians believe the crucifixion was part of God's plan?",
+   "options": [
+    "Jesus predicted his death and rising beforehand",
+    "Pilate was a Christian",
+    "The disciples planned it",
+    "It happened at Christmas"
+   ],
+   "answer": 0,
+   "why": "In Mark 9:31 Jesus tells his disciples he will be killed and rise on the third day."
+  },
+  {
+   "topic": "cb-06",
+   "q": "Which of these is usually seen in Catholic churches but less often in Protestant ones?",
+   "options": [
+    "An empty cross",
+    "A pulpit",
+    "A crucifix",
+    "A font"
+   ],
+   "answer": 2,
+   "why": "A crucifix shows Jesus' body on the cross; many Protestant churches use an empty cross."
+  },
+  {
+   "topic": "cb-07",
+   "q": "Which book of the Bible describes the ascension in most detail?",
+   "options": [
+    "Genesis",
+    "Acts",
+    "Romans",
+    "Revelation"
+   ],
+   "answer": 1,
+   "why": "Acts 1:3-11 describes the forty days and the ascension."
+  },
+  {
+   "topic": "cb-07",
+   "q": "Paul says Christ is 'the first fruits of those who are asleep'. What does this mean?",
+   "options": [
+    "Jesus was the first person born",
+    "Jesus planted the first garden",
+    "Christians must fast before Easter",
+    "Jesus' resurrection is the first of many to come"
+   ],
+   "answer": 3,
+   "why": "1 Corinthians 15:20: believers will follow Jesus in being raised."
+  },
+  {
+   "topic": "cb-07",
+   "q": "Place in order: crucifixion, ascension, resurrection, Pentecost.",
+   "options": [
+    "Crucifixion, resurrection, ascension, Pentecost",
+    "Crucifixion, ascension, resurrection, Pentecost",
+    "Resurrection, crucifixion, Pentecost, ascension",
+    "Crucifixion, resurrection, Pentecost, ascension"
+   ],
+   "answer": 0,
+   "why": "Good Friday, then Easter Sunday, then 40 days to the ascension, then about 10 days to Pentecost."
+  },
+  {
+   "topic": "cb-08",
+   "q": "Paul describes the resurrection body as:",
+   "options": [
+    "Exactly the same as our body now",
+    "Imperishable and raised in glory",
+    "A ghost with no form",
+    "A new animal body"
+   ],
+   "answer": 1,
+   "why": "1 Corinthians 15:42-44: sown perishable, raised imperishable; sown in dishonour, raised in glory."
+  },
+  {
+   "topic": "cb-08",
+   "q": "Which source do Christians most often read at funerals for hope of eternal life?",
+   "options": [
+    "Genesis 3:19",
+    "Mark 15:34",
+    "John 11:25",
+    "Ecclesiastes 3:17"
+   ],
+   "answer": 2,
+   "why": "'I am the resurrection and the life' (John 11:25) is a common funeral reading."
+  },
+  {
+   "topic": "cb-08",
+   "q": "A Christian believes only the soul survives death. Which belief is this?",
+   "options": [
+    "Bodily resurrection",
+    "Reincarnation",
+    "Purgatory",
+    "Immortality of the soul"
+   ],
+   "answer": 3,
+   "why": "Immortality of the soul is a spiritual (non-bodily) view of life after death."
+  },
+  {
+   "topic": "cb-09",
+   "q": "Which verse supports the idea that everyone will be judged individually?",
+   "options": [
+    "Genesis 1:27",
+    "John 1:14",
+    "Romans 14:12",
+    "Acts 2:4"
+   ],
+   "answer": 2,
+   "why": "Romans 14:12: each one of us will give account of himself to God."
+  },
+  {
+   "topic": "cb-09",
+   "q": "Particular judgement happens:",
+   "options": [
+    "Straight after a person dies",
+    "At baptism",
+    "At the end of time for everyone",
+    "Never"
+   ],
+   "answer": 0,
+   "why": "Particular judgement is of one person at death; final judgement is of everyone at the end."
+  },
+  {
+   "topic": "cb-09",
+   "q": "Which Christians most stress that faith in Jesus, not good deeds, is what counts at judgement?",
+   "options": [
+    "Catholics",
+    "Orthodox",
+    "Universalists",
+    "Evangelical Protestants"
+   ],
+   "answer": 3,
+   "why": "Evangelicals stress salvation by grace through faith; good deeds show that faith is real."
+  },
+  {
+   "topic": "cb-10",
+   "q": "A Christian says hell may be empty because God's love will win in the end. Which view is this?",
+   "options": [
+    "Universalist",
+    "Catholic",
+    "Evangelical",
+    "Literalist"
+   ],
+   "answer": 0,
+   "why": "Universalists hope that everyone will eventually be saved."
+  },
+  {
+   "topic": "cb-10",
+   "q": "Which statement about purgatory is correct?",
+   "options": [
+    "It is a second chance for those in hell",
+    "It is permanent",
+    "It is a cleansing that leads to heaven",
+    "All Christians believe in it"
+   ],
+   "answer": 2,
+   "why": "Catholics teach purgatory purifies souls already saved; it always leads to heaven."
+  },
+  {
+   "topic": "cb-10",
+   "q": "Which source describes hell as 'eternal fire which is prepared for the devil and his angels'?",
+   "options": [
+    "John 14:2",
+    "Matthew 25:41",
+    "Revelation 21:4",
+    "Luke 15:7"
+   ],
+   "answer": 1,
+   "why": "Matthew 25:41, from the parable of the sheep and the goats."
+  },
+  {
+   "topic": "cb-11",
+   "q": "Which one of the following is NOT one of the means of salvation named in the AQA specification?",
+   "options": [
+    "Law",
+    "Grace",
+    "Spirit",
+    "Good luck"
+   ],
+   "answer": 3,
+   "why": "The spec names law, grace and Spirit."
+  },
+  {
+   "topic": "cb-11",
+   "q": "Which source do Christians use to show that original sin was passed to all people?",
+   "options": [
+    "Romans 5:12",
+    "Mark 1:11",
+    "Matthew 28:19",
+    "John 20:28"
+   ],
+   "answer": 0,
+   "why": "Romans 5:12: sin entered the world through one man, and death passed to all."
+  },
+  {
+   "topic": "cb-11",
+   "q": "Which Christian thinker is most linked with the doctrine of original sin?",
+   "options": [
+    "St Irenaeus",
+    "St Francis",
+    "St Augustine",
+    "John Wesley"
+   ],
+   "answer": 2,
+   "why": "Augustine taught that all humans inherit Adam's sin and need God's grace."
+  },
+  {
+   "topic": "cb-12",
+   "q": "Which title for Jesus links him to the Passover lamb and Temple sacrifices?",
+   "options": [
+    "Son of David",
+    "Good Shepherd",
+    "Light of the World",
+    "Lamb of God"
+   ],
+   "answer": 3,
+   "why": "John the Baptist called him the Lamb of God who takes away sin (John 1:29)."
+  },
+  {
+   "topic": "cb-12",
+   "q": "'He himself bore our sins in his body on the tree' (1 Peter 2:24) best supports which view of the atonement?",
+   "options": [
+    "Moral example",
+    "Substitution",
+    "Universalism",
+    "Reincarnation"
+   ],
+   "answer": 1,
+   "why": "It says Jesus carried the sins of others in their place."
+  },
+  {
+   "topic": "cb-12",
+   "q": "Which view of the atonement do many liberal Christians stress?",
+   "options": [
+    "Jesus' love is an example that inspires change",
+    "Jesus paid a ransom to the Devil",
+    "Jesus did not really die",
+    "Only Catholics can be saved"
+   ],
+   "answer": 0,
+   "why": "Liberal Christians often stress the cross as a moral example of self-giving love."
+  }
+ ],
+ "truefalse": [
+  {
+   "topic": "cb-01",
+   "s": "Christians believe God is male.",
+   "answer": false,
+   "why": "The Bible calls God 'Father', but Christians believe God is beyond gender."
+  },
+  {
+   "topic": "cb-01",
+   "s": "Christianity is the main religious tradition in Great Britain.",
+   "answer": true,
+   "why": "The AQA specification states this, while noting that Britain is religiously diverse."
+  },
+  {
+   "topic": "cb-01",
+   "s": "'God is just' means God is merely powerful.",
+   "answer": false,
+   "why": "Just means fair: God judges fairly, rewards good and punishes evil."
+  },
+  {
+   "topic": "cb-01",
+   "s": "Agape is the Greek word for selfless, unconditional love.",
+   "answer": true,
+   "why": "Christians believe God shows agape and they try to copy it."
+  },
+  {
+   "topic": "cb-01",
+   "s": "All Christians stress God's judgement more than God's love.",
+   "answer": false,
+   "why": "Emphasis differs: some stress justice and holiness, others love and mercy. Most say they go together."
+  },
+  {
+   "topic": "cb-02",
+   "s": "A tsunami is an example of moral evil.",
+   "answer": false,
+   "why": "A tsunami is natural evil, as it is not caused by human choice."
+  },
+  {
+   "topic": "cb-02",
+   "s": "Irenaeus taught that suffering can help people grow spiritually.",
+   "answer": true,
+   "why": "His 'soul-making' theodicy says challenges help humans develop virtues."
+  },
+  {
+   "topic": "cb-02",
+   "s": "Christians all agree on one answer to the problem of evil.",
+   "answer": false,
+   "why": "Christians give several responses: free will, the Devil, soul-making, mystery, a God who suffers with us."
+  },
+  {
+   "topic": "cb-02",
+   "s": "Augustine linked suffering to the Fall of Adam and Eve.",
+   "answer": true,
+   "why": "He taught evil entered a perfect world through misused free will."
+  },
+  {
+   "topic": "cb-02",
+   "s": "The problem of evil can lead some people to lose their faith.",
+   "answer": true,
+   "why": "Mark schemes credit this as one influence of suffering on Christians."
+  },
+  {
+   "topic": "cb-03",
+   "s": "The Trinity means Christians believe in three gods.",
+   "answer": false,
+   "why": "The Trinity is one God in three persons, not three gods."
+  },
+  {
+   "topic": "cb-03",
+   "s": "The Orthodox Church says the Holy Spirit proceeds from the Father only.",
+   "answer": true,
+   "why": "The Orthodox reject the Western 'filioque' ('and the Son')."
+  },
+  {
+   "topic": "cb-03",
+   "s": "The word 'Trinity' appears in the Bible.",
+   "answer": false,
+   "why": "The word is not in the Bible; the teaching was drawn from passages such as Matthew 28:19 and set out in the creeds."
+  },
+  {
+   "topic": "cb-03",
+   "s": "At Jesus' baptism the Father speaks, the Son is baptised and the Spirit descends like a dove.",
+   "answer": true,
+   "why": "Mark 1:9-11 shows all three persons together."
+  },
+  {
+   "topic": "cb-03",
+   "s": "Pentecostal Christians expect gifts such as speaking in tongues in worship today.",
+   "answer": true,
+   "why": "They see the Spirit's gifts at Pentecost as available to believers now."
+  },
+  {
+   "topic": "cb-04",
+   "s": "All Christians believe the world was made in six 24-hour days.",
+   "answer": false,
+   "why": "Only literalists (for example creationists) believe this. Many Christians read Genesis non-literally."
+  },
+  {
+   "topic": "cb-04",
+   "s": "The Catholic Church accepts that evolution can be compatible with faith.",
+   "answer": true,
+   "why": "It teaches that Genesis gives religious truth and that God can work through evolution."
+  },
+  {
+   "topic": "cb-04",
+   "s": "In John 1:1-3, 'the Word' refers to the Holy Spirit.",
+   "answer": false,
+   "why": "Christians understand the Word as Jesus, God the Son."
+  },
+  {
+   "topic": "cb-04",
+   "s": "Genesis says humans were made in the image of God.",
+   "answer": true,
+   "why": "Genesis 1:27, which Christians use for human value and stewardship."
+  },
+  {
+   "topic": "cb-04",
+   "s": "Stewardship means humans own the earth and can use it however they like.",
+   "answer": false,
+   "why": "Stewardship means caring for the earth on God's behalf; it belongs to God."
+  },
+  {
+   "topic": "cb-05",
+   "s": "Incarnation means being born again into a new body after death.",
+   "answer": false,
+   "why": "That is reincarnation. Incarnation means God becoming flesh in Jesus."
+  },
+  {
+   "topic": "cb-05",
+   "s": "Messiah and Christ both mean 'anointed one'.",
+   "answer": true,
+   "why": "Messiah is Hebrew and Christ is Greek for the same idea."
+  },
+  {
+   "topic": "cb-05",
+   "s": "Christians believe Jesus was fully God and fully human.",
+   "answer": true,
+   "why": "This was agreed at the Council of Chalcedon (451) and is held by most churches."
+  },
+  {
+   "topic": "cb-05",
+   "s": "All Christians take the virgin conception literally.",
+   "answer": false,
+   "why": "Most do, but some liberal Christians see it as symbolic of Jesus' closeness to God."
+  },
+  {
+   "topic": "cb-05",
+   "s": "Emmanuel means 'God saves'.",
+   "answer": false,
+   "why": "Emmanuel means 'God with us'. The name Jesus means 'God saves'."
+  },
+  {
+   "topic": "cb-06",
+   "s": "Jesus was crucified on Good Friday.",
+   "answer": true,
+   "why": "Christians remember his death on Good Friday, two days before Easter Sunday."
+  },
+  {
+   "topic": "cb-06",
+   "s": "Jesus was crucified because the Romans accused him of blasphemy.",
+   "answer": false,
+   "why": "The Jewish leaders accused him of blasphemy; the Roman governor Pilate sentenced him, partly as a threat to order ('King of the Jews')."
+  },
+  {
+   "topic": "cb-06",
+   "s": "Jesus forgave the people who crucified him.",
+   "answer": true,
+   "why": "'Father, forgive them, for they don't know what they are doing' (Luke 23:34)."
+  },
+  {
+   "topic": "cb-06",
+   "s": "Christians believe the crucifixion shows that God shares human suffering.",
+   "answer": true,
+   "why": "Because Jesus is God made human, his pain shows God understands suffering."
+  },
+  {
+   "topic": "cb-06",
+   "s": "A question on the crucifixion can be answered well by writing mostly about the resurrection.",
+   "answer": false,
+   "why": "Examiners could not credit resurrection material in a crucifixion question in 2022. Stick to Jesus' death."
+  },
+  {
+   "topic": "cb-07",
+   "s": "The ascension happened on the third day after the crucifixion.",
+   "answer": false,
+   "why": "The resurrection was on the third day; the ascension was forty days after the resurrection."
+  },
+  {
+   "topic": "cb-07",
+   "s": "Pentecost came after the ascension.",
+   "answer": true,
+   "why": "About ten days after the ascension the Holy Spirit came on the disciples (Acts 2)."
+  },
+  {
+   "topic": "cb-07",
+   "s": "Paul wrote that if Christ has not been raised, Christian faith is in vain.",
+   "answer": true,
+   "why": "1 Corinthians 15:14."
+  },
+  {
+   "topic": "cb-07",
+   "s": "All Christians believe the resurrection was a physical event.",
+   "answer": false,
+   "why": "Most do, but some liberal Christians understand it as a spiritual experience of the disciples."
+  },
+  {
+   "topic": "cb-07",
+   "s": "The creeds say Jesus is seated at the right hand of the Father.",
+   "answer": true,
+   "why": "This shows his authority and that he speaks for believers."
+  },
+  {
+   "topic": "cb-08",
+   "s": "The Apostles' Creed says 'I believe in the resurrection of the body'.",
+   "answer": true,
+   "why": "It ends with the resurrection of the body and the life everlasting."
+  },
+  {
+   "topic": "cb-08",
+   "s": "Christians believe that death is the end of a person's existence.",
+   "answer": false,
+   "why": "Christians believe in eternal life after death."
+  },
+  {
+   "topic": "cb-08",
+   "s": "Paul says the resurrection body will be imperishable.",
+   "answer": true,
+   "why": "1 Corinthians 15:42: sown perishable, raised imperishable."
+  },
+  {
+   "topic": "cb-08",
+   "s": "Jesus taught that people will marry again in heaven.",
+   "answer": false,
+   "why": "He said they will neither marry nor be given in marriage (Matthew 22:30)."
+  },
+  {
+   "topic": "cb-08",
+   "s": "Christians all agree on when the dead will be raised.",
+   "answer": false,
+   "why": "Some believe straight after death, others at the end of time when Jesus returns."
+  },
+  {
+   "topic": "cb-09",
+   "s": "In the sheep and goats parable, people are judged on how they treated those in need.",
+   "answer": true,
+   "why": "Matthew 25:31-46: serving the needy is serving Jesus."
+  },
+  {
+   "topic": "cb-09",
+   "s": "Catholics believe in both particular and final judgement.",
+   "answer": true,
+   "why": "One at death and one for all at the end of time."
+  },
+  {
+   "topic": "cb-09",
+   "s": "Christians believe only people who are alive when Jesus returns will be judged.",
+   "answer": false,
+   "why": "The creeds say Jesus will judge 'the living and the dead'."
+  },
+  {
+   "topic": "cb-09",
+   "s": "Belief in judgement can give Christians hope that justice will finally be done.",
+   "answer": true,
+   "why": "Wrongs not put right on earth will be put right by God."
+  },
+  {
+   "topic": "cb-10",
+   "s": "Purgatory is a Catholic belief.",
+   "answer": true,
+   "why": "It is taught in the Catechism; most Protestants reject it."
+  },
+  {
+   "topic": "cb-10",
+   "s": "Purgatory is another name for hell.",
+   "answer": false,
+   "why": "Purgatory is a temporary cleansing that leads to heaven; hell is separation from God."
+  },
+  {
+   "topic": "cb-10",
+   "s": "Some Christians understand hell as a state of separation from God rather than a place of fire.",
+   "answer": true,
+   "why": "Many modern Christians see fire as picture language."
+  },
+  {
+   "topic": "cb-10",
+   "s": "All Christians believe hell is a literal place of eternal fire.",
+   "answer": false,
+   "why": "Views range from literal fire, to separation from God, to universalist hope that hell is empty."
+  },
+  {
+   "topic": "cb-10",
+   "s": "In the parable of the rich man and Lazarus, the rich man ends up in torment.",
+   "answer": true,
+   "why": "Luke 16:19-31: he had ignored the poor beggar at his gate."
+  },
+  {
+   "topic": "cb-11",
+   "s": "Original sin means the first sin a person commits as a child.",
+   "answer": false,
+   "why": "It is the sinful nature all humans inherit from Adam and Eve's disobedience."
+  },
+  {
+   "topic": "cb-11",
+   "s": "In Genesis 3, Adam and Eve ate from the tree of the knowledge of good and evil.",
+   "answer": true,
+   "why": "God had told them not to; this disobedience is the Fall."
+  },
+  {
+   "topic": "cb-11",
+   "s": "Many Protestants believe people are saved by grace through faith, not by works.",
+   "answer": true,
+   "why": "Ephesians 2:8-9 is their key source."
+  },
+  {
+   "topic": "cb-11",
+   "s": "Catholics believe good works are irrelevant to salvation.",
+   "answer": false,
+   "why": "Catholics teach salvation is by grace, received through faith shown in good works and the sacraments."
+  },
+  {
+   "topic": "cb-11",
+   "s": "The Holy Spirit is one of the means of salvation in the AQA specification.",
+   "answer": true,
+   "why": "Law, grace and Spirit. The Spirit gives faith and renews believers (Titus 3:5)."
+  },
+  {
+   "topic": "cb-12",
+   "s": "Atonement means making God and humans 'at one' again.",
+   "answer": true,
+   "why": "Sin broke the relationship; Jesus' death and resurrection restore it."
+  },
+  {
+   "topic": "cb-12",
+   "s": "Christians believe Jesus' death only saves people who lived at the same time as him.",
+   "answer": false,
+   "why": "1 John 2:2 says he is the sacrifice for the sins of 'the whole world'."
+  },
+  {
+   "topic": "cb-12",
+   "s": "Mark 10:45 describes Jesus giving his life as a ransom for many.",
+   "answer": true,
+   "why": "This is the basis of calling Jesus 'redeemer'."
+  },
+  {
+   "topic": "cb-12",
+   "s": "A question on Christ's role in salvation is best answered with a general essay on faith versus works.",
+   "answer": false,
+   "why": "The 2025 examiner report says answers must focus on what Christ did (sacrifice, redeemer, Lamb of God)."
+  },
+  {
+   "topic": "cb-12",
+   "s": "Christians believe the resurrection is also part of how Jesus saves.",
+   "answer": true,
+   "why": "The cross deals with sin and the resurrection defeats death."
+  }
+ ],
+ "short": [
+  {
+   "topic": "cb-01",
+   "q": "Give one word Christians use to describe the nature of God.",
+   "a": "Omnipotent (accept: all-powerful, loving, omnibenevolent, just, one, merciful, omniscient, eternal, holy)"
+  },
+  {
+   "topic": "cb-01",
+   "q": "Give one word which means 'all-loving'.",
+   "a": "Omnibenevolent"
+  },
+  {
+   "topic": "cb-01",
+   "q": "Name the Greek word for the selfless love Christians believe God shows.",
+   "a": "Agape"
+  },
+  {
+   "topic": "cb-01",
+   "q": "Give one source which shows that God is loving.",
+   "a": "John 3:16 (accept: 1 John 4:8)"
+  },
+  {
+   "topic": "cb-02",
+   "q": "Give one example of natural evil.",
+   "a": "An earthquake (accept: flood, tsunami, disease, drought, famine caused by weather)"
+  },
+  {
+   "topic": "cb-02",
+   "q": "Give one example of moral evil.",
+   "a": "Murder (accept: war, theft, terrorism, abuse, bullying)"
+  },
+  {
+   "topic": "cb-02",
+   "q": "Name the book of the Bible about a good man who suffers.",
+   "a": "Job"
+  },
+  {
+   "topic": "cb-02",
+   "q": "Give one Christian response to the problem of evil.",
+   "a": "Free will (accept: the Devil, soul-making, test of faith, God's plan is a mystery, God suffers with us in Jesus)"
+  },
+  {
+   "topic": "cb-03",
+   "q": "Name the three persons of the Trinity.",
+   "a": "Father, Son and Holy Spirit"
+  },
+  {
+   "topic": "cb-03",
+   "q": "Give one belief about the Holy Spirit.",
+   "a": "The Spirit guides Christians (accept: comforts, is God's presence in the world, is fully God, came at Pentecost, gives gifts)"
+  },
+  {
+   "topic": "cb-03",
+   "q": "Name the creed which says the Son is 'of one being with the Father'.",
+   "a": "The Nicene Creed"
+  },
+  {
+   "topic": "cb-04",
+   "q": "Name the book of the Bible which contains the creation story.",
+   "a": "Genesis"
+  },
+  {
+   "topic": "cb-04",
+   "q": "Give one Christian belief about creation.",
+   "a": "God created everything out of nothing (accept: the Word and Spirit were involved, humans are made in God's image, Genesis is literal, Genesis is symbolic, God caused the Big Bang)"
+  },
+  {
+   "topic": "cb-04",
+   "q": "Give the meaning of the term 'stewardship'.",
+   "a": "Looking after the world on God's behalf"
+  },
+  {
+   "topic": "cb-04",
+   "q": "Name the Gospel which begins 'In the beginning was the Word'.",
+   "a": "John"
+  },
+  {
+   "topic": "cb-05",
+   "q": "Give one belief about the incarnation.",
+   "a": "God became human in Jesus (accept: Jesus is fully God and fully human, the Word became flesh, virgin conception by the Holy Spirit, Jesus is God the Son)"
+  },
+  {
+   "topic": "cb-05",
+   "q": "Give the meaning of 'Emmanuel'.",
+   "a": "God with us"
+  },
+  {
+   "topic": "cb-05",
+   "q": "Name the angel who appeared to Mary.",
+   "a": "Gabriel"
+  },
+  {
+   "topic": "cb-06",
+   "q": "Name the place where Jesus was crucified.",
+   "a": "Golgotha (accept: Calvary, the place of the skull)"
+  },
+  {
+   "topic": "cb-06",
+   "q": "Give one thing Jesus said on the cross.",
+   "a": "'It is finished' (accept: 'Father, forgive them', 'Today you will be with me in paradise', 'My God, my God, why have you forsaken me?', 'Father, into your hands I commit my spirit')"
+  },
+  {
+   "topic": "cb-06",
+   "q": "Give one reason the crucifixion is important for Christians.",
+   "a": "It was a sacrifice for sin (accept: makes forgiveness possible, shows God's love, shows God shares suffering, fulfils scripture)"
+  },
+  {
+   "topic": "cb-07",
+   "q": "Name the event when Jesus was taken up into heaven.",
+   "a": "The ascension"
+  },
+  {
+   "topic": "cb-07",
+   "q": "Give one person who saw the risen Jesus.",
+   "a": "Mary Magdalene (accept: Peter, Thomas, the disciples on the road to Emmaus, Paul, the eleven disciples)"
+  },
+  {
+   "topic": "cb-07",
+   "q": "Give the number of days between the resurrection and the ascension.",
+   "a": "Forty"
+  },
+  {
+   "topic": "cb-08",
+   "q": "Give one Christian belief about life after death.",
+   "a": "The body will be resurrected (accept: the soul lives on, people will be judged, heaven, hell, eternal life with God, purgatory for Catholics)"
+  },
+  {
+   "topic": "cb-08",
+   "q": "Name the letter in which Paul describes the resurrection body.",
+   "a": "1 Corinthians (chapter 15)"
+  },
+  {
+   "topic": "cb-08",
+   "q": "Give one way belief in life after death affects a Christian funeral.",
+   "a": "It is a service of hope (accept: readings about eternal life, prayers for the dead, white or Easter symbols, the Paschal candle)"
+  },
+  {
+   "topic": "cb-09",
+   "q": "Name the parable Jesus told about the final judgement.",
+   "a": "The sheep and the goats (Matthew 25:31-46)"
+  },
+  {
+   "topic": "cb-09",
+   "q": "Give one Christian belief about judgement.",
+   "a": "God will judge everyone (accept: Jesus will return to judge the living and the dead, judgement is based on faith and/or actions, judgement at death, judgement at the end of time, God is a fair judge)"
+  },
+  {
+   "topic": "cb-09",
+   "q": "Give one action a Christian might take because of belief in judgement.",
+   "a": "Giving to charity (accept: helping the poor, visiting the sick, avoiding sin, confessing sins, praying for forgiveness, evangelism)"
+  },
+  {
+   "topic": "cb-10",
+   "q": "Give one Christian belief about hell.",
+   "a": "Hell is eternal separation from God (accept: a place of punishment, a state of mind, it may not exist or may be empty, it is chosen by those who reject God)"
+  },
+  {
+   "topic": "cb-10",
+   "q": "Give one Christian belief about heaven.",
+   "a": "Eternal life with God (accept: no pain or death, a real place, a spiritual state, a reward for faith, beyond imagination)"
+  },
+  {
+   "topic": "cb-10",
+   "q": "Name the Christian denomination which teaches purgatory.",
+   "a": "The Catholic Church"
+  },
+  {
+   "topic": "cb-11",
+   "q": "Give the meaning of 'salvation'.",
+   "a": "Being saved from sin and its consequences (accept: being given eternal life with God, being forgiven and restored to God)"
+  },
+  {
+   "topic": "cb-11",
+   "q": "Name the first humans who sinned in Genesis.",
+   "a": "Adam and Eve"
+  },
+  {
+   "topic": "cb-11",
+   "q": "Give one means of salvation.",
+   "a": "Grace (accept: law, Spirit, faith, good works, the sacraments)"
+  },
+  {
+   "topic": "cb-11",
+   "q": "Give one source that teaches salvation by grace.",
+   "a": "Ephesians 2:8-9 (accept: Romans 6:23, Titus 3:5, Romans 3:28, Galatians 2:16)"
+  },
+  {
+   "topic": "cb-12",
+   "q": "Give the meaning of 'atonement'.",
+   "a": "Restoring the relationship between God and humans (accept: at-one-ment, making up for sin)"
+  },
+  {
+   "topic": "cb-12",
+   "q": "Give one title for Jesus which shows his role in salvation.",
+   "a": "Saviour (accept: Redeemer, Lamb of God, mediator, Messiah, Christ)"
+  },
+  {
+   "topic": "cb-12",
+   "q": "Name the person who called Jesus 'the Lamb of God'.",
+   "a": "John the Baptist"
   }
  ],
  "exam": [
@@ -2081,7 +3791,7 @@
    "marks": 6,
    "type": "explain-two-source",
    "q": "Explain two reasons why the resurrection of Jesus is important for Christians. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
-   "model": "One reason is that it shows Jesus is the Son of God and has power over death. Christians believe God raised him from the dead, which proves his teaching was true. In Luke 24:5-6 the angels tell the women at the empty tomb 'He is not here; he has risen!' This means Christians can trust Jesus and celebrate Easter as the most important festival. A second reason is that it gives believers hope of life after death. Paul says in 1 Corinthians 15:20 that Christ has been raised as the first of those who sleep. This means Christians believe they too will be raised, so they face death with hope.",
+   "model": "One reason is that it shows Jesus is the Son of God and has power over death. Christians believe God raised him from the dead, which proves his teaching was true. In Luke 24:5-6 the angels tell the women at the empty tomb 'He is not here; he has risen!' This means Christians can trust Jesus and celebrate Easter as the most important festival. A second reason is that it gives believers hope of life after death. Paul says in 1 Corinthians 15:20 that Christ has been raised as 'the first fruits of those who are asleep'. This means Christians believe they too will be raised, so they face death with hope.",
    "points": [
     "Proves Jesus is the Son of God and victorious over death and sin",
     "Gives hope of resurrection and eternal life",
@@ -2121,7 +3831,7 @@
    "topic": "cb-02",
    "marks": 12,
    "type": "evaluate",
-   "q": "'The existence of evil and suffering shows that God cannot be all-powerful and loving.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'The existence of evil and suffering shows that God cannot be all-powerful and loving.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "If God is omnipotent he could stop evil, and if he is omnibenevolent he would want to, but children suffer from disease and disasters, so one of these must be false (the inconsistent triad).",
     "Natural evil, such as earthquakes, is not caused by humans, so free will cannot explain it. This challenges a just God.",
@@ -2140,7 +3850,7 @@
    "topic": "cb-04",
    "marks": 12,
    "type": "evaluate",
-   "q": "'The Genesis creation account is the best explanation of how the universe began.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'The Genesis creation account is the best explanation of how the universe began.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "The Bible is the word of God, so Genesis 1 is true. Fundamentalists believe God created the world in six days.",
     "It explains why the world exists and gives humans value as made in God's image (Genesis 1:27).",
@@ -2158,7 +3868,7 @@
    "topic": "cb-07",
    "marks": 12,
    "type": "evaluate",
-   "q": "'The resurrection is the most important belief for Christians.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'The resurrection is the most important belief for Christians.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "Without the resurrection, Christian faith would be pointless (1 Corinthians 15:14).",
     "It proves Jesus is the Son of God and that his death defeated sin.",
@@ -2170,13 +3880,13 @@
     "Some Christians stress living by Jesus' teaching and love of neighbour over any single belief."
    ],
    "conclusion": "The resurrection is central because it confirms everything else, but the beliefs are closely linked; it is arguably the most important because it validates the others.",
-   "model": "Many Christians agree with this statement. Paul says in 1 Corinthians 15:14 that if Christ has not been raised, preaching and faith are useless. The resurrection proves that Jesus is the Son of God and that his death defeated sin and death. It also gives Christians hope that they will have eternal life, as the Creeds say 'I believe in the resurrection of the body'. Easter is the most important festival, and many Christians worship on Sunday to remember it. This argument is strong because it explains why the early Church began and why Christians face death with confidence.\n\nHowever, others argue that other beliefs are as important or more so. The crucifixion is where atonement happens: Jesus' sacrifice paid for human sin, as 1 John 2:2 says. Without it, there would be nothing for the resurrection to confirm. Some also say the incarnation is most important, because unless God became human in Jesus, there could be no saviour who is both God and human. Others stress the Trinity, or Jesus' teaching, such as loving your neighbour (Mark 12:31), and say Christianity is about how people live. This argument is persuasive because the beliefs depend on each other, so it is hard to rank them.\n\nIn conclusion, I think the resurrection is the most important belief because it confirms Jesus' identity and his sacrifice, and gives Christians hope. The crucifixion matters hugely, but without the resurrection it would look like a tragic defeat. The statement is therefore largely convincing, though the beliefs are best seen as a whole."
+   "model": "Many Christians agree with this statement. Paul says in 1 Corinthians 15:14 that if Christ has not been raised, preaching and faith are useless. The resurrection proves that Jesus is the Son of God and that his death defeated sin and death. It also gives Christians hope that they will have eternal life, as the Apostles' Creed says 'I believe in the resurrection of the body'. Easter is the most important festival, and many Christians worship on Sunday to remember it. This argument is strong because it explains why the early Church began and why Christians face death with confidence.\n\nHowever, others argue that other beliefs are as important or more so. The crucifixion is where atonement happens: Jesus' sacrifice paid for human sin, as 1 John 2:2 says. Without it, there would be nothing for the resurrection to confirm. Some also say the incarnation is most important, because unless God became human in Jesus, there could be no saviour who is both God and human. Others stress the Trinity, or Jesus' teaching, such as loving your neighbour (Mark 12:31), and say Christianity is about how people live. This argument is persuasive because the beliefs depend on each other, so it is hard to rank them.\n\nIn conclusion, I think the resurrection is the most important belief because it confirms Jesus' identity and his sacrifice, and gives Christians hope. The crucifixion matters hugely, but without the resurrection it would look like a tragic defeat. The statement is therefore largely convincing, though the beliefs are best seen as a whole."
   },
   {
    "topic": "cb-10",
    "marks": 12,
    "type": "evaluate",
-   "q": "'A loving God would not send anyone to hell.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'A loving God would not send anyone to hell.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "God is omnibenevolent, and eternal punishment seems unfair for finite sins.",
     "Jesus taught forgiveness and told parables like the prodigal son, showing God welcomes anyone who returns (Luke 15).",
@@ -2194,7 +3904,7 @@
    "topic": "cb-11",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Good works are more important than faith for Christians who want to be saved.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Good works are more important than faith for Christians who want to be saved.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "James 2:17 says faith without action is dead, so works prove faith is real.",
     "In the sheep and goats parable (Matthew 25:31-46) people are judged on how they treat others, not on belief.",
@@ -2207,6 +3917,310 @@
    ],
    "conclusion": "Faith and works are linked, but grace through faith comes first, so works are the fruit of faith rather than more important than it.",
    "model": "Some Christians agree with this statement. James 2:17 says faith without action is dead, so a person who claims to believe but does nothing is not truly saved. In the parable of the sheep and the goats (Matthew 25), the people are judged on how they treated the hungry, sick and imprisoned, which suggests works matter greatly. Catholics teach that faith and good works together lead to salvation, and the Old Testament law shows that God expects obedience. This argument is strong because it fits Jesus' emphasis on caring for others and it stops faith becoming empty words.\n\nOther Christians disagree, especially Protestants. Ephesians 2:8-9 says that people are saved by grace through faith, 'not by works, so that no one can boast'. Paul says in Romans 3:28 that people are justified by faith, not by keeping the law. Because all people sin (Romans 3:23), no one could ever do enough good works to earn eternal life; only Jesus' sacrifice can save them. On this view, good works are the result of being saved, not the cause. This argument is convincing because it explains why even someone who has done many bad things can still be forgiven, and it stresses God's generosity.\n\nIn conclusion, I think the second view is stronger because salvation is a gift and faith comes first. However, James shows that real faith will produce action, so works are not unimportant. The statement is therefore not fully correct: faith and works are linked, but works are best seen as the evidence of faith rather than more important than it."
+  },
+  {
+   "topic": "cb-01",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two Christian beliefs about the nature of God. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One belief is that God is omnipotent, which means all-powerful. Christians believe God created the whole universe and can do anything that is not against his nature, so they believe he can answer prayer and work miracles. Jesus taught 'with God all things are possible' (Matthew 19:26). This means Christians trust God even when a situation seems hopeless. A second belief is that God is loving (omnibenevolent). Christians believe God cares for every person and wants the best for them, even those who reject him. The First Letter of John says simply 'God is love' (1 John 4:8), and John 3:16 says God gave his only Son to save the world. This means Christians believe the greatest proof of God's love is Jesus' death on the cross, and they try to show the same selfless agape love to others.",
+   "points": [
+    "Omnipotent: all-powerful, creator, can answer prayer and do miracles",
+    "Loving / omnibenevolent: cares for all, shown in sending Jesus",
+    "Just: fair judge who rewards good and punishes evil",
+    "One God in three persons (Trinity)",
+    "Sources: Matthew 19:26, Luke 1:37, 1 John 4:8, John 3:16, Micah 6:8, Ecclesiastes 3:17",
+    "Application: e.g. 'This means Christians trust God in hard times' or 'so they show agape love'"
+   ]
+  },
+  {
+   "topic": "cb-01",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'God's love is more important than God's justice.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Many Christians would agree with this statement. The First Letter of John says 'God is love' (1 John 4:8), which describes God's very nature, not just one thing he does. John 3:16 teaches that God's love was the reason he sent Jesus to save the world. Jesus taught people to love even their enemies, and in the parable of the prodigal son the father runs to welcome his son home before the son has even finished apologising (Luke 15). This suggests that mercy and love come first. This argument is strong because the whole Christian story of salvation begins with God's love, and Christians are told to copy that love through agape.\n\nHowever, other Christians argue that God's justice is just as important. The Bible often describes God as a fair judge: 'God will judge the righteous and the wicked' (Ecclesiastes 3:17). In the parable of the sheep and the goats (Matthew 25), people face real consequences for ignoring the hungry and poor. If God only loved and never judged, evil people would never face consequences, and their victims would never see justice done. This argument is also strong, because a love that ignored cruelty would not really be love for the victims.\n\nMany Christians would say the two cannot be separated. At the crucifixion God's justice takes sin seriously, because sin has a real cost, but God's love pays that cost himself through Jesus. Without justice, forgiveness would mean nothing, because there would be nothing to forgive. Without love, justice would leave everyone condemned, since 'all have sinned' (Romans 3:23).\n\nIn conclusion, I think the statement is partly right. Love is arguably the deepest description of God, because the Bible says God 'is' love but does not say God 'is' justice in the same way. However, it is misleading to call one more important, because the cross shows that God's justice is an expression of his love for the world and especially for those who suffer injustice.",
+   "for": [
+    "1 John 4:8 says 'God is love', describing God's very nature.",
+    "God's love is the reason for salvation (John 3:16); the prodigal son shows mercy before punishment.",
+    "Jesus commanded love of enemies, so love seems to be the priority for Christian life."
+   ],
+   "against": [
+    "God is a just judge (Ecclesiastes 3:17); the sheep and goats parable shows real consequences.",
+    "Without justice, evil would win and victims would never see wrongs put right.",
+    "Love and justice meet at the cross: sin has a cost and God's love pays it, so neither is more important."
+   ],
+   "conclusion": "Love is the deepest description of God, but the cross shows justice is part of God's love, so neither can be ranked above the other without distorting Christian teaching."
+  },
+  {
+   "topic": "cb-02",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two Christian responses to the problem of evil and suffering. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One response is free will. Christians believe God gave humans the freedom to choose, because real love must be freely chosen, and so people can also choose to do evil. In Genesis 3 Adam and Eve freely disobeyed God, and Paul says that through one man 'sin entered into the world' (Romans 5:12). This means moral evil such as murder is the fault of human choices, not God, so Christians try to use their own freedom well. A second response is that humans cannot fully understand God's plan. In the book of Job, a good man loses everything, but God does not explain why; instead he shows Job how limited human knowledge is. This means Christians trust God and pray for strength even when suffering seems pointless, believing as Romans 8:28 says that God works for good in all things.",
+   "points": [
+    "Free will: love must be freely chosen; moral evil is caused by humans (Genesis 3, Romans 5:12)",
+    "The Devil tempts people to sin (1 Peter 5:8)",
+    "Soul-making: suffering helps people grow (Irenaeus)",
+    "Mystery / trust: humans cannot understand God's plan (Job; Romans 8:28)",
+    "God suffers with us: Jesus on the cross (Mark 15:34)",
+    "Application: e.g. 'so Christians help victims' or 'so they trust God in prayer'"
+   ]
+  },
+  {
+   "topic": "cb-03",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in the Holy Spirit influences Christians today. (4 marks)",
+   "model": "One way is that Christians believe the Holy Spirit guides them. Jesus promised the Spirit would teach and remind his followers, so before important decisions many Christians pray for the Spirit's guidance and read the Bible expecting the Spirit to help them understand it. A second way is that it gives them courage to share their faith. At Pentecost the Spirit turned frightened disciples into bold preachers, so Christians today believe the same Spirit helps them speak about Jesus to friends or support mission work, even when they feel nervous.",
+   "points": [
+    "Guidance in decisions and understanding the Bible, so they pray for guidance",
+    "Comfort and strength in suffering, so they keep going and trust God",
+    "Courage to evangelise, as at Pentecost",
+    "Develop the fruit of the Spirit (love, patience, kindness) in how they treat others",
+    "Charismatic worship: speaking in tongues, healing prayer",
+    "Confirmation: receiving the Spirit to live as an adult Christian"
+   ]
+  },
+  {
+   "topic": "cb-03",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'The Trinity is impossible to understand, so it is not important for Christians.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some people would agree with this statement. The idea that one God exists as three persons seems to break ordinary logic, because one cannot equal three. Even great Christian thinkers have called the Trinity a mystery, and the word 'Trinity' does not appear in the Bible. Some groups who call themselves Christian, such as Unitarians, reject the doctrine, and many ordinary Christians focus on following Jesus' teaching to love their neighbour rather than on complicated ideas. This argument has some strength: a belief that people cannot explain may seem less useful in everyday life than clear moral teaching.\n\nHowever, most Christians strongly disagree. The Trinity is central to the Nicene Creed, which churches around the world say in worship, and it is how Christians understand who Jesus is. If Jesus were not God the Son, his death could not save humanity, and if the Holy Spirit were not God, Christians could not say God is with them today. Jesus told his followers to baptise 'in the name of the Father and of the Son and of the Holy Spirit' (Matthew 28:19), so the Trinity is part of how every Christian life begins. This argument is stronger, because it shows the Trinity holds the rest of Christian belief together.\n\nChristians would also say that being hard to understand does not make something unimportant. God is infinite, so it is not surprising that humans cannot fully grasp him. Christians experience God in three ways: as the Father who created them, the Son who saved them and the Spirit who guides them, and they pray 'to the Father, through the Son, in the Spirit'. A mystery can still be true and meaningful.\n\nIn conclusion, I disagree with the statement. The Trinity is difficult, but the argument that it is unimportant confuses 'hard to explain' with 'unimportant'. The Trinity shapes baptism, worship, prayer and belief in salvation, so for most Christians it is essential.",
+   "for": [
+    "One God in three persons seems illogical, and the word 'Trinity' is not in the Bible.",
+    "Some groups, such as Unitarians, reject it but still try to follow Jesus.",
+    "Many Christians focus on practical teaching like loving your neighbour rather than doctrine."
+   ],
+   "against": [
+    "The Trinity is in the Nicene Creed and is said in worship worldwide.",
+    "Matthew 28:19: baptism is in the name of the Father, Son and Holy Spirit, so it begins every Christian life.",
+    "Salvation depends on Jesus being God the Son; God's presence today depends on the Spirit being God.",
+    "Being a mystery is expected for an infinite God and does not make it unimportant."
+   ],
+   "conclusion": "Difficult is not the same as unimportant. The Trinity underpins baptism, prayer, worship and salvation, so it is essential for most Christians."
+  },
+  {
+   "topic": "cb-04",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief that God created the world influences Christians today. (4 marks)",
+   "model": "One way is that Christians act as stewards of the environment. Genesis teaches that God made the world and gave humans responsibility to look after it, so Christians recycle, reduce waste and support campaigns against climate change because they believe the earth belongs to God. A second way is that they value every human life. Christians believe God made humans in his own image, so they treat each person with respect, oppose things like racism and support charities that protect the vulnerable.",
+   "points": [
+    "Stewardship: caring for the environment, e.g. recycling, climate campaigns",
+    "Sanctity of life: every person made in God's image, so respect and protect life",
+    "Worship and thankfulness: praise God as creator, e.g. harvest festivals",
+    "Some reject evolution and support creationist teaching; others see science as exploring God's work",
+    "Awe at nature leads to prayer and belief in God's power"
+   ]
+  },
+  {
+   "topic": "cb-05",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in the incarnation influences Christians today. (4 marks)",
+   "model": "One way is that Christians treat Jesus' teaching as having God's own authority. Because they believe Jesus was God in human form, they follow what he said, for example forgiving others and helping the poor, rather than seeing him as just a good teacher. A second way is that it gives them comfort when they suffer. Christians believe that in Jesus God lived a real human life and felt hunger, grief and pain, so when they are going through hard times they pray knowing God understands exactly how they feel.",
+   "points": [
+    "Jesus' teaching has divine authority, so Christians obey it",
+    "God understands human suffering, so Christians find comfort in prayer",
+    "Celebrate Christmas with worship, nativity services and generosity",
+    "Human life is valued highly because God became human, so Christians respect all people",
+    "Jesus is an example of how to live, so Christians try to imitate him"
+   ]
+  },
+  {
+   "topic": "cb-05",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Jesus was just a good human teacher, not the Son of God.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some people agree with this statement. Jesus lived as a real human: he was born, grew up, felt hunger, cried at the death of his friend Lazarus and died on a cross. Non-religious people and some liberal thinkers admire his teaching on love and forgiveness, such as the parable of the Good Samaritan, without believing he was divine. They argue that stories like the virgin conception and miracles may have been added later to show how important he was. This argument is reasonable for someone who does not accept the Bible as reliable, but it does not explain why his followers were willing to die claiming he had risen.\n\nMost Christians strongly disagree. They believe in the incarnation: 'The Word became flesh, and lived among us' (John 1:14). The angel told Mary that her child would be called 'the Son of God' (Luke 1:35), and at Jesus' baptism a voice from heaven said 'You are my Son' (Mark 1:11). Jesus forgave sins, which Jewish leaders said only God could do, and he accepted Thomas calling him 'My Lord and my God' (John 20:28). Most importantly, Christians believe God raised him from the dead, which a mere teacher could not explain.\n\nChristians also argue that the statement does not hold together. C. S. Lewis pointed out that Jesus claimed to be one with the Father (John 10:30). If that claim was false, Jesus would not be a 'good teacher' but either deluded or dishonest. So either he was more than a teacher, or he was not good.\n\nIn conclusion, I disagree with the statement. A believer could not accept it, because the Creeds, the resurrection and the idea of salvation all depend on Jesus being the Son of God. Even for a non-believer, calling Jesus 'just a good teacher' is the weakest option, because it ignores the claims he made about himself.",
+   "for": [
+    "Jesus lived a real human life and his moral teaching (e.g. Good Samaritan) can be admired without belief in God.",
+    "Some argue miracle and virgin birth stories were added later to show his importance.",
+    "Some liberal Christians focus on Jesus' example rather than his divinity."
+   ],
+   "against": [
+    "John 1:14: the Word became flesh; Luke 1:35 and Mark 1:11 call him Son of God.",
+    "He forgave sins and accepted worship ('My Lord and my God', John 20:28).",
+    "The resurrection shows God's approval of his claims.",
+    "If his claims (John 10:30) were false he could not be a good teacher (C. S. Lewis' argument)."
+   ],
+   "conclusion": "For Christians the statement fails because the Creeds and salvation depend on Jesus being God the Son; even logically, 'just a good teacher' sits badly with the claims Jesus made."
+  },
+  {
+   "topic": "cb-06",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two Christian beliefs about the crucifixion of Jesus. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One belief is that the crucifixion was part of God's plan to save humanity from sin. Jesus knew he would die and told his disciples beforehand that he would be killed and rise on the third day (Mark 9:31). Paul also says that 'Christ died for our sins according to the Scriptures' (1 Corinthians 15:3). This means Christians believe Jesus' death was a willing sacrifice, not a defeat, so they can be forgiven. A second belief is that the crucifixion teaches forgiveness. Even while in agony, Jesus prayed 'Father, forgive them, for they don't know what they are doing' (Luke 23:34). This means Christians believe that no one is beyond forgiveness, and they try to forgive people who hurt them, even when it is very hard.",
+   "points": [
+    "Part of God's plan; Jesus predicted it (Mark 9:31); fulfilled scripture (Isaiah 53:5, 1 Corinthians 15:3)",
+    "A sacrifice for sin making forgiveness possible",
+    "Teaches forgiveness: 'Father, forgive them' (Luke 23:34)",
+    "God shares human suffering: 'My God, my God, why have you forsaken me?' (Mark 15:34)",
+    "Promise of paradise to the repentant criminal (Luke 23:43)",
+    "Nicene Creed: 'For our sake he was crucified under Pontius Pilate'"
+   ]
+  },
+  {
+   "topic": "cb-06",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'The crucifixion is more important for Christians than the resurrection.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some Christians would agree with this statement. They believe the crucifixion is the moment when sin was dealt with. John the Baptist called Jesus 'the Lamb of God, who takes away the sin of the world' (John 1:29), and 1 John 2:2 calls him 'the atoning sacrifice for our sins'. Without his death there would be no atonement, and humans would remain separated from God. The cross is the main Christian symbol, Christians make the sign of the cross, and Holy Communion remembers Jesus' body broken and blood shed. Jesus' final words 'It is finished' (John 19:30) suggest that his work of salvation was completed on the cross. This argument is strong because it explains how forgiveness is possible.\n\nOther Christians argue that the resurrection is more important. Paul wrote that 'if Christ has not been raised, then our preaching is in vain, and your faith also is in vain' (1 Corinthians 15:14). Many people were crucified by the Romans; what made Jesus different was that he rose again. The resurrection proves he was the Son of God, shows that death has been defeated and gives Christians hope of eternal life. It is why Easter is the greatest Christian festival and why Christians worship on Sunday. This argument is also strong, because without the resurrection the crucifixion would look like the failure of a good man.\n\nHowever, the two events are really two halves of one act of salvation. The crucifixion deals with sin, and the resurrection defeats death and shows that the sacrifice was accepted by God. The Creeds put them side by side: he was crucified, died and was buried, and on the third day he rose again.\n\nIn conclusion, I think the resurrection is slightly more important, because it gives meaning to the crucifixion and is what Paul says the faith stands or falls on. However, most Christians would say it is a mistake to separate them, since neither saves on its own.",
+   "for": [
+    "The cross is where sin is dealt with: Lamb of God (John 1:29), atoning sacrifice (1 John 2:2).",
+    "'It is finished' (John 19:30): salvation completed on the cross.",
+    "The cross is the main Christian symbol and Holy Communion remembers Jesus' death."
+   ],
+   "against": [
+    "1 Corinthians 15:14: without the resurrection faith is in vain.",
+    "Many were crucified; only the resurrection shows Jesus is the Son of God and that death is defeated.",
+    "Easter and Sunday worship celebrate the resurrection; it gives hope of eternal life.",
+    "The Creeds link both: they are two halves of one act of salvation."
+   ],
+   "conclusion": "The resurrection is arguably more important because it gives meaning to the cross, but most Christians see them as inseparable parts of salvation."
+  },
+  {
+   "topic": "cb-07",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in the ascension of Jesus influences Christians today. (4 marks)",
+   "model": "One way is that it gives Christians confidence when they pray. They believe that after the ascension Jesus is seated at the right hand of the Father, speaking for them, so they pray 'through Jesus Christ our Lord' and trust that God hears them. A second way is that it makes them carry on Jesus' mission. Just before he ascended, Jesus told his disciples to make disciples of all nations and promised the Holy Spirit's power, so Christians today share their faith and support mission, believing the Spirit helps them.",
+   "points": [
+    "Confidence in prayer: Jesus intercedes for them at the Father's right hand",
+    "Carry on the Great Commission: evangelism and mission",
+    "Live ready for the second coming promised by the angels (Acts 1:11)",
+    "Belief that heaven is real and that life after death may be bodily",
+    "Celebrate Ascension Day and expect the Holy Spirit (Pentecost follows)"
+   ]
+  },
+  {
+   "topic": "cb-08",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two different Christian beliefs about the resurrection of the dead. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One belief is that people will be raised with a body. Catholics, Orthodox and many other Christians believe God will give people a new, transformed body, not just a ghost-like existence. The Apostles' Creed says 'I believe in the resurrection of the body and the life everlasting'. This means many Christians treat the body with respect after death, and Catholics traditionally prefer burial, though cremation is allowed. A different belief is that the body will not be the same physical body we have now, or that only the soul lives on. Paul says the body 'is sown a natural body; it is raised a spiritual body' (1 Corinthians 15:44). This means some Christians believe that what continues after death is the soul, which is non-physical and so cannot decay, and they see the funeral as saying goodbye to the body while the person lives on with God.",
+   "points": [
+    "Bodily resurrection: a transformed physical body (Apostles' Creed)",
+    "Spiritual body / immortality of the soul (1 Corinthians 15:42-44)",
+    "Resurrection straight after death versus at the end of time when Jesus returns",
+    "Resurrection life is different from now (Matthew 22:30)",
+    "Application: burial customs, hope at funerals, respect for the body"
+   ]
+  },
+  {
+   "topic": "cb-08",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Belief in life after death is the most important Christian belief.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some Christians would agree with this statement. Eternal life is the goal of the whole Christian faith: John 3:16 says God sent his Son so that whoever believes 'shall not perish but have eternal life'. Jesus promised, 'I am the resurrection and the life' (John 11:25), and the Apostles' Creed ends with 'the resurrection of the body and the life everlasting'. Belief in life after death gives Christians hope when loved ones die, removes the fear of death and shows that God's justice will finally be done. It also gives this life purpose, because people's choices now matter for eternity. This argument is strong because, without the hope of eternal life, many Christian teachings about salvation would have nothing to point towards.\n\nHowever, other Christians argue that belief in God is more important. Life after death only makes sense if there is a God who is loving and powerful enough to raise the dead. The Trinity and the incarnation tell Christians who God is, and the crucifixion and resurrection of Jesus are what make eternal life possible in the first place. Paul's argument in 1 Corinthians 15 bases the hope of resurrection on the fact that Christ has been raised, so Jesus' resurrection comes first.\n\nSome Christians, especially liberal Christians, add that focusing on the afterlife can distract from living as Jesus taught now. Jesus said the greatest commandments are to love God and love your neighbour, and in the parable of the sheep and the goats people are judged on how they treat the needy in this life. If people only do good to reach heaven, their motive may be selfish.\n\nIn conclusion, I think life after death is extremely important, but not the most important belief. It depends on belief in God and in Jesus' resurrection, so those are more basic. Life after death is better seen as the result of Christian beliefs than their foundation.",
+   "for": [
+    "Eternal life is the goal of salvation (John 3:16, John 11:25).",
+    "The Apostles' Creed ends with the life everlasting; it gives hope and removes fear of death.",
+    "It gives life purpose and shows God's justice will be done."
+   ],
+   "against": [
+    "Belief in God (and the Trinity) comes first; the afterlife depends on God.",
+    "Jesus' resurrection is the basis of the hope of resurrection (1 Corinthians 15).",
+    "Jesus' greatest commandments focus on love now; doing good just to reach heaven may be selfish."
+   ],
+   "conclusion": "Life after death is very important but rests on belief in God and Jesus' resurrection, so it is a result of the foundations rather than the foundation itself."
+  },
+  {
+   "topic": "cb-09",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two Christian beliefs about God's judgement. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One belief is that everyone will be judged by God. Christians believe that Jesus will return at the end of time and that no one can escape answering for how they have lived. The Apostles' Creed says Jesus 'will come to judge the living and the dead'. This means Christians take their choices seriously and confess their sins, because they will be accountable. A second belief is that people will be judged on how they treated others in need. In the parable of the sheep and the goats (Matthew 25:31-46), Jesus says that whatever people did for 'one of the least of these' they did for him, and those who ignored the hungry and sick are sent away. This means Christians believe that faith must be shown in action, so many give to food banks, visit the sick or support charities such as Christian Aid.",
+   "points": [
+    "Everyone will be judged; Jesus returns to judge the living and the dead (Apostles' Creed, 2 Corinthians 5:10)",
+    "Judgement on actions towards the needy (Matthew 25:31-46)",
+    "Judgement on faith in Jesus (John 14:6, John 3:36)",
+    "Particular judgement at death and final judgement at the end (Catholic)",
+    "God is just and merciful: repentance brings forgiveness",
+    "Application: moral living, charity, confession"
+   ]
+  },
+  {
+   "topic": "cb-09",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'People should only be judged by God on their actions, not their beliefs.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some Christians would agree with this statement. In the parable of the sheep and the goats (Matthew 25:31-46), the people are not asked what they believed but whether they fed the hungry, welcomed strangers and visited prisoners. Even the 'sheep' did not realise they had been serving Jesus. James teaches that 'faith apart from works is dead' (James 2:26), and Jesus warned that not everyone who says 'Lord, Lord' will enter the kingdom, but only those who do God's will (Matthew 7:21). This view seems fair, because people cannot always control what they believe, especially if they were never taught about Jesus, but they can choose how they treat others. Catholics stress that good works matter for salvation. This argument is strong because it is based directly on Jesus' own picture of judgement.\n\nHowever, many Christians, especially Evangelical Protestants, disagree. Jesus said 'No one comes to the Father, except through me' (John 14:6), and John 3:36 says that whoever believes in the Son has eternal life. Paul taught that people are saved 'by grace... through faith... not of works' (Ephesians 2:8-9), because everyone sins and no amount of good deeds can make up for it (Romans 3:23). If judgement were only about actions, salvation would be earned, and Jesus' death would be unnecessary. This argument is strong within Christian teaching, though some find it hard to accept that good people who do not believe could be lost.\n\nMany Christians try to hold both together. They argue that real faith always shows itself in action, so actions reveal what someone truly believes. Belief and behaviour cannot be separated.\n\nIn conclusion, I disagree with the word 'only'. Christian teaching does not support judging on beliefs alone or on actions alone. The strongest view is that God judges the whole person, because faith that changes nothing is not real faith, and kind actions grow from a heart that trusts God.",
+   "for": [
+    "Sheep and goats: people are judged on care for the needy, not stated belief (Matthew 25).",
+    "James 2:26: faith without works is dead; Matthew 7:21: doing God's will matters.",
+    "It seems fairer: people can choose actions more than beliefs, especially if never taught about Jesus."
+   ],
+   "against": [
+    "John 14:6 and John 3:36: faith in Jesus is the way to the Father.",
+    "Ephesians 2:8-9: saved by grace through faith, not works; everyone sins (Romans 3:23).",
+    "If actions alone saved, salvation would be earned and Jesus' death unnecessary.",
+    "Real faith shows itself in action, so the two cannot be separated."
+   ],
+   "conclusion": "The word 'only' makes the statement too extreme: Christian teaching suggests God judges the whole person, with faith and actions linked."
+  },
+  {
+   "topic": "cb-10",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two Christian beliefs about heaven. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One belief is that heaven is eternal life in the presence of God, free from all suffering. Revelation describes God wiping away every tear, with no more death, mourning, crying or pain (Revelation 21:4). This means Christians find comfort when loved ones die, believing that their suffering has ended and that they are with God. A second belief is that heaven is beyond what humans can imagine, so Christians disagree about what it is like. Some believe it is a real place, because Jesus said 'In my Father's house are many homes... I am going to prepare a place for you' (John 14:2). Others see it as a spiritual state of being close to God, since Paul says no eye has seen and no ear has heard what God has prepared (1 Corinthians 2:9). This means Christians focus less on details and more on trusting God and living faithfully now.",
+   "points": [
+    "Eternal life with God, no suffering (Revelation 21:4)",
+    "A real place prepared by Jesus (John 14:2-3)",
+    "A spiritual state beyond imagination (1 Corinthians 2:9)",
+    "A reward for faith and/or good living (Matthew 25:46)",
+    "Catholics: purgatory may come first for some",
+    "Application: comfort at funerals, motivation to live well"
+   ]
+  },
+  {
+   "topic": "cb-11",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in original sin influences Christians today. (4 marks)",
+   "model": "One way is that it influences baptism. Catholics and many other Christians believe babies are born with original sin, so they have their children baptised as infants to wash it away and welcome them into God's family. A second way is that it makes Christians aware they need God's help. Because they believe everyone has a tendency to sin inherited from Adam and Eve, they confess their sins, pray for forgiveness and rely on God's grace rather than thinking they can be good enough on their own.",
+   "points": [
+    "Infant baptism to cleanse original sin (Catholic, Anglican, Orthodox)",
+    "Regular confession and prayer for forgiveness, e.g. the Lord's Prayer",
+    "Humility: relying on God's grace rather than their own goodness",
+    "Explains evil and suffering in the world, so they resist temptation",
+    "Some liberal Christians read it symbolically, so focus on choosing good"
+   ]
+  },
+  {
+   "topic": "cb-12",
+   "marks": 4,
+   "type": "influence",
+   "q": "Explain two ways in which belief in the atonement influences Christians today. (4 marks)",
+   "model": "One way is that Christians take Holy Communion. They believe Jesus' death restored their relationship with God, so they regularly share bread and wine to remember his sacrifice and give thanks, as he told his disciples at the Last Supper. A second way is that they forgive others. Because they believe God has forgiven them at great cost through Jesus, they try to forgive people who hurt them, as they pray in the Lord's Prayer, 'forgive us our sins as we forgive those who sin against us'.",
+   "points": [
+    "Take Holy Communion to remember Jesus' sacrifice",
+    "Forgive others because they have been forgiven",
+    "Feel free from guilt and live thankfully",
+    "Share the gospel so others can be reconciled to God",
+    "Wear a cross and keep Good Friday"
+   ]
+  },
+  {
+   "topic": "cb-12",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Jesus' death was necessary for humans to be saved.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Most Christians agree with this statement. They believe that sin separated humans from God, and that 'the wages of sin is death' (Romans 6:23). Since everyone has sinned (Romans 3:23), people could not repair the relationship themselves. Jesus, being both fully God and fully human, was the only one who could act for humanity as a sacrifice. John the Baptist called him 'the Lamb of God, who takes away the sin of the world' (John 1:29), and 1 Peter 2:24 says 'he himself bore our sins in his body on the tree'. Jesus himself said he came 'to give his life as a ransom for many' (Mark 10:45), and he predicted his death as part of God's plan. This argument is strong, because the New Testament repeatedly presents Jesus' death as the means of atonement.\n\nHowever, some people question whether it was truly necessary. If God is omnipotent and loving, he could simply forgive people, as the father in the parable of the prodigal son forgives his son without any payment (Luke 15). Some liberal Christians see Jesus' death mainly as an example of self-giving love that inspires people to change, rather than a payment God required. Others say that Jesus' life and teaching, or his resurrection, are just as important for salvation, because it is the resurrection that defeats death (1 Corinthians 15:14).\n\nChristians would reply that sin is serious and that justice matters: forgiveness without any cost would make light of the harm sin does. They also argue that the cross shows how far God's love will go, 'while we were yet sinners, Christ died for us' (Romans 5:8).\n\nIn conclusion, I agree with the statement from a Christian point of view. While God's power could in theory forgive without the cross, Christian teaching presents Jesus' death as the way God chose to show both his justice and love. However, it is best seen together with the resurrection, as one act of salvation.",
+   "for": [
+    "Sin leads to death (Romans 6:23) and all have sinned (Romans 3:23), so humans could not save themselves.",
+    "Jesus is the Lamb of God (John 1:29), bore our sins (1 Peter 2:24), a ransom (Mark 10:45).",
+    "Jesus predicted his death as part of God's plan; it shows both God's justice and love (Romans 5:8)."
+   ],
+   "against": [
+    "An omnipotent, loving God could forgive freely, like the father in the prodigal son (Luke 15).",
+    "Liberal view: the cross is mainly a moral example, not a required payment.",
+    "The resurrection and Jesus' life and teaching are also central to salvation (1 Corinthians 15:14)."
+   ],
+   "conclusion": "Within Christian teaching the cross is presented as necessary to show both justice and love, but it saves together with the resurrection rather than on its own."
   }
  ]
 }

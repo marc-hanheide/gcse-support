@@ -18,7 +18,9 @@
      "h": "Why Christians worship",
      "bullets": [
       "To praise and thank God, to say sorry, to ask for help, and to grow closer to God.",
-      "Public worship also builds community and strengthens faith."
+      "Public worship also builds community and strengthens faith.",
+      "The early Christians met regularly for 'the apostles' teaching and fellowship, the breaking of bread, and prayer' (Acts 2:42). Christians are told not to give up meeting together (Hebrews 10:25).",
+      "Jesus promised 'where two or three are gathered together in my name, there I am' (Matthew 18:20), so Christians believe God is present when they worship together."
      ]
     },
     {
@@ -31,10 +33,23 @@
      ]
     },
     {
+     "h": "Significance: strengths of each type",
+     "bullets": [
+      "**Liturgical:** the same words are used worldwide, so a Catholic can join Mass anywhere; set words help people who struggle to find their own; it links believers with centuries of tradition. Some find it can become routine.",
+      "**Non-liturgical:** the minister can choose readings and prayers to suit the congregation and current events; the sermon explaining the Bible is central. Some miss the sense of tradition.",
+      "**Informal / charismatic:** feels lively and personal, and believers feel the Holy Spirit is at work, which attracts many young people. Others find it noisy or too focused on feelings.",
+      "**Quaker silence:** allows everyone to listen for God without distraction and treats all as equal. Some find long silence difficult.",
+      "**Private:** can happen at any time, fits around daily life and builds a personal relationship with God. However, it lacks the support and fellowship of a community."
+     ]
+    },
+    {
      "h": "Use of the Bible",
      "bullets": [
       "Most worship includes Bible readings, a sermon and hymns based on scripture. Catholics read set passages each week; many Protestants focus on the sermon explaining the Bible.",
-      "Christians use the Bible to learn about God and God's will (2 Timothy 3:16)."
+      "Christians use the Bible to learn about God and God's will (2 Timothy 3:16).",
+      "In Catholic, Orthodox and Anglican services, readings follow a **lectionary** (a set cycle of readings), and the Gospel is often carried in procession and read standing, to show its importance.",
+      "In many Protestant churches the **sermon** explaining a passage is the centre of the service; the pulpit may be placed in the middle of the church.",
+      "In private worship Christians may follow Bible-reading notes or a daily plan, or use 'lectio divina' (slow, prayerful reading of a short passage)."
      ]
     },
     {
@@ -49,7 +64,7 @@
    "views": [
     {
      "label": "Catholic and Orthodox",
-     "text": "Favour liturgical worship: set structure, the sacraments, symbols and a sense of mystery. Orthodox worship includes icons, incense and singing."
+     "text": "Favour liturgical worship: set structure, the sacraments, symbols and a sense of mystery. Eastern worship adds icons, incense and unaccompanied singing."
     },
     {
      "label": "Pentecostal",
@@ -106,9 +121,24 @@
      "text": "Come, let us bow down in worship.",
      "ref": "Psalm 95:6",
      "use": "A call to public worship."
+    },
+    {
+     "text": "They continued steadfastly in the apostles' teaching and fellowship, in the breaking of bread, and prayer.",
+     "ref": "Acts 2:42",
+     "use": "The first Christians worshipped together: supports public worship."
+    },
+    {
+     "text": "Where two or three are gathered together in my name, there I am in the middle of them.",
+     "ref": "Matthew 18:20",
+     "use": "God is present in shared worship, including small informal groups."
     }
    ],
-   "tip": "In a 'different' question name the denomination for each type, e.g. Catholics (liturgical) and Quakers (waiting). In a 12-mark question, evaluate by saying what each style helps with."
+   "tip": "In a 'different' question name the denomination for each type, e.g. Catholics (liturgical) and Quakers (waiting). In a 12-mark question, evaluate by saying what each style helps with.",
+   "pitfalls": [
+    "If the question asks about private worship, every point must be worship done alone (praying at home, reading the Bible alone, using a rosary). Bible study groups or singing in church were not credited in 2024 and 2025.",
+    "Name a denomination for each type: liturgical (Catholic, Orthodox, Anglican), non-liturgical (Methodist, Baptist), informal (Pentecostal, Quaker).",
+    "In 12-mark answers, do not just say a type of worship is 'more effective'. Give the reason (for example 'set words unite Christians worldwide')."
+   ]
   },
   {
    "id": "cp-02",
@@ -121,7 +151,18 @@
      "bullets": [
       "Use the memory aid: sorry (confession), thank you (thanksgiving), please (asking for help for self or others), and praise (adoration).",
       "It helps Christians build a relationship with God and listen to him.",
-      "It brings peace, strength in hard times and helps them accept God's will."
+      "It brings peace, strength in hard times and helps them accept God's will.",
+      "A common pattern is **ACTS**: Adoration (praise), Confession (saying sorry), Thanksgiving and Supplication (asking for themselves or others; prayer for others is called **intercession**).",
+      "Jesus himself prayed alone, for example early in the morning in a deserted place (Mark 1:35), so Christians follow his example."
+     ]
+    },
+    {
+     "h": "The words of the Lord's Prayer (modern version)",
+     "bullets": [
+      "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as in heaven.",
+      "Give us today our daily bread. Forgive us our sins as we forgive those who sin against us.",
+      "Lead us not into temptation but deliver us from evil. For the kingdom, the power and the glory are yours, now and for ever. Amen.",
+      "The final line (the 'doxology') was added by the early Church; Catholics say it separately during Mass."
      ]
     },
     {
@@ -129,7 +170,9 @@
      "bullets": [
       "**Set prayers** are written and used by many people, such as the Lord's Prayer and the Hail Mary. They are familiar, link Christians together and help those who struggle to find words.",
       "**Informal prayers** are spontaneous and in your own words. They feel personal and honest and can be said anywhere.",
-      "Prayer may be silent, spoken, sung or involve actions such as kneeling or the sign of the cross."
+      "Prayer may be silent, spoken, sung or involve actions such as kneeling or the sign of the cross.",
+      "Some Christians use aids such as rosary beads (Catholic), icons and the Jesus Prayer (Orthodox), or a prayer journal.",
+      "Some Protestants warn against set prayers becoming 'vain repetitions' (Matthew 6:7) said without thinking, so they prefer informal prayer. Others reply that set prayers like the Lord's Prayer were given by Jesus himself."
      ]
     },
     {
@@ -198,9 +241,24 @@
      "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
      "ref": "Philippians 4:6",
      "use": "Encourages prayer for needs."
+    },
+    {
+     "text": "In praying, don't use vain repetitions, as the Gentiles do; for they think that they will be heard for their much speaking.",
+     "ref": "Matthew 6:7",
+     "use": "Used by some to prefer sincere informal prayer over repeating set words without thought."
+    },
+    {
+     "text": "Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there.",
+     "ref": "Mark 1:35",
+     "use": "Jesus' own private prayer: a model for Christians."
     }
    ],
-   "tip": "Quote 'Give us today our daily bread' or 'Forgive us our sins' to show you know what the Lord's Prayer teaches. Use the 'different' structure: one point for set prayer, one for informal prayer."
+   "tip": "Quote 'Give us today our daily bread' or 'Forgive us our sins' to show you know what the Lord's Prayer teaches. Use the 'different' structure: one point for set prayer, one for informal prayer.",
+   "pitfalls": [
+    "Learn the Lord's Prayer phrases so you can quote one and explain what it teaches (praise, God's will, daily needs, forgiveness, protection).",
+    "In a 'different' question, make the two points genuinely different, for example set prayer (shared words) versus informal prayer (own words).",
+    "Explain why prayer is significant (relationship with God, strength, forgiveness), not just what happens."
+   ]
   },
   {
    "id": "cp-03",
@@ -221,7 +279,17 @@
      "bullets": [
       "Baptism is using water to show cleansing from sin, new life with Jesus and becoming part of the Church.",
       "Jesus was baptised by John (Mark 1:9-11) and told his disciples to baptise (Matthew 28:19).",
-      "It symbolises dying to sin and rising to new life; in many churches the Holy Spirit is received."
+      "It symbolises dying to sin and rising to new life; in many churches the Holy Spirit is received.",
+      "**Purposes** of baptism (often asked): to wash away sin, to join the Church, to follow Jesus' example and command, to receive the Holy Spirit and God's grace, and to begin a new life as a Christian.",
+      "Jesus said 'unless one is born of water and spirit, he can't enter into God's Kingdom' (John 3:5)."
+     ]
+    },
+    {
+     "h": "What happens at a baptism",
+     "bullets": [
+      "**Infant (Church of England or Catholic):** at the **font**, the priest makes the sign of the cross on the baby's forehead, pours water three times in the name of the Father, Son and Holy Spirit, may anoint with oil, gives a lit candle (passing from darkness to light) and, in Catholic practice, a white garment (new life and purity). Parents and godparents reject evil and promise to raise the child as a Christian.",
+      "**Believers' (Baptist):** the person gives a **testimony** (how they came to faith), then goes down into a pool called a **baptistery** or into a river or the sea and is fully immersed. Going under the water symbolises dying to the old life; coming up symbolises rising to new life with Christ (Romans 6:4).",
+      "Anglicans and Catholics later have **confirmation**, when a young person confirms for themselves the promises made at their baptism."
      ]
     },
     {
@@ -244,7 +312,10 @@
      "h": "Different beliefs about infant baptism",
      "bullets": [
       "For: removes original sin, joins the child to the Church, follows household baptisms in the New Testament.",
-      "Against: babies cannot choose faith, and baptism should follow belief."
+      "Against: babies cannot choose faith, and baptism should follow belief.",
+      "For: the New Testament records whole households being baptised (Acts 16:33), which may have included children; baptism is a gift of God's grace, not a reward for understanding.",
+      "Against: in the New Testament baptism follows repentance and faith (Acts 2:38; the Ethiopian official in Acts 8:36-38); Jesus himself was baptised as an adult.",
+      "Many churches that baptise infants also offer adult baptism to people who become Christians later, and some churches that practise believers' baptism hold a **service of dedication** or thanksgiving for babies instead."
      ]
     }
    ],
@@ -259,7 +330,7 @@
     },
     {
      "label": "Baptist/Pentecostal",
-     "text": "Only believers' baptism is valid, by full immersion, as a response to personal faith."
+     "text": "Only people old enough to repent and believe should be immersed in water, as a response to personal faith; babies may be dedicated instead."
     }
    ],
    "terms": [
@@ -308,9 +379,24 @@
      "text": "An outward and visible sign of an inward and spiritual grace.",
      "ref": "St Augustine on sacraments",
      "use": "Definition of a sacrament."
+    },
+    {
+     "text": "We were buried therefore with him through baptism into death, that just as Christ was raised from the dead... we also might walk in newness of life.",
+     "ref": "Romans 6:4",
+     "use": "Explains the symbolism of immersion: dying and rising with Christ."
+    },
+    {
+     "text": "He... was immediately baptized, he and all his household.",
+     "ref": "Acts 16:33",
+     "use": "Household baptism: used to support infant baptism."
     }
    ],
-   "tip": "Contrast infant and believers' baptism with actions AND reasons. AQA often gives 4 marks for 'two contrasting types of baptism'."
+   "tip": "Contrast infant and believers' baptism with actions AND reasons. AQA often gives 4 marks for 'two contrasting types of baptism'.",
+   "pitfalls": [
+    "If asked for purposes of baptism, give reasons (removes sin, joins the Church), not features (water, font, candle). Students lost marks for this in 2025.",
+    "Do not say only Catholics baptise babies: Anglicans, Orthodox and Methodists do too.",
+    "In 12-mark baptism answers, avoid weak points such as 'the baby will be scared'. Focus on reasons: choice and faith versus grace, original sin and family nurture."
+   ]
   },
   {
    "id": "cp-04",
@@ -323,7 +409,10 @@
      "bullets": [
       "At the Last Supper Jesus broke bread and shared wine, saying 'this is my body... this is my blood' and 'do this in remembrance of me' (Matthew 26:26-28; Luke 22:19).",
       "Christians receive bread and wine to remember Jesus' sacrifice, thank God, receive grace and strengthen faith.",
-      "It unites the congregation and encourages Christians to serve others and work for justice (the community and wider society)."
+      "It unites the congregation and encourages Christians to serve others and work for justice (the community and wider society).",
+      "Different names show different emphases: **Eucharist** (thanksgiving), **Mass** (Catholic), **Holy Communion** (sharing with God and each other), **the Lord's Supper** or **Breaking of Bread** (many Protestants), **Divine Liturgy** (the Orthodox service).",
+      "Paul says 'there is one loaf of bread, we, who are many, are one body' (1 Corinthians 10:17), so Communion shows the unity of believers.",
+      "For the community: it brings the parish together, and many churches link it with action, such as collecting food for food banks or praying for those in need. For society: it reminds Christians that Jesus' body was 'given for you', inspiring self-giving service."
      ]
     },
     {
@@ -332,7 +421,8 @@
       "**Catholics:** transubstantiation. The bread and wine become the body and blood of Jesus while still looking the same. Jesus is really present (John 6:53-54).",
       "**Orthodox:** they believe in the real presence of Christ as a holy mystery, without explaining how.",
       "**Church of England:** varies: some believe in a real or spiritual presence, others see it as a memorial.",
-      "**Many Protestants (Baptist, Methodist, others):** a symbolic memorial of the Last Supper, remembering Jesus' sacrifice."
+      "**Many Protestants (Baptist, Methodist, others):** a symbolic memorial of the Last Supper, remembering Jesus' sacrifice.",
+      "**Lutherans:** Christ is truly present 'in, with and under' the bread and wine, which remain bread and wine. This is sometimes called consubstantiation (a term Lutherans themselves rarely use)."
      ]
     },
     {
@@ -348,15 +438,19 @@
    "views": [
     {
      "label": "Catholic",
-     "text": "Transubstantiation: the bread and wine truly become Jesus' body and blood. Communion is received after confession; non-Catholics usually cannot receive."
+     "text": "Transubstantiation: the bread and wine truly become Jesus' body and blood. Communion is received after confession of serious sin; those outside this Church usually cannot receive."
     },
     {
      "label": "Orthodox",
      "text": "Divine mystery. Communion for all baptised, including infants, on a spoon."
     },
     {
-     "label": "Protestant",
-     "text": "Symbolic memorial; bread and wine stay the same. Open to all believers."
+     "label": "Baptist and many other Protestants",
+     "text": "Symbolic memorial; the bread and wine stay the same and help believers remember Jesus' death. Usually open to all believers, often held monthly."
+    },
+    {
+     "label": "Church of England",
+     "text": "A broad range: some see a real spiritual presence of Christ, others a memorial. Uses a set liturgy from Common Worship and usually welcomes all baptised Christians."
     }
    ],
    "terms": [
@@ -405,9 +499,19 @@
      "text": "Unless you eat the flesh of the Son of Man and drink his blood, you have no life in you.",
      "ref": "John 6:53",
      "use": "Used by Catholics to support real presence."
+    },
+    {
+     "text": "Because there is one loaf of bread, we, who are many, are one body; for we all partake of the one loaf of bread.",
+     "ref": "1 Corinthians 10:17",
+     "use": "Communion shows unity in the Church community."
     }
    ],
-   "tip": "For a 'different beliefs' question, give transubstantiation (Catholic) and a symbolic memorial (Protestant), and add the reason from the Last Supper words."
+   "tip": "For a 'different beliefs' question, give transubstantiation (Catholic) and a symbolic memorial (Protestant), and add the reason from the Last Supper words.",
+   "pitfalls": [
+    "Different ways of celebrating (actions) and different interpretations of meaning (beliefs) are separate questions. Read which one is asked.",
+    "Transubstantiation is a Catholic belief only. Do not say 'Christians believe the bread becomes Jesus' body' without naming Catholics.",
+    "Link the service to the Last Supper words ('Do this in memory of me') to show significance."
+   ]
   },
   {
    "id": "cp-05",
@@ -420,7 +524,10 @@
      "bullets": [
       "To grow closer to God, strengthen faith, pray, seek forgiveness or healing, and reflect on life.",
       "To meet other Christians and to step away from everyday life.",
-      "A pilgrimage is both a physical journey and a spiritual one."
+      "A pilgrimage is both a physical journey and a spiritual one.",
+      "Pilgrimage is not compulsory for Christians (unlike Hajj in Islam). It is a personal choice to deepen faith.",
+      "Some go to help others: many volunteers take sick and disabled pilgrims to Lourdes and care for them there.",
+      "Jesus' family went to Jerusalem every year for Passover (Luke 2:41), so pilgrimage has roots in the Bible."
      ]
     },
     {
@@ -429,7 +536,8 @@
       "In 1858 a girl called Bernadette Soubirous said the Virgin Mary appeared to her 18 times in a cave (the Grotto). Mary told her to dig, and a spring appeared, now believed by many to heal.",
       "It is a Catholic pilgrimage site visited by millions each year, and many sick and disabled pilgrims go hoping for healing or comfort.",
       "Activities: bathing in the spring water, drinking it, praying at the Grotto, the torchlight procession with the Rosary, Mass at the Basilica and the Stations of the Cross. Volunteers help the sick.",
-      "Importance: it is a place of healing, prayer and sharing faith; many report spiritual peace even if not physically cured."
+      "Importance: it is a place of healing, prayer and sharing faith; many report spiritual peace even if not physically cured.",
+      "The Catholic Church has officially recognised 72 healings at Lourdes as miracles (the 72nd was announced in 2025), after checks by doctors at the Lourdes Medical Bureau. Thousands more claim healing that has not been officially confirmed."
      ]
     },
     {
@@ -446,7 +554,7 @@
      "bullets": [
       "Lourdes: Catholic, focused on Mary, healing and the sick, busy with large crowds.",
       "Iona: ecumenical (all denominations), quiet, reflective, focused on community and justice, with a small number of visitors.",
-      "Other pilgrimages: Jerusalem and the Holy Land, Rome, Canterbury, Walsingham, Santiago de Compostela."
+      "Other pilgrimages: Jerusalem and the Holy Land (where Jesus lived, died and rose), Rome, Canterbury, Walsingham in Norfolk (a shrine to Mary for Catholics and Anglicans), Holy Island (Lindisfarne) and Santiago de Compostela."
      ]
     }
    ],
@@ -458,6 +566,10 @@
     {
      "label": "Many Protestants",
      "text": "Pilgrimage is optional and not essential; what matters is faith, though sites like Iona are valued for reflection."
+    },
+    {
+     "label": "Quaker",
+     "text": "No place is holier than another, because God can be met anywhere; an outward journey is not needed for an inner one."
     }
    ],
    "terms": [
@@ -498,17 +610,27 @@
      "use": "Pilgrims seek rest and healing from God."
     },
     {
-     "text": "Pilgrimage as stepping outside ourselves to encounter God.",
-     "ref": "Pope Benedict XVI (paraphrase)",
-     "use": "Church teaching: pilgrimage helps meet God."
-    },
-    {
      "text": "Be still, and know that I am God.",
      "ref": "Psalm 46:10",
      "use": "Fits quiet reflection on Iona."
+    },
+    {
+     "text": "Pilgrimages evoke our earthly journey toward heaven and are traditionally very special occasions for renewal in prayer.",
+     "ref": "Catechism of the Catholic Church 2691",
+     "use": "Catholic teaching on why pilgrimage matters."
+    },
+    {
+     "text": "His parents went every year to Jerusalem at the feast of the Passover.",
+     "ref": "Luke 2:41",
+     "use": "Jesus' family made pilgrimage, showing it is part of the biblical tradition."
     }
    ],
-   "tip": "Use the words 'contrasting' and give a clear difference, e.g. Lourdes is about healing and Mary, Iona about quiet reflection and community. Give one activity for each."
+   "tip": "Use the words 'contrasting' and give a clear difference, e.g. Lourdes is about healing and Mary, Iona about quiet reflection and community. Give one activity for each.",
+   "pitfalls": [
+    "Name the source for each quote. In 2025 fewer students gained the source mark on pilgrimage: learn Psalm 84:5 or Luke 2:41 and the Catechism.",
+    "Christian pilgrimage is not compulsory. Do not confuse it with Hajj in Islam.",
+    "A pilgrimage is a religious journey, not a holiday. Give a spiritual reason (healing, forgiveness, closeness to God) for every point."
+   ]
   },
   {
    "id": "cp-06",
@@ -521,7 +643,9 @@
      "bullets": [
       "Celebrates the birth of Jesus: the incarnation, when God became human.",
       "Practices: Advent (preparing), nativity plays and cribs, carol services, Midnight Mass or Christmas Day services, lights and decorations (Jesus is the light of the world), giving gifts (like the wise men) and giving to charity.",
-      "Importance in Great Britain today: many people celebrate it as a holiday, so Christians stress the religious meaning. Churches run services, community meals and charity work, e.g. for the homeless."
+      "Importance in Great Britain today: many people celebrate it as a holiday, so Christians stress the religious meaning. Churches run services, community meals and charity work, e.g. for the homeless.",
+      "Midnight Mass on Christmas Eve, Christingle services (an orange with a candle representing Jesus the light of the world), and the Nativity story read from Matthew and Luke.",
+      "Many churches hold their best-attended services of the year at Christmas, including people who rarely attend church."
      ]
     },
     {
@@ -531,7 +655,9 @@
       "**Maundy Thursday:** the Last Supper and Jesus washing the disciples' feet; Communion and foot-washing services.",
       "**Good Friday:** Jesus' crucifixion; churches are bare, Stations of the Cross, solemn services, hot cross buns.",
       "**Easter Day:** Jesus' resurrection; joyful services, flowers, 'Christ is risen' / 'He is risen indeed', Easter vigil with the Paschal candle, Easter eggs as symbols of new life.",
-      "**Lent:** 40 days of fasting and prayer before Easter."
+      "**Lent:** 40 days of fasting and prayer before Easter.",
+      "**Ash Wednesday** begins Lent: Catholics and Anglicans receive a cross of ash on the forehead as a sign of repentance.",
+      "Easter has no fixed date: it falls on the first Sunday after the first full moon on or after the spring equinox, so between 22 March and 25 April (Western churches). Orthodox Easter is often later."
      ]
     },
     {
@@ -539,14 +665,17 @@
      "bullets": [
       "Easter is the most important festival because it celebrates the resurrection, the basis of Christian faith.",
       "Both are public holidays. Many non-religious people celebrate them too, so Christians may worry about commercialisation but also see opportunities to share their faith.",
-      "They bring church communities together and inspire charity (Christmas) and hope (Easter)."
+      "They bring church communities together and inspire charity (Christmas) and hope (Easter).",
+      "Christmas and Easter shape the British calendar: school holidays and bank holidays (Christmas Day, Boxing Day, Good Friday, Easter Monday in England and Wales).",
+      "The King's Christmas broadcast often speaks about the Christian meaning of Christmas, and the King gives Maundy money to older people on Maundy Thursday.",
+      "Christians may see the festivals as a chance for mission (carol services, Easter events) and charity (Christmas meals for the homeless, Christian Aid and Crisis appeals)."
      ]
     }
    ],
    "views": [
     {
      "label": "Catholic/Orthodox",
-     "text": "Mark festivals with the liturgy: Midnight Mass, Holy Week services and the Easter Vigil. Orthodox Easter is the biggest festival."
+     "text": "Mark festivals with the liturgy: Midnight Mass, Holy Week services and the Easter Vigil with the Paschal candle. In the Eastern churches Easter (Pascha) is by far the greatest feast."
     },
     {
      "label": "Protestant",
@@ -599,9 +728,24 @@
      "text": "I am the light of the world.",
      "ref": "John 8:12",
      "use": "Explains Christmas lights and the Paschal candle."
+    },
+    {
+     "text": "Opening their treasures, they offered to him gifts: gold, frankincense, and myrrh.",
+     "ref": "Matthew 2:11",
+     "use": "The wise men's gifts explain Christmas giving."
+    },
+    {
+     "text": "We were buried therefore with him through baptism into death, that just as Christ was raised from the dead... we also might walk in newness of life.",
+     "ref": "Romans 6:4",
+     "use": "Easter is a traditional time for baptisms, linking new life with the resurrection."
     }
    ],
-   "tip": "Always say what each practice SYMBOLISES (e.g. bare church on Good Friday shows mourning). Mention Great Britain today if asked about importance."
+   "tip": "Always say what each practice SYMBOLISES (e.g. bare church on Good Friday shows mourning). Mention Great Britain today if asked about importance.",
+   "pitfalls": [
+    "'Why' questions need religious reasons (incarnation, resurrection, atonement), not descriptions of eggs and chocolate.",
+    "Lent comes before Easter. If asked how Christians celebrate Easter, focus on Holy Week and Easter Day, not only Lent.",
+    "If asked about Great Britain today, mention public holidays, church services and how far the festivals have become commercial or secular."
+   ]
   },
   {
    "id": "cp-07",
@@ -614,13 +758,15 @@
      "bullets": [
       "A local church provides worship, baptisms, weddings and funerals, pastoral care and Bible study.",
       "It also runs youth groups, toddler groups, luncheon clubs, schools and community halls, and supports those in need.",
-      "The Church (all Christians) campaigns for justice and runs charities."
+      "The Church (all Christians) campaigns for justice and runs charities.",
+      "Other examples: coffee mornings and lunch clubs for lonely or elderly people, parent and toddler groups, debt advice (for example Christians Against Poverty), night shelters, community meals, and opening the building as a quiet place to pray or a warm space in winter.",
+      "Churches also hold services for local events, such as Remembrance Sunday or memorials after a tragedy."
      ]
     },
     {
      "h": "Food banks",
      "bullets": [
-      "Food banks give emergency food parcels to people who cannot afford food. The Trussell Trust (founded 1997, now about 1,700 centres) is the biggest network and many food banks are run in churches by volunteers.",
+      "Food banks give emergency food parcels to people who cannot afford food. The **Trussell Trust**, a charity founded on Christian principles, runs the UK's largest network. In 2025 food banks in its network gave out about 2.6 million emergency parcels, around 900,000 of them for children, from about 1,700 locations (Trussell figures published 2026). Many are based in churches and run by volunteers.",
       "People are usually referred by professionals such as doctors or social workers and receive a voucher for a parcel. Food is donated by churches, schools and supermarkets.",
       "Many churches also offer a friendly welcome, advice and a listening ear to those who come.",
       "Other examples: the Oasis Project (Plymouth Methodists) runs training, job clubs and food support."
@@ -684,9 +830,19 @@
      "text": "Give us today our daily bread.",
      "ref": "Matthew 6:11",
      "use": "The Lord's Prayer asks God to provide food."
+    },
+    {
+     "text": "But whoever has the world's goods, and sees his brother in need, and closes his heart of compassion against him, how does God's love remain in him?",
+     "ref": "1 John 3:17",
+     "use": "Christians who can help must help those in need."
     }
    ],
-   "tip": "For a 6-mark question, name a real example (Trussell Trust or Oasis Project), say what it does, then link to Matthew 25:35-40."
+   "tip": "For a 6-mark question, name a real example (Trussell Trust or Oasis Project), say what it does, then link to Matthew 25:35-40.",
+   "pitfalls": [
+    "Food banks and Street Pastors are local, UK work. Do not use them in a question about world poverty or CAFOD, Christian Aid or Tearfund.",
+    "In 12-mark answers on the local Church, evaluate as well as describe: is practical help more important than worship or campaigning for change?",
+    "Give a specific detail (Trussell Trust, referral vouchers, volunteers) to develop a point."
+   ]
   },
   {
    "id": "cp-08",
@@ -699,7 +855,9 @@
      "bullets": [
       "A Christian charity started in Brixton, London, in 2003 by Rev. Les Isaac and colleagues from the Ascension Trust.",
       "Trained volunteers from local churches patrol town and city centres on Friday and Saturday nights, in pairs and teams, often in uniform.",
-      "They work with police, councils and nightclubs, but have no police powers."
+      "They work with police, councils and nightclubs, but have no police powers.",
+      "Volunteers are usually over 18, are members of a local church and receive training in listening, first aid awareness, drugs and alcohol awareness and working with the police.",
+      "The aim is often summed up as 'caring, listening and helping'. They do not preach at people, though they will talk about faith if asked."
      ]
     },
     {
@@ -723,8 +881,8 @@
    ],
    "views": [
     {
-     "label": "Churches together",
-     "text": "Street Pastors is supported by many denominations, showing Christians working together. Some Christians also stress that it makes the Church visible in society."
+     "label": "Ecumenical",
+     "text": "Supported by many denominations, showing Christians working side by side; it also makes the Church visible in society at night."
     }
    ],
    "terms": [
@@ -765,9 +923,19 @@
      "text": "Whatever you did for one of the least of these... you did for me.",
      "ref": "Matthew 25:40",
      "use": "Serving the vulnerable is serving Jesus."
+    },
+    {
+     "text": "A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.",
+     "ref": "John 13:34",
+     "use": "Street Pastors show practical love to strangers."
     }
    ],
-   "tip": "Give specific details: trained volunteers, Friday and Saturday nights, flip-flops, listening. Specific details earn development marks."
+   "tip": "Give specific details: trained volunteers, Friday and Saturday nights, flip-flops, listening. Specific details earn development marks.",
+   "pitfalls": [
+    "Street Pastors are not police and do not try to convert people on the street. Their main aim is care and safety.",
+    "Give precise details (Ascension Trust, 2003, Brixton, weekend nights, flip-flops, water) to earn development marks.",
+    "Link each point to a teaching such as the Good Samaritan (Luke 10) or 'love your neighbour' (Mark 12:31)."
+   ]
   },
   {
    "id": "cp-09",
@@ -795,7 +963,7 @@
     {
      "h": "Examples",
      "bullets": [
-      "**The Alpha Course:** introduces Christianity through a meal, a talk and open discussion where nothing is off limits. Started at Holy Trinity Brompton, London, and now run worldwide in churches, prisons, workplaces and online.",
+      "**The Alpha Course:** introduces Christianity through a meal, a talk and open discussion where nothing is off limits. It began at Holy Trinity Brompton, London, in 1977 and was developed by Nicky Gumbel from 1990; it is now run worldwide in churches, prisons, workplaces and online.",
       "Missionary organisations, street evangelism, outreach events, social media and TV or radio programmes.",
       "Church-run schools and charities show Christian love in action, which also presents the faith."
      ]
@@ -861,9 +1029,24 @@
      "text": "I am the way and the truth and the life.",
      "ref": "John 14:6",
      "use": "Why Christians want to share their faith."
+    },
+    {
+     "text": "How will they believe in him whom they have not heard? How will they hear without a preacher?",
+     "ref": "Romans 10:14",
+     "use": "People need to hear the gospel, so Christians must share it."
+    },
+    {
+     "text": "Always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear.",
+     "ref": "1 Peter 3:15",
+     "use": "Every Christian should be ready to explain their faith, respectfully."
     }
    ],
-   "tip": "Use the Great Commission as your source and name the Alpha Course as a real example. Show the difference between mission (wide) and evangelism (sharing the gospel)."
+   "tip": "Use the Great Commission as your source and name the Alpha Course as a real example. Show the difference between mission (wide) and evangelism (sharing the gospel).",
+   "pitfalls": [
+    "Know the difference: evangelism is spreading the Christian message to bring people to faith; mission is the wider task of serving and sharing God's love.",
+    "Charities such as Christian Aid do not exist to convert people. Do not describe their aid work as evangelism.",
+    "Use the Great Commission (Matthew 28:19-20) for the source mark and say what Christians do because of it."
+   ]
   },
   {
    "id": "cp-10",
@@ -876,7 +1059,9 @@
      "bullets": [
       "Christianity is the world's largest religion. It is growing fast in parts of Africa, Asia and South America, especially Pentecostal and charismatic churches.",
       "In Europe and North America many traditional churches are declining, although some new churches and migrant churches are growing.",
-      "The school sources say about 80,000 people become Christians each day; treat this as an estimate."
+      "The school sources say about 80,000 people become Christians each day worldwide. Treat this as a campaign estimate, not a precise fact.",
+      "In the 2021 census, 46.2% of people in England and Wales described themselves as Christian, the first time it fell below half (down from 59.3% in 2011), while 37.2% said 'no religion'.",
+      "Claims about growth need care: a 2025 Bible Society report ('The Quiet Revival') claimed a big rise in young churchgoers, but in March 2026 the Bible Society said the survey sample behind it was faulty. Other surveys show attendance below pre-pandemic levels (as of 2026)."
      ]
     },
     {
@@ -895,6 +1080,15 @@
       "Pray for others and share personal testimony (their story of faith).",
       "Disciple new converts: train them to follow Jesus and share the faith.",
       "Show Christian love through service so others see their faith."
+     ]
+    },
+    {
+     "h": "Why Church growth matters to Christians",
+     "bullets": [
+      "It obeys the Great Commission (Matthew 28:19-20).",
+      "Christians believe salvation comes through Jesus (John 14:6), so growth means more people can be saved.",
+      "A growing Church can do more good: more volunteers and money for food banks, charities and mission.",
+      "Growth is also about depth: helping existing members grow in faith (discipleship), not only increasing numbers."
      ]
     },
     {
@@ -952,9 +1146,24 @@
      "text": "The harvest is plentiful but the workers are few.",
      "ref": "Matthew 9:37",
      "use": "Jesus on the need for people to spread the faith."
+    },
+    {
+     "text": "The Lord added to the assembly day by day those who were being saved.",
+     "ref": "Acts 2:47",
+     "use": "Church growth is God's work through the believers."
+    },
+    {
+     "text": "The Kingdom of Heaven is like a grain of mustard seed... which indeed is smaller than all seeds. But when it is grown, it is greater than the herbs, and becomes a tree.",
+     "ref": "Matthew 13:31-32",
+     "use": "Jesus' parable of small beginnings growing large: hope for Church growth."
     }
    ],
-   "tip": "Give a reason for growth AND a method Christians use, e.g. social media, Alpha, church planting. Note that growth differs by region."
+   "tip": "Give a reason for growth AND a method Christians use, e.g. social media, Alpha, church planting. Note that growth differs by region.",
+   "pitfalls": [
+    "A 'why' question on Church growth needs reasons (Great Commission, salvation, spreading God's love), not just methods like Alpha.",
+    "Growth differs by region: fast in Africa, Asia and South America, decline in much of Europe. Do not say 'the Church is dying' without qualification.",
+    "Treat statistics carefully and date them (for example the 2021 census)."
+   ]
   },
   {
    "id": "cp-11",
@@ -975,7 +1184,16 @@
      "bullets": [
       "**Reconciliation** means restoring relationships after conflict.",
       "Christians believe God reconciled humans to himself through Jesus (2 Corinthians 5:18-19), so they should reconcile with each other (Matthew 5:23-24).",
-      "Jesus taught 'love your enemies' (Matthew 5:44) and 'blessed are the peacemakers' (Matthew 5:9)."
+      "Jesus taught 'love your enemies' (Matthew 5:44) and 'blessed are the peacemakers' (Matthew 5:9).",
+      "Reconciliation can be **personal** (forgiving someone, the Catholic sacrament of reconciliation), between **communities** (Catholics and Protestants in Northern Ireland) or between **nations** (Britain and Germany after the war)."
+     ]
+    },
+    {
+     "h": "Coventry Cathedral and the Community of the Cross of Nails",
+     "bullets": [
+      "Coventry Cathedral was destroyed by German bombing on 14 November 1940. Instead of seeking revenge, Provost Richard Howard had the words **'Father Forgive'** written on the wall of the ruins.",
+      "A cross made from medieval roof nails became a symbol of reconciliation. The **Community of the Cross of Nails** now links around 300 churches, schools, charities and peace centres in about 45 countries, including Germany (Coventry Cathedral figures, 2026).",
+      "The Coventry **Litany of Reconciliation**, based on the words 'Father forgive', is prayed regularly in Coventry and by partners around the world."
      ]
     },
     {
@@ -1040,9 +1258,24 @@
      "text": "Now you are the body of Christ, and each one of you is a part of it.",
      "ref": "1 Corinthians 12:27",
      "use": "Worldwide Church as one body."
+    },
+    {
+     "text": "If therefore you are offering your gift at the altar, and there remember that your brother has anything against you... First be reconciled to your brother.",
+     "ref": "Matthew 5:23-24",
+     "use": "Putting relationships right comes before worship."
+    },
+    {
+     "text": "God... reconciled us to himself through Jesus Christ, and gave to us the ministry of reconciliation.",
+     "ref": "2 Corinthians 5:18",
+     "use": "Christians are given the task of reconciliation."
     }
    ],
-   "tip": "For reconciliation answers, name a real example (Corrymeela or Desmond Tutu), state what it did and link it to a teaching like 2 Corinthians 5:18-19."
+   "tip": "For reconciliation answers, name a real example (Corrymeela or Desmond Tutu), state what it did and link it to a teaching like 2 Corinthians 5:18-19.",
+   "pitfalls": [
+    "Learn the definition: reconciliation means restoring friendly relationships after conflict. Some students left questions blank because they did not know the term.",
+    "'Contrasting' or 'different' ways must really differ, for example a personal act (forgiving someone) and an organised project (Corrymeela or Coventry).",
+    "Write about what Christians do, not only what God did in reconciling the world to himself."
+   ]
   },
   {
    "id": "cp-12",
@@ -1055,7 +1288,7 @@
      "bullets": [
       "**Persecution** is hostility, discrimination or violence because of someone's beliefs.",
       "Forms: attacks on churches and homes, imprisonment, job discrimination, being banned from building churches or sharing faith, and being forced to pay extra taxes. Some are killed for their faith.",
-      "Open Doors' World Watch List identifies countries such as North Korea, Somalia, Yemen, Libya, Eritrea and Nigeria as very dangerous for Christians.",
+      "Open Doors' 2026 World Watch List estimated that more than 388 million Christians face high levels of persecution and discrimination, about one in seven Christians worldwide. North Korea was ranked the most dangerous country, with others including Somalia, Sudan, Eritrea, Syria, Nigeria and Libya in the top ten.",
       "The school sources claim that most religious persecution today targets Christians; treat this as a claim from campaign groups rather than a fixed fact."
      ]
     },
@@ -1064,7 +1297,9 @@
      "bullets": [
       "Jesus warned his followers they would be persecuted: 'Blessed are those who are persecuted because of righteousness' (Matthew 5:10).",
       "Persecution can strengthen faith and let Christians share in Jesus' suffering. The early Church grew despite persecution, e.g. the martyrdom of Stephen (Acts 7).",
-      "Christians are told to respond with love and forgiveness: 'Love your enemies and pray for those who persecute you' (Matthew 5:44) and 'overcome evil with good' (Romans 12:21)."
+      "Christians are told to respond with love and forgiveness: 'Love your enemies and pray for those who persecute you' (Matthew 5:44) and 'overcome evil with good' (Romans 12:21).",
+      "Jesus warned 'If they persecuted me, they will also persecute you' (John 15:20), and Paul wrote that all who want to live a godly life will suffer persecution (2 Timothy 3:12).",
+      "Hebrews 13:3 tells Christians to remember prisoners and those ill-treated 'as bound with them', which is why churches pray for and write to persecuted Christians."
      ]
     },
     {
@@ -1079,8 +1314,12 @@
    ],
    "views": [
     {
-     "label": "Different responses",
-     "text": "Some Christians believe persecuted believers should be supported with practical and political help; others stress forgiveness and non-violence as the Christian response."
+     "label": "Campaigning response",
+     "text": "Supports persecuted believers with practical aid and by lobbying governments for freedom of religion for everyone."
+    },
+    {
+     "label": "Forgiving response",
+     "text": "Stresses praying for persecutors, pardoning them and refusing violence, following Jesus on the cross."
     }
    ],
    "terms": [
@@ -1125,9 +1364,29 @@
      "text": "If one part suffers, every part suffers with it.",
      "ref": "1 Corinthians 12:26",
      "use": "Christians worldwide share suffering."
+    },
+    {
+     "text": "Remember those who are in bonds, as bound with them; and those who are ill-treated, since you are also in the body.",
+     "ref": "Hebrews 13:3",
+     "use": "Christians should support those persecuted for their faith."
+    },
+    {
+     "text": "If they persecuted me, they will also persecute you.",
+     "ref": "John 15:20",
+     "use": "Jesus warned persecution would come."
+    },
+    {
+     "text": "Lord, don't hold this sin against them!",
+     "ref": "Acts 7:60",
+     "use": "Stephen, the first Christian martyr, forgives his killers."
     }
    ],
-   "tip": "Give two types of response: practical help (Open Doors or Barnabas Fund) and forgiveness or prayer. Back them with Matthew 5:10 or 5:44."
+   "tip": "Give two types of response: practical help (Open Doors or Barnabas Fund) and forgiveness or prayer. Back them with Matthew 5:10 or 5:44.",
+   "pitfalls": [
+    "Persecution is ill-treatment because of beliefs. Do not confuse it with prejudice in general.",
+    "Questions ask how Christians respond: give actions (prayer, Open Doors, campaigning) and attitudes (forgiveness, courage) with a source.",
+    "Statistics on persecution come from campaign groups such as Open Doors; name the source and year."
+   ]
   },
   {
    "id": "cp-13",
@@ -1157,7 +1416,9 @@
       "**CAFOD** (Catholic Agency for Overseas Development): founded in 1962 by the Catholic bishops of England and Wales. Provides emergency aid, clean water, healthcare and education, trains communities, and campaigns on issues like climate change and unfair trade. Based on Catholic Social Teaching (human dignity, the common good). Fundraises through Family Fast Day and schools and parishes.",
       "**Christian Aid:** started in 1945 by British and Irish churches to help refugees after the war. Supports long-term development projects and emergency relief, campaigns for justice (tax, climate change) and holds Christian Aid Week each May (red envelopes).",
       "**Tearfund:** an Evangelical charity (founded 1968). Works through local churches to help communities help themselves (e.g. wells, farming, income) and provides disaster relief, supported by prayer and giving. Motto: help people lift themselves out of poverty.",
-      "All three give short-term emergency aid and long-term development, and campaign to change unfair systems."
+      "All three give short-term emergency aid and long-term development, and campaign to change unfair systems.",
+      "**Short-term aid** is emergency help after a disaster (food, shelter, medicine). **Long-term aid** (development) helps communities support themselves (wells, farming skills, education, small businesses).",
+      "**Campaigning** tries to change the causes of poverty, for example unfair trade rules, debt and climate change."
      ]
     }
    ],
@@ -1221,9 +1482,165 @@
      "text": "Faith by itself, if it is not accompanied by action, is dead.",
      "ref": "James 2:17",
      "use": "Faith needs practical action."
+    },
+    {
+     "text": "But whoever has the world's goods, and sees his brother in need, and closes his heart of compassion against him, how does God's love remain in him?",
+     "ref": "1 John 3:17",
+     "use": "God's love requires helping the poor."
+    },
+    {
+     "text": "But let justice roll on like rivers, and righteousness like a mighty stream.",
+     "ref": "Amos 5:24",
+     "use": "Supports campaigning for justice, not just giving charity."
     }
    ],
-   "tip": "Pick ONE charity and know specific details: founder or date, a project, a campaign. Always add a Bible source such as Matthew 25:40 or Mark 10:21."
+   "tip": "Pick ONE charity and know specific details: founder or date, a project, a campaign. Always add a Bible source such as Matthew 25:40 or Mark 10:21.",
+   "pitfalls": [
+    "Questions on CAFOD, Christian Aid or Tearfund are about overseas work. Food banks and Street Pastors (UK) were not credited in 2023.",
+    "These charities do not exist to convert people: describe aid, development and campaigning.",
+    "Know one charity in detail: date founded, who supports it, a type of project and a campaign."
+   ]
+  }
+ ],
+ "spec": [
+  {
+   "point": "Different forms of worship and their significance: liturgical worship",
+   "topics": [
+    "cp-01"
+   ]
+  },
+  {
+   "point": "Different forms of worship and their significance: non-liturgical and informal worship",
+   "topics": [
+    "cp-01"
+   ]
+  },
+  {
+   "point": "The use of the Bible in worship",
+   "topics": [
+    "cp-01"
+   ]
+  },
+  {
+   "point": "Private worship",
+   "topics": [
+    "cp-01",
+    "cp-02"
+   ]
+  },
+  {
+   "point": "Prayer and its significance, including the Lord's Prayer, set prayers and informal prayer",
+   "topics": [
+    "cp-02"
+   ]
+  },
+  {
+   "point": "The meaning of sacrament",
+   "topics": [
+    "cp-03"
+   ]
+  },
+  {
+   "point": "The sacrament of baptism and its significance for Christians",
+   "topics": [
+    "cp-03"
+   ]
+  },
+  {
+   "point": "Infant and believers' baptism; different beliefs about infant baptism",
+   "topics": [
+    "cp-03"
+   ]
+  },
+  {
+   "point": "Holy Communion/Eucharist and its significance for Christians",
+   "topics": [
+    "cp-04"
+   ]
+  },
+  {
+   "point": "Different ways in which Holy Communion is celebrated and different interpretations of its meaning",
+   "topics": [
+    "cp-04"
+   ]
+  },
+  {
+   "point": "The role and importance of pilgrimage",
+   "topics": [
+    "cp-05"
+   ]
+  },
+  {
+   "point": "Two contrasting examples of Christian pilgrimage: Lourdes and Iona",
+   "topics": [
+    "cp-05"
+   ]
+  },
+  {
+   "point": "The celebrations of Christmas and Easter, including their importance for Christians in Great Britain today",
+   "topics": [
+    "cp-06"
+   ]
+  },
+  {
+   "point": "The role of the Church in the local community, including food banks",
+   "topics": [
+    "cp-07"
+   ]
+  },
+  {
+   "point": "The role of the Church in the local community: street pastors",
+   "topics": [
+    "cp-08"
+   ]
+  },
+  {
+   "point": "The place of mission and evangelism",
+   "topics": [
+    "cp-09"
+   ]
+  },
+  {
+   "point": "Church growth",
+   "topics": [
+    "cp-10"
+   ]
+  },
+  {
+   "point": "The importance of the worldwide Church: working for reconciliation",
+   "topics": [
+    "cp-11"
+   ]
+  },
+  {
+   "point": "The importance of the worldwide Church: how Christian churches respond to persecution",
+   "topics": [
+    "cp-12"
+   ]
+  },
+  {
+   "point": "The work of one of CAFOD, Christian Aid or Tearfund",
+   "topics": [
+    "cp-13"
+   ]
+  },
+  {
+   "point": "Influence of practices on individuals, communities and societies; common and divergent views (Catholic, Orthodox, Protestant)",
+   "topics": [
+    "cp-01",
+    "cp-02",
+    "cp-03",
+    "cp-04",
+    "cp-05",
+    "cp-06",
+    "cp-07",
+    "cp-08",
+    "cp-09",
+    "cp-10",
+    "cp-11",
+    "cp-12",
+    "cp-13"
+   ]
   }
  ],
  "flashcards": [
@@ -1339,8 +1756,8 @@
   },
   {
    "topic": "cp-04",
-   "q": "What is the Orthodox name for Holy Communion?",
-   "a": "The Divine Liturgy."
+   "q": "What is the Orthodox service of Holy Communion called?",
+   "a": "The Divine Liturgy. The sacrament itself is often called the Eucharist or the Holy Mysteries."
   },
   {
    "topic": "cp-04",
@@ -1626,6 +2043,201 @@
    "topic": "cp-13",
    "q": "Give two things Christian charities do.",
    "a": "Emergency relief, long-term development projects, clean water, campaigning against unfair trade."
+  },
+  {
+   "topic": "cp-01",
+   "q": "Which verse describes what the first Christians did when they met?",
+   "a": "Acts 2:42: the apostles' teaching, fellowship, the breaking of bread and prayer."
+  },
+  {
+   "topic": "cp-01",
+   "q": "What is a lectionary?",
+   "a": "A set cycle of Bible readings for each service, used in Catholic, Orthodox and Anglican churches."
+  },
+  {
+   "topic": "cp-01",
+   "q": "Give one strength and one weakness of liturgical worship.",
+   "a": "Strength: the same words unite Christians worldwide and across history. Weakness: it can become routine if said without thinking."
+  },
+  {
+   "topic": "cp-02",
+   "q": "What does ACTS stand for in prayer?",
+   "a": "Adoration, Confession, Thanksgiving, Supplication (asking)."
+  },
+  {
+   "topic": "cp-02",
+   "q": "What is intercession?",
+   "a": "Praying for other people, for example the sick, the bereaved or people in war zones."
+  },
+  {
+   "topic": "cp-02",
+   "q": "Why do some Christians prefer informal prayer to set prayer?",
+   "a": "It is personal and sincere, and Jesus warned against 'vain repetitions' (Matthew 6:7)."
+  },
+  {
+   "topic": "cp-03",
+   "q": "What do the candle and white garment symbolise at infant baptism?",
+   "a": "Candle: passing from darkness to the light of Christ. White garment: new life and being washed clean of sin."
+  },
+  {
+   "topic": "cp-03",
+   "q": "What is a baptistery?",
+   "a": "A pool in some churches (for example Baptist) used for full-immersion believers' baptism."
+  },
+  {
+   "topic": "cp-03",
+   "q": "What is confirmation?",
+   "a": "A service (sacrament for Catholics) where a young person or adult confirms for themselves the promises made at their baptism."
+  },
+  {
+   "topic": "cp-04",
+   "q": "What does 'Eucharist' mean?",
+   "a": "Thanksgiving (from Greek). Christians give thanks for Jesus' sacrifice."
+  },
+  {
+   "topic": "cp-04",
+   "q": "What do Lutherans believe about Communion?",
+   "a": "Christ is truly present 'in, with and under' the bread and wine, which remain bread and wine (sometimes called consubstantiation)."
+  },
+  {
+   "topic": "cp-04",
+   "q": "Which verse shows Communion unites believers as one body?",
+   "a": "1 Corinthians 10:17: 'there is one loaf of bread, we, who are many, are one body'."
+  },
+  {
+   "topic": "cp-05",
+   "q": "How many healings at Lourdes has the Catholic Church officially recognised as miracles?",
+   "a": "72 (the 72nd was announced in 2025), after medical checks by the Lourdes Medical Bureau."
+  },
+  {
+   "topic": "cp-05",
+   "q": "Who founded the Iona Community and when?",
+   "a": "George MacLeod, a Church of Scotland minister, in 1938."
+  },
+  {
+   "topic": "cp-05",
+   "q": "Is pilgrimage compulsory for Christians?",
+   "a": "No. It is a personal choice to deepen faith, unlike Hajj, which is a duty in Islam."
+  },
+  {
+   "topic": "cp-06",
+   "q": "What is a Christingle?",
+   "a": "An orange (the world) with a candle (Jesus, light of the world), a red ribbon (his blood) and fruit or sweets on sticks (God's gifts and the four seasons), used in Advent and Christmas services."
+  },
+  {
+   "topic": "cp-06",
+   "q": "What is Ash Wednesday?",
+   "a": "The first day of Lent. Many Christians receive a cross of ash on the forehead as a sign of sorrow for sin."
+  },
+  {
+   "topic": "cp-06",
+   "q": "How is the date of Easter set?",
+   "a": "The first Sunday after the first full moon on or after the spring equinox (between 22 March and 25 April in Western churches)."
+  },
+  {
+   "topic": "cp-07",
+   "q": "Roughly how many emergency food parcels did Trussell food banks give out in 2025?",
+   "a": "About 2.6 million, around 900,000 of them for children (Trussell figures published 2026)."
+  },
+  {
+   "topic": "cp-07",
+   "q": "How do people usually get help from a Trussell food bank?",
+   "a": "They are referred by a professional such as a doctor, social worker or school, and receive a voucher for a parcel."
+  },
+  {
+   "topic": "cp-07",
+   "q": "Give three ways churches serve their local community apart from food banks.",
+   "a": "Youth and toddler groups, lunch clubs or coffee mornings for lonely people, debt advice, night shelters, warm spaces, a quiet place to pray."
+  },
+  {
+   "topic": "cp-08",
+   "q": "Which organisation started Street Pastors?",
+   "a": "The Ascension Trust, led by Rev Les Isaac, in 2003."
+  },
+  {
+   "topic": "cp-08",
+   "q": "What three words sum up what Street Pastors do?",
+   "a": "Caring, listening and helping."
+  },
+  {
+   "topic": "cp-08",
+   "q": "Do Street Pastors try to convert people on the street?",
+   "a": "No. They offer care and safety; they will talk or pray about faith only if people ask."
+  },
+  {
+   "topic": "cp-09",
+   "q": "Where and when did the Alpha Course begin?",
+   "a": "At Holy Trinity Brompton, London, in 1977; developed by Nicky Gumbel from 1990."
+  },
+  {
+   "topic": "cp-09",
+   "q": "Which verse tells Christians to be ready to explain their hope?",
+   "a": "1 Peter 3:15."
+  },
+  {
+   "topic": "cp-09",
+   "q": "What is the difference between mission and evangelism?",
+   "a": "Mission is the wider task of serving and sharing God's love (including social action). Evangelism is spreading the gospel to bring people to faith."
+  },
+  {
+   "topic": "cp-10",
+   "q": "What did the 2021 census show about Christianity in England and Wales?",
+   "a": "46.2% described themselves as Christian, the first time below half (59.3% in 2011); 37.2% said 'no religion'."
+  },
+  {
+   "topic": "cp-10",
+   "q": "Why should you be careful about claims of a 'quiet revival' in British churches?",
+   "a": "The 2025 Bible Society report was based on a survey sample the Bible Society said in March 2026 was faulty; other surveys show attendance below pre-pandemic levels."
+  },
+  {
+   "topic": "cp-10",
+   "q": "Which parable of Jesus is about something small growing large?",
+   "a": "The mustard seed (Matthew 13:31-32)."
+  },
+  {
+   "topic": "cp-11",
+   "q": "What happened at Coventry Cathedral in 1940 and how did it respond?",
+   "a": "It was destroyed by bombing on 14 November 1940. Provost Richard Howard had 'Father Forgive' written in the ruins and worked for reconciliation with Germany."
+  },
+  {
+   "topic": "cp-11",
+   "q": "What is the Community of the Cross of Nails?",
+   "a": "A worldwide network, led from Coventry Cathedral, of around 300 churches, schools and peace centres working for reconciliation."
+  },
+  {
+   "topic": "cp-11",
+   "q": "Which verse says to be reconciled to your brother before offering your gift at the altar?",
+   "a": "Matthew 5:23-24."
+  },
+  {
+   "topic": "cp-12",
+   "q": "About how many Christians did Open Doors' 2026 World Watch List say face high levels of persecution?",
+   "a": "More than 388 million, about one in seven Christians worldwide. North Korea was ranked first."
+  },
+  {
+   "topic": "cp-12",
+   "q": "Who was the first Christian martyr and how did he respond?",
+   "a": "Stephen (Acts 7). As he was stoned he prayed 'Lord, don't hold this sin against them!'"
+  },
+  {
+   "topic": "cp-12",
+   "q": "Which verse tells Christians to remember prisoners as if they were in prison with them?",
+   "a": "Hebrews 13:3."
+  },
+  {
+   "topic": "cp-13",
+   "q": "What is the difference between short-term and long-term aid?",
+   "a": "Short-term (emergency) aid meets immediate needs after a disaster. Long-term (development) aid helps communities support themselves, for example wells, farming skills and education."
+  },
+  {
+   "topic": "cp-13",
+   "q": "When is Christian Aid Week?",
+   "a": "Every May, when volunteers collect money house to house using red envelopes."
+  },
+  {
+   "topic": "cp-13",
+   "q": "When was Tearfund founded and how does it work?",
+   "a": "1968, by the Evangelical Alliance. It works through local churches to help communities lift themselves out of poverty."
   }
  ],
  "quiz": [
@@ -1874,12 +2486,12 @@
    "q": "Why do many churches run food banks?",
    "options": [
     "To follow Jesus' teaching to help the needy",
-    "To make money",
-    "Because the law forces them",
-    "To avoid worship"
+    "To receive government funding",
+    "To replace Sunday worship",
+    "To make people attend church"
    ],
    "answer": 0,
-   "why": "They are following Jesus' teaching on loving neighbours."
+   "why": "Christians run food banks because Jesus taught that feeding the hungry is serving him (Matthew 25:35-40). Food banks help anyone, with no requirement to attend church."
   },
   {
    "topic": "cp-08",
@@ -1957,9 +2569,9 @@
    "topic": "cp-10",
    "q": "In which region is the Church currently growing fastest?",
    "options": [
-    "Antarctica",
     "North America",
     "Western Europe",
+    "Australia",
     "Africa"
    ],
    "answer": 3,
@@ -2096,6 +2708,925 @@
    ],
    "answer": 2,
    "why": "Jesus told a rich man to give to the poor."
+  },
+  {
+   "topic": "cp-01",
+   "q": "Which type of worship would you most expect in a Pentecostal church?",
+   "options": [
+    "Silent waiting",
+    "Charismatic, Spirit-led worship",
+    "A fixed Latin Mass",
+    "No worship at all"
+   ],
+   "answer": 1,
+   "why": "Pentecostal worship is informal and lively, with modern songs and gifts of the Spirit."
+  },
+  {
+   "topic": "cp-01",
+   "q": "Which one of the following is an example of private worship?",
+   "options": [
+    "Singing in the church choir",
+    "Attending a Bible study group",
+    "Praying the rosary alone at home",
+    "Going to Sunday Mass"
+   ],
+   "answer": 2,
+   "why": "Private worship is done alone. Choirs, groups and Mass are public worship."
+  },
+  {
+   "topic": "cp-01",
+   "q": "Which source supports Christians meeting together for worship?",
+   "options": [
+    "Hebrews 10:25",
+    "Matthew 6:6",
+    "Mark 1:35",
+    "Genesis 3:6"
+   ],
+   "answer": 0,
+   "why": "Hebrews 10:25 tells Christians not to give up meeting together."
+  },
+  {
+   "topic": "cp-02",
+   "q": "Which line of the Lord's Prayer asks God to provide for daily needs?",
+   "options": [
+    "Hallowed be your name",
+    "Lead us not into temptation",
+    "Your will be done",
+    "Give us today our daily bread"
+   ],
+   "answer": 3,
+   "why": "'Daily bread' stands for everything people need each day."
+  },
+  {
+   "topic": "cp-02",
+   "q": "A Christian prays for victims of a flood. This type of prayer is called:",
+   "options": [
+    "Intercession",
+    "Adoration",
+    "Confession",
+    "Liturgy"
+   ],
+   "answer": 0,
+   "why": "Intercession is praying on behalf of other people."
+  },
+  {
+   "topic": "cp-02",
+   "q": "Which source shows Jesus praying privately?",
+   "options": [
+    "Matthew 28:19",
+    "Luke 22:19",
+    "Mark 1:35",
+    "Acts 2:41"
+   ],
+   "answer": 2,
+   "why": "Mark 1:35: Jesus went to a deserted place early in the morning to pray."
+  },
+  {
+   "topic": "cp-03",
+   "q": "Which source is most used to support believers' baptism?",
+   "options": [
+    "Acts 16:33",
+    "Mark 10:14",
+    "Acts 2:38",
+    "Genesis 1:27"
+   ],
+   "answer": 2,
+   "why": "Acts 2:38 links baptism to repentance, which a baby cannot do."
+  },
+  {
+   "topic": "cp-03",
+   "q": "In infant baptism, who make promises on the baby's behalf?",
+   "options": [
+    "Parents and godparents",
+    "The baby",
+    "Only the bishop",
+    "The whole town"
+   ],
+   "answer": 0,
+   "why": "Parents and godparents promise to bring the child up as a Christian."
+  },
+  {
+   "topic": "cp-03",
+   "q": "Which of these is a purpose of baptism, rather than a feature?",
+   "options": [
+    "Using a font",
+    "Lighting a candle",
+    "Wearing white",
+    "Being cleansed from sin"
+   ],
+   "answer": 3,
+   "why": "Purposes are reasons (cleansing from sin, joining the Church); the others are features of the ceremony."
+  },
+  {
+   "topic": "cp-04",
+   "q": "In which church is Communion given to the people on a spoon, with bread and wine together?",
+   "options": [
+    "Baptist",
+    "Orthodox",
+    "Methodist",
+    "Quaker"
+   ],
+   "answer": 1,
+   "why": "Orthodox Christians receive bread soaked in wine from a spoon, and even infants receive."
+  },
+  {
+   "topic": "cp-04",
+   "q": "Which Christians do NOT celebrate Communion as a sacrament?",
+   "options": [
+    "Anglicans",
+    "Catholics",
+    "The Salvation Army",
+    "Methodists"
+   ],
+   "answer": 2,
+   "why": "The Salvation Army and Quakers do not use outward sacraments."
+  },
+  {
+   "topic": "cp-04",
+   "q": "What does 'Eucharist' mean?",
+   "options": [
+    "Thanksgiving",
+    "Sacrifice",
+    "Supper",
+    "Bread"
+   ],
+   "answer": 0,
+   "why": "Eucharist comes from the Greek for thanksgiving."
+  },
+  {
+   "topic": "cp-05",
+   "q": "Which pilgrimage site is in Scotland?",
+   "options": [
+    "Lourdes",
+    "Walsingham",
+    "Iona",
+    "Santiago de Compostela"
+   ],
+   "answer": 2,
+   "why": "Iona is an island off the west coast of Scotland."
+  },
+  {
+   "topic": "cp-05",
+   "q": "Walsingham in Norfolk is a pilgrimage site linked to:",
+   "options": [
+    "St Columba",
+    "Mary",
+    "St Patrick",
+    "Bernadette"
+   ],
+   "answer": 1,
+   "why": "Walsingham is a shrine to Mary used by Catholics and Anglicans."
+  },
+  {
+   "topic": "cp-05",
+   "q": "Which source shows that Jesus' family went on pilgrimage?",
+   "options": [
+    "Luke 2:41",
+    "Mark 10:21",
+    "John 3:16",
+    "Matthew 5:9"
+   ],
+   "answer": 0,
+   "why": "Luke 2:41: his parents went to Jerusalem every year for Passover."
+  },
+  {
+   "topic": "cp-06",
+   "q": "What does the Paschal candle lit at the Easter Vigil represent?",
+   "options": [
+    "The star of Bethlehem",
+    "The risen Christ, light of the world",
+    "The Holy Spirit at Pentecost",
+    "The burning bush"
+   ],
+   "answer": 1,
+   "why": "The Paschal candle represents Jesus risen from the dead, the light that overcomes darkness."
+  },
+  {
+   "topic": "cp-06",
+   "q": "Which day begins Lent?",
+   "options": [
+    "Palm Sunday",
+    "Maundy Thursday",
+    "Ash Wednesday",
+    "Good Friday"
+   ],
+   "answer": 2,
+   "why": "Lent begins on Ash Wednesday and lasts forty days (not counting Sundays)."
+  },
+  {
+   "topic": "cp-06",
+   "q": "A student says Christians celebrate Easter 'because of chocolate eggs'. What is the best correction?",
+   "options": [
+    "Christians celebrate the resurrection of Jesus",
+    "Christians celebrate the birth of Jesus",
+    "Christians celebrate the coming of spring only",
+    "Christians celebrate the Holy Spirit"
+   ],
+   "answer": 0,
+   "why": "Easter celebrates the resurrection; eggs are a symbol of new life, not the reason."
+  },
+  {
+   "topic": "cp-07",
+   "q": "Which Bible teaching is most directly linked to running food banks?",
+   "options": [
+    "'Let there be light'",
+    "'I was hungry, and you gave me food'",
+    "'Do this in memory of me'",
+    "'Be still, and know that I am God'"
+   ],
+   "answer": 1,
+   "why": "Matthew 25:35, from the sheep and the goats."
+  },
+  {
+   "topic": "cp-07",
+   "q": "Which one of the following is an example of the Church in the LOCAL community?",
+   "options": [
+    "CAFOD building wells in Africa",
+    "Open Doors smuggling Bibles",
+    "A parish youth club",
+    "The World Council of Churches"
+   ],
+   "answer": 2,
+   "why": "A youth club serves the local area; the others are worldwide work."
+  },
+  {
+   "topic": "cp-08",
+   "q": "Which statement about Street Pastors is correct?",
+   "options": [
+    "They work with the police but have no police powers",
+    "They arrest people who are drunk",
+    "They are paid council officers",
+    "They only work on Sunday mornings"
+   ],
+   "answer": 0,
+   "why": "They are trained church volunteers who cooperate with police and councils."
+  },
+  {
+   "topic": "cp-08",
+   "q": "Which parable best explains why Street Pastors help strangers?",
+   "options": [
+    "The sower",
+    "The prodigal son",
+    "The talents",
+    "The Good Samaritan"
+   ],
+   "answer": 3,
+   "why": "The Good Samaritan helped a stranger in need, and Jesus said 'Go and do likewise'."
+  },
+  {
+   "topic": "cp-09",
+   "q": "Which source tells Christians they will be Jesus' witnesses 'to the uttermost parts of the earth'?",
+   "options": [
+    "Acts 1:8",
+    "Psalm 84:5",
+    "Luke 2:41",
+    "Matthew 6:6"
+   ],
+   "answer": 0,
+   "why": "Acts 1:8, spoken just before the ascension."
+  },
+  {
+   "topic": "cp-09",
+   "q": "Which one of the following is evangelism?",
+   "options": [
+    "Running a food bank",
+    "Praying silently alone",
+    "Visiting Iona",
+    "Explaining the gospel at an Alpha Course"
+   ],
+   "answer": 3,
+   "why": "Evangelism is sharing the good news of Jesus to bring people to faith."
+  },
+  {
+   "topic": "cp-10",
+   "q": "According to the 2021 census, roughly what percentage of people in England and Wales described themselves as Christian?",
+   "options": [
+    "About 25%",
+    "About 46%",
+    "About 72%",
+    "About 90%"
+   ],
+   "answer": 1,
+   "why": "46.2%, down from 59.3% in 2011."
+  },
+  {
+   "topic": "cp-10",
+   "q": "A church starts a new congregation in a café on a housing estate. This is called:",
+   "options": [
+    "Church planting",
+    "Pilgrimage",
+    "Confirmation",
+    "Reconciliation"
+   ],
+   "answer": 0,
+   "why": "Church planting means starting new churches in new places."
+  },
+  {
+   "topic": "cp-10",
+   "q": "Which reason for Church growth is based on Jesus' command?",
+   "options": [
+    "Churches need more money",
+    "Bigger buildings look impressive",
+    "The Great Commission",
+    "To win elections"
+   ],
+   "answer": 2,
+   "why": "Matthew 28:19-20: 'make disciples of all nations'."
+  },
+  {
+   "topic": "cp-11",
+   "q": "Which words were written on the ruined wall of Coventry Cathedral?",
+   "options": [
+    "'Never again'",
+    "'Peace be with you'",
+    "'Love your enemies'",
+    "'Father Forgive'"
+   ],
+   "answer": 3,
+   "why": "Provost Richard Howard chose 'Father Forgive' rather than calling for revenge."
+  },
+  {
+   "topic": "cp-11",
+   "q": "Which of these is an example of personal reconciliation?",
+   "options": [
+    "The Truth and Reconciliation Commission",
+    "Two friends forgiving each other after an argument",
+    "The World Council of Churches",
+    "The Community of the Cross of Nails"
+   ],
+   "answer": 1,
+   "why": "Personal reconciliation is between individuals; the others are organised or national."
+  },
+  {
+   "topic": "cp-12",
+   "q": "Which charity publishes the yearly World Watch List?",
+   "options": [
+    "CAFOD",
+    "Christian Aid",
+    "Open Doors",
+    "Tearfund"
+   ],
+   "answer": 2,
+   "why": "Open Doors ranks the countries where Christians face most persecution."
+  },
+  {
+   "topic": "cp-12",
+   "q": "Which source best supports Christians forgiving their persecutors?",
+   "options": [
+    "Matthew 5:44",
+    "Luke 2:41",
+    "Mark 10:21",
+    "Acts 2:47"
+   ],
+   "answer": 0,
+   "why": "'Love your enemies... pray for those who persecute you'."
+  },
+  {
+   "topic": "cp-13",
+   "q": "Which charity holds a 'Family Fast Day' and is supported by the Catholic Church?",
+   "options": [
+    "Tearfund",
+    "Christian Aid",
+    "Open Doors",
+    "CAFOD"
+   ],
+   "answer": 3,
+   "why": "CAFOD's Family Fast Days are held in Lent and autumn."
+  },
+  {
+   "topic": "cp-13",
+   "q": "Digging a well so a village has clean water for years is an example of:",
+   "options": [
+    "Long-term aid",
+    "Emergency aid",
+    "Evangelism",
+    "Pilgrimage"
+   ],
+   "answer": 0,
+   "why": "Long-term (development) aid helps communities support themselves."
+  }
+ ],
+ "truefalse": [
+  {
+   "topic": "cp-01",
+   "s": "Quaker meetings for worship usually have no set leader or order.",
+   "answer": true,
+   "why": "Quakers wait in silence until someone feels moved to speak."
+  },
+  {
+   "topic": "cp-01",
+   "s": "Going to a Bible study group is an example of private worship.",
+   "answer": false,
+   "why": "A group is public or communal worship. Private worship is done alone."
+  },
+  {
+   "topic": "cp-01",
+   "s": "Liturgical worship follows a set pattern of words and actions.",
+   "answer": true,
+   "why": "For example the Catholic Mass or Anglican Common Worship."
+  },
+  {
+   "topic": "cp-01",
+   "s": "The Bible is only used in Protestant worship.",
+   "answer": false,
+   "why": "All main traditions read the Bible in worship; Catholics and Anglicans use a lectionary."
+  },
+  {
+   "topic": "cp-02",
+   "s": "The Lord's Prayer was taught by Jesus.",
+   "answer": true,
+   "why": "Matthew 6:9-13 and Luke 11:2-4."
+  },
+  {
+   "topic": "cp-02",
+   "s": "Informal prayer must use words written by the Church.",
+   "answer": false,
+   "why": "Informal prayer uses the person's own words; set prayers use written words."
+  },
+  {
+   "topic": "cp-02",
+   "s": "Supplication means asking God for help.",
+   "answer": true,
+   "why": "It is the S in ACTS."
+  },
+  {
+   "topic": "cp-02",
+   "s": "Christians believe they can only pray inside a church.",
+   "answer": false,
+   "why": "Christians can pray anywhere, any time (1 Thessalonians 5:17: pray without ceasing)."
+  },
+  {
+   "topic": "cp-03",
+   "s": "Baptists baptise babies by sprinkling water on their heads.",
+   "answer": false,
+   "why": "Baptists practise believers' baptism by full immersion."
+  },
+  {
+   "topic": "cp-03",
+   "s": "Catholics believe baptism removes original sin.",
+   "answer": true,
+   "why": "This is one main reason Catholics baptise infants."
+  },
+  {
+   "topic": "cp-03",
+   "s": "Orthodox Christians immerse babies at baptism.",
+   "answer": true,
+   "why": "Orthodox infant baptism is usually by triple immersion."
+  },
+  {
+   "topic": "cp-03",
+   "s": "Quakers and the Salvation Army baptise with water.",
+   "answer": false,
+   "why": "They do not use outward sacraments; they stress inner, spiritual baptism."
+  },
+  {
+   "topic": "cp-03",
+   "s": "A sacrament is an outward sign of an inward grace.",
+   "answer": true,
+   "why": "This is St Augustine's definition."
+  },
+  {
+   "topic": "cp-04",
+   "s": "All Christians believe the bread and wine become Jesus' body and blood.",
+   "answer": false,
+   "why": "Transubstantiation is Catholic. Many Protestants see Communion as a symbolic memorial."
+  },
+  {
+   "topic": "cp-04",
+   "s": "Communion remembers the Last Supper.",
+   "answer": true,
+   "why": "Jesus said 'Do this in memory of me' (Luke 22:19)."
+  },
+  {
+   "topic": "cp-04",
+   "s": "Methodists often use non-alcoholic wine in small individual cups.",
+   "answer": true,
+   "why": "Methodists have a tradition of not drinking alcohol."
+  },
+  {
+   "topic": "cp-04",
+   "s": "The Orthodox Church only gives Communion to adults.",
+   "answer": false,
+   "why": "Orthodox Christians give Communion to baptised infants and children too."
+  },
+  {
+   "topic": "cp-05",
+   "s": "Bernadette said she saw the Virgin Mary at Lourdes in 1858.",
+   "answer": true,
+   "why": "She reported 18 appearances in the Grotto."
+  },
+  {
+   "topic": "cp-05",
+   "s": "Iona is a Catholic-only pilgrimage site.",
+   "answer": false,
+   "why": "The Iona Community is ecumenical, welcoming all denominations."
+  },
+  {
+   "topic": "cp-05",
+   "s": "Every pilgrim who visits Lourdes is physically healed.",
+   "answer": false,
+   "why": "Only a small number of cures are recognised; many pilgrims speak of spiritual healing and peace instead."
+  },
+  {
+   "topic": "cp-05",
+   "s": "St Columba founded a monastery on Iona in AD 563.",
+   "answer": true,
+   "why": "From there Christianity spread across Scotland and northern England."
+  },
+  {
+   "topic": "cp-06",
+   "s": "Christmas celebrates the incarnation.",
+   "answer": true,
+   "why": "It remembers God becoming human in the birth of Jesus."
+  },
+  {
+   "topic": "cp-06",
+   "s": "Good Friday services are usually joyful, with flowers and bells.",
+   "answer": false,
+   "why": "Good Friday is solemn: churches are often bare. Joyful services are on Easter Day."
+  },
+  {
+   "topic": "cp-06",
+   "s": "Easter is on the same date every year.",
+   "answer": false,
+   "why": "Easter moves: it depends on the full moon after the spring equinox."
+  },
+  {
+   "topic": "cp-06",
+   "s": "Many Christians see Easter as more important than Christmas.",
+   "answer": true,
+   "why": "The resurrection is the foundation of Christian faith (1 Corinthians 15:14)."
+  },
+  {
+   "topic": "cp-06",
+   "s": "Lent is part of how Christians celebrate Easter Day itself.",
+   "answer": false,
+   "why": "Lent is the time of preparation before Easter. The examiners noted students confusing the two in 2023."
+  },
+  {
+   "topic": "cp-07",
+   "s": "Most Trussell food banks are run by paid government staff.",
+   "answer": false,
+   "why": "They are run mainly by volunteers, many from local churches."
+  },
+  {
+   "topic": "cp-07",
+   "s": "Churches may open their buildings as warm spaces in winter.",
+   "answer": true,
+   "why": "This is one way churches serve their community."
+  },
+  {
+   "topic": "cp-07",
+   "s": "Food banks are an example of the Church's work in the worldwide community.",
+   "answer": false,
+   "why": "Food banks are local, UK-based work; overseas work is done by charities such as CAFOD."
+  },
+  {
+   "topic": "cp-07",
+   "s": "Some Christians argue churches should also campaign so that food banks are not needed.",
+   "answer": true,
+   "why": "They see tackling the causes of poverty as part of justice."
+  },
+  {
+   "topic": "cp-08",
+   "s": "Street Pastors began in Brixton, London, in 2003.",
+   "answer": true,
+   "why": "Started by the Ascension Trust and Rev Les Isaac."
+  },
+  {
+   "topic": "cp-08",
+   "s": "Street Pastors hand out flip-flops to people struggling to walk in high heels.",
+   "answer": true,
+   "why": "A well-known example of practical care."
+  },
+  {
+   "topic": "cp-08",
+   "s": "Street Pastors have the power to arrest people.",
+   "answer": false,
+   "why": "They have no police powers; they work alongside police."
+  },
+  {
+   "topic": "cp-08",
+   "s": "Street Pastors only help people who go to church.",
+   "answer": false,
+   "why": "They help anyone in need, without judging (Matthew 7:1)."
+  },
+  {
+   "topic": "cp-09",
+   "s": "The Great Commission is in Matthew 28.",
+   "answer": true,
+   "why": "Matthew 28:19-20."
+  },
+  {
+   "topic": "cp-09",
+   "s": "Evangelism and mission mean exactly the same thing.",
+   "answer": false,
+   "why": "Mission is wider (service and sharing God's love); evangelism is sharing the gospel."
+  },
+  {
+   "topic": "cp-09",
+   "s": "The Alpha Course includes a meal and open discussion.",
+   "answer": true,
+   "why": "Guests eat together, hear a talk and discuss freely."
+  },
+  {
+   "topic": "cp-09",
+   "s": "Some Christians prefer to witness by example rather than by trying to convert people.",
+   "answer": true,
+   "why": "They stress respect for others' beliefs and showing faith through actions."
+  },
+  {
+   "topic": "cp-10",
+   "s": "The Church is growing fastest in Western Europe.",
+   "answer": false,
+   "why": "Growth is fastest in Africa, Asia and South America; many European churches are declining."
+  },
+  {
+   "topic": "cp-10",
+   "s": "Messy Church is a Fresh Expression aimed at families.",
+   "answer": true,
+   "why": "It uses crafts, activities and a meal to reach families."
+  },
+  {
+   "topic": "cp-10",
+   "s": "Church growth only means more people attending services.",
+   "answer": false,
+   "why": "It can also mean growing in faith (discipleship) and in service to the community."
+  },
+  {
+   "topic": "cp-10",
+   "s": "Acts 2:41 says about three thousand were added to the Church after Peter's Pentecost sermon.",
+   "answer": true,
+   "why": "This shows growth in the early Church."
+  },
+  {
+   "topic": "cp-11",
+   "s": "Reconciliation means restoring relationships after conflict.",
+   "answer": true,
+   "why": "This is the key definition."
+  },
+  {
+   "topic": "cp-11",
+   "s": "Corrymeela is in South Africa.",
+   "answer": false,
+   "why": "Corrymeela is in Northern Ireland. Desmond Tutu worked in South Africa."
+  },
+  {
+   "topic": "cp-11",
+   "s": "Catholics have a sacrament called reconciliation.",
+   "answer": true,
+   "why": "Confession restores the relationship with God and the Church."
+  },
+  {
+   "topic": "cp-11",
+   "s": "Desmond Tutu used violence to end apartheid.",
+   "answer": false,
+   "why": "He opposed apartheid non-violently and later chaired the Truth and Reconciliation Commission."
+  },
+  {
+   "topic": "cp-12",
+   "s": "Persecution means ill-treatment because of someone's beliefs.",
+   "answer": true,
+   "why": "It can include violence, imprisonment and discrimination."
+  },
+  {
+   "topic": "cp-12",
+   "s": "Jesus promised his followers they would never be persecuted.",
+   "answer": false,
+   "why": "He warned 'If they persecuted me, they will also persecute you' (John 15:20)."
+  },
+  {
+   "topic": "cp-12",
+   "s": "Christian Solidarity Worldwide campaigns for religious freedom for people of all faiths.",
+   "answer": true,
+   "why": "CSW works for freedom of religion or belief for everyone."
+  },
+  {
+   "topic": "cp-12",
+   "s": "The Church grew in its early years despite persecution.",
+   "answer": true,
+   "why": "After Stephen's death believers scattered and spread the faith (Acts 8)."
+  },
+  {
+   "topic": "cp-13",
+   "s": "CAFOD is the official aid agency of the Catholic Church in England and Wales.",
+   "answer": true,
+   "why": "It was founded by the bishops in 1962."
+  },
+  {
+   "topic": "cp-13",
+   "s": "Christian Aid only gives help to Christians.",
+   "answer": false,
+   "why": "It helps people of all faiths and none, based on need."
+  },
+  {
+   "topic": "cp-13",
+   "s": "Christian charities only give emergency aid.",
+   "answer": false,
+   "why": "They also give long-term development aid and campaign against causes of poverty."
+  },
+  {
+   "topic": "cp-13",
+   "s": "Tearfund works through local churches in the countries it helps.",
+   "answer": true,
+   "why": "It partners with local churches to mobilise communities."
+  }
+ ],
+ "short": [
+  {
+   "topic": "cp-01",
+   "q": "Give one example of private worship.",
+   "a": "Praying alone at home (accept: reading the Bible alone, using a rosary alone, meditating on an icon, singing worship songs alone)"
+  },
+  {
+   "topic": "cp-01",
+   "q": "Name one denomination that uses liturgical worship.",
+   "a": "Catholic (accept: Orthodox, Church of England / Anglican)"
+  },
+  {
+   "topic": "cp-01",
+   "q": "Give one feature of non-liturgical worship.",
+   "a": "A sermon at the centre (accept: hymns chosen by the minister, free prayers, Bible readings chosen for the day, no fixed words)"
+  },
+  {
+   "topic": "cp-02",
+   "q": "Give one example of a set prayer.",
+   "a": "The Lord's Prayer (accept: the Hail Mary, the Grace, the Jesus Prayer, collects)"
+  },
+  {
+   "topic": "cp-02",
+   "q": "Give one reason Christians pray.",
+   "a": "To praise God (accept: to say sorry, to thank God, to ask for help, to pray for others, to feel close to God)"
+  },
+  {
+   "topic": "cp-02",
+   "q": "Give one phrase from the Lord's Prayer.",
+   "a": "Give us today our daily bread (accept any accurate phrase)"
+  },
+  {
+   "topic": "cp-03",
+   "q": "Give one purpose of baptism.",
+   "a": "To wash away sin (accept: to join the Church, to follow Jesus' example, to receive the Holy Spirit, to begin a new life with Christ)"
+  },
+  {
+   "topic": "cp-03",
+   "q": "Name one denomination that practises believers' baptism.",
+   "a": "Baptist (accept: Pentecostal, many independent Evangelical churches)"
+  },
+  {
+   "topic": "cp-03",
+   "q": "Give the meaning of 'sacrament'.",
+   "a": "An outward sign of an inward, spiritual grace (accept: a ritual through which Christians receive God's grace)"
+  },
+  {
+   "topic": "cp-04",
+   "q": "Give one other name for Holy Communion.",
+   "a": "Eucharist (accept: Mass, the Lord's Supper, Breaking of Bread, Divine Liturgy)"
+  },
+  {
+   "topic": "cp-04",
+   "q": "Give the meaning of 'transubstantiation'.",
+   "a": "The bread and wine become the body and blood of Christ (Catholic belief)"
+  },
+  {
+   "topic": "cp-04",
+   "q": "Give one reason Holy Communion is important to Christians.",
+   "a": "It remembers Jesus' sacrifice (accept: Jesus commanded it, it brings grace, it unites believers, Christ is present)"
+  },
+  {
+   "topic": "cp-05",
+   "q": "Give one reason why Christians go on pilgrimage.",
+   "a": "To grow closer to God (accept: to seek healing, to ask forgiveness, to strengthen faith, to reflect, to meet other Christians, to help the sick)"
+  },
+  {
+   "topic": "cp-05",
+   "q": "Name one Christian pilgrimage site apart from Lourdes and Iona.",
+   "a": "Jerusalem (accept: Rome, Walsingham, Canterbury, Lindisfarne, Santiago de Compostela, Bethlehem)"
+  },
+  {
+   "topic": "cp-05",
+   "q": "Name the girl who saw visions of Mary at Lourdes.",
+   "a": "Bernadette Soubirous"
+  },
+  {
+   "topic": "cp-06",
+   "q": "Give one way Christians celebrate Christmas.",
+   "a": "Midnight Mass (accept: carol services, nativity plays, Advent wreath, Christingle, giving gifts, charity for the homeless)"
+  },
+  {
+   "topic": "cp-06",
+   "q": "Give one way Christians celebrate Easter.",
+   "a": "Easter Vigil with the Paschal candle (accept: joyful Easter Day services, flowers in church, 'Christ is risen', sunrise services, baptisms, Easter eggs as symbols of new life)"
+  },
+  {
+   "topic": "cp-06",
+   "q": "Name the day on which Christians remember the Last Supper.",
+   "a": "Maundy Thursday"
+  },
+  {
+   "topic": "cp-07",
+   "q": "Give one example of the work of the Church in the local community.",
+   "a": "Food banks (accept: Street Pastors, youth clubs, toddler groups, lunch clubs, night shelters, debt advice, warm spaces)"
+  },
+  {
+   "topic": "cp-07",
+   "q": "Name the charity with the UK's largest network of food banks.",
+   "a": "The Trussell Trust (accept: Trussell)"
+  },
+  {
+   "topic": "cp-07",
+   "q": "Give one teaching that inspires Christians to run food banks.",
+   "a": "'I was hungry, and you gave me food' (Matthew 25:35) (accept: love your neighbour, the Good Samaritan, faith without works is dead, 1 John 3:17)"
+  },
+  {
+   "topic": "cp-08",
+   "q": "Give one thing Street Pastors do.",
+   "a": "Listen to people (accept: give out flip-flops or water, help vulnerable people get home safely, pray if asked, calm conflict)"
+  },
+  {
+   "topic": "cp-08",
+   "q": "Name the city where Street Pastors began.",
+   "a": "London (Brixton)"
+  },
+  {
+   "topic": "cp-08",
+   "q": "Give the name of the parable that teaches helping strangers in need.",
+   "a": "The Good Samaritan"
+  },
+  {
+   "topic": "cp-09",
+   "q": "Give the meaning of 'evangelism'.",
+   "a": "Spreading the Christian gospel to bring people to faith"
+  },
+  {
+   "topic": "cp-09",
+   "q": "Name one course used by churches to introduce Christianity.",
+   "a": "Alpha (accept: Christianity Explored)"
+  },
+  {
+   "topic": "cp-09",
+   "q": "Give one reason Christians think evangelism is important.",
+   "a": "Jesus commanded it in the Great Commission (accept: so others can be saved, to share God's love, the Spirit gives power to witness, Jesus is the way to God)"
+  },
+  {
+   "topic": "cp-10",
+   "q": "Give one reason why Church growth is important for Christians.",
+   "a": "To obey the Great Commission (accept: so more people can be saved, to spread God's love, more people to help the needy, to keep the faith alive)"
+  },
+  {
+   "topic": "cp-10",
+   "q": "Give one way churches try to grow.",
+   "a": "Running Alpha courses (accept: church planting, Messy Church, social media, outreach events, welcoming worship, youth work)"
+  },
+  {
+   "topic": "cp-10",
+   "q": "Name one region of the world where the Church is growing quickly.",
+   "a": "Africa (accept: Asia, South America, Latin America, China)"
+  },
+  {
+   "topic": "cp-11",
+   "q": "Give the meaning of 'reconciliation'.",
+   "a": "Restoring friendly relationships after conflict"
+  },
+  {
+   "topic": "cp-11",
+   "q": "Name one Christian organisation that works for reconciliation.",
+   "a": "Corrymeela (accept: Community of the Cross of Nails, Coventry Cathedral, Pax Christi, Taize, the Iona Community)"
+  },
+  {
+   "topic": "cp-11",
+   "q": "Give one teaching of Jesus about peace or reconciliation.",
+   "a": "'Blessed are the peacemakers' (Matthew 5:9) (accept: love your enemies, be reconciled to your brother first, forgive seventy times seven)"
+  },
+  {
+   "topic": "cp-12",
+   "q": "Give one example of the persecution of Christians.",
+   "a": "Churches being attacked (accept: imprisonment, being killed, losing jobs, bans on worship or Bibles)"
+  },
+  {
+   "topic": "cp-12",
+   "q": "Name one organisation that supports persecuted Christians.",
+   "a": "Open Doors (accept: Barnabas Fund / Barnabas Aid, Christian Solidarity Worldwide, Release International, Aid to the Church in Need)"
+  },
+  {
+   "topic": "cp-12",
+   "q": "Give one way Christians respond to persecution.",
+   "a": "Praying for those persecuted (accept: forgiving persecutors, giving money, campaigning to governments, writing letters to prisoners, sending Bibles)"
+  },
+  {
+   "topic": "cp-13",
+   "q": "Give the full name of CAFOD.",
+   "a": "Catholic Agency for Overseas Development"
+  },
+  {
+   "topic": "cp-13",
+   "q": "Give one way a Christian charity helps people in poverty.",
+   "a": "Emergency aid after disasters (accept: clean water, healthcare, education, farming training, campaigning for fair trade or debt relief)"
+  },
+  {
+   "topic": "cp-13",
+   "q": "Give one cause of world poverty.",
+   "a": "War (accept: debt, unfair trade, natural disasters, climate change, disease, corruption, lack of education)"
   }
  ],
  "exam": [
@@ -2266,7 +3797,7 @@
    "topic": "cp-01",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Private worship is more important than public worship for Christians.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Private worship is more important than public worship for Christians.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "Jesus taught Christians to pray privately: 'go into your room, close the door and pray' (Matthew 6:6).",
     "Private worship can be done anywhere at any time and builds a personal relationship with God.",
@@ -2284,7 +3815,7 @@
    "topic": "cp-03",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Infant baptism is better than believers' baptism.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Infant baptism is better than believers' baptism.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "Catholics believe it removes original sin, so babies should be baptised as soon as possible.",
     "It welcomes the child into the Church and God's family, and parents and godparents promise to raise the child in the faith.",
@@ -2302,7 +3833,7 @@
    "topic": "cp-04",
    "marks": 12,
    "type": "evaluate",
-   "q": "'Holy Communion is the most important sacrament for Christians.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'Holy Communion is the most important sacrament for Christians.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "It was started by Jesus at the Last Supper ('Do this in remembrance of me', Luke 22:19) and is repeated regularly.",
     "Catholics believe Jesus is really present and Christians receive grace and strengthen their faith.",
@@ -2320,7 +3851,7 @@
    "topic": "cp-09",
    "marks": 12,
    "type": "evaluate",
-   "q": "'The most important task for the Church today is to spread the gospel.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'The most important task for the Church today is to spread the gospel.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "Jesus gave the Great Commission: 'go and make disciples of all nations' (Matthew 28:19).",
     "Spreading the gospel helps people find salvation and eternal life (John 14:6).",
@@ -2332,13 +3863,13 @@
     "Many churches see worship, reconciliation and justice as equally central."
    ],
    "conclusion": "Spreading the gospel is central but should go hand in hand with practical love; the Church's task is both words and actions.",
-   "model": "Many Christians agree with this statement. Jesus gave the Great Commission, telling his followers to 'go and make disciples of all nations' (Matthew 28:19). At Pentecost the Holy Spirit gave the disciples courage to spread the message (Acts 1:8). Christians believe Jesus is the way to salvation (John 14:6), so sharing the gospel could help others reach eternal life. This is a strong argument because it follows Jesus' direct command, and without it the Church would not grow. Evangelical and Pentecostal Christians especially see it as the main task.\n\nOther Christians argue that practical action is equally or more important. In Matthew 25:35-40 Jesus says that helping the hungry and sick is serving him, and James says faith without action is dead. Many churches run food banks, Street Pastors and charities such as CAFOD, showing God's love in action. Some argue that people are more likely to listen to Christians who help them, and that pressuring people to convert can put them off. This argument is convincing because it fits Jesus' own example of healing and feeding people alongside teaching. Also, churches have other tasks, such as worship and reconciliation.\n\nJesus himself both preached and healed, which suggests that the Church's mission includes words and deeds together.\n\nIn conclusion, I believe spreading the gospel is vital, but it is not the only task. The strongest view is that words and actions go together: Christians show God's love practically and share the message when people are open to it. So the statement is partly right but too narrow."
+   "model": "Many Christians agree with this statement. Jesus gave the Great Commission, telling his followers to 'go and make disciples of all nations' (Matthew 28:19). Jesus promised that the Holy Spirit would give them power to be his witnesses (Acts 1:8), and at Pentecost the Spirit gave the disciples courage to spread the message. Christians believe Jesus is the way to salvation (John 14:6), so sharing the gospel could help others reach eternal life. This is a strong argument because it follows Jesus' direct command, and without it the Church would not grow. Evangelical and Pentecostal Christians especially see it as the main task.\n\nOther Christians argue that practical action is equally or more important. In Matthew 25:35-40 Jesus says that helping the hungry and sick is serving him, and James says faith without action is dead. Many churches run food banks, Street Pastors and charities such as CAFOD, showing God's love in action. Some argue that people are more likely to listen to Christians who help them, and that pressuring people to convert can put them off. This argument is convincing because it fits Jesus' own example of healing and feeding people alongside teaching. Also, churches have other tasks, such as worship and reconciliation.\n\nJesus himself both preached and healed, which suggests that the Church's mission includes words and deeds together.\n\nIn conclusion, I believe spreading the gospel is vital, but it is not the only task. The strongest view is that words and actions go together: Christians show God's love practically and share the message when people are open to it. So the statement is partly right but too narrow."
   },
   {
    "topic": "cp-13",
    "marks": 12,
    "type": "evaluate",
-   "q": "'The Church should do more to end world poverty.' Evaluate this statement. In your answer you should: refer to Christian teachings; give developed arguments to support this statement; give developed arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "q": "'The Church should do more to end world poverty.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
    "for": [
     "Jesus taught that helping the poor is serving him (Matthew 25:35-40) and told a rich man to give to the poor (Mark 10:21).",
     "Poverty still affects millions, and the Church is a worldwide body with money, volunteers and influence.",
@@ -2351,6 +3882,367 @@
    ],
    "conclusion": "Christians have a duty to help the poor, and while they already do much, the scale of poverty means they should do more, especially in campaigning for justice.",
    "model": "Many Christians agree that the Church should do more. Jesus taught that helping the hungry and thirsty is serving him (Matthew 25:35-40) and told a rich man to sell his possessions and give to the poor (Mark 10:21). Millions still live in poverty because of debt, conflict, unfair trade and disasters. The worldwide Church has many members, money and influence, so it could do more through campaigning and giving. James 2:17 says faith without action is dead. This is a strong argument because it follows Jesus' teaching and the Church has the resources, but it is difficult to judge how much more is 'enough'.\n\nOthers argue that the Church already does much. Charities such as CAFOD, Christian Aid and Tearfund provide emergency aid, long-term projects and campaigns, and local churches run food banks. Governments and international organisations have far more money and power to end poverty, so the Church's main focus should be worship and spreading the gospel. Some Christians worry that heavy political campaigning distracts from the spiritual mission. This argument is convincing because the Church's resources are limited and it has already helped millions.\n\nJesus also warned in the parable of the rich man and Lazarus (Luke 16) that ignoring the poor has serious consequences, so Christians cannot be satisfied with what has already been done.\n\nIn conclusion, I think the Church should do more, especially in campaigning for justice on things like debt and fair trade, because charity alone treats the symptoms of poverty. However, the Church already does a great deal and cannot end poverty alone. Therefore, the statement is largely right, because Christians have a duty to keep acting while poverty remains."
+  },
+  {
+   "topic": "cp-01",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why worship is important for Christians. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that worship is the way Christians praise and thank God for who he is and what he has done. They believe God created them and saved them through Jesus, so it is right to respond with praise. Psalm 95:6 says 'Oh come, let's worship and bow down. Let's kneel before Yahweh, our Maker.' This means many Christians kneel, sing hymns and pray in church each Sunday as a way of honouring God. A second reason is that worshipping together builds up the Christian community and strengthens faith. The first Christians met for 'the apostles' teaching and fellowship, the breaking of bread, and prayer' (Acts 2:42). This means Christians today meet regularly to encourage each other, hear the Bible explained and share Holy Communion, so that their faith stays strong when life is difficult.",
+   "points": [
+    "To praise and thank God as creator and saviour (Psalm 95:6)",
+    "To build community and strengthen faith (Acts 2:42, Hebrews 10:25)",
+    "To hear and learn from the Bible (2 Timothy 3:16)",
+    "To meet God, who is present when believers gather (Matthew 18:20)",
+    "Private worship builds a personal relationship (Matthew 6:6)",
+    "Application: e.g. 'so Christians attend church each Sunday'"
+   ]
+  },
+  {
+   "topic": "cp-02",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why the Lord's Prayer is important for Christians. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that it was taught by Jesus himself. When the disciples asked how to pray, Jesus said 'Pray like this' and gave them the words in Matthew 6:9-13. This means Christians see it as the perfect model for prayer, so it is said in almost every type of service, from the Catholic Mass to Baptist worship, and many Christians say it every day. A second reason is that it teaches Christians how to live, not just how to pray. The line 'Forgive us our sins as we forgive those who sin against us' (based on Matthew 6:12) reminds them that they cannot ask for God's forgiveness while refusing to forgive others. This means that saying the prayer challenges Christians to let go of grudges and to put relationships right.",
+   "points": [
+    "Taught by Jesus as a model (Matthew 6:9-13; Luke 11:2-4)",
+    "Unites Christians of all denominations, who all use it",
+    "Teaches forgiveness (Matthew 6:12)",
+    "Teaches dependence on God for daily needs ('daily bread')",
+    "Teaches putting God's will and kingdom first",
+    "Application: used daily and in most services"
+   ]
+  },
+  {
+   "topic": "cp-02",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Set prayers are more useful for Christians than informal prayer.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some Christians would agree with this statement. The most important Christian prayer, the Lord's Prayer, is a set prayer given by Jesus himself, who said 'Pray like this' (Matthew 6:9). Set prayers unite Christians: Catholics, Anglicans and Methodists around the world say the same words, so they feel part of one worldwide Church. They also help when people do not know what to say, for example when someone is grieving or anxious, and they make sure that prayer includes praise, confession and prayer for others, not just requests. Catholics value prayers such as the Hail Mary and the rosary because they help the mind focus on God. This is a strong argument, because Jesus' own example gives set prayer the highest authority.\n\nHowever, many Christians, especially Evangelicals and Pentecostals, would disagree. They argue that informal prayer, in a person's own words, is more personal and honest, like talking to a friend. Jesus warned against 'vain repetitions' (Matthew 6:7), suggesting that words repeated without thought are worthless. Informal prayer can respond to the exact situation, such as praying for a sick friend by name, and Paul's instruction to 'pray without ceasing' (1 Thessalonians 5:17) suggests prayer should be a natural part of the whole day rather than only fixed words. This argument is also strong, because a relationship with God depends on sincerity.\n\nYet even informal prayer can become careless, and set prayers can be said with deep feeling. The value of prayer seems to depend more on the attitude of the person than on the type of words.\n\nIn conclusion, I disagree with the statement. Set prayers are very useful for unity, structure and times of difficulty, but informal prayer allows a personal relationship that set words alone cannot give. Most Christians use both, for example the Lord's Prayer followed by their own prayers, and this balance seems the most useful.",
+   "for": [
+    "Jesus gave a set prayer (Matthew 6:9-13), so it has the highest authority.",
+    "Set prayers unite Christians worldwide and link them to tradition.",
+    "They help when people cannot find words and give a balanced pattern (praise, confession, intercession)."
+   ],
+   "against": [
+    "Informal prayer is personal and sincere, like talking to a friend.",
+    "Jesus warned against 'vain repetitions' (Matthew 6:7).",
+    "It can respond to specific needs and fit into the whole day (1 Thessalonians 5:17).",
+    "The attitude of the person matters more than the type of words."
+   ],
+   "conclusion": "Both are useful in different ways; sincerity matters most, so a balance of set and informal prayer is best, and set prayer is not more useful overall."
+  },
+  {
+   "topic": "cp-03",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why baptism is important for Christians. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that Jesus commanded it. Before his ascension he told the disciples to make disciples of all nations, 'baptizing them in the name of the Father and of the Son and of the Holy Spirit' (Matthew 28:19). This means Christians see baptism as an act of obedience, so almost all churches baptise new members, whether as babies or as believers. A second reason is that baptism marks the start of a new life with Christ. Paul says that in baptism Christians are 'buried with him' so that they can 'walk in newness of life' (Romans 6:4). This means that, especially in believers' baptism by full immersion, going under the water shows dying to an old, sinful life and coming up shows rising to a new life as a follower of Jesus.",
+   "points": [
+    "Jesus commanded it (Matthew 28:19) and was baptised himself (Mark 1:9-11)",
+    "Cleansing from sin, including original sin for Catholics (Acts 2:38)",
+    "New life with Christ: dying and rising (Romans 6:4)",
+    "Joining the Church, the family of God",
+    "Receiving the Holy Spirit and God's grace (John 3:5)",
+    "Application: infant or believers' baptism, testimony, godparents"
+   ]
+  },
+  {
+   "topic": "cp-04",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why Holy Communion is important for Christians. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that Jesus commanded his followers to celebrate it. At the Last Supper he took bread and said 'This is my body which is given for you. Do this in memory of me' (Luke 22:19). This means Christians believe they are obeying Jesus when they share bread and wine, so for Catholics the Mass is the centre of Sunday worship and other churches hold Communion regularly. A second reason is that it unites Christians with each other and with Christ. Paul wrote that because there is one loaf, 'we, who are many, are one body' (1 Corinthians 10:17). This means that sharing Communion brings a congregation together as a family, and Catholics and Orthodox believe they truly receive Christ himself, which gives them grace and strength to serve others in the week ahead.",
+   "points": [
+    "Jesus commanded it at the Last Supper (Luke 22:19; 1 Corinthians 11:24)",
+    "Remembers and proclaims Jesus' death (1 Corinthians 11:26)",
+    "Unites believers as one body (1 Corinthians 10:17)",
+    "Christ is really present: Catholic transubstantiation (John 6:53)",
+    "Gives grace and strength; encourages service and justice",
+    "Application: weekly Mass, monthly Communion, open table"
+   ]
+  },
+  {
+   "topic": "cp-05",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two contrasting reasons why Christians might go on pilgrimage. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One reason is to seek healing. Many Catholics travel to Lourdes, where Bernadette saw visions of Mary in 1858, hoping for a cure or for strength to cope with illness. They bathe in the spring water and pray at the Grotto, trusting Jesus' invitation 'Come to me, all you who labor and are heavily burdened, and I will give you rest' (Matthew 11:28). This means sick pilgrims and their carers go expecting God to bring physical or spiritual healing. A contrasting reason is to find peace and quiet in order to reflect. Pilgrims to the island of Iona join simple daily worship in the abbey and spend time walking and thinking about their lives. Psalm 46:10 says 'Be still, and know that I am God'. This means they step away from the noise of everyday life so they can listen to God and return home with a clearer sense of how to live.",
+   "points": [
+    "Healing (Lourdes): Matthew 11:28",
+    "Quiet reflection and peace (Iona): Psalm 46:10",
+    "Forgiveness and making a fresh start",
+    "Strengthening faith by visiting places linked to Jesus or saints (Holy Land; Luke 2:41)",
+    "Meeting other Christians and helping the sick",
+    "Catechism 2691: pilgrimage as renewal in prayer and a picture of the journey to heaven"
+   ]
+  },
+  {
+   "topic": "cp-05",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Pilgrimage is not necessary for Christians today.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Many Christians would agree with this statement. Christianity does not require pilgrimage, unlike Hajj in Islam. Christians believe God is everywhere, and Jesus said that God is worshipped 'in spirit and truth' (John 4:24), not only in special places. Quakers and many Protestants say no place is holier than another, so a person can be as close to God in their bedroom as at Lourdes. Pilgrimages can also be expensive and difficult for poorer or sick people, and the money might be better given to the poor, as Jesus told the rich man to do (Mark 10:21). This argument is strong because it fits the Christian belief that salvation comes from faith in Jesus, not from visiting places.\n\nHowever, other Christians argue that, while pilgrimage is not compulsory, it can be extremely valuable. The Catechism of the Catholic Church describes pilgrimages as 'special occasions for renewal in prayer' and a picture of life's journey towards heaven. Jesus' family went to Jerusalem every year at Passover (Luke 2:41), so pilgrimage has deep roots. Many sick pilgrims at Lourdes describe spiritual healing and new hope, even when they are not physically cured, and volunteers who care for them grow in compassion. On Iona, people find peace and time to reflect away from busy modern life, which may be harder to find at home today than in the past. This argument is strong because it is based on the real experience of millions of Christians.\n\nThe word 'necessary' is important. Pilgrimage is not necessary for salvation, but something can be unnecessary and still very helpful.\n\nIn conclusion, I agree with the statement in a strict sense: Christians do not need pilgrimage to be saved or to know God. However, I think it would be wrong to dismiss it, because for many people it deepens faith in a way that everyday life cannot, especially in today's busy world.",
+   "for": [
+    "Christianity does not require pilgrimage; God is everywhere (John 4:24).",
+    "Quakers and many Protestants say no place is holier than another.",
+    "It can be expensive; the money could help the poor (Mark 10:21).",
+    "Salvation is through faith in Jesus, not visiting places."
+   ],
+   "against": [
+    "Catechism 2691: pilgrimage renews prayer and pictures the journey to heaven.",
+    "Jesus' family made pilgrimage (Luke 2:41).",
+    "Lourdes offers healing and hope; Iona offers peace and reflection in a busy world.",
+    "Pilgrims and volunteers grow in faith and compassion."
+   ],
+   "conclusion": "Pilgrimage is not necessary for salvation, but it is valuable and can deepen faith, so 'not necessary' should not mean 'not important'."
+  },
+  {
+   "topic": "cp-06",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why Christmas is important for Christians in Great Britain today. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that Christmas celebrates the incarnation, when God became human in Jesus. John's Gospel says 'The Word became flesh, and lived among us' (John 1:14). This means that Christians in Britain go to Midnight Mass or carol services to thank God for coming to share human life, and they use lights and candles because Jesus is the light of the world. A second reason is that Christmas is a chance to show God's love to others and to share their faith in a society where many people celebrate without the religious meaning. The angels announced 'good news of great joy which will be to all the people' (Luke 2:10). This means many British churches run Christmas lunches for lonely or homeless people, support charity appeals and invite the wider community to nativity and Christingle services, which may be the only time some people visit a church.",
+   "points": [
+    "Celebrates the incarnation (John 1:14; Luke 2:11)",
+    "Good news for all, so outreach and mission at carol services (Luke 2:10)",
+    "Giving gifts and charity, like the wise men (Matthew 2:11)",
+    "Jesus as light of the world: candles, Christingle (John 8:12)",
+    "In Britain: public holiday, many attend church only at Christmas, concern about commercialisation",
+    "Application: Midnight Mass, homeless meals, charity appeals"
+   ]
+  },
+  {
+   "topic": "cp-06",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Christmas has lost its religious meaning in Great Britain today.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "There are strong reasons to agree with this statement. In the 2021 census fewer than half of people in England and Wales described themselves as Christian, yet almost everyone celebrates Christmas. For many families it is mainly about presents, food, decorations and time off work. Shops begin selling Christmas goods weeks before Advent, and Father Christmas is more visible than the baby Jesus in adverts and on television. Many Christians worry that the festival has become commercial, with people spending money they cannot afford, which goes against Jesus' warnings about wealth. This argument is strong because it describes what many people actually experience.\n\nHowever, there are also good reasons to disagree. For Christians, Christmas still celebrates the incarnation, the belief that 'the Word became flesh, and lived among us' (John 1:14). Churches are often fuller at Christmas than at any other time, with carol services, Midnight Mass, nativity plays and Christingle services drawing people who rarely attend. Many traditions that look secular still carry Christian meanings: gifts recall the wise men (Matthew 2:11) and lights recall Jesus as the light of the world. Christmas is a public holiday because of Britain's Christian heritage, and the King's Christmas broadcast often speaks about the Christian story. Churches also use the season to help others, for example by providing meals for homeless people, which reflects Jesus' teaching to care for the poor. This argument is strong because it shows that the religious meaning is still clearly present for millions.\n\nPerhaps the truth is that Christmas has two meanings in Britain today, a cultural one and a religious one, existing side by side.\n\nIn conclusion, I disagree with the statement. The religious meaning has been weakened for many people and is often hidden by commercialism, but it has not been lost. For Christians, and for many others who attend a service or support charity at Christmas, the celebration of Jesus' birth remains at its heart.",
+   "for": [
+    "Fewer than half in England and Wales called themselves Christian in 2021, yet nearly all celebrate Christmas.",
+    "Commercialism: shopping, Father Christmas and adverts dominate.",
+    "Spending and excess go against Jesus' teaching about wealth."
+   ],
+   "against": [
+    "Christians still celebrate the incarnation (John 1:14); churches are fullest at Christmas.",
+    "Traditions carry religious meaning: gifts (Matthew 2:11), lights (John 8:12).",
+    "Public holiday and King's broadcast reflect Christian heritage.",
+    "Churches use Christmas for charity and outreach."
+   ],
+   "conclusion": "The religious meaning is weakened for many but not lost: cultural and religious Christmas exist side by side."
+  },
+  {
+   "topic": "cp-07",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which the Church helps people in the local community. (4 marks)",
+   "model": "One way is by running food banks. Many churches host Trussell food banks, where volunteers give emergency food parcels to people referred by doctors or social workers, often with a hot drink and someone to listen. A different way is by supporting young people. Churches run youth clubs and toddler groups in their halls, giving children a safe place to meet, play and learn, and giving parents support and friendship.",
+   "points": [
+    "Food banks: emergency food parcels, volunteers, Trussell Trust",
+    "Street Pastors: caring for people in town centres at night",
+    "Youth clubs and toddler groups",
+    "Lunch clubs and coffee mornings for lonely or elderly people",
+    "Debt advice, night shelters, warm spaces",
+    "Services for local events and a quiet place to pray"
+   ]
+  },
+  {
+   "topic": "cp-07",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Helping people in the local community is more important for the Church than worship.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some Christians would agree with this statement. Jesus taught that people will be judged on how they treated the hungry, the stranger and the sick: 'I was hungry, and you gave me food to eat' (Matthew 25:35). James says faith without works is dead (James 2:17), and 1 John 3:17 asks how God's love can be in someone who ignores a person in need. In Britain today millions of food parcels are given out each year, many through church food banks, and Street Pastors care for vulnerable people at night. This practical love shows the community what Christianity means far more clearly than services that only churchgoers attend. This is a strong argument because it is grounded directly in Jesus' teaching about judgement.\n\nOther Christians disagree. They argue that worship comes first because the greatest commandment is to love God, and only then to love your neighbour (Mark 12:29-31). Worship, especially Holy Communion, is where Christians receive the strength and grace to serve; without it, community work could become just another charity. Jesus himself went away to pray before serving others (Mark 1:35). The first Christians devoted themselves to teaching, fellowship, breaking bread and prayer (Acts 2:42), and their care for each other grew out of that worship. This argument is strong because it explains where the motivation for service comes from.\n\nMany Christians say the two cannot be separated. Worship that ignores the poor is empty (the prophet Amos condemned this), but service without prayer loses its Christian heart. Many churches link them directly, for example by collecting food during services for the local food bank.\n\nIn conclusion, I disagree that helping the community is more important. Both are essential, but worship is the root and service is the fruit. A church that only served would lose its source of strength, while a church that only worshipped would fail to follow Jesus.",
+   "for": [
+    "Sheep and goats (Matthew 25:35-40): judged on care for the needy.",
+    "Faith without works is dead (James 2:17); 1 John 3:17.",
+    "Food banks and Street Pastors show Christian love to the whole community."
+   ],
+   "against": [
+    "The first commandment is to love God (Mark 12:29-31); worship comes first.",
+    "Worship and Communion give the strength and grace to serve.",
+    "Jesus prayed before serving (Mark 1:35); the early Church's care grew from worship (Acts 2:42).",
+    "The two belong together: service is the fruit of worship."
+   ],
+   "conclusion": "Both are essential and linked; worship is the root and service the fruit, so community work is not more important."
+  },
+  {
+   "topic": "cp-08",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which Street Pastors help people. (4 marks)",
+   "model": "One way is by giving practical help to people who are vulnerable at night. Street Pastors hand out water, flip-flops and foil blankets, and make sure people who are very drunk or alone get home safely, which can prevent injuries and crime. A different way is by offering a listening ear. They stop and talk with anyone who wants to chat, including people who are upset or lonely, and they will pray with someone if asked, showing that someone cares about them without judging.",
+   "points": [
+    "Practical help: water, flip-flops, blankets",
+    "Safety: helping vulnerable people get home, reducing violence",
+    "Listening and emotional support",
+    "Praying with people if asked",
+    "Working with police, councils and door staff to calm situations",
+    "Picking up glass bottles to prevent injuries"
+   ]
+  },
+  {
+   "topic": "cp-08",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Street Pastors are the best example of Christians helping their local community.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some people would agree with this statement. Street Pastors go out to where people are, late at night in town centres, rather than waiting for them to come to church. They care for people who are drunk, lost or in danger, often people who would never go near a church, which matches the parable of the Good Samaritan, where help is given to a stranger lying by the road (Luke 10:25-37). They work closely with police and councils, who often welcome their presence. They also help without judging, following Jesus' words 'Don't judge, so that you won't be judged' (Matthew 7:1). This argument is strong because Street Pastors show Christian love in a very visible and costly way, giving up their weekend nights.\n\nHowever, there are good arguments for other examples. Food banks probably help far more people: Trussell food banks alone gave out around 2.6 million emergency parcels in 2025. Hunger is a basic need, and Jesus said 'I was hungry, and you gave me food' (Matthew 25:35). Food bank volunteers also offer advice that helps people out of crisis. Other churches run lunch clubs for lonely elderly people or youth clubs that support young people every week, building long-term relationships rather than brief contact on a single night. These may change lives more deeply. It could also be argued that worship and prayer are the Church's most important gift to a community.\n\nWhich is 'best' depends on what is being measured: numbers helped, depth of support, or reaching people no one else reaches.\n\nIn conclusion, I disagree that Street Pastors are clearly the best example. They are an outstanding way of reaching people who are vulnerable and far from church, but food banks meet a more basic need for many more people. The strongest Christian response is a range of projects, all expressing 'love your neighbour as yourself' (Mark 12:31).",
+   "for": [
+    "They go to where people are and reach those far from church.",
+    "They follow the Good Samaritan (Luke 10) and do not judge (Matthew 7:1).",
+    "Visible, costly service that helps keep people safe."
+   ],
+   "against": [
+    "Food banks help far more people with a basic need (Matthew 25:35); about 2.6 million Trussell parcels in 2025.",
+    "Weekly youth clubs and lunch clubs build long-term relationships.",
+    "Some say worship and prayer are the Church's greatest gift."
+   ],
+   "conclusion": "Street Pastors are an excellent example but not clearly the best; food banks meet a more basic need for more people, and a range of projects best expresses love of neighbour."
+  },
+  {
+   "topic": "cp-09",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which Christians carry out evangelism. (4 marks)",
+   "model": "One way is through courses such as Alpha. Churches invite people to a meal, a short talk about Jesus and an open discussion where any question can be asked, so people can explore Christianity in a relaxed setting. A different way is through personal witness. Individual Christians share their own story of faith with friends and colleagues, or simply live in a loving way that makes others curious, following 1 Peter 3:15 to be ready to explain their hope.",
+   "points": [
+    "Alpha and similar courses",
+    "Personal witness and testimony",
+    "Preaching, street evangelism and outreach events",
+    "Missionaries working abroad",
+    "Social media, TV, radio and online services",
+    "Living by example and serving others"
+   ]
+  },
+  {
+   "topic": "cp-10",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different methods Christians use to bring about Church growth. (4 marks)",
+   "model": "One method is starting new forms of church that reach people who would not go to a traditional service. For example, Messy Church invites families to crafts, a short Bible story and a meal, and café churches meet in relaxed settings, so people can explore faith without feeling out of place. A different method is using the media. Churches stream services online, post short videos on social media and run podcasts, which can reach young people and those who are housebound far beyond the church building.",
+   "points": [
+    "Fresh Expressions such as Messy Church and café church",
+    "Church planting: starting new congregations",
+    "Courses such as Alpha",
+    "Social media, online services, TV and radio",
+    "Personal invitation and testimony",
+    "Practical service that attracts people (food banks, youth work)"
+   ]
+  },
+  {
+   "topic": "cp-10",
+   "marks": 6,
+   "type": "explain-two-source",
+   "q": "Explain two reasons why Christians work to bring about Church growth. Refer to sacred writings or another source of Christian belief and teaching in your answer. (6 marks)",
+   "model": "One reason is that Jesus commanded it. Before his ascension he told his followers to 'make disciples of all nations' (Matthew 28:19). This means Christians see helping the Church grow as obedience to Jesus, so they invite friends to church, support Alpha courses and fund missionaries. A second reason is that they believe the gospel brings salvation, so they want as many people as possible to hear it. Jesus said 'I am the way, the truth, and the life. No one comes to the Father, except through me' (John 14:6). This means Christians believe that by helping the Church grow they are offering others the chance of forgiveness and eternal life with God, which they see as the greatest gift they can share.",
+   "points": [
+    "The Great Commission (Matthew 28:19-20)",
+    "Salvation through Jesus (John 14:6)",
+    "The early Church grew through the Spirit (Acts 2:41, 2:47)",
+    "A bigger Church can do more good in the community",
+    "To keep the faith alive in places where it is declining",
+    "Growth in faith (discipleship), not only numbers"
+   ]
+  },
+  {
+   "topic": "cp-10",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Church growth is the most important task for Christians today.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Many Christians, especially Evangelicals and Pentecostals, would agree with this statement. Jesus' last command before his ascension was the Great Commission: 'Go and make disciples of all nations' (Matthew 28:19). Christians believe that Jesus is 'the way, the truth, and the life' (John 14:6), so helping people come to faith is the most loving thing they can do, because it offers them eternal life. In Britain the 2021 census showed that fewer than half of people called themselves Christian for the first time, so some argue that without growth the Church could disappear from many communities. A growing Church also has more people and money to serve the poor. This argument is strong, because if Christians believe the gospel is true, sharing it must be a high priority.\n\nHowever, other Christians argue that other tasks are as important or more important. Jesus said the greatest commandments are to love God and love your neighbour (Mark 12:29-31), not to increase numbers. The parable of the sheep and the goats says people will be judged on caring for the hungry, sick and imprisoned (Matthew 25), so work such as food banks, Street Pastors and supporting persecuted Christians may matter more. Some also warn that focusing on numbers can lead to pressuring people, which disrespects their freedom and other faiths. Paul wrote 'I planted. Apollos watered. But God gave the increase' (1 Corinthians 3:6), suggesting growth is God's work, while Christians' task is to be faithful. This argument is strong because it reflects Jesus' own priorities.\n\nThe two sides can be connected: churches that serve their communities in love often grow as a result, as in Acts 2:47, where the early Christians had 'favour with all the people'.\n\nIn conclusion, I disagree that Church growth is the single most important task. Love of God and neighbour comes first, and growth is best seen as a result of faithful worship and service rather than a goal pursued for its own sake.",
+   "for": [
+    "The Great Commission (Matthew 28:19) was Jesus' final command.",
+    "Salvation through Jesus (John 14:6): sharing faith is the most loving act.",
+    "Decline in Britain (2021 census) threatens the Church's future; a larger Church can serve more."
+   ],
+   "against": [
+    "The greatest commandments are love of God and neighbour (Mark 12:29-31).",
+    "Judgement is on care for the needy (Matthew 25).",
+    "Focusing on numbers can pressure people; growth is God's work (1 Corinthians 3:6).",
+    "Service often leads to growth anyway (Acts 2:47)."
+   ],
+   "conclusion": "Love of God and neighbour comes first; growth is a fruit of faithful worship and service rather than the most important task in itself."
+  },
+  {
+   "topic": "cp-11",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which Christians work for reconciliation. (4 marks)",
+   "model": "One way is through organised projects that bring divided communities together. The Corrymeela Community in Northern Ireland invites Catholics, Protestants and people of all backgrounds to meet, talk and build trust after years of violence. A different way is through personal forgiveness. A Christian who has been hurt by someone may choose to forgive and rebuild the friendship, and Catholics may receive the sacrament of reconciliation to restore their relationship with God.",
+   "points": [
+    "Community projects: Corrymeela, Coventry's Community of the Cross of Nails",
+    "National processes: Desmond Tutu and the Truth and Reconciliation Commission",
+    "Personal forgiveness and restoring friendships",
+    "The Catholic sacrament of reconciliation",
+    "Ecumenism: churches working for unity (World Council of Churches)",
+    "Prayer for peace, such as the Coventry Litany of Reconciliation"
+   ]
+  },
+  {
+   "topic": "cp-11",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Working for reconciliation is the most important role of the worldwide Church.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Some Christians would agree with this statement. They believe the heart of the gospel is reconciliation: 'God was in Christ reconciling the world to himself' (2 Corinthians 5:19), and Paul says God has given Christians 'the ministry of reconciliation' (2 Corinthians 5:18). Jesus said 'Blessed are the peacemakers' (Matthew 5:9) and even told people to be reconciled with others before offering worship (Matthew 5:23-24). History shows the Church doing this powerfully: Desmond Tutu helped South Africa move on from apartheid through the Truth and Reconciliation Commission, the Corrymeela Community has brought Catholics and Protestants together in Northern Ireland, and after Coventry Cathedral was bombed in 1940 its leaders chose 'Father Forgive' rather than revenge. In a world with many conflicts, this role is something few other organisations can offer. This argument is strong because it reflects what Christians believe God himself has done.\n\nHowever, other Christians would argue that other roles are equally or more important. Millions of people live in extreme poverty, and Jesus said that people will be judged on whether they fed the hungry and cared for the sick (Matthew 25:35-40), so the work of CAFOD, Christian Aid and Tearfund could be seen as more urgent. Others argue that supporting persecuted Christians, of whom Open Doors estimated more than 388 million faced high levels of persecution in 2026, is the worldwide Church's first duty to its own members (1 Corinthians 12:26). Evangelicals may say that spreading the gospel matters most, because of the Great Commission.\n\nThese roles overlap: poverty and persecution often follow from conflict, so reconciliation can help to tackle them, and sharing the gospel is itself a message of reconciliation with God.\n\nIn conclusion, I think reconciliation is one of the most important roles, because it lies at the centre of Christian belief about what Jesus did. However, calling it 'the most important' is too strong, since Jesus also commanded care for the poor and the spreading of the gospel, and the worldwide Church needs to do all three.",
+   "for": [
+    "Reconciliation is at the heart of the gospel (2 Corinthians 5:18-19).",
+    "Jesus blessed peacemakers (Matthew 5:9) and put reconciliation before worship (Matthew 5:23-24).",
+    "Powerful examples: Tutu, Corrymeela, Coventry's 'Father Forgive'."
+   ],
+   "against": [
+    "Fighting poverty is urgent: Matthew 25:35-40; CAFOD, Christian Aid, Tearfund.",
+    "Supporting persecuted believers (Open Doors 2026: over 388 million; 1 Corinthians 12:26).",
+    "Evangelicals may see the Great Commission as the first task.",
+    "The roles overlap, so ranking them is difficult."
+   ],
+   "conclusion": "Reconciliation is central to Christian belief, but the worldwide Church is also called to fight poverty and share the gospel, so it is one of the most important roles rather than the single most important."
+  },
+  {
+   "topic": "cp-12",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which Christians respond to persecution. (4 marks)",
+   "model": "One way is by giving practical help. Christians in Britain give money to charities such as Open Doors, which provides Bibles, training and emergency aid to believers in countries where they are persecuted. A different way is through forgiveness and prayer. Following Jesus' command to 'pray for those who mistreat you and persecute you', many persecuted Christians refuse to take revenge and pray for their attackers, and churches worldwide hold prayer events for them.",
+   "points": [
+    "Practical aid through Open Doors, Barnabas Aid, Release International",
+    "Campaigning and lobbying governments (CSW)",
+    "Prayer for persecuted Christians",
+    "Forgiving persecutors and refusing violence (Matthew 5:44)",
+    "Writing letters to prisoners (Hebrews 13:3)",
+    "Standing firm in faith despite danger"
+   ]
+  },
+  {
+   "topic": "cp-12",
+   "marks": 12,
+   "type": "evaluate",
+   "q": "'Christians should always forgive those who persecute them.' Evaluate this statement. In your answer you should: refer to Christian teaching; give reasoned arguments to support this statement; give reasoned arguments to support a different point of view; reach a justified conclusion. (12 marks)",
+   "model": "Many Christians would agree with this statement. Jesus taught 'love your enemies... and pray for those who mistreat you and persecute you' (Matthew 5:44), and he practised this himself on the cross, praying 'Father, forgive them, for they don't know what they are doing' (Luke 23:34). Stephen, the first Christian martyr, prayed for those stoning him (Acts 7:60). In the Lord's Prayer Christians ask God to forgive them as they forgive others, which suggests that refusing to forgive blocks their own relationship with God. There are modern examples of persecuted Christians forgiving their attackers publicly, which has made a powerful impression on others. This argument is strong because it comes directly from Jesus' words and example.\n\nHowever, some Christians argue that 'always' is too strong. Forgiveness does not mean ignoring injustice. God is just, and the Bible calls believers to 'seek justice' and 'relieve the oppressed' (Isaiah 1:17). Organisations like Christian Solidarity Worldwide campaign for persecutors to be held to account and for laws to change. Some victims may need time to forgive, and forcing them to forgive quickly could add to their pain. Others argue that forgiveness depends on the wrongdoer being sorry, and that a persecutor who continues to harm people should first stop. This argument has weight because forgiveness without justice could seem to accept evil.\n\nMany Christians would say that forgiveness and justice can go together: a person can forgive in their heart, refusing hatred and revenge, while still wanting the persecution to end and the guilty to face the truth. Desmond Tutu's Truth and Reconciliation Commission tried to combine truth-telling with forgiveness.\n\nIn conclusion, I agree that Christians should aim to forgive persecutors, because Jesus' teaching and example are very clear. However, forgiveness does not mean staying silent, and it can be a long process, so 'always' should mean always aiming to forgive, while still working for justice.",
+   "for": [
+    "Jesus commanded love and prayer for persecutors (Matthew 5:44).",
+    "Jesus forgave from the cross (Luke 23:34); Stephen did too (Acts 7:60).",
+    "The Lord's Prayer links being forgiven with forgiving others."
+   ],
+   "against": [
+    "God is just; Christians must 'seek justice' (Isaiah 1:17); CSW campaigns for accountability.",
+    "Victims may need time; forced forgiveness can add to pain.",
+    "Some say forgiveness needs repentance first.",
+    "Forgiveness and justice can go together (Truth and Reconciliation Commission)."
+   ],
+   "conclusion": "Christians should always aim to forgive, as Jesus did, but forgiveness is a process and does not mean giving up on justice."
+  },
+  {
+   "topic": "cp-13",
+   "marks": 4,
+   "type": "different",
+   "q": "Explain two different ways in which CAFOD, Christian Aid or Tearfund helps people in poverty. (4 marks)",
+   "model": "One way is emergency aid. When an earthquake, flood or war strikes, Christian Aid works with local partners to provide food, clean water, shelter and medical care straight away, saving lives in the first days of a crisis. A different way is long-term development. Christian Aid supports projects such as training farmers to grow crops that can survive drought, so families can earn a living and feed themselves for years to come instead of relying on aid.",
+   "points": [
+    "Emergency aid: food, water, shelter, medicine after disasters",
+    "Long-term development: wells, farming, education, healthcare",
+    "Campaigning: fair trade, debt, tax justice, climate change",
+    "Working through local partners and churches (Tearfund)",
+    "Fundraising and education in UK churches and schools (Christian Aid Week, Family Fast Day)"
+   ]
   }
  ]
 }

@@ -19,6 +19,7 @@ re/                   GCSE Religious Studies (AQA 8062), first subject
   glossary.json       AQA key terms
   guide.js            exam guide and quote map (HTML strings)
   tools/glossary.py   script used to turn AQA's vocabulary documents into glossary.json
+  tools/check_section.py  checks one section file (counts, schema, stable ids, style)
   dist/index.html     the compiled single-file app (committed for convenience)
   NOTES.md            sources, corrections to school material, items to verify
 fr/                   GCSE French (AQA 8652), Year 10 units 1 and 2 plus grammar
@@ -67,6 +68,10 @@ Optional `subject.json` settings (see `fr/subject.json`):
 - `termCards`: turn every topic `terms` entry into a flashcard (definition on the front, term on the back).
 - `vocabQuiz` (and optional `vocabQuizLabel`): adds a vocabulary quiz built from the topics' `terms` (definition shown, pick the term), with wrong options taken from the same topic and never sharing a meaning with the answer. Available from the Quiz tab, the home page, and each section and topic page.
 - `glossaryFromTerms`: build the glossary from the topics' `terms` when there is no `glossary.json`.
+- `viewsQuiz`: adds a "Who believes this?" quiz generated from each topic's `views` (the view text is shown, pick its label from the other labels in the same topic). Write view texts that do not name their own group.
+- `specLabel`: heading for the specification checklist built from each section's `spec` list.
+- `mock`: enables timed mock papers. `minutes` (full paper), `format` (the parts of each section's question, for example `[{"kind":"mcq","marks":1},{"kind":"short","marks":1},{"kind":"exam","marks":4},...]`), and optional `note`, `spag` and `levels` text shown on the setup and marking screens. A full paper uses every section with the same `paper` number; a single section takes a quarter of the time.
+- `links`: list of `{label, url, note}` shown as "Official resources" on the More page.
 - `speak`: a language code such as `fr-FR`. Adds listen buttons using the device's speech synthesis to terms, phrases, flashcards (`say` field) and model answers (`say: true` on a view or exam item). Exam items with `listen: true` get a Listen button on the question, for dictation and reading aloud.
 
 ## Section schema
@@ -85,9 +90,16 @@ Optional `subject.json` settings (see `fr/subject.json`):
   "flashcards": [{"topic": "xx-01", "q": "...", "a": "..."}],
   "quiz": [{"topic": "xx-01", "q": "...", "options": ["A", "B", "C", "D"], "answer": 0, "why": "..."}],
   "exam": [{"topic": "xx-01", "marks": 4, "type": "influence", "q": "...", "model": "...", "points": ["..."],
-            "for": ["..."], "against": ["..."], "conclusion": "..."}]
+            "for": ["..."], "against": ["..."], "conclusion": "..."}],
+  "truefalse": [{"topic": "xx-01", "s": "statement", "answer": true, "why": "..."}],
+  "short": [{"topic": "xx-01", "q": "Give one ...", "a": "short answer"}],
+  "spec": [{"point": "one specification content point", "topics": ["xx-01"]}]
 }
 ```
+
+Topics may also have `"pitfalls": ["common mistake"]`, shown under the exam tip. `truefalse`, `short` and `spec` are optional. Short answers are also added to the flashcards.
+
+Flashcards, quiz, exam, true or false and short items are identified by their position in their array (progress is saved against these ids), so add new items at the end and never reorder or delete existing ones. `re/tools/check_section.py <section-id>` checks this against the last commit, plus the per-topic minimum counts used for RE.
 
 `for`, `against` and `conclusion` are used by `evaluate` items (12-mark questions), which may omit `points`.
 

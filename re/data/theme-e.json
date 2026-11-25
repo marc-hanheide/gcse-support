@@ -1773,7 +1773,7 @@
   },
   {
    "topic": "te-04",
-   "q": "Which aim of punishment means taking revenge?",
+   "q": "Which aim of punishment means making the offender pay back for the wrong they have done?",
    "options": [
     "Reformation",
     "Deterrence",
@@ -1781,7 +1781,7 @@
     "Protection"
    ],
    "answer": 2,
-   "why": "Retribution means punishment as payback."
+   "why": "Retribution means deserved punishment as payback for the crime. Examiners prefer \"deserved payback\" to \"revenge\"."
   },
   {
    "topic": "te-04",
